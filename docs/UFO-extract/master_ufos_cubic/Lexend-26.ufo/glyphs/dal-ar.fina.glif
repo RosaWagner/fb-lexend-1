@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dal-ar.fina" format="2">
+  <advance width="1078"/>
+  <unicode hex="FEAA"/>
+  <anchor x="445" y="0" name="bottom"/>
+  <anchor x="472" y="487" name="top"/>
+  <outline>
+    <contour>
+      <point x="135" y="0" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="672" y="0"/>
+      <point x="729" y="14"/>
+      <point x="748" y="56" type="curve"/>
+      <point x="712" y="138" type="line"/>
+      <point x="697" y="115"/>
+      <point x="672" y="102"/>
+      <point x="608" y="102" type="curve" smooth="yes"/>
+      <point x="116" y="102" type="line"/>
+    </contour>
+    <contour>
+      <point x="394" y="388" type="line"/>
+      <point x="659" y="131" type="line" smooth="yes"/>
+      <point x="750" y="42"/>
+      <point x="811" y="0"/>
+      <point x="932" y="0" type="curve" smooth="yes"/>
+      <point x="1078" y="0" type="line"/>
+      <point x="1078" y="102" type="line"/>
+      <point x="964" y="102" type="line" smooth="yes"/>
+      <point x="867" y="102"/>
+      <point x="811" y="124"/>
+      <point x="747" y="192" type="curve" smooth="yes"/>
+      <point x="472" y="487" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dal-ar</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

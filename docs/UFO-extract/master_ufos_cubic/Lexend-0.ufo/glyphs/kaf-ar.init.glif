@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf-ar.init" format="2">
+  <advance width="470"/>
+  <unicode hex="FEDB"/>
+  <anchor x="398" y="0" name="#entry"/>
+  <anchor x="235" y="0" name="bottom"/>
+  <anchor x="65" y="498" name="top"/>
+  <outline>
+    <contour>
+      <point x="65" y="498" type="line"/>
+      <point x="65" y="382" type="line"/>
+      <point x="228" y="315"/>
+      <point x="299" y="232"/>
+      <point x="310" y="102" type="curve"/>
+      <point x="0" y="102" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="428" y="225"/>
+      <point x="342" y="377"/>
+      <point x="135" y="464" type="curve"/>
+      <point x="123" y="413" type="line"/>
+      <point x="430" y="668" type="line"/>
+      <point x="364" y="746" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=dal-ar-20</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

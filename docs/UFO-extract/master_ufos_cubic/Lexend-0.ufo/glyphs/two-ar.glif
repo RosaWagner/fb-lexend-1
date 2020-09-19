@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two-ar" format="2">
+  <advance width="463"/>
+  <unicode hex="0662"/>
+  <outline>
+    <contour>
+      <point x="184" y="0" type="line"/>
+      <point x="184" y="412" type="line" smooth="yes"/>
+      <point x="184" y="518"/>
+      <point x="220" y="559"/>
+      <point x="307" y="559" type="curve" smooth="yes"/>
+      <point x="443" y="559" type="line"/>
+      <point x="443" y="661" type="line"/>
+      <point x="307" y="661" type="line" smooth="yes"/>
+      <point x="160" y="661"/>
+      <point x="80" y="573"/>
+      <point x="80" y="412" type="curve" smooth="yes"/>
+      <point x="80" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_connection.round" format="2">
+  <outline>
+    <contour>
+      <point x="-31" y="209" type="line"/>
+      <point x="-31" y="49" type="line"/>
+      <point x="192" y="49" type="line"/>
+      <point x="192" y="209" type="line"/>
+    </contour>
+  </outline>
+</glyph>

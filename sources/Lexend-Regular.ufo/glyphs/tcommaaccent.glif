@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcommaaccent" format="2">
+  <advance width="384"/>
+  <unicode hex="021B"/>
+  <note>
+uni021B
+</note>
+  <anchor x="160" y="-289" name="bottom"/>
+  <anchor x="182" y="256" name="center"/>
+  <anchor x="183" y="646" name="top"/>
+  <anchor x="308" y="548" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="commaaccentcomb.case" xOffset="38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

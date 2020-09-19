@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="LXND" name="lexend" minimum="0" maximum="100" default="0"/>
+  </axes>
+  <sources>
+    <source filename="Lexend-0.ufo" name="Lexend 0" familyname="Lexend" stylename="0">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="lexend" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Lexend-26.ufo" name="Lexend 26" familyname="Lexend" stylename="26">
+      <location>
+        <dimension name="lexend" xvalue="100"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Lexend Deca Regular" familyname="Lexend Deca" stylename="Regular" filename="LexendDeca-Regular.ufo" stylemapfamilyname="Lexend Deca" stylemapstylename="regular">
+      <location>
+        <dimension name="lexend" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Lexend Exa Regular" familyname="Lexend Exa" stylename="Regular" filename="LexendExa-Regular.ufo" stylemapfamilyname="Lexend Exa" stylemapstylename="regular">
+      <location>
+        <dimension name="lexend" xvalue="40"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Lexend Giga Regular" familyname="Lexend Giga" stylename="Regular" filename="LexendGiga-Regular.ufo" stylemapfamilyname="Lexend Giga" stylemapstylename="regular">
+      <location>
+        <dimension name="lexend" xvalue="56"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Lexend Mega Regular" familyname="Lexend Mega" stylename="Regular" filename="LexendMega-Regular.ufo" stylemapfamilyname="Lexend Mega" stylemapstylename="regular">
+      <location>
+        <dimension name="lexend" xvalue="64"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Lexend Peta Regular" familyname="Lexend Peta" stylename="Regular" filename="LexendPeta-Regular.ufo" stylemapfamilyname="Lexend Peta" stylemapstylename="regular">
+      <location>
+        <dimension name="lexend" xvalue="72"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Lexend Tera Regular" familyname="Lexend Tera" stylename="Regular" filename="LexendTera-Regular.ufo" stylemapfamilyname="Lexend Tera" stylemapstylename="regular">
+      <location>
+        <dimension name="lexend" xvalue="80"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Lexend Zetta Regular" familyname="Lexend Zetta" stylename="Regular" filename="LexendZetta-Regular.ufo" stylemapfamilyname="Lexend Zetta" stylemapstylename="regular">
+      <location>
+        <dimension name="lexend" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>

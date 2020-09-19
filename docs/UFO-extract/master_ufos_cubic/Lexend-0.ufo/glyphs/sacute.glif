@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacute" format="2">
+  <advance width="479"/>
+  <unicode hex="015B"/>
+  <note>
+sacute
+</note>
+  <anchor x="238" y="0" name="bottom"/>
+  <anchor x="273" y="789" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="acutecomb" xOffset="148" yOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

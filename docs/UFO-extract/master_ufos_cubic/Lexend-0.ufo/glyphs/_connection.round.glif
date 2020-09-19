@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_connection.round" format="2">
+  <advance width="120"/>
+  <anchor x="0" y="0" name="#exit"/>
+  <outline>
+    <contour>
+      <point x="-31" y="149" type="curve"/>
+      <point x="-79" y="102" type="line"/>
+      <point x="-34" y="28"/>
+      <point x="43" y="0"/>
+      <point x="120" y="0" type="curve"/>
+      <point x="120" y="102" type="line"/>
+      <point x="61" y="102"/>
+      <point x="10" y="110"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

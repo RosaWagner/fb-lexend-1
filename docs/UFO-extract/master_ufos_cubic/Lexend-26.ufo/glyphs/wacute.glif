@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wacute" format="2">
+  <advance width="1046"/>
+  <unicode hex="1E83"/>
+  <note>
+wacute
+</note>
+  <anchor x="523" y="0" name="bottom"/>
+  <anchor x="558" y="764" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="acutecomb" xOffset="421" yOffset="-27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dal-ar" format="2">
+  <advance width="494"/>
+  <unicode hex="062F"/>
+  <anchor x="427" y="0" name="#entry"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="253" y="487" name="top"/>
+  <outline>
+    <contour>
+      <point x="59" y="0" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="455" y="200"/>
+      <point x="399" y="331"/>
+      <point x="253" y="487" type="curve"/>
+      <point x="175" y="388" type="line"/>
+      <point x="279" y="295"/>
+      <point x="319" y="212"/>
+      <point x="339" y="102" type="curve"/>
+      <point x="40" y="102" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_spacingDal</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

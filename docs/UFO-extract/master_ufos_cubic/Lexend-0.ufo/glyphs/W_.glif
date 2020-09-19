@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="996"/>
+  <unicode hex="0057"/>
+  <note>
+W
+</note>
+  <anchor x="497" y="0" name="bottom"/>
+  <anchor x="497" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="972" y="700" type="line"/>
+      <point x="856" y="700" type="line"/>
+      <point x="723" y="265" type="line" smooth="yes"/>
+      <point x="700" y="191"/>
+      <point x="695" y="149"/>
+      <point x="688" y="112" type="curve"/>
+      <point x="714" y="119" type="line"/>
+      <point x="705" y="153"/>
+      <point x="697" y="194"/>
+      <point x="670" y="263" type="curve" smooth="yes"/>
+      <point x="548" y="579" type="line"/>
+      <point x="451" y="579" type="line"/>
+      <point x="325" y="263" type="line" smooth="yes"/>
+      <point x="300" y="200"/>
+      <point x="290" y="149"/>
+      <point x="279" y="110" type="curve"/>
+      <point x="308" y="109" type="line"/>
+      <point x="300" y="149"/>
+      <point x="293" y="200"/>
+      <point x="274" y="262" type="curve" smooth="yes"/>
+      <point x="139" y="700" type="line"/>
+      <point x="24" y="700" type="line"/>
+      <point x="247" y="0" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="498" y="434" type="line"/>
+      <point x="489" y="438" type="line"/>
+      <point x="674" y="0" type="line"/>
+      <point x="749" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>V</string>
+    </dict>
+  </lib>
+</glyph>

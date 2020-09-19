@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seen-ar" format="2">
+  <advance width="1884"/>
+  <unicode hex="0633"/>
+  <anchor x="1181" y="0" name="bottom"/>
+  <anchor x="1207" y="333" name="top"/>
+  <outline>
+    <contour>
+      <point x="1188" y="136" type="curve"/>
+      <point x="1133" y="68" type="line"/>
+      <point x="1184" y="34"/>
+      <point x="1251" y="0"/>
+      <point x="1359" y="0" type="curve" smooth="yes"/>
+      <point x="1653" y="0" type="line"/>
+      <point x="1716" y="176"/>
+      <point x="1663" y="311"/>
+      <point x="1585" y="438" type="curve"/>
+      <point x="1494" y="346" type="line"/>
+      <point x="1559" y="263"/>
+      <point x="1589" y="192"/>
+      <point x="1589" y="102" type="curve"/>
+      <point x="1336" y="102" type="line" smooth="yes"/>
+      <point x="1277" y="102"/>
+      <point x="1227" y="114"/>
+    </contour>
+    <contour>
+      <point x="872" y="102" type="line"/>
+      <point x="872" y="0" type="line"/>
+      <point x="1129" y="0" type="line"/>
+      <point x="1198" y="102"/>
+      <point x="1238" y="192"/>
+      <point x="1267" y="331" type="curve"/>
+      <point x="1146" y="289" type="line"/>
+      <point x="1141" y="227"/>
+      <point x="1117" y="140"/>
+      <point x="1094" y="102" type="curve"/>
+    </contour>
+    <component base="noonghunna-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>noon-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>behDotless-ar</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

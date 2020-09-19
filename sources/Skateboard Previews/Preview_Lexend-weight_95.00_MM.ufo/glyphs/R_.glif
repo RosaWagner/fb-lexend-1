@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="690"/>
+  <unicode hex="0052"/>
+  <note>
+R
+</note>
+  <anchor x="364.4" y="0" name="bottom"/>
+  <anchor x="324.4" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="614.8" y="477.8" type="qcurve"/>
+      <point x="614.8" y="391.8"/>
+      <point x="486.2" y="265.5"/>
+      <point x="395.4" y="265.5" type="qcurve"/>
+      <point x="187.0" y="265.5" type="line"/>
+      <point x="187.0" y="364.1" type="line"/>
+      <point x="405.0" y="364.1" type="line"/>
+      <point x="451.0" y="364.1"/>
+      <point x="510.5" y="430.1"/>
+      <point x="510.5" y="478.9" type="qcurve"/>
+      <point x="510.5" y="532.8"/>
+      <point x="435.5" y="601.4"/>
+      <point x="377.9" y="601.4" type="qcurve"/>
+      <point x="189.7" y="601.4" type="line"/>
+      <point x="201.2" y="634.9" type="line"/>
+      <point x="201.2" y="0.0" type="line"/>
+      <point x="99.0" y="0.0" type="line"/>
+      <point x="99.0" y="700.0" type="line"/>
+      <point x="395.4" y="700.0" type="line"/>
+      <point x="485.3" y="700.0"/>
+      <point x="614.8" y="572.7"/>
+    </contour>
+    <contour>
+      <point x="341.4" y="314.5" type="line"/>
+      <point x="445.5" y="339.6" type="line"/>
+      <point x="642.7" y="-0.9" type="line"/>
+      <point x="519.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

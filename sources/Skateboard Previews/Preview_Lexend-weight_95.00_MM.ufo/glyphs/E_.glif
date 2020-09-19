@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="611"/>
+  <unicode hex="0045"/>
+  <note>
+E
+</note>
+  <anchor x="321.3598207895992" y="0" name="bottom"/>
+  <anchor x="474.3598207895992" y="10.0" name="ogonek"/>
+  <anchor x="316.3598207895992" y="700.0" name="top"/>
+  <anchor x="45.35982078959924" y="700.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="201.2" y="0.0" type="line"/>
+      <point x="99.0" y="0.0" type="line"/>
+      <point x="99.0" y="700.0" type="line"/>
+      <point x="201.2" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="536.2" y="0.0" type="line"/>
+      <point x="145.6" y="0.0" type="line"/>
+      <point x="145.6" y="98.6" type="line"/>
+      <point x="536.2" y="98.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="481.4" y="309.9" type="line"/>
+      <point x="145.5" y="309.9" type="line"/>
+      <point x="145.5" y="408.5" type="line"/>
+      <point x="481.4" y="408.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="536.6" y="601.4" type="line"/>
+      <point x="145.5" y="601.4" type="line"/>
+      <point x="145.5" y="700.0" type="line"/>
+      <point x="536.6" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

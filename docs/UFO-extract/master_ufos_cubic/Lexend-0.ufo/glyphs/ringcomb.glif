@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb" format="2">
+  <unicode hex="030A"/>
+  <anchor x="158" y="490" name="_top"/>
+  <anchor x="158" y="775" name="top"/>
+  <outline>
+    <contour>
+      <point x="159" y="564" type="curve"/>
+      <point x="217" y="564"/>
+      <point x="269" y="612"/>
+      <point x="269" y="669" type="curve"/>
+      <point x="269" y="728"/>
+      <point x="217" y="775"/>
+      <point x="159" y="775" type="curve"/>
+      <point x="102" y="775"/>
+      <point x="50" y="728"/>
+      <point x="50" y="669" type="curve"/>
+      <point x="50" y="612"/>
+      <point x="102" y="564"/>
+    </contour>
+    <contour>
+      <point x="159" y="623" type="curve"/>
+      <point x="132" y="623"/>
+      <point x="110" y="643"/>
+      <point x="110" y="669" type="curve"/>
+      <point x="110" y="697"/>
+      <point x="132" y="716"/>
+      <point x="159" y="716" type="curve"/>
+      <point x="185" y="716"/>
+      <point x="209" y="699"/>
+      <point x="209" y="669" type="curve"/>
+      <point x="209" y="643"/>
+      <point x="187" y="623"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>319</integer>
+    </dict>
+  </lib>
+</glyph>

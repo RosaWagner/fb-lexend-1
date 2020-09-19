@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perthousand" format="2">
+  <advance width="1612"/>
+  <unicode hex="2030"/>
+  <note>
+perthousand
+</note>
+  <outline>
+    <contour>
+      <point x="273" y="269" type="curve"/>
+      <point x="382" y="269"/>
+      <point x="457" y="367"/>
+      <point x="457" y="488" type="curve"/>
+      <point x="457" y="611"/>
+      <point x="387" y="709"/>
+      <point x="274" y="709" type="curve"/>
+      <point x="160" y="709"/>
+      <point x="90" y="611"/>
+      <point x="90" y="488" type="curve"/>
+      <point x="90" y="366"/>
+      <point x="160" y="269"/>
+    </contour>
+    <contour>
+      <point x="274" y="359" type="curve"/>
+      <point x="221" y="359"/>
+      <point x="193" y="413"/>
+      <point x="193" y="488" type="curve"/>
+      <point x="193" y="561"/>
+      <point x="221" y="618"/>
+      <point x="273" y="618" type="curve"/>
+      <point x="325" y="618"/>
+      <point x="353" y="563"/>
+      <point x="353" y="488" type="curve"/>
+      <point x="353" y="415"/>
+      <point x="326" y="359"/>
+    </contour>
+    <contour>
+      <point x="875" y="-16" type="curve"/>
+      <point x="984" y="-16"/>
+      <point x="1059" y="82"/>
+      <point x="1059" y="203" type="curve"/>
+      <point x="1059" y="326"/>
+      <point x="989" y="424"/>
+      <point x="876" y="424" type="curve"/>
+      <point x="762" y="424"/>
+      <point x="692" y="326"/>
+      <point x="692" y="203" type="curve"/>
+      <point x="692" y="81"/>
+      <point x="762" y="-16"/>
+    </contour>
+    <contour>
+      <point x="876" y="74" type="curve"/>
+      <point x="823" y="74"/>
+      <point x="795" y="128"/>
+      <point x="795" y="203" type="curve"/>
+      <point x="795" y="276"/>
+      <point x="823" y="333"/>
+      <point x="875" y="333" type="curve"/>
+      <point x="927" y="333"/>
+      <point x="955" y="278"/>
+      <point x="955" y="203" type="curve"/>
+      <point x="955" y="130"/>
+      <point x="928" y="74"/>
+    </contour>
+    <contour>
+      <point x="1328" y="-16" type="curve"/>
+      <point x="1437" y="-16"/>
+      <point x="1512" y="82"/>
+      <point x="1512" y="203" type="curve"/>
+      <point x="1512" y="326"/>
+      <point x="1442" y="424"/>
+      <point x="1329" y="424" type="curve"/>
+      <point x="1215" y="424"/>
+      <point x="1145" y="326"/>
+      <point x="1145" y="203" type="curve"/>
+      <point x="1145" y="81"/>
+      <point x="1215" y="-16"/>
+    </contour>
+    <contour>
+      <point x="1329" y="74" type="curve"/>
+      <point x="1277" y="74"/>
+      <point x="1248" y="128"/>
+      <point x="1248" y="203" type="curve"/>
+      <point x="1248" y="276"/>
+      <point x="1276" y="333"/>
+      <point x="1328" y="333" type="curve"/>
+      <point x="1381" y="333"/>
+      <point x="1408" y="278"/>
+      <point x="1408" y="203" type="curve"/>
+      <point x="1408" y="130"/>
+      <point x="1382" y="74"/>
+    </contour>
+    <component base="fraction" xOffset="110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>percent</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>percent</string>
+    </dict>
+  </lib>
+</glyph>

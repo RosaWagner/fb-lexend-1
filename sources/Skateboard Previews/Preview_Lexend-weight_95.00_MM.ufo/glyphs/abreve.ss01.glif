@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreve.ss01" format="2">
+  <advance width="534"/>
+  <note>
+abreve
+</note>
+  <anchor x="277.0" y="-13.0" name="bottom"/>
+  <anchor x="466.0" y="10.0" name="ogonek"/>
+  <anchor x="279.0" y="741.0" name="top"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="brevecomb" xOffset="75" yOffset="29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

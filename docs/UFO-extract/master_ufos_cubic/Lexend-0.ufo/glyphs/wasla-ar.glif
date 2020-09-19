@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wasla-ar" format="2">
+  <advance width="372"/>
+  <anchor x="226" y="525" name="_top"/>
+  <anchor x="215" y="750" name="top"/>
+  <outline>
+    <contour>
+      <point x="67" y="745" type="line"/>
+      <point x="64" y="716"/>
+      <point x="61" y="706"/>
+      <point x="56" y="691" type="curve"/>
+      <point x="20" y="691" type="line"/>
+      <point x="20" y="635" type="line"/>
+      <point x="67" y="635" type="line"/>
+      <point x="88" y="661"/>
+      <point x="114" y="690"/>
+      <point x="124" y="761" type="curve"/>
+    </contour>
+    <contour>
+      <point x="161" y="658" type="line"/>
+      <point x="198" y="724"/>
+      <point x="235" y="749"/>
+      <point x="266" y="749" type="curve" smooth="yes"/>
+      <point x="289" y="749"/>
+      <point x="309" y="730"/>
+      <point x="304" y="691" type="curve"/>
+      <point x="147" y="691" type="line" smooth="yes"/>
+      <point x="128" y="691"/>
+      <point x="113" y="695"/>
+      <point x="100" y="704" type="curve"/>
+      <point x="68" y="658" type="line"/>
+      <point x="91" y="643"/>
+      <point x="118" y="635"/>
+      <point x="147" y="635" type="curve" smooth="yes"/>
+      <point x="338" y="635" type="line"/>
+      <point x="373" y="736"/>
+      <point x="339" y="805"/>
+      <point x="270" y="805" type="curve" smooth="yes"/>
+      <point x="212" y="805"/>
+      <point x="159" y="761"/>
+      <point x="122" y="676" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

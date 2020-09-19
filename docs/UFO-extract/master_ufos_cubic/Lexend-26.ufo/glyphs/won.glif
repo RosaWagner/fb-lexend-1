@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="1277"/>
+  <unicode hex="20A9"/>
+  <anchor x="640" y="0" name="bottom"/>
+  <anchor x="640" y="640" name="top"/>
+  <outline>
+    <contour>
+      <point x="111" y="322" type="line"/>
+      <point x="244" y="322" type="line"/>
+      <point x="292" y="336" type="line"/>
+      <point x="1010" y="336" type="line"/>
+      <point x="1059" y="322" type="line"/>
+      <point x="1185" y="322" type="line"/>
+      <point x="1185" y="431" type="line"/>
+      <point x="1082" y="431" type="line"/>
+      <point x="1046" y="417" type="line"/>
+      <point x="263" y="417" type="line"/>
+      <point x="230" y="431" type="line"/>
+      <point x="111" y="431" type="line"/>
+    </contour>
+    <component base="W"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>W</string>
+    </dict>
+  </lib>
+</glyph>

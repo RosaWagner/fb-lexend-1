@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="weight" minimum="50" maximum="200" default="100"/>
+  </axes>
+  <sources>
+    <source filename="Lexend-Regular.ufo" familyname="Lexend" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Lexend-wght300.ufo" familyname="Lexend" stylename="weght300">
+      <location>
+        <dimension name="weight" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="Lexend-wght700.ufo" familyname="Lexend" stylename="weght700">
+      <location>
+        <dimension name="weight" xvalue="200"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Lexend" stylename="weight_65.00" filename="instances/Lexend_weight_65.00.ufo">
+      <location>
+        <dimension name="weight" xvalue="65"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Lexend" stylename="weight_95.00" filename="instances/Lexend_weight_95.00.ufo">
+      <location>
+        <dimension name="weight" xvalue="95"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Lexend" stylename="weight_120.00" filename="instances/Lexend_weight_120.00.ufo">
+      <location>
+        <dimension name="weight" xvalue="120"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewMutatorMath</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>vertical</key>
+        <array>
+          <string>weight</string>
+        </array>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>weight</key>
+        <real>65.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>SKATEBOARD</string>
+    </dict>
+  </lib>
+</designspace>

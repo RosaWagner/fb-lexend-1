@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aring" format="2">
+  <advance width="992"/>
+  <unicode hex="00C5"/>
+  <anchor x="486" y="842" name="top"/>
+  <anchor x="496" y="0" name="bottom"/>
+  <anchor x="893" y="10" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="493" y="631" type="curve"/>
+      <point x="556" y="631"/>
+      <point x="612" y="684"/>
+      <point x="612" y="746" type="curve"/>
+      <point x="612" y="811"/>
+      <point x="556" y="862"/>
+      <point x="493" y="862" type="curve"/>
+      <point x="430" y="862"/>
+      <point x="373" y="811"/>
+      <point x="373" y="746" type="curve"/>
+      <point x="373" y="684"/>
+      <point x="430" y="631"/>
+    </contour>
+    <contour>
+      <point x="493" y="700" type="curve"/>
+      <point x="465" y="700"/>
+      <point x="444" y="720"/>
+      <point x="444" y="746" type="curve"/>
+      <point x="444" y="774"/>
+      <point x="465" y="793"/>
+      <point x="493" y="793" type="curve"/>
+      <point x="518" y="793"/>
+      <point x="542" y="776"/>
+      <point x="542" y="746" type="curve"/>
+      <point x="542" y="720"/>
+      <point x="520" y="700"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>
