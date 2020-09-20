@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aring" format="2">
+  <advance width="633"/>
+  <unicode hex="00E5"/>
+  <note>
+aring
+</note>
+  <anchor x="311" y="-20" name="bottom"/>
+  <anchor x="560" y="3" name="ogonek"/>
+  <anchor x="307" y="815" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="ringcomb" xOffset="149" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
-    <axis tag="wght" name="weight" minimum="50" maximum="200" default="100"/>
+    <axis tag="wght" name="weight" minimum="300" maximum="700" default="400"/>
   </axes>
   <sources>
     <source filename="Lexend-Regular.ufo" familyname="Lexend" stylename="Regular">
@@ -10,38 +10,45 @@
       <features copy="1"/>
       <info copy="1"/>
       <location>
-        <dimension name="weight" xvalue="100"/>
+        <dimension name="weight" xvalue="400"/>
       </location>
     </source>
     <source filename="Lexend-wght300.ufo" familyname="Lexend" stylename="weght300">
       <location>
-        <dimension name="weight" xvalue="50"/>
+        <dimension name="weight" xvalue="300"/>
       </location>
     </source>
     <source filename="Lexend-wght700.ufo" familyname="Lexend" stylename="weght700">
       <location>
-        <dimension name="weight" xvalue="200"/>
+        <dimension name="weight" xvalue="700"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="Lexend" stylename="weight_65.00" filename="instances/Lexend_weight_65.00.ufo">
+    <instance familyname="Lexend" stylename="wght300" filename="instances/Lexend_wght300.ufo">
       <location>
-        <dimension name="weight" xvalue="65"/>
+        <dimension name="weight" xvalue="300"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Lexend" stylename="weight_95.00" filename="instances/Lexend_weight_95.00.ufo">
+    <instance familyname="Lexend" stylename="wght400" filename="instances/Lexend_wght400.ufo">
       <location>
-        <dimension name="weight" xvalue="95"/>
+        <dimension name="weight" xvalue="400"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Lexend" stylename="weight_120.00" filename="instances/Lexend_weight_120.00.ufo">
+    <instance familyname="Lexend" stylename="wght500" filename="instances/Lexend_wght500.ufo">
       <location>
-        <dimension name="weight" xvalue="120"/>
+        <dimension name="weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Lexend" stylename="wght700" filename="instances/Lexend_wght700.ufo">
+      <location>
+        <dimension name="weight" xvalue="700"/>
       </location>
       <kerning/>
       <info/>

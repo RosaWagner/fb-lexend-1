@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="697"/>
+  <unicode hex="0041"/>
+  <note>
+A
+</note>
+  <anchor x="350.3333333333333" y="0" name="bottom"/>
+  <anchor x="607.3333333333334" y="10.0" name="ogonek"/>
+  <anchor x="350.3333333333333" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="333.6666666666667" y="573.3333333333334" type="qcurve"/>
+      <point x="360.3333333333333" y="574.0" type="line"/>
+      <point x="348.2264285580957" y="530.9748809146046"/>
+      <point x="312.906681794597" y="421.6000378198258"/>
+      <point x="296.6666666666667" y="380.6666666666667" type="qcurve"/>
+      <point x="153.33333333333334" y="0.0" type="line"/>
+      <point x="10.0" y="0.0" type="line"/>
+      <point x="284.3333333333333" y="700.0" type="line"/>
+      <point x="414.3333333333333" y="700.0" type="line"/>
+      <point x="686.6666666666666" y="0.0" type="line"/>
+      <point x="538.6666666666666" y="0.0" type="line"/>
+      <point x="394.6666666666667" y="383.3333333333333" type="line" smooth="yes"/>
+      <point x="380.10268874821344" y="423.5423818800618"/>
+      <point x="345.93530121825137" y="530.1144899222295"/>
+    </contour>
+    <contour>
+      <point x="528.3333333333334" y="150.66666666666666" type="line"/>
+      <point x="163.33333333333334" y="150.66666666666666" type="line"/>
+      <point x="206.33333333333334" y="269.0" type="line"/>
+      <point x="501.3333333333333" y="269.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

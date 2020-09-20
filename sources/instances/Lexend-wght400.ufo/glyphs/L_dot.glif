@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot" format="2">
+  <advance width="924"/>
+  <unicode hex="013F"/>
+  <note>
+Ldot
+</note>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="291" y="350" name="center"/>
+  <anchor x="141" y="700" name="top"/>
+  <anchor x="547" y="700" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="periodcentered.case" xOffset="601"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

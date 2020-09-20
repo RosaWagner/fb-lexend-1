@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="969"/>
+  <unicode hex="00C6"/>
+  <note>
+AE
+</note>
+  <anchor x="497" y="0" name="bottom"/>
+  <anchor x="646" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="174" y="153" type="line"/>
+      <point x="228" y="245" type="line"/>
+      <point x="483" y="245" type="line"/>
+      <point x="465" y="213" type="line"/>
+      <point x="465" y="552" type="line"/>
+      <point x="484" y="541" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="493" y="700" type="line"/>
+      <point x="894" y="700" type="line"/>
+      <point x="894" y="607" type="line"/>
+      <point x="557" y="607" type="line"/>
+      <point x="566" y="616" type="line"/>
+      <point x="566" y="385" type="line"/>
+      <point x="558" y="402" type="line"/>
+      <point x="849" y="402" type="line"/>
+      <point x="849" y="308" type="line"/>
+      <point x="556" y="308" type="line"/>
+      <point x="566" y="322" type="line"/>
+      <point x="566" y="72" type="line"/>
+      <point x="557" y="93" type="line"/>
+      <point x="894" y="93" type="line"/>
+      <point x="894" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="465" y="166" type="line"/>
+      <point x="488" y="153" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>
