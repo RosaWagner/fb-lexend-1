@@ -37,7 +37,7 @@ Q
       <point x="266" y="40"/>
     </contour>
     <contour>
-      <point x="453" y="255" type="line"/>
+      <point x="450" y="258" type="line"/>
       <point x="699" y="-67" type="line"/>
       <point x="659" y="-96.0" type="line"/>
       <point x="411" y="231" type="line"/>

@@ -25,8 +25,8 @@ U
       <point x="298" y="278" type="line"/>
       <point x="298" y="234"/>
       <point x="351" y="178"/>
-      <point x="392" y="178" type="qcurve"/>
-      <point x="435" y="178"/>
+      <point x="392" y="178" type="qcurve" smooth="yes"/>
+      <point x="435.0" y="178.0"/>
       <point x="491" y="234"/>
       <point x="491" y="278" type="qcurve"/>
     </contour>
