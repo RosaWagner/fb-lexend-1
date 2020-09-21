@@ -26,9 +26,15 @@ A
       <point x="348.9029518273771" y="578.6717348833442"/>
     </contour>
     <contour>
-      <point x="520" y="174" type="line"/>
-      <point x="175" y="174" type="line"/>
-      <point x="218" y="278" type="line"/>
+      <point x="354" y="174" type="line"/>
+      <point x="145" y="174" type="line"/>
+      <point x="185" y="278" type="line"/>
+      <point x="354" y="278" type="line"/>
+    </contour>
+    <contour>
+      <point x="549" y="174" type="line"/>
+      <point x="354" y="174" type="line"/>
+      <point x="354" y="278" type="line"/>
       <point x="503" y="278" type="line"/>
     </contour>
   </outline>
