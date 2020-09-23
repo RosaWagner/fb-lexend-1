@@ -2,14 +2,14 @@
 <glyph name="kashida-ar" format="2">
   <advance width="80"/>
   <unicode hex="0640"/>
-  <anchor x="40" y="0" name="bottom"/>
-  <anchor x="40" y="438" name="top"/>
+  <anchor x="40.0" y="0" name="bottom"/>
+  <anchor x="40.0" y="438.0" name="top"/>
   <outline>
     <contour>
-      <point x="0" y="0" type="line"/>
-      <point x="0" y="102" type="line"/>
-      <point x="80" y="102" type="line"/>
-      <point x="80" y="0" type="line"/>
+      <point x="0.0" y="0.0" type="line"/>
+      <point x="0.0" y="102.0" type="line"/>
+      <point x="80.0" y="102.0" type="line"/>
+      <point x="80.0" y="0.0" type="line"/>
     </contour>
   </outline>
   <lib>

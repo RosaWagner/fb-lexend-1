@@ -7,10 +7,10 @@ endash
 </note>
   <outline>
     <contour>
-      <point x="461" y="237" type="line"/>
-      <point x="53" y="237" type="line"/>
-      <point x="53" y="336" type="line"/>
-      <point x="461" y="336" type="line"/>
+      <point x="461.0" y="237.0" type="line"/>
+      <point x="53.0" y="237.0" type="line"/>
+      <point x="53.0" y="336.0" type="line"/>
+      <point x="461.0" y="336.0" type="line"/>
     </contour>
   </outline>
 </glyph>

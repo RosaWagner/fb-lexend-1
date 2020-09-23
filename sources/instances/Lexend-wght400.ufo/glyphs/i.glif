@@ -5,9 +5,9 @@
   <note>
 i
 </note>
-  <anchor x="139" y="0" name="bottom"/>
-  <anchor x="227" y="10" name="ogonek"/>
-  <anchor x="140" y="765" name="top"/>
+  <anchor x="139.0" y="0" name="bottom"/>
+  <anchor x="227.0" y="10.0" name="ogonek"/>
+  <anchor x="140.0" y="765.0" name="top"/>
   <outline>
     <component base="dotaccentcomb" xOffset="35" yOffset="14"/>
     <component base="idotless" xOffset="19"/>

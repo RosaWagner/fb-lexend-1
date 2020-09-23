@@ -15,7 +15,7 @@
     <key>guidelines</key>
     <array/>
     <key>italicAngle</key>
-    <integer>0</integer>
+    <integer>-180</integer>
     <key>openTypeHeadCreated</key>
     <string>2020/01/04 16:14:24</string>
     <key>openTypeHheaAscender</key>
@@ -79,7 +79,7 @@
     <key>styleName</key>
     <string>wght400</string>
     <key>unitsPerEm</key>
-    <integer>1000</integer>
+    <real>1000.0</real>
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>

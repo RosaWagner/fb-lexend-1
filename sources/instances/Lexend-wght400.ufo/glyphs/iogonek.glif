@@ -7,29 +7,29 @@ iogonek
 </note>
   <outline>
     <contour>
-      <point x="145" y="52" type="qcurve"/>
-      <point x="95" y="7" type="line"/>
-      <point x="95" y="525" type="line"/>
-      <point x="198" y="525" type="line"/>
-      <point x="198" y="0" type="line"/>
-      <point x="148" y="-21"/>
-      <point x="93" y="-75"/>
-      <point x="93" y="-102" type="qcurve" smooth="yes"/>
-      <point x="93" y="-120"/>
-      <point x="120" y="-144"/>
-      <point x="140" y="-144" type="qcurve" smooth="yes"/>
-      <point x="152" y="-144"/>
-      <point x="180" y="-131"/>
-      <point x="195" y="-118" type="qcurve"/>
-      <point x="234" y="-177" type="line"/>
-      <point x="204" y="-199"/>
-      <point x="147" y="-221"/>
-      <point x="120" y="-221" type="qcurve" smooth="yes"/>
-      <point x="68" y="-221"/>
-      <point x="0" y="-161"/>
-      <point x="0" y="-114" type="qcurve" smooth="yes"/>
-      <point x="0" y="-70"/>
-      <point x="70" y="11"/>
+      <point x="145.0" y="52.0" type="qcurve"/>
+      <point x="95.0" y="7.0" type="line"/>
+      <point x="95.0" y="525.0" type="line"/>
+      <point x="198.0" y="525.0" type="line"/>
+      <point x="198.0" y="0.0" type="line"/>
+      <point x="148.0" y="-21.0"/>
+      <point x="93.0" y="-75.0"/>
+      <point x="93.0" y="-102.0" type="qcurve" smooth="yes"/>
+      <point x="93.0" y="-120.0"/>
+      <point x="120.0" y="-144.0"/>
+      <point x="140.0" y="-144.0" type="qcurve" smooth="yes"/>
+      <point x="152.0" y="-144.0"/>
+      <point x="180.0" y="-131.0"/>
+      <point x="195.0" y="-118.0" type="qcurve"/>
+      <point x="234.0" y="-177.0" type="line"/>
+      <point x="204.0" y="-199.0"/>
+      <point x="147.0" y="-221.0"/>
+      <point x="120.0" y="-221.0" type="qcurve" smooth="yes"/>
+      <point x="68.0" y="-221.0"/>
+      <point x="0.0" y="-161.0"/>
+      <point x="0.0" y="-114.0" type="qcurve" smooth="yes"/>
+      <point x="0.0" y="-70.0"/>
+      <point x="70.0" y="11.0"/>
     </contour>
     <component base="dotaccentcomb" xOffset="45"/>
   </outline>

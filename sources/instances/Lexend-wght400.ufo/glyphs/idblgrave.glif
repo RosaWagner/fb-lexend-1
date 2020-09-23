@@ -2,9 +2,9 @@
 <glyph name="idblgrave" format="2">
   <advance width="243"/>
   <unicode hex="0209"/>
-  <anchor x="124" y="0" name="bottom"/>
-  <anchor x="208" y="10" name="ogonek"/>
-  <anchor x="93" y="836" name="top"/>
+  <anchor x="124.0" y="0" name="bottom"/>
+  <anchor x="208.0" y="10.0" name="ogonek"/>
+  <anchor x="93.0" y="836.0" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="dblgravecomb" xOffset="-135" yOffset="26"/>

@@ -2,8 +2,8 @@
 <glyph name="nlinebelow" format="2">
   <advance width="595"/>
   <unicode hex="1E49"/>
-  <anchor x="303" y="-164" name="bottom"/>
-  <anchor x="303" y="510" name="top"/>
+  <anchor x="303.0" y="-164.0" name="bottom"/>
+  <anchor x="303.0" y="510.0" name="top"/>
   <outline>
     <component base="n"/>
     <component base="macronbelowcomb" xOffset="90"/>

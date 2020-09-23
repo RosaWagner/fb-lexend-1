@@ -5,10 +5,10 @@
   <note>
 tcaron
 </note>
-  <anchor x="182" y="0" name="bottom"/>
-  <anchor x="182" y="256" name="center"/>
-  <anchor x="183" y="646" name="top"/>
-  <anchor x="308" y="548" name="topright"/>
+  <anchor x="182.0" y="0" name="bottom"/>
+  <anchor x="182.0" y="256.0" name="center"/>
+  <anchor x="183.0" y="646.0" name="top"/>
+  <anchor x="308.0" y="548.0" name="topright"/>
   <outline>
     <component base="t"/>
     <component base="caronalt" xOffset="211" yOffset="94"/>

@@ -4,10 +4,10 @@
   <note>
 Iogonek
 </note>
-  <anchor x="153" y="0" name="bottom"/>
-  <anchor x="343" y="10" name="ogonek"/>
-  <anchor x="153" y="700" name="top"/>
-  <anchor x="100" y="700" name="topleft"/>
+  <anchor x="153.0" y="0" name="bottom"/>
+  <anchor x="343.0" y="10.0" name="ogonek"/>
+  <anchor x="153.0" y="700.0" name="top"/>
+  <anchor x="100.0" y="700.0" name="topleft"/>
   <outline>
     <component base="I.ss01"/>
     <component base="ogonek" xOffset="-21"/>

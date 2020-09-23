@@ -2,14 +2,14 @@
 <glyph name="alef-ar" format="2">
   <advance width="264"/>
   <unicode hex="0627"/>
-  <anchor x="132" y="0" name="bottom"/>
-  <anchor x="132" y="700" name="top"/>
+  <anchor x="132.0" y="0" name="bottom"/>
+  <anchor x="132.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="740" type="line"/>
-      <point x="184" y="740" type="line"/>
-      <point x="184" y="0" type="line"/>
+      <point x="80.0" y="0.0" type="line"/>
+      <point x="80.0" y="740.0" type="line"/>
+      <point x="184.0" y="740.0" type="line"/>
+      <point x="184.0" y="0.0" type="line"/>
     </contour>
   </outline>
   <lib>

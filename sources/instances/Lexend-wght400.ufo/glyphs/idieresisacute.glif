@@ -2,9 +2,9 @@
 <glyph name="idieresisacute" format="2">
   <advance width="243"/>
   <unicode hex="1E2F"/>
-  <anchor x="124" y="0" name="bottom"/>
-  <anchor x="208" y="10" name="ogonek"/>
-  <anchor x="159" y="958" name="top"/>
+  <anchor x="124.0" y="0" name="bottom"/>
+  <anchor x="208.0" y="10.0" name="ogonek"/>
+  <anchor x="159.0" y="958.0" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="dieresiscomb" xOffset="-71" yOffset="24"/>

@@ -2,8 +2,8 @@
 <glyph name="noon-ar" format="2">
   <advance width="700"/>
   <unicode hex="0646"/>
-  <anchor x="321" y="-230" name="bottom"/>
-  <anchor x="321" y="524" name="top"/>
+  <anchor x="321.0" y="-230.0" name="bottom"/>
+  <anchor x="321.0" y="524.0" name="top"/>
   <outline>
     <component base="noonghunna-ar"/>
     <component base="dotabove-ar" xOffset="192" yOffset="-185"/>

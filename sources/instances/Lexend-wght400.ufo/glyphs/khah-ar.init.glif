@@ -2,8 +2,8 @@
 <glyph name="khah-ar.init" format="2">
   <advance width="727"/>
   <unicode hex="FEA7"/>
-  <anchor x="320" y="0" name="bottom"/>
-  <anchor x="250" y="709" name="top"/>
+  <anchor x="320.0" y="0" name="bottom"/>
+  <anchor x="250.0" y="709.0" name="top"/>
   <outline>
     <component base="hah-ar.init"/>
     <component base="dotabove-ar" xOffset="121"/>

@@ -5,10 +5,10 @@
   <note>
 udieresis
 </note>
-  <anchor x="299" y="0" name="bottom"/>
-  <anchor x="530" y="0" name="ogonek"/>
-  <anchor x="299" y="684" name="top"/>
-  <anchor x="386" y="532" name="topright"/>
+  <anchor x="299.0" y="0" name="bottom"/>
+  <anchor x="530.0" y="0" name="ogonek"/>
+  <anchor x="299.0" y="684.0" name="top"/>
+  <anchor x="386.0" y="532.0" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="dieresiscomb" xOffset="104" yOffset="9"/>

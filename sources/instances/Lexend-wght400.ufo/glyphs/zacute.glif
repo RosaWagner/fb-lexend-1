@@ -5,8 +5,8 @@
   <note>
 zacute
 </note>
-  <anchor x="240" y="0" name="bottom"/>
-  <anchor x="283" y="769" name="top"/>
+  <anchor x="240.0" y="0" name="bottom"/>
+  <anchor x="283.0" y="769.0" name="top"/>
   <outline>
     <component base="z"/>
     <component base="acutecomb" xOffset="158" yOffset="-22"/>

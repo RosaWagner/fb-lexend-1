@@ -5,8 +5,8 @@
   <note>
 cdotaccent
 </note>
-  <anchor x="259" y="0" name="bottom"/>
-  <anchor x="299" y="770" name="top"/>
+  <anchor x="259.0" y="0" name="bottom"/>
+  <anchor x="299.0" y="770.0" name="top"/>
   <outline>
     <component base="c"/>
     <component base="dotaccentcomb" xOffset="194" yOffset="19"/>

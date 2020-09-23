@@ -2,9 +2,9 @@
 <glyph name="abreveacute" format="2">
   <advance width="633"/>
   <unicode hex="1EAF"/>
-  <anchor x="311" y="-20" name="bottom"/>
-  <anchor x="560" y="3" name="ogonek"/>
-  <anchor x="315" y="766" name="top"/>
+  <anchor x="311.0" y="-20.0" name="bottom"/>
+  <anchor x="560.0" y="3.0" name="ogonek"/>
+  <anchor x="315.0" y="766.0" name="top"/>
   <outline>
     <component base="a"/>
     <component base="brevecomb_acutecomb" xOffset="115" yOffset="15"/>

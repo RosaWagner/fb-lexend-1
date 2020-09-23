@@ -2,20 +2,20 @@
 <glyph name="kip" format="2">
   <advance width="759"/>
   <unicode hex="20AD"/>
-  <anchor x="363" y="0" name="bottom"/>
-  <anchor x="375" y="700" name="top"/>
+  <anchor x="363.0" y="0" name="bottom"/>
+  <anchor x="375.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="377" y="320" type="line"/>
-      <point x="377" y="415" type="line"/>
-      <point x="632" y="415" type="line"/>
-      <point x="632" y="320" type="line"/>
+      <point x="377.0" y="320.0" type="line"/>
+      <point x="377.0" y="415.0" type="line"/>
+      <point x="632.0" y="415.0" type="line"/>
+      <point x="632.0" y="320.0" type="line"/>
     </contour>
     <contour>
-      <point x="203" y="415" type="line"/>
-      <point x="199" y="320" type="line"/>
-      <point x="30" y="320" type="line"/>
-      <point x="30" y="415" type="line"/>
+      <point x="203.0" y="415.0" type="line"/>
+      <point x="199.0" y="320.0" type="line"/>
+      <point x="30.0" y="320.0" type="line"/>
+      <point x="30.0" y="415.0" type="line"/>
     </contour>
     <component base="K" xOffset="27"/>
   </outline>

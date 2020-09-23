@@ -5,10 +5,10 @@
   <note>
 lacute
 </note>
-  <anchor x="122" y="0" name="bottom"/>
-  <anchor x="122" y="289" name="center"/>
-  <anchor x="171" y="928" name="top"/>
-  <anchor x="229" y="580" name="topright"/>
+  <anchor x="122.0" y="0" name="bottom"/>
+  <anchor x="122.0" y="289.0" name="center"/>
+  <anchor x="171.0" y="928.0" name="top"/>
+  <anchor x="229.0" y="580.0" name="topright"/>
   <outline>
     <component base="l"/>
     <component base="acutecomb.case" xOffset="46" yOffset="225"/>

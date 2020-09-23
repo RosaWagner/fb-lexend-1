@@ -5,8 +5,8 @@
   <note>
 ycircumflex
 </note>
-  <anchor x="490" y="0" name="bottom"/>
-  <anchor x="291" y="759" name="top"/>
+  <anchor x="490.0" y="0" name="bottom"/>
+  <anchor x="291.0" y="759.0" name="top"/>
   <outline>
     <component base="y"/>
     <component base="circumflexcomb" xOffset="107" yOffset="-24"/>

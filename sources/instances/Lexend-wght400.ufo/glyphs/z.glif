@@ -5,22 +5,22 @@
   <note>
 z
 </note>
-  <anchor x="240" y="0" name="bottom"/>
-  <anchor x="248" y="510" name="top"/>
+  <anchor x="240.0" y="0" name="bottom"/>
+  <anchor x="248.0" y="510.0" name="top"/>
   <outline>
     <contour>
-      <point x="162" y="89" type="line"/>
-      <point x="439" y="89" type="line"/>
-      <point x="439" y="0" type="line"/>
-      <point x="50" y="0" type="line"/>
-      <point x="50" y="86" type="line"/>
-      <point x="321" y="448" type="line"/>
-      <point x="321" y="436" type="line"/>
-      <point x="50" y="436" type="line"/>
-      <point x="50" y="525" type="line"/>
-      <point x="433" y="525" type="line"/>
-      <point x="433" y="441" type="line"/>
-      <point x="166" y="84" type="line"/>
+      <point x="162.0" y="89.0" type="line"/>
+      <point x="439.0" y="89.0" type="line"/>
+      <point x="439.0" y="0.0" type="line"/>
+      <point x="50.0" y="0.0" type="line"/>
+      <point x="50.0" y="86.0" type="line"/>
+      <point x="321.0" y="448.0" type="line"/>
+      <point x="321.0" y="436.0" type="line"/>
+      <point x="50.0" y="436.0" type="line"/>
+      <point x="50.0" y="525.0" type="line"/>
+      <point x="433.0" y="525.0" type="line"/>
+      <point x="433.0" y="441.0" type="line"/>
+      <point x="166.0" y="84.0" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="ghain-ar.fina" format="2">
   <advance width="616"/>
   <unicode hex="FECE"/>
-  <anchor x="359" y="-456" name="bottom"/>
-  <anchor x="342" y="709" name="top"/>
+  <anchor x="359.0" y="-456.0" name="bottom"/>
+  <anchor x="342.0" y="709.0" name="top"/>
   <outline>
     <component base="ain-ar.fina"/>
     <component base="dotabove-ar" xOffset="213"/>

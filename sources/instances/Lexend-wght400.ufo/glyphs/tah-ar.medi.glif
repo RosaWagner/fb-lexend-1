@@ -2,10 +2,10 @@
 <glyph name="tah-ar.medi" format="2">
   <advance width="851"/>
   <unicode hex="FEC4"/>
-  <anchor x="731" y="0" name="#entry"/>
-  <anchor x="731" y="0" name="#exit"/>
-  <anchor x="423" y="0" name="bottom"/>
-  <anchor x="466" y="438" name="top"/>
+  <anchor x="731.0" y="0" name="#entry"/>
+  <anchor x="731.0" y="0" name="#exit"/>
+  <anchor x="423.0" y="0" name="bottom"/>
+  <anchor x="466.0" y="438.0" name="top"/>
   <outline>
     <component base="_connection.round" xOffset="731"/>
     <component base="tah-ar.init"/>

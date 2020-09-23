@@ -2,9 +2,9 @@
 <glyph name="icaron" format="2">
   <advance width="243"/>
   <unicode hex="01D0"/>
-  <anchor x="124" y="0" name="bottom"/>
-  <anchor x="208" y="10" name="ogonek"/>
-  <anchor x="124" y="770" name="top"/>
+  <anchor x="124.0" y="0" name="bottom"/>
+  <anchor x="208.0" y="10.0" name="ogonek"/>
+  <anchor x="124.0" y="770.0" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="caroncomb" xOffset="-56" yOffset="5"/>

@@ -5,11 +5,11 @@
   <note>
 fi
 </note>
-  <anchor x="197" y="0" name="bottom_1"/>
-  <anchor x="518" y="-15" name="bottom_2"/>
-  <anchor x="606" y="-5" name="ogonek"/>
-  <anchor x="197" y="510" name="top_1"/>
-  <anchor x="519" y="750" name="top_2"/>
+  <anchor x="197.0" y="0" name="bottom_1"/>
+  <anchor x="518.0" y="-15.0" name="bottom_2"/>
+  <anchor x="606.0" y="-5.0" name="ogonek"/>
+  <anchor x="197.0" y="510.0" name="top_1"/>
+  <anchor x="519.0" y="750.0" name="top_2"/>
   <outline>
     <component base="f"/>
     <component base="i" xOffset="379" yOffset="-15"/>

@@ -5,18 +5,18 @@
   <note>
 Oslash
 </note>
-  <anchor x="368" y="0" name="bottom"/>
-  <anchor x="368" y="700" name="top"/>
-  <anchor x="387" y="350" name="center"/>
-  <anchor x="691" y="10" name="ogonek"/>
-  <anchor x="26" y="700" name="topleft"/>
-  <anchor x="388" y="706" name="topright"/>
+  <anchor x="368.0" y="0" name="bottom"/>
+  <anchor x="368.0" y="700.0" name="top"/>
+  <anchor x="387.0" y="350.0" name="center"/>
+  <anchor x="691.0" y="10.0" name="ogonek"/>
+  <anchor x="26.0" y="700.0" name="topleft"/>
+  <anchor x="388.0" y="706.0" name="topright"/>
   <outline>
     <contour>
-      <point x="103" y="-33" type="line"/>
-      <point x="40" y="20" type="line"/>
-      <point x="629" y="741" type="line"/>
-      <point x="697" y="694" type="line"/>
+      <point x="103.0" y="-33.0" type="line"/>
+      <point x="40.0" y="20.0" type="line"/>
+      <point x="629.0" y="741.0" type="line"/>
+      <point x="697.0" y="694.0" type="line"/>
     </contour>
     <component base="O" xOffset="1"/>
   </outline>

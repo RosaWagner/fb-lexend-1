@@ -2,8 +2,8 @@
 <glyph name="qaf-ar" format="2">
   <advance width="788"/>
   <unicode hex="0642"/>
-  <anchor x="347" y="-230" name="bottom"/>
-  <anchor x="518" y="679" name="top"/>
+  <anchor x="347.0" y="-230.0" name="bottom"/>
+  <anchor x="518.0" y="679.0" name="top"/>
   <outline>
     <component base="qafDotless-ar"/>
     <component base="twodotshorizontalabove-ar" xOffset="303" yOffset="-30"/>

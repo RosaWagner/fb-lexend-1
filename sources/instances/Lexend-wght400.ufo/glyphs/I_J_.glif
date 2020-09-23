@@ -5,12 +5,12 @@
   <note>
 IJ
 </note>
-  <anchor x="238" y="0" name="bottom_1"/>
-  <anchor x="788" y="0" name="bottom_2"/>
-  <anchor x="428" y="10" name="ogonek"/>
-  <anchor x="238" y="700" name="top_1"/>
-  <anchor x="935" y="700" name="top_2"/>
-  <anchor x="123" y="700" name="topleft"/>
+  <anchor x="238.0" y="0" name="bottom_1"/>
+  <anchor x="788.0" y="0" name="bottom_2"/>
+  <anchor x="428.0" y="10.0" name="ogonek"/>
+  <anchor x="238.0" y="700.0" name="top_1"/>
+  <anchor x="935.0" y="700.0" name="top_2"/>
+  <anchor x="123.0" y="700.0" name="topleft"/>
   <outline>
     <component base="I"/>
     <component base="J" xOffset="478"/>

@@ -5,10 +5,10 @@
   <note>
 lcaron
 </note>
-  <anchor x="122" y="0" name="bottom"/>
-  <anchor x="122" y="289" name="center"/>
-  <anchor x="123" y="740" name="top"/>
-  <anchor x="229" y="580" name="topright"/>
+  <anchor x="122.0" y="0" name="bottom"/>
+  <anchor x="122.0" y="289.0" name="center"/>
+  <anchor x="123.0" y="740.0" name="top"/>
+  <anchor x="229.0" y="580.0" name="topright"/>
   <outline>
     <component base="l"/>
     <component base="caronalt" xOffset="186" yOffset="53"/>

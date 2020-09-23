@@ -2,22 +2,22 @@
 <glyph name="cedi" format="2">
   <advance width="679"/>
   <unicode hex="20B5"/>
-  <anchor x="377" y="0" name="bottom"/>
-  <anchor x="372" y="700" name="top"/>
+  <anchor x="377.0" y="0" name="bottom"/>
+  <anchor x="372.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="428" y="21" type="line"/>
-      <point x="428" y="-81" type="line"/>
-      <point x="321" y="-81" type="line"/>
-      <point x="321" y="18" type="line"/>
-      <point x="325" y="73" type="line"/>
-      <point x="325" y="637" type="line"/>
-      <point x="321" y="673" type="line"/>
-      <point x="321" y="776" type="line"/>
-      <point x="428" y="776" type="line"/>
-      <point x="428" y="680" type="line"/>
-      <point x="418" y="642" type="line"/>
-      <point x="418" y="66" type="line"/>
+      <point x="428.0" y="21.0" type="line"/>
+      <point x="428.0" y="-81.0" type="line"/>
+      <point x="321.0" y="-81.0" type="line"/>
+      <point x="321.0" y="18.0" type="line"/>
+      <point x="325.0" y="73.0" type="line"/>
+      <point x="325.0" y="637.0" type="line"/>
+      <point x="321.0" y="673.0" type="line"/>
+      <point x="321.0" y="776.0" type="line"/>
+      <point x="428.0" y="776.0" type="line"/>
+      <point x="428.0" y="680.0" type="line"/>
+      <point x="418.0" y="642.0" type="line"/>
+      <point x="418.0" y="66.0" type="line"/>
     </contour>
     <component base="C"/>
   </outline>
