@@ -2,27 +2,27 @@
 <glyph name="sad-ar.init" format="2">
   <advance width="1003"/>
   <unicode hex="FEBB"/>
-  <anchor x="916" y="0" name="#entry"/>
-  <anchor x="641" y="0" name="bottom"/>
-  <anchor x="671" y="438" name="top"/>
+  <anchor x="916.0" y="0" name="#entry"/>
+  <anchor x="641.0" y="0" name="bottom"/>
+  <anchor x="671.0" y="438.0" name="top"/>
   <outline>
     <contour>
-      <point x="916" y="0" type="qcurve"/>
-      <point x="366" y="0" type="line"/>
-      <point x="366" y="102" type="line"/>
-      <point x="833" y="102" type="line"/>
-      <point x="835" y="220"/>
-      <point x="764" y="334"/>
-      <point x="689" y="334" type="qcurve" smooth="yes"/>
-      <point x="605" y="334"/>
-      <point x="430" y="169"/>
-      <point x="348" y="12" type="qcurve"/>
-      <point x="283" y="97" type="line"/>
-      <point x="385" y="269"/>
-      <point x="592" y="438"/>
-      <point x="701" y="438" type="qcurve" smooth="yes"/>
-      <point x="841" y="438"/>
-      <point x="959" y="193"/>
+      <point x="916.0" y="0.0" type="qcurve"/>
+      <point x="366.0" y="0.0" type="line"/>
+      <point x="366.0" y="102.0" type="line"/>
+      <point x="833.0" y="102.0" type="line"/>
+      <point x="835.0" y="220.0"/>
+      <point x="764.0" y="334.0"/>
+      <point x="689.0" y="334.0" type="qcurve" smooth="yes"/>
+      <point x="605.0" y="334.0"/>
+      <point x="430.0" y="169.0"/>
+      <point x="348.0" y="12.0" type="qcurve"/>
+      <point x="283.0" y="97.0" type="line"/>
+      <point x="385.0" y="269.0"/>
+      <point x="592.0" y="438.0"/>
+      <point x="701.0" y="438.0" type="qcurve" smooth="yes"/>
+      <point x="841.0" y="438.0"/>
+      <point x="959.0" y="193.0"/>
     </contour>
     <component base="behDotless-ar.medi"/>
   </outline>

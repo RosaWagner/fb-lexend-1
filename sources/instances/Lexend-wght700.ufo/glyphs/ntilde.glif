@@ -5,8 +5,8 @@
   <note>
 ntilde
 </note>
-  <anchor x="303" y="0" name="bottom"/>
-  <anchor x="315" y="744" name="top"/>
+  <anchor x="303.0" y="0" name="bottom"/>
+  <anchor x="315.0" y="744.0" name="top"/>
   <outline>
     <component base="n"/>
     <component base="tildecomb" xOffset="100" yOffset="-3"/>

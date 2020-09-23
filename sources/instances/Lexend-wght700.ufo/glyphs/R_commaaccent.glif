@@ -5,8 +5,8 @@
   <note>
 Rcommaaccent
 </note>
-  <anchor x="343" y="-289" name="bottom"/>
-  <anchor x="325" y="700" name="top"/>
+  <anchor x="343.0" y="-289.0" name="bottom"/>
+  <anchor x="325.0" y="700.0" name="top"/>
   <outline>
     <component base="R"/>
     <component base="commaaccentcomb.case" xOffset="221"/>

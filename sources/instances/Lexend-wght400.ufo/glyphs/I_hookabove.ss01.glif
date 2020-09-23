@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ihookabove.ss01" format="2">
   <advance width="308"/>
-  <anchor x="153" y="0" name="bottom"/>
-  <anchor x="343" y="10" name="ogonek"/>
-  <anchor x="143" y="926" name="top"/>
-  <anchor x="100" y="700" name="topleft"/>
+  <anchor x="153.0" y="0" name="bottom"/>
+  <anchor x="343.0" y="10.0" name="ogonek"/>
+  <anchor x="143.0" y="926.0" name="top"/>
+  <anchor x="100.0" y="700.0" name="topleft"/>
   <outline>
     <component base="I.ss01"/>
     <component base="hookabovecomb.case" xOffset="-12" yOffset="166"/>

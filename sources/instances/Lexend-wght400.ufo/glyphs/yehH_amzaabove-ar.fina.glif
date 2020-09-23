@@ -2,7 +2,7 @@
 <glyph name="yehHamzaabove-ar.fina" format="2">
   <advance width="807"/>
   <unicode hex="FE8A"/>
-  <anchor x="347" y="-230" name="bottom"/>
+  <anchor x="347.0" y="-230.0" name="bottom"/>
   <anchor x="180.2" y="514.5999999999999" name="top"/>
   <outline>
     <component base="alefMaksura-ar.fina"/>

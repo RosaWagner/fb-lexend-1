@@ -2,7 +2,7 @@
 <glyph name="wawHamzaabove-ar.fina" format="2">
   <advance width="530"/>
   <unicode hex="FE86"/>
-  <anchor x="183" y="-230" name="bottom"/>
+  <anchor x="183.0" y="-230.0" name="bottom"/>
   <anchor x="263.2" y="678.5999999999999" name="top"/>
   <outline>
     <component base="waw-ar.fina"/>

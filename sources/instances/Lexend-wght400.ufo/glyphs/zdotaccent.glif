@@ -5,8 +5,8 @@
   <note>
 zdotaccent
 </note>
-  <anchor x="240" y="0" name="bottom"/>
-  <anchor x="248" y="750" name="top"/>
+  <anchor x="240.0" y="0" name="bottom"/>
+  <anchor x="248.0" y="750.0" name="top"/>
   <outline>
     <component base="z"/>
     <component base="dotaccentcomb" xOffset="143" yOffset="-1"/>

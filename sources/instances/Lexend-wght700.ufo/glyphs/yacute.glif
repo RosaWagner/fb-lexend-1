@@ -5,8 +5,8 @@
   <note>
 yacute
 </note>
-  <anchor x="490" y="0" name="bottom"/>
-  <anchor x="320" y="769" name="top"/>
+  <anchor x="490.0" y="0" name="bottom"/>
+  <anchor x="320.0" y="769.0" name="top"/>
   <outline>
     <component base="y"/>
     <component base="acutecomb" xOffset="195" yOffset="-22"/>

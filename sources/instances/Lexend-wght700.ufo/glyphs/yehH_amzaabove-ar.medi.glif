@@ -2,7 +2,7 @@
 <glyph name="yehHamzaabove-ar.medi" format="2">
   <advance width="366"/>
   <unicode hex="FE8C"/>
-  <anchor x="179" y="0" name="bottom"/>
+  <anchor x="179.0" y="0" name="bottom"/>
   <anchor x="229.2" y="641.5999999999999" name="top"/>
   <outline>
     <component base="behDotless-ar.medi"/>

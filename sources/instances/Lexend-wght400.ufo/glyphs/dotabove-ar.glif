@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotabove-ar" format="2">
   <advance width="258"/>
-  <anchor x="129" y="438" name="_top"/>
-  <anchor x="129" y="709" name="top"/>
+  <anchor x="129.0" y="438.0" name="_top"/>
+  <anchor x="129.0" y="709.0" name="top"/>
   <outline>
     <contour>
-      <point x="208" y="627" type="line"/>
-      <point x="131" y="545" type="line"/>
-      <point x="50" y="627" type="line"/>
-      <point x="127" y="709" type="line"/>
+      <point x="208.0" y="627.0" type="line"/>
+      <point x="131.0" y="545.0" type="line"/>
+      <point x="50.0" y="627.0" type="line"/>
+      <point x="127.0" y="709.0" type="line"/>
     </contour>
   </outline>
   <lib>

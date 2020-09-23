@@ -4,26 +4,26 @@
   <note>
 J
 </note>
-  <anchor x="310" y="0" name="bottom"/>
-  <anchor x="426" y="700" name="top"/>
+  <anchor x="310.0" y="0" name="bottom"/>
+  <anchor x="426.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="256" y="-10" type="qcurve"/>
-      <point x="188" y="-10"/>
-      <point x="79" y="60"/>
-      <point x="50" y="117" type="qcurve"/>
-      <point x="118" y="188" type="line"/>
-      <point x="161" y="129"/>
-      <point x="219" y="95"/>
-      <point x="256" y="95" type="qcurve" smooth="yes"/>
-      <point x="310" y="95"/>
-      <point x="376" y="167"/>
-      <point x="376" y="223" type="qcurve"/>
-      <point x="376" y="700" type="line"/>
-      <point x="484" y="700" type="line"/>
-      <point x="484" y="213" type="line"/>
-      <point x="484" y="118"/>
-      <point x="357" y="-10"/>
+      <point x="256.0" y="-10.0" type="qcurve"/>
+      <point x="188.0" y="-10.0"/>
+      <point x="79.0" y="60.0"/>
+      <point x="50.0" y="117.0" type="qcurve"/>
+      <point x="118.0" y="188.0" type="line"/>
+      <point x="161.0" y="129.0"/>
+      <point x="219.0" y="95.0"/>
+      <point x="256.0" y="95.0" type="qcurve" smooth="yes"/>
+      <point x="310.0" y="95.0"/>
+      <point x="376.0" y="167.0"/>
+      <point x="376.0" y="223.0" type="qcurve"/>
+      <point x="376.0" y="700.0" type="line"/>
+      <point x="484.0" y="700.0" type="line"/>
+      <point x="484.0" y="213.0" type="line"/>
+      <point x="484.0" y="118.0"/>
+      <point x="357.0" y="-10.0"/>
     </contour>
   </outline>
   <lib>

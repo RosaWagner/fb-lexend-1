@@ -2,11 +2,11 @@
 <glyph name="ocircumflexhookabove" format="2">
   <advance width="615"/>
   <unicode hex="1ED5"/>
-  <anchor x="305" y="0" name="bottom"/>
-  <anchor x="305" y="256" name="center"/>
-  <anchor x="547" y="10" name="ogonek"/>
-  <anchor x="305" y="763" name="top"/>
-  <anchor x="319" y="531" name="topright"/>
+  <anchor x="305.0" y="0" name="bottom"/>
+  <anchor x="305.0" y="256.0" name="center"/>
+  <anchor x="547.0" y="10.0" name="ogonek"/>
+  <anchor x="305.0" y="763.0" name="top"/>
+  <anchor x="319.0" y="531.0" name="topright"/>
   <outline>
     <component base="o"/>
     <component base="circumflexcomb_hookabovecomb" xOffset="118" yOffset="1"/>

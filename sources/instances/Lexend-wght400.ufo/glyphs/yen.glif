@@ -5,21 +5,21 @@
   <note>
 yen
 </note>
-  <anchor x="335" y="-1" name="bottom"/>
-  <anchor x="331" y="700" name="top"/>
-  <anchor x="60" y="700" name="topleft"/>
+  <anchor x="335.0" y="-1.0" name="bottom"/>
+  <anchor x="331.0" y="700.0" name="top"/>
+  <anchor x="60.0" y="700.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="558" y="88" type="line"/>
-      <point x="146" y="90" type="line"/>
-      <point x="146" y="176" type="line"/>
-      <point x="558" y="174" type="line"/>
+      <point x="558.0" y="88.0" type="line"/>
+      <point x="146.0" y="90.0" type="line"/>
+      <point x="146.0" y="176.0" type="line"/>
+      <point x="558.0" y="174.0" type="line"/>
     </contour>
     <contour>
-      <point x="558" y="228" type="line"/>
-      <point x="146" y="230" type="line"/>
-      <point x="146" y="316" type="line"/>
-      <point x="558" y="314" type="line"/>
+      <point x="558.0" y="228.0" type="line"/>
+      <point x="146.0" y="230.0" type="line"/>
+      <point x="146.0" y="316.0" type="line"/>
+      <point x="558.0" y="314.0" type="line"/>
     </contour>
     <component base="Y"/>
   </outline>

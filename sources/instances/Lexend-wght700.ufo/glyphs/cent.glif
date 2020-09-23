@@ -5,22 +5,22 @@
   <note>
 cent
 </note>
-  <anchor x="259" y="88" name="bottom"/>
-  <anchor x="299" y="618" name="top"/>
+  <anchor x="259.0" y="88.0" name="bottom"/>
+  <anchor x="299.0" y="618.0" name="top"/>
   <outline>
     <contour>
-      <point x="336" y="107" type="line"/>
-      <point x="336" y="0" type="line"/>
-      <point x="239" y="0" type="line"/>
-      <point x="239" y="108" type="line"/>
-      <point x="246" y="145" type="line"/>
-      <point x="246" y="563" type="line"/>
-      <point x="239" y="606" type="line"/>
-      <point x="239" y="700" type="line"/>
-      <point x="336" y="700" type="line"/>
-      <point x="336" y="605" type="line"/>
-      <point x="329" y="572" type="line"/>
-      <point x="329" y="141" type="line"/>
+      <point x="336.0" y="107.0" type="line"/>
+      <point x="336.0" y="0.0" type="line"/>
+      <point x="239.0" y="0.0" type="line"/>
+      <point x="239.0" y="108.0" type="line"/>
+      <point x="246.0" y="145.0" type="line"/>
+      <point x="246.0" y="563.0" type="line"/>
+      <point x="239.0" y="606.0" type="line"/>
+      <point x="239.0" y="700.0" type="line"/>
+      <point x="336.0" y="700.0" type="line"/>
+      <point x="336.0" y="605.0" type="line"/>
+      <point x="329.0" y="572.0" type="line"/>
+      <point x="329.0" y="141.0" type="line"/>
     </contour>
     <component base="c" yOffset="88"/>
   </outline>

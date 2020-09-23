@@ -7,28 +7,28 @@ numbersign
 </note>
   <outline>
     <contour>
-      <point x="191" y="0" type="line"/>
-      <point x="101" y="0" type="line"/>
-      <point x="221" y="700" type="line"/>
-      <point x="311" y="700" type="line"/>
+      <point x="191.0" y="0.0" type="line"/>
+      <point x="101.0" y="0.0" type="line"/>
+      <point x="221.0" y="700.0" type="line"/>
+      <point x="311.0" y="700.0" type="line"/>
     </contour>
     <contour>
-      <point x="647" y="453" type="line"/>
-      <point x="69" y="453" type="line"/>
-      <point x="69" y="536" type="line"/>
-      <point x="647" y="536" type="line"/>
+      <point x="647.0" y="453.0" type="line"/>
+      <point x="69.0" y="453.0" type="line"/>
+      <point x="69.0" y="536.0" type="line"/>
+      <point x="647.0" y="536.0" type="line"/>
     </contour>
     <contour>
-      <point x="457" y="0" type="line"/>
-      <point x="367" y="0" type="line"/>
-      <point x="487" y="700" type="line"/>
-      <point x="577" y="700" type="line"/>
+      <point x="457.0" y="0.0" type="line"/>
+      <point x="367.0" y="0.0" type="line"/>
+      <point x="487.0" y="700.0" type="line"/>
+      <point x="577.0" y="700.0" type="line"/>
     </contour>
     <contour>
-      <point x="610" y="173" type="line"/>
-      <point x="31" y="173" type="line"/>
-      <point x="31" y="256" type="line"/>
-      <point x="610" y="256" type="line"/>
+      <point x="610.0" y="173.0" type="line"/>
+      <point x="31.0" y="173.0" type="line"/>
+      <point x="31.0" y="256.0" type="line"/>
+      <point x="610.0" y="256.0" type="line"/>
     </contour>
   </outline>
 </glyph>

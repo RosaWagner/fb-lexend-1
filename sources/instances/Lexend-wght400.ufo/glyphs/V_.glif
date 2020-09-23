@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="V" format="2">
-  <advance width="715"/>
+  <advance width="681"/>
   <unicode hex="0056"/>
   <note>
 V
 </note>
-  <anchor x="357" y="0" name="bottom"/>
-  <anchor x="357" y="700" name="top"/>
+  <anchor x="338.5" y="0" name="bottom"/>
+  <anchor x="338.5" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="304" y="0" type="line"/>
-      <point x="24" y="700" type="line"/>
-      <point x="147" y="700" type="line"/>
-      <point x="314" y="275" type="line"/>
-      <point x="338" y="213"/>
-      <point x="366" y="134"/>
-      <point x="377" y="99" type="qcurve"/>
-      <point x="351" y="98" type="line"/>
-      <point x="361" y="134"/>
-      <point x="388" y="216"/>
-      <point x="410" y="275" type="qcurve"/>
-      <point x="565" y="700" type="line"/>
-      <point x="691" y="700" type="line"/>
-      <point x="409" y="0" type="line"/>
+      <point x="296.0" y="0.0" type="line"/>
+      <point x="24.5" y="700.0" type="line"/>
+      <point x="114.0" y="700.0" type="line"/>
+      <point x="288.0" y="245.5" type="line"/>
+      <point x="311.5" y="183.5"/>
+      <point x="339.5" y="105.0"/>
+      <point x="355.0" y="56.0" type="qcurve"/>
+      <point x="328.5" y="55.5" type="line"/>
+      <point x="344.0" y="106.0"/>
+      <point x="371.5" y="187.5"/>
+      <point x="395.0" y="248.5" type="qcurve"/>
+      <point x="566.5" y="700.0" type="line"/>
+      <point x="656.5" y="700.0" type="line"/>
+      <point x="377.5" y="0.0" type="line"/>
     </contour>
   </outline>
 </glyph>

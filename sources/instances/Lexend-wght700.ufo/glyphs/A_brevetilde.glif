@@ -2,9 +2,9 @@
 <glyph name="Abrevetilde" format="2">
   <advance width="700"/>
   <unicode hex="1EB4"/>
-  <anchor x="352" y="0" name="bottom"/>
-  <anchor x="609" y="10" name="ogonek"/>
-  <anchor x="362" y="1107" name="top"/>
+  <anchor x="352.0" y="0" name="bottom"/>
+  <anchor x="609.0" y="10.0" name="ogonek"/>
+  <anchor x="362.0" y="1107.0" name="top"/>
   <outline>
     <component base="A"/>
     <component base="brevecomb.case" xOffset="148" yOffset="80"/>

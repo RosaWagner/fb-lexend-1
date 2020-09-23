@@ -70,10 +70,8 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>5</integer>
-    <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
-    <false/>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
-    <integer>0</integer>
+    <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
     <false/>
     <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
@@ -81,13 +79,9 @@
     <key>com.typemytype.robofont.compileSettings.decompose</key>
     <false/>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
-    <integer>1</integer>
-    <key>com.typemytype.robofont.compileSettings.layerName</key>
-    <string>foreground</string>
-    <key>com.typemytype.robofont.compileSettings.path</key>
-    <string>/Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/fonts/ttf/Lexend-wght400.ttf</string>
+    <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
-    <integer>1</integer>
+    <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>

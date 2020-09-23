@@ -5,8 +5,8 @@
   <note>
 rcaron
 </note>
-  <anchor x="126" y="0" name="bottom"/>
-  <anchor x="217" y="755" name="top"/>
+  <anchor x="126.0" y="0" name="bottom"/>
+  <anchor x="217.0" y="755.0" name="top"/>
   <outline>
     <component base="r"/>
     <component base="caroncomb" xOffset="37" yOffset="-10"/>

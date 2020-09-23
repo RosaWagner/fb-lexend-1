@@ -7,17 +7,17 @@ radical
 </note>
   <outline>
     <contour>
-      <point x="281" y="-130" type="line"/>
-      <point x="191" y="-130" type="line"/>
-      <point x="15" y="309" type="line"/>
-      <point x="124" y="309" type="line"/>
-      <point x="259" y="-88" type="line"/>
-      <point x="204" y="-67" type="line"/>
-      <point x="473" y="700" type="line"/>
-      <point x="664" y="700" type="line"/>
-      <point x="664" y="603" type="line"/>
-      <point x="492" y="603" type="line"/>
-      <point x="554" y="620" type="line"/>
+      <point x="281.0" y="-130.0" type="line"/>
+      <point x="191.0" y="-130.0" type="line"/>
+      <point x="15.0" y="309.0" type="line"/>
+      <point x="124.0" y="309.0" type="line"/>
+      <point x="259.0" y="-88.0" type="line"/>
+      <point x="204.0" y="-67.0" type="line"/>
+      <point x="473.0" y="700.0" type="line"/>
+      <point x="664.0" y="700.0" type="line"/>
+      <point x="664.0" y="603.0" type="line"/>
+      <point x="492.0" y="603.0" type="line"/>
+      <point x="554.0" y="620.0" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="veh-ar.fina" format="2">
   <advance width="1072"/>
   <unicode hex="FB6B"/>
-  <anchor x="493" y="0" name="bottom"/>
-  <anchor x="795" y="847" name="top"/>
+  <anchor x="493.0" y="0" name="bottom"/>
+  <anchor x="795.0" y="847.0" name="top"/>
   <outline>
     <component base="fehDotless-ar.fina"/>
     <component base="threedotsupabove-ar" xOffset="582" yOffset="1"/>

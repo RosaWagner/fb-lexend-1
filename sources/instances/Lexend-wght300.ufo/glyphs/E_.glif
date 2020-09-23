@@ -11,28 +11,28 @@ E
   <anchor x="39.59820789599239" y="700.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="158" y="0.0" type="line"/>
-      <point x="108" y="0.0" type="line"/>
-      <point x="108" y="700.0" type="line"/>
-      <point x="158" y="700.0" type="line"/>
+      <point x="158.0" y="0.0" type="line"/>
+      <point x="108.0" y="0.0" type="line"/>
+      <point x="108.0" y="700.0" type="line"/>
+      <point x="158.0" y="700.0" type="line"/>
     </contour>
     <contour>
-      <point x="511" y="0.0" type="line"/>
-      <point x="133" y="0.0" type="line"/>
-      <point x="133" y="50" type="line"/>
-      <point x="511" y="50" type="line"/>
+      <point x="511.0" y="0.0" type="line"/>
+      <point x="133.0" y="0.0" type="line"/>
+      <point x="133.0" y="50.0" type="line"/>
+      <point x="511.0" y="50.0" type="line"/>
     </contour>
     <contour>
-      <point x="458" y="336" type="line"/>
-      <point x="132" y="336" type="line"/>
-      <point x="132" y="386" type="line"/>
-      <point x="458" y="386" type="line"/>
+      <point x="458.0" y="336.0" type="line"/>
+      <point x="132.0" y="336.0" type="line"/>
+      <point x="132.0" y="386.0" type="line"/>
+      <point x="458.0" y="386.0" type="line"/>
     </contour>
     <contour>
-      <point x="515" y="650" type="line"/>
-      <point x="132" y="650" type="line"/>
-      <point x="132" y="700.0" type="line"/>
-      <point x="515" y="700.0" type="line"/>
+      <point x="515.0" y="650.0" type="line"/>
+      <point x="132.0" y="650.0" type="line"/>
+      <point x="132.0" y="700.0" type="line"/>
+      <point x="515.0" y="700.0" type="line"/>
     </contour>
   </outline>
   <lib>

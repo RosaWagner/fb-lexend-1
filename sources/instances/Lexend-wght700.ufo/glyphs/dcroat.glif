@@ -5,10 +5,10 @@
   <note>
 dcroat
 </note>
-  <anchor x="321" y="-20" name="bottom"/>
-  <anchor x="486" y="614" name="center"/>
-  <anchor x="321" y="530" name="top"/>
-  <anchor x="608" y="510" name="topright"/>
+  <anchor x="321.0" y="-20.0" name="bottom"/>
+  <anchor x="486.0" y="614.0" name="center"/>
+  <anchor x="321.0" y="530.0" name="top"/>
+  <anchor x="608.0" y="510.0" name="topright"/>
   <outline>
     <component base="d"/>
     <component base="strokeshortcomb" xOffset="309" yOffset="320"/>

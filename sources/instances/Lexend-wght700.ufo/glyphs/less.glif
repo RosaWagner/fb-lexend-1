@@ -7,14 +7,14 @@ less
 </note>
   <outline>
     <contour>
-      <point x="98" y="218" type="line"/>
-      <point x="98" y="285" type="line"/>
-      <point x="457" y="79" type="line"/>
-      <point x="409" y="4" type="line"/>
-      <point x="48" y="211" type="line"/>
-      <point x="48" y="292" type="line"/>
-      <point x="409" y="499" type="line"/>
-      <point x="457" y="424" type="line"/>
+      <point x="98.0" y="218.0" type="line"/>
+      <point x="98.0" y="285.0" type="line"/>
+      <point x="457.0" y="79.0" type="line"/>
+      <point x="409.0" y="4.0" type="line"/>
+      <point x="48.0" y="211.0" type="line"/>
+      <point x="48.0" y="292.0" type="line"/>
+      <point x="409.0" y="499.0" type="line"/>
+      <point x="457.0" y="424.0" type="line"/>
     </contour>
   </outline>
 </glyph>

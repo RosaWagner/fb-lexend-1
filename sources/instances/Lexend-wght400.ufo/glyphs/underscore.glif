@@ -7,10 +7,10 @@ underscore
 </note>
   <outline>
     <contour>
-      <point x="637" y="-160" type="line"/>
-      <point x="53" y="-160" type="line"/>
-      <point x="53" y="-82" type="line"/>
-      <point x="637" y="-82" type="line"/>
+      <point x="637.0" y="-160.0" type="line"/>
+      <point x="53.0" y="-160.0" type="line"/>
+      <point x="53.0" y="-82.0" type="line"/>
+      <point x="637.0" y="-82.0" type="line"/>
     </contour>
   </outline>
 </glyph>

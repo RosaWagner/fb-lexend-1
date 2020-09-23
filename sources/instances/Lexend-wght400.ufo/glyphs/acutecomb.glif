@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb" format="2">
   <unicode hex="0301"/>
-  <anchor x="90" y="532" name="_top"/>
-  <anchor x="125" y="791" name="top"/>
+  <anchor x="90.0" y="532.0" name="_top"/>
+  <anchor x="125.0" y="791.0" name="top"/>
   <outline>
     <component base="acute" xOffset="1" yOffset="60"/>
   </outline>

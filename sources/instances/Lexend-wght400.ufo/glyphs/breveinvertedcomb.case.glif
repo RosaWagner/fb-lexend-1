@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breveinvertedcomb.case" format="2">
-  <anchor x="202" y="700" name="_top"/>
-  <anchor x="202" y="921" name="top"/>
+  <anchor x="202.0" y="700.0" name="_top"/>
+  <anchor x="202.0" y="921.0" name="top"/>
   <outline>
     <component base="breveinvertedcomb" yOffset="161"/>
   </outline>

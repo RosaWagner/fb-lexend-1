@@ -79,7 +79,7 @@
     <key>styleName</key>
     <string>wght700</string>
     <key>unitsPerEm</key>
-    <integer>1000</integer>
+    <real>1000.0</real>
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>

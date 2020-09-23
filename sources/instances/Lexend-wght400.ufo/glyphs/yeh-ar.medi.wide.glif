@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yeh-ar.medi.wide" format="2">
   <advance width="406"/>
-  <anchor x="199" y="-243" name="bottom"/>
-  <anchor x="246" y="350" name="top"/>
+  <anchor x="199.0" y="-243.0" name="bottom"/>
+  <anchor x="246.0" y="350.0" name="top"/>
   <outline>
     <component base="behDotless-ar.medi.wide"/>
     <component base="twodotshorizontalbelow-ar" xOffset="-16"/>

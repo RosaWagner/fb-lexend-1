@@ -5,12 +5,12 @@
   <note>
 fl
 </note>
-  <anchor x="197" y="0" name="bottom_1"/>
-  <anchor x="515" y="0" name="bottom_2"/>
-  <anchor x="515" y="289" name="center"/>
-  <anchor x="197" y="510" name="top_1"/>
-  <anchor x="516" y="740" name="top_2"/>
-  <anchor x="622" y="580" name="topright"/>
+  <anchor x="197.0" y="0" name="bottom_1"/>
+  <anchor x="515.0" y="0" name="bottom_2"/>
+  <anchor x="515.0" y="289.0" name="center"/>
+  <anchor x="197.0" y="510.0" name="top_1"/>
+  <anchor x="516.0" y="740.0" name="top_2"/>
+  <anchor x="622.0" y="580.0" name="topright"/>
   <outline>
     <component base="f"/>
     <component base="l" xOffset="393"/>
