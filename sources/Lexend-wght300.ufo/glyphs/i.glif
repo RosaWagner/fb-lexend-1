@@ -1,16 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i" format="2">
-  <advance width="278"/>
+  <advance width="238"/>
   <unicode hex="0069"/>
   <note>
 i
 </note>
-  <anchor x="139.0" y="0" name="bottom"/>
-  <anchor x="227.0" y="10.0" name="ogonek"/>
-  <anchor x="140.0" y="765.0" name="top"/>
+  <guideline x="139.0" y="0" angle="270.0" identifier="AlPkp59fug"/>
+  <anchor x="119" y="0" name="bottom"/>
+  <anchor x="165" y="10.0" name="ogonek"/>
+  <anchor x="119" y="765.0" name="top"/>
   <outline>
-    <component base="dotaccentcomb" xOffset="35" yOffset="14"/>
-    <component base="idotless" xOffset="19"/>
+    <component base="dotaccentcomb" xOffset="14" yOffset="14"/>
+    <component base="idotless" xOffset="-1"/>
   </outline>
   <lib>
     <dict>

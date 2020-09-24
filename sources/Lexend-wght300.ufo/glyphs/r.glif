@@ -1,33 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="r" format="2">
-  <advance width="403"/>
+  <advance width="369"/>
   <unicode hex="0072"/>
   <note>
 r
 </note>
-  <anchor x="126.0" y="0" name="bottom"/>
-  <anchor x="217.0" y="510.0" name="top"/>
+  <anchor x="99.0" y="0" name="bottom"/>
+  <anchor x="190.0" y="510.0" name="top"/>
   <outline>
     <contour>
-      <point x="393.0" y="526.0" type="qcurve"/>
-      <point x="366.0" y="414.0" type="line"/>
-      <point x="354.0" y="419.0"/>
-      <point x="325.0" y="426.0"/>
-      <point x="311.0" y="426.0" type="qcurve" smooth="yes"/>
-      <point x="257.0" y="426.0"/>
-      <point x="176.0" y="347.0"/>
-      <point x="176.0" y="290.0" type="qcurve"/>
-      <point x="176.0" y="0.0" type="line"/>
-      <point x="72.0" y="0.0" type="line"/>
-      <point x="72.0" y="525.0" type="line"/>
-      <point x="176.0" y="525.0" type="line"/>
-      <point x="176.0" y="360.0" type="line"/>
-      <point x="166.0" y="400.0" type="line"/>
-      <point x="183.0" y="457.0"/>
-      <point x="281.0" y="536.0"/>
-      <point x="336.0" y="536.0" type="qcurve"/>
-      <point x="353.0" y="536.0"/>
-      <point x="384.0" y="530.0"/>
+      <point x="345" y="523" type="qcurve"/>
+      <point x="330" y="465" type="line"/>
+      <point x="316" y="471"/>
+      <point x="290" y="475.0"/>
+      <point x="280" y="475" type="qcurve"/>
+      <point x="200" y="475.0"/>
+      <point x="123.0" y="370.0"/>
+      <point x="123" y="302" type="qcurve"/>
+      <point x="123" y="0" type="line"/>
+      <point x="97" y="0"/>
+      <point x="99" y="0"/>
+      <point x="73" y="0" type="qcurve"/>
+      <point x="73" y="520" type="line"/>
+      <point x="121" y="520" type="line"/>
+      <point x="126" y="404" type="line"/>
+      <point x="119" y="404" type="line"/>
+      <point x="136.01009184067888" y="454.02968188434966"/>
+      <point x="221" y="531.0"/>
+      <point x="287" y="531" type="qcurve"/>
+      <point x="304" y="531"/>
+      <point x="333" y="526"/>
     </contour>
   </outline>
   <lib>

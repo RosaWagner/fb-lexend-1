@@ -82,6 +82,10 @@
     <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <false/>
+    <key>com.typemytype.robofont.guideline.magnetic.6Aoj7c5Mn5</key>
+    <real>8.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.6Aoj7c5Mn5</key>
+    <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
