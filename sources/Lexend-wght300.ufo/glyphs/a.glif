@@ -10,7 +10,7 @@ a
   <anchor x="301.0" y="530.0" name="top"/>
   <outline>
     <contour>
-      <point x="489" y="135" type="line"/>
+      <point x="502" y="143" type="line"/>
       <point x="489" y="114"/>
       <point x="449" y="58"/>
       <point x="428" y="41" type="qcurve" smooth="yes"/>
