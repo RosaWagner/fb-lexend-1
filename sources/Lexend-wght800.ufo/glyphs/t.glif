@@ -17,12 +17,12 @@ t
       <point x="15" y="535" type="line"/>
     </contour>
     <contour>
+      <point x="291" y="670" type="line"/>
       <point x="291" y="0" type="line"/>
       <point x="265" y="0"/>
       <point x="114" y="0"/>
       <point x="88" y="0" type="qcurve"/>
       <point x="88" y="670" type="line"/>
-      <point x="291" y="670" type="line"/>
     </contour>
   </outline>
 </glyph>

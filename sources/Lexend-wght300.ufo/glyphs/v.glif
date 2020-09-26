@@ -11,8 +11,8 @@ v
     <contour>
       <point x="41" y="520" type="line"/>
       <point x="99" y="520" type="line"/>
-      <point x="282" y="69" type="line"/>
-      <point x="274" y="69" type="line"/>
+      <point x="285" y="61" type="line"/>
+      <point x="264" y="47" type="line"/>
       <point x="474" y="520" type="line"/>
       <point x="530" y="520" type="line"/>
       <point x="294" y="0" type="line"/>

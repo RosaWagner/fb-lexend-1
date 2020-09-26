@@ -9,14 +9,6 @@ w
   <anchor x="392" y="505.0" name="top"/>
   <outline>
     <contour>
-      <point x="18" y="520" type="line"/>
-      <point x="76" y="520" type="line"/>
-      <point x="229" y="66" type="line"/>
-      <point x="202" y="68" type="line"/>
-      <point x="368" y="442" type="line"/>
-      <point x="398" y="442" type="line"/>
-      <point x="564" y="68" type="line"/>
-      <point x="532" y="66" type="line"/>
       <point x="690" y="520" type="line"/>
       <point x="745" y="520" type="line"/>
       <point x="561" y="0" type="line"/>
@@ -25,6 +17,14 @@ w
       <point x="401" y="407" type="line"/>
       <point x="224" y="0" type="line"/>
       <point x="202" y="0" type="line"/>
+      <point x="18" y="520" type="line"/>
+      <point x="76" y="520" type="line"/>
+      <point x="229" y="66" type="line"/>
+      <point x="202" y="68" type="line"/>
+      <point x="368" y="442" type="line"/>
+      <point x="398" y="442" type="line"/>
+      <point x="564" y="68" type="line"/>
+      <point x="532" y="66" type="line"/>
     </contour>
   </outline>
   <lib>
