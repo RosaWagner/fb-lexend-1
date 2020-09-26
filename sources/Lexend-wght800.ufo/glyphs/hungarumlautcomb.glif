@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb" format="2">
   <unicode hex="030B"/>
-  <anchor x="172" y="512" name="_top"/>
-  <anchor x="172" y="740" name="top"/>
+  <guideline x="210" y="669" angle="90" identifier="2uiILZQRHP"/>
+  <anchor x="210" y="512" name="_top"/>
+  <anchor x="210" y="740" name="top"/>
   <outline>
     <contour>
-      <point x="225" y="667" type="line"/>
-      <point x="51" y="573" type="line"/>
-      <point x="17" y="624" type="line"/>
-      <point x="160" y="749" type="line"/>
+      <point x="210" y="673" type="line"/>
+      <point x="15" y="564" type="line"/>
+      <point x="-38" y="641" type="line"/>
+      <point x="114" y="793" type="line"/>
     </contour>
     <contour>
-      <point x="424" y="667" type="line"/>
-      <point x="250" y="573" type="line"/>
-      <point x="216" y="624" type="line"/>
-      <point x="359" y="749" type="line"/>
+      <point x="458" y="673" type="line"/>
+      <point x="263" y="564" type="line"/>
+      <point x="210" y="641" type="line"/>
+      <point x="362" y="793" type="line"/>
     </contour>
   </outline>
   <lib>

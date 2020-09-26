@@ -26,6 +26,28 @@
         <key>y</key>
         <integer>520</integer>
       </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>vnRTRUYAhU</string>
+        <key>x</key>
+        <integer>145</integer>
+        <key>y</key>
+        <integer>759</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>TE3wBqeRJJ</string>
+        <key>name</key>
+        <string>o</string>
+        <key>x</key>
+        <integer>345</integer>
+        <key>y</key>
+        <integer>531</integer>
+      </dict>
     </array>
     <key>italicAngle</key>
     <integer>-180</integer>

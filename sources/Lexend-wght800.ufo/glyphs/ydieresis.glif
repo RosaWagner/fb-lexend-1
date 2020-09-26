@@ -6,10 +6,11 @@
 ydieresis
 </note>
   <anchor x="490" y="0" name="bottom"/>
-  <anchor x="285" y="684" name="top"/>
+  <anchor x="328" y="684" name="top"/>
+  <anchor x="328" y="534" name="_top"/>
   <outline>
     <component base="y"/>
-    <component base="dieresiscomb" xOffset="90" yOffset="9"/>
+    <component base="dieresiscomb" xOffset="139" yOffset="9"/>
   </outline>
   <lib>
     <dict>

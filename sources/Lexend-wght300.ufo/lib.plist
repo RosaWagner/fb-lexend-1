@@ -23,6 +23,13 @@
         <string>unicode</string>
       </dict>
     </array>
+    <key>com.loicsander.scaleFast</key>
+    <dict>
+      <key>guides</key>
+      <array/>
+      <key>presets</key>
+      <dict/>
+    </dict>
     <key>com.schriftgestaltung.appVersion</key>
     <string>1271</string>
     <key>com.schriftgestaltung.customName</key>
@@ -84,7 +91,15 @@
     <false/>
     <key>com.typemytype.robofont.guideline.magnetic.6Aoj7c5Mn5</key>
     <real>8.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.TE3wBqeRJJ</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.vnRTRUYAhU</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.showMeasurements.6Aoj7c5Mn5</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.TE3wBqeRJJ</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.vnRTRUYAhU</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>

@@ -10,15 +10,15 @@ m
   <anchor x="468.0" y="510.0" name="top"/>
   <outline>
     <contour>
-      <point x="299" y="531" type="qcurve"/>
-      <point x="370" y="531"/>
+      <point x="315" y="531" type="qcurve"/>
+      <point x="372" y="531"/>
       <point x="455" y="468"/>
       <point x="475" y="375" type="qcurve"/>
-      <point x="463" y="398" type="line"/>
-      <point x="470" y="415" type="line" smooth="yes"/>
-      <point x="488" y="459"/>
-      <point x="594" y="531"/>
-      <point x="651" y="531" type="qcurve"/>
+      <point x="455" y="389" type="line"/>
+      <point x="462" y="406" type="line" smooth="yes"/>
+      <point x="481.9954138037641" y="454.5602906662843"/>
+      <point x="590" y="531.0"/>
+      <point x="664" y="531" type="qcurve"/>
       <point x="742" y="531"/>
       <point x="829" y="426"/>
       <point x="829" y="315" type="qcurve"/>
@@ -27,7 +27,7 @@ m
       <point x="779" y="313" type="line"/>
       <point x="779" y="400"/>
       <point x="714" y="483"/>
-      <point x="646" y="483" type="qcurve" smooth="yes"/>
+      <point x="651" y="483" type="qcurve"/>
       <point x="574" y="483"/>
       <point x="476" y="383"/>
       <point x="476" y="318" type="qcurve"/>
@@ -36,7 +36,7 @@ m
       <point x="426" y="313" type="line"/>
       <point x="426" y="400"/>
       <point x="360" y="483"/>
-      <point x="293" y="483" type="qcurve" smooth="yes"/>
+      <point x="297" y="483" type="qcurve"/>
       <point x="221" y="483"/>
       <point x="123" y="383"/>
       <point x="123" y="318" type="qcurve"/>
@@ -45,9 +45,9 @@ m
       <point x="73" y="520" type="line"/>
       <point x="121" y="520" type="line"/>
       <point x="126" y="394" type="line"/>
-      <point x="112" y="397" type="line"/>
-      <point x="144" y="468"/>
-      <point x="246" y="531"/>
+      <point x="114" y="396" type="line"/>
+      <point x="133" y="460"/>
+      <point x="244" y="531"/>
     </contour>
   </outline>
 </glyph>

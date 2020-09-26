@@ -9,16 +9,16 @@ p
   <anchor x="302.0624850906489" y="510.0" name="top"/>
   <outline>
     <contour>
-      <point x="332" y="531" type="qcurve"/>
+      <point x="334" y="531" type="qcurve"/>
       <point x="439" y="531"/>
       <point x="578" y="378"/>
       <point x="578" y="260" type="qcurve"/>
       <point x="578" y="143"/>
       <point x="431" y="-9.0"/>
       <point x="317" y="-9.0" type="qcurve"/>
-      <point x="245.24120603015075" y="-9.0"/>
-      <point x="130.03312237254835" y="67.88504588350867"/>
-      <point x="113" y="127.0" type="qcurve"/>
+      <point x="244.8894472361809" y="-9.0"/>
+      <point x="130.16063288929848" y="73.97192114890518"/>
+      <point x="112" y="137.0" type="qcurve"/>
       <point x="123" y="131.0" type="line"/>
       <point x="123" y="-220.0" type="line"/>
       <point x="73" y="-220.0" type="line"/>
@@ -32,7 +32,7 @@ p
     <contour>
       <point x="525" y="260" type="qcurve"/>
       <point x="525.0" y="356.0"/>
-      <point x="409.69565217391306" y="481.0"/>
+      <point x="410" y="481.0"/>
       <point x="321" y="481" type="qcurve"/>
       <point x="233.0" y="481.0"/>
       <point x="119.0" y="356.1300448430493"/>
