@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f" format="2">
-  <advance width="393"/>
+  <advance width="405"/>
   <unicode hex="0066"/>
   <note>
 f
@@ -18,20 +18,20 @@ f
       <point x="424" y="700" type="qcurve"/>
       <point x="369" y="560" type="line"/>
       <point x="357" y="569"/>
-      <point x="338.6511627906977" y="575.0"/>
+      <point x="339" y="575"/>
       <point x="324" y="575" type="qcurve"/>
-      <point x="306.0" y="575.0"/>
-      <point x="289.0" y="554.0"/>
+      <point x="306" y="575"/>
+      <point x="289" y="554"/>
       <point x="289" y="533" type="qcurve"/>
       <point x="289" y="0" type="line"/>
       <point x="263" y="0"/>
       <point x="112" y="0"/>
       <point x="86" y="0" type="qcurve"/>
       <point x="86" y="597" type="line"/>
-      <point x="86.0" y="658.457627118644"/>
-      <point x="182.0" y="745.0"/>
+      <point x="86" y="658"/>
+      <point x="182" y="745"/>
       <point x="262" y="745" type="qcurve"/>
-      <point x="308" y="745.0"/>
+      <point x="308" y="745"/>
       <point x="389" y="723"/>
     </contour>
   </outline>

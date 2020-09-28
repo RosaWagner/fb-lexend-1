@@ -10,6 +10,6 @@
   <anchor x="387" y="706" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb.case" xOffset="186" yOffset="175"/>
+    <component base="dieresiscomb.case" xOffset="210" yOffset="175"/>
   </outline>
 </glyph>

@@ -7,15 +7,15 @@
     <contour>
       <point x="151.0" y="700.0" type="qcurve" smooth="yes"/>
       <point x="151.0" y="680.0"/>
-      <point x="126.59183673469387" y="655.0"/>
+      <point x="127" y="655.0"/>
       <point x="105.0" y="655.0" type="qcurve" smooth="yes"/>
-      <point x="83.40816326530613" y="655.0"/>
+      <point x="83" y="655.0"/>
       <point x="59.0" y="679.0"/>
       <point x="59.0" y="700.0" type="qcurve" smooth="yes"/>
       <point x="59.0" y="720.0"/>
-      <point x="83.40816326530613" y="745.0"/>
+      <point x="83" y="745.0"/>
       <point x="105.0" y="745.0" type="qcurve" smooth="yes"/>
-      <point x="126.59183673469387" y="745.0"/>
+      <point x="127" y="745.0"/>
       <point x="151.0" y="721.0"/>
     </contour>
   </outline>

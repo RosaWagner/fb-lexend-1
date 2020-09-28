@@ -11,8 +11,8 @@ u
   <anchor x="356.0" y="532.0" name="topright"/>
   <outline>
     <contour>
-      <point x="261" y="37" type="qcurve" smooth="yes"/>
-      <point x="335" y="37"/>
+      <point x="261" y="38" type="qcurve" smooth="yes"/>
+      <point x="335" y="38"/>
       <point x="437" y="137"/>
       <point x="437" y="202" type="qcurve"/>
       <point x="437" y="520" type="line"/>
@@ -24,16 +24,16 @@ u
       <point x="434" y="110" type="line"/>
       <point x="440" y="110" type="line"/>
       <point x="424" y="61"/>
-      <point x="317" y="-11"/>
-      <point x="260" y="-11" type="qcurve"/>
-      <point x="164" y="-11"/>
+      <point x="317" y="-10"/>
+      <point x="260" y="-10" type="qcurve"/>
+      <point x="164" y="-10"/>
       <point x="72" y="94"/>
       <point x="72" y="205" type="qcurve"/>
       <point x="72" y="520" type="line"/>
       <point x="122" y="520" type="line"/>
       <point x="122" y="207" type="line"/>
       <point x="122" y="120"/>
-      <point x="190" y="37"/>
+      <point x="190" y="38"/>
     </contour>
   </outline>
 </glyph>

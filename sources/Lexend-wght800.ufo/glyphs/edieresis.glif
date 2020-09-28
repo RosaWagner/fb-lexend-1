@@ -10,7 +10,7 @@ edieresis
   <anchor x="293" y="704" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dieresiscomb" xOffset="98" yOffset="29"/>
+    <component base="dieresiscomb" xOffset="112"/>
   </outline>
   <lib>
     <dict>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="edieresis" format="2">
-  <advance width="586"/>
+  <advance width="540"/>
   <unicode hex="00EB"/>
   <note>
 edieresis
@@ -10,7 +10,7 @@ edieresis
   <anchor x="293.0" y="704.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dieresiscomb" xOffset="98" yOffset="29"/>
+    <component base="dieresiscomb" xOffset="82"/>
   </outline>
   <lib>
     <dict>

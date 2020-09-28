@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="j" format="2">
-  <advance width="249"/>
+  <advance width="200"/>
   <unicode hex="006A"/>
   <note>
 j
@@ -8,7 +8,7 @@ j
   <anchor x="137" y="0" name="bottom"/>
   <anchor x="124" y="520.0" name="_top"/>
   <outline>
-    <component base="jdotless" xOffset="-14"/>
-    <component base="dotaccentcomb" xOffset="19" yOffset="14"/>
+    <component base="jdotless" xOffset="-38"/>
+    <component base="dotaccentcomb" xOffset="-5" yOffset="14"/>
   </outline>
 </glyph>
