@@ -9,8 +9,8 @@ i
   <anchor x="227" y="10" name="ogonek"/>
   <anchor x="140" y="765" name="top"/>
   <outline>
-    <component base="dotaccentcomb" xOffset="35" yOffset="14"/>
     <component base="idotless" xOffset="19"/>
+    <component base="dotaccentcomb" xOffset="35" yOffset="14"/>
   </outline>
   <lib>
     <dict>

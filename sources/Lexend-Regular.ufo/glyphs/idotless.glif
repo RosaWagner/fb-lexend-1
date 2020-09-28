@@ -12,7 +12,6 @@ dotlessi
     <contour>
       <point x="175" y="525" type="line"/>
       <point x="175" y="0" type="line"/>
-      <point x="121" y="0" type="line"/>
       <point x="72" y="0" type="line"/>
       <point x="72" y="525" type="line"/>
     </contour>

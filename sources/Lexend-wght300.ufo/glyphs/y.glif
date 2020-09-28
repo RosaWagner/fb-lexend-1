@@ -9,18 +9,22 @@ y
   <anchor x="252" y="510.0" name="top"/>
   <outline>
     <contour>
-      <point x="282" y="39" type="line"/>
+      <point x="282" y="39" type="qcurve"/>
       <point x="265" y="-32" type="line"/>
       <point x="8" y="520" type="line"/>
       <point x="61" y="520" type="line"/>
       <point x="254" y="106" type="line"/>
+      <point x="263" y="84"/>
+      <point x="273" y="61"/>
     </contour>
     <contour>
       <point x="214" y="-230" type="line"/>
       <point x="162" y="-230" type="line"/>
       <point x="241" y="-30" type="line"/>
       <point x="263" y="30" type="line"/>
-      <point x="292" y="106" type="line"/>
+      <point x="273" y="55"/>
+      <point x="282" y="81"/>
+      <point x="292" y="106" type="qcurve"/>
       <point x="459" y="520" type="line"/>
       <point x="512" y="520" type="line"/>
       <point x="302" y="-9" type="line"/>

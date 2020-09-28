@@ -9,6 +9,12 @@ k
   <anchor x="253.0" y="510.0" name="top"/>
   <outline>
     <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="75" y="740" type="line"/>
+      <point x="125" y="740" type="line"/>
+    </contour>
+    <contour>
       <point x="410" y="520" type="line"/>
       <point x="476" y="520" type="line"/>
       <point x="117" y="172" type="line"/>
@@ -19,12 +25,6 @@ k
       <point x="438" y="0" type="line"/>
       <point x="198" y="278" type="line"/>
       <point x="232" y="315" type="line"/>
-    </contour>
-    <contour>
-      <point x="125" y="0" type="line"/>
-      <point x="75" y="0" type="line"/>
-      <point x="75" y="740" type="line"/>
-      <point x="125" y="740" type="line"/>
     </contour>
   </outline>
   <lib>

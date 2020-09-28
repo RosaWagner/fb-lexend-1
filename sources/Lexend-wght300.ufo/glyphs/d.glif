@@ -11,20 +11,6 @@ d
   <anchor x="600.0" y="510.0" name="topright"/>
   <outline>
     <contour>
-      <point x="85" y="261" type="qcurve"/>
-      <point x="85" y="166"/>
-      <point x="197" y="40"/>
-      <point x="287" y="40" type="qcurve"/>
-      <point x="373" y="40"/>
-      <point x="488" y="164"/>
-      <point x="488" y="261" type="qcurve"/>
-      <point x="488" y="357"/>
-      <point x="374" y="481"/>
-      <point x="287" y="481" type="qcurve"/>
-      <point x="198" y="481"/>
-      <point x="85" y="357"/>
-    </contour>
-    <contour>
       <point x="484" y="740" type="line"/>
       <point x="534" y="740" type="line"/>
       <point x="534" y="0" type="line"/>
@@ -44,6 +30,20 @@ d
       <point x="482" y="440"/>
       <point x="501" y="372" type="qcurve"/>
       <point x="484" y="389" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="261" type="qcurve"/>
+      <point x="85" y="166"/>
+      <point x="197" y="40"/>
+      <point x="287" y="40" type="qcurve"/>
+      <point x="373" y="40"/>
+      <point x="488" y="164"/>
+      <point x="488" y="261" type="qcurve"/>
+      <point x="488" y="357"/>
+      <point x="374" y="481"/>
+      <point x="287" y="481" type="qcurve"/>
+      <point x="198" y="481"/>
+      <point x="85" y="357"/>
     </contour>
   </outline>
 </glyph>
