@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wgrave" format="2">
+  <advance width="800"/>
+  <unicode hex="1E81"/>
+  <note>
+wgrave
+</note>
+  <anchor x="410.0" y="0" name="bottom"/>
+  <anchor x="381.0" y="750.0" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="gravecomb" xOffset="256" yOffset="-14"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

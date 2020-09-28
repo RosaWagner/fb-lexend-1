@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <anchor x="175.0" y="527.0" name="_top"/>
+  <anchor x="175.0" y="770.0" name="top"/>
+  <outline>
+    <component base="hungarumlaut.case" xOffset="7" yOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>419</integer>
+    </dict>
+  </lib>
+</glyph>

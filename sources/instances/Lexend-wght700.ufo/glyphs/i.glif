@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="328"/>
+  <unicode hex="0069"/>
+  <note>
+i
+</note>
+  <anchor x="165.66666666666666" y="0" name="bottom"/>
+  <anchor x="253.66666666666666" y="10.0" name="ogonek"/>
+  <anchor x="166.0" y="765.0" name="top"/>
+  <outline>
+    <component base="idotless" xOffset="9.666666666666668"/>
+    <component base="dotaccentcomb" xOffset="59.666666666666664" yOffset="14"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>idotless</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>idotless</string>
+    </dict>
+  </lib>
+</glyph>

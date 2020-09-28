@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildeacute" format="2">
+  <advance width="615"/>
+  <unicode hex="1E4D"/>
+  <anchor x="305.0" y="0" name="bottom"/>
+  <anchor x="305.0" y="256.0" name="center"/>
+  <anchor x="547.0" y="10.0" name="ogonek"/>
+  <anchor x="352.0" y="1006.0" name="top"/>
+  <anchor x="319.0" y="531.0" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildecomb" xOffset="102"/>
+    <component base="acutecomb" xOffset="227" yOffset="215"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb.case" format="2">
+  <anchor x="201.0" y="0" name="_bottom"/>
+  <anchor x="201.0" y="-179.0" name="bottom"/>
+  <outline>
+    <component base="brevecomb" yOffset="-733"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>402</integer>
+    </dict>
+  </lib>
+</glyph>

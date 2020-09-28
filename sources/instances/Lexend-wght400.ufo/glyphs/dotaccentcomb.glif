@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb" format="2">
+  <unicode hex="0307"/>
+  <anchor x="105.0" y="515.5" name="_top"/>
+  <anchor x="105.0" y="751.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="163.0" y="695.0" type="qcurve" smooth="yes"/>
+      <point x="163.0" y="670.5"/>
+      <point x="132.5" y="640.0"/>
+      <point x="105.5" y="640.0" type="qcurve" smooth="yes"/>
+      <point x="78.0" y="640.0"/>
+      <point x="48.0" y="669.0"/>
+      <point x="48.0" y="695.0" type="qcurve" smooth="yes"/>
+      <point x="48.0" y="719.5"/>
+      <point x="78.5" y="750.0"/>
+      <point x="105.5" y="750.0" type="qcurve" smooth="yes"/>
+      <point x="133.0" y="750.0"/>
+      <point x="163.0" y="721.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>
