@@ -4,12 +4,13 @@
   <note>
 i.loclTRK
 </note>
+  <guideline x="121.5" y="0" angle="270.0" identifier="fdguLc33Dl"/>
   <anchor x="124.0" y="0" name="bottom"/>
   <anchor x="208.0" y="10.0" name="ogonek"/>
-  <anchor x="124.0" y="765.0" name="top"/>
+  <anchor x="121.0" y="765.0" name="top"/>
   <outline>
-    <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="19" yOffset="14"/>
+    <component base="idotless" xOffset="23"/>
+    <component base="dotaccentcomb" xOffset="17" yOffset="14"/>
   </outline>
   <lib>
     <dict>

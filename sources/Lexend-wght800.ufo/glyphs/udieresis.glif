@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="udieresis" format="2">
-  <advance width="669"/>
+  <advance width="605"/>
   <unicode hex="00FC"/>
   <note>
 udieresis
@@ -11,7 +11,7 @@ udieresis
   <anchor x="386" y="532" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dieresiscomb" xOffset="135"/>
+    <component base="dieresiscomb" xOffset="134" yOffset="9"/>
   </outline>
   <lib>
     <dict>

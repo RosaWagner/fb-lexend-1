@@ -1,20 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="less" format="2">
-  <advance width="524"/>
+  <advance width="489"/>
   <unicode hex="003C"/>
   <note>
 less
 </note>
+  <guideline x="423" y="468" angle="270" identifier="lhr7cOHsg2"/>
   <outline>
     <contour>
-      <point x="98.0" y="218.0" type="line"/>
-      <point x="98.0" y="285.0" type="line"/>
-      <point x="457.0" y="79.0" type="line"/>
-      <point x="409.0" y="4.0" type="line"/>
-      <point x="48.0" y="211.0" type="line"/>
-      <point x="48.0" y="292.0" type="line"/>
-      <point x="409.0" y="499.0" type="line"/>
-      <point x="457.0" y="424.0" type="line"/>
+      <point x="54" y="227" type="line"/>
+      <point x="54" y="278" type="line"/>
+      <point x="406" y="480" type="line"/>
+      <point x="429" y="443" type="line"/>
+      <point x="79" y="241" type="line"/>
+      <point x="79" y="264" type="line"/>
+      <point x="429" y="62" type="line"/>
+      <point x="406" y="25" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

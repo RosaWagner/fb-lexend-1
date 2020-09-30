@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odieresis" format="2">
-  <advance width="660"/>
+  <advance width="615"/>
   <unicode hex="00F6"/>
   <note>
 odieresis
@@ -12,7 +12,7 @@ odieresis
   <anchor x="319" y="531" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb" xOffset="137"/>
+    <component base="dieresiscomb" xOffset="110" yOffset="12"/>
   </outline>
   <lib>
     <dict>
