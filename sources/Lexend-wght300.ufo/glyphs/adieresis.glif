@@ -10,7 +10,7 @@ adieresis
   <anchor x="307.0" y="704.0" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="dieresiscomb" xOffset="93"/>
+    <component base="dieresiscomb" xOffset="123" yOffset="68"/>
   </outline>
   <lib>
     <dict>

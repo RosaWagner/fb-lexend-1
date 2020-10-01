@@ -6,10 +6,10 @@
 cacute
 </note>
   <anchor x="259.0" y="0" name="bottom"/>
-  <anchor x="334.0" y="789.0" name="top"/>
+  <anchor x="273.0" y="789.0" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="acutecomb" xOffset="209" yOffset="-2"/>
+    <component base="acutecomb" xOffset="110" yOffset="-2"/>
   </outline>
   <lib>
     <dict>

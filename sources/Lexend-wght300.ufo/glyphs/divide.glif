@@ -1,44 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="divide" format="2">
-  <advance width="597"/>
+  <advance width="591"/>
   <unicode hex="00F7"/>
   <note>
 divide
 </note>
+  <guideline x="295.5" y="0" angle="270.0" identifier="EWBCfLqhk8"/>
   <outline>
-    <contour>
-      <point x="547.0" y="215.0" type="line"/>
-      <point x="50.0" y="215.0" type="line"/>
-      <point x="50.0" y="305.0" type="line"/>
-      <point x="547.0" y="305.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="358.0" y="80.0" type="qcurve" smooth="yes"/>
-      <point x="358.0" y="53.0"/>
-      <point x="320.0" y="15.0"/>
-      <point x="293.0" y="15.0" type="qcurve" smooth="yes"/>
-      <point x="266.0" y="15.0"/>
-      <point x="227.0" y="53.0"/>
-      <point x="227.0" y="80.0" type="qcurve" smooth="yes"/>
-      <point x="227.0" y="107.0"/>
-      <point x="266.0" y="145.0"/>
-      <point x="293.0" y="145.0" type="qcurve" smooth="yes"/>
-      <point x="320.0" y="145.0"/>
-      <point x="358.0" y="107.0"/>
-    </contour>
-    <contour>
-      <point x="358.0" y="436.0" type="qcurve" smooth="yes"/>
-      <point x="358.0" y="410.0"/>
-      <point x="319.0" y="372.0"/>
-      <point x="293.0" y="372.0" type="qcurve" smooth="yes"/>
-      <point x="266.0" y="372.0"/>
-      <point x="227.0" y="410.0"/>
-      <point x="227.0" y="436.0" type="qcurve" smooth="yes"/>
-      <point x="227.0" y="463.0"/>
-      <point x="266.0" y="502.0"/>
-      <point x="293.0" y="502.0" type="qcurve" smooth="yes"/>
-      <point x="320.0" y="502.0"/>
-      <point x="358.0" y="463.0"/>
-    </contour>
+    <component base="minus" yOffset="-5"/>
+    <component base="dotaccent" xOffset="191" yOffset="-262"/>
+    <component base="dotaccent" xOffset="190" yOffset="-576"/>
   </outline>
 </glyph>

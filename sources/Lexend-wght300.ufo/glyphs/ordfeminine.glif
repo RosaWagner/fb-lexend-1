@@ -8,12 +8,12 @@ ordfeminine
   <outline>
     <contour>
       <point x="155.0" y="391.0" type="qcurve"/>
-      <point x="90" y="391.0"/>
-      <point x="15.0" y="485.0"/>
-      <point x="15.0" y="562.0" type="qcurve"/>
-      <point x="15.0" y="631.0"/>
-      <point x="93.0" y="721.0"/>
-      <point x="155.0" y="721.0" type="qcurve"/>
+      <point x="94.64285714285714" y="391.0"/>
+      <point x="25.0" y="485.0"/>
+      <point x="25.0" y="562.0" type="qcurve"/>
+      <point x="25.0" y="631.0"/>
+      <point x="97" y="721.0"/>
+      <point x="159.0" y="721.0" type="qcurve"/>
       <point x="218" y="721.0"/>
       <point x="287.0" y="654.0"/>
       <point x="287.0" y="592.0" type="qcurve"/>
@@ -28,9 +28,9 @@ ordfeminine
       <point x="208.0" y="391.0"/>
     </contour>
     <contour>
-      <point x="58.0" y="562.0" type="qcurve"/>
-      <point x="58.0" y="500"/>
-      <point x="118.46491228070175" y="428.0"/>
+      <point x="68.0" y="562.0" type="qcurve"/>
+      <point x="68.0" y="500.0"/>
+      <point x="123.1140350877193" y="428.0"/>
       <point x="171.0" y="428.0" type="qcurve"/>
       <point x="217.82432432432432" y="428.0"/>
       <point x="276.0" y="497.0"/>
@@ -38,8 +38,14 @@ ordfeminine
       <point x="276.0" y="615.0"/>
       <point x="220.0" y="684.0"/>
       <point x="171.0" y="684.0" type="qcurve"/>
-      <point x="124.0" y="684.0"/>
-      <point x="58.0" y="612"/>
+      <point x="128.15929203539824" y="684.0"/>
+      <point x="68.0" y="612.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>
