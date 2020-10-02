@@ -5,10 +5,10 @@
   <note>
 i
 </note>
-  <guideline x="119" y="-30" angle="270.0" identifier="AlPkp59fug"/>
-  <anchor x="139" y="0" name="bottom"/>
-  <anchor x="227" y="10" name="ogonek"/>
-  <anchor x="140" y="765" name="top"/>
+  <guideline x="100.0" y="0" angle="270.0" identifier="JRtEA1Ek1q"/>
+  <anchor x="100" y="1" name="bottom"/>
+  <anchor x="117" y="12" name="ogonek"/>
+  <anchor x="100" y="765" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="dotaccentcomb" xOffset="-5" yOffset="14"/>

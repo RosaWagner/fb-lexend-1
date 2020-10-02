@@ -2,20 +2,22 @@
 <glyph name="acutecomb" format="2">
   <unicode hex="0301"/>
   <guideline x="126" y="441" angle="270" identifier="shSsaxRl05"/>
-  <anchor x="126.0" y="532.0" name="_top"/>
-  <anchor x="125.0" y="791.0" name="top"/>
+  <anchor x="126.0" y="540" name="_top"/>
+  <anchor x="126.0" y="740" name="top"/>
   <outline>
     <contour>
-      <point x="234.0" y="725.0" type="line"/>
-      <point x="73.0" y="633.0" type="line"/>
-      <point x="60.0" y="652.0" type="line"/>
-      <point x="196.0" y="772.0" type="line"/>
+      <point x="234.0" y="693.0" type="line"/>
+      <point x="73.0" y="601.0" type="line"/>
+      <point x="60.0" y="620.0" type="line"/>
+      <point x="196.0" y="740.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>269</integer>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

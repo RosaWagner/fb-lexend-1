@@ -2,17 +2,23 @@
 <glyph name="caron" format="2">
   <advance width="362"/>
   <unicode hex="02C7"/>
-  <anchor x="180.0" y="515.0" name="_top"/>
+  <anchor x="180" y="520" name="_top"/>
   <outline>
     <contour>
-      <point x="196.0" y="660.0" type="line"/>
-      <point x="166.0" y="660.0" type="line"/>
-      <point x="291.0" y="733.0" type="line"/>
-      <point x="329.0" y="700.0" type="line"/>
-      <point x="224.0" y="587.0" type="line"/>
-      <point x="138.0" y="587.0" type="line"/>
-      <point x="33.0" y="700.0" type="line"/>
-      <point x="71.0" y="733.0" type="line"/>
+      <point x="309" y="748" type="line"/>
+      <point x="329" y="733" type="line"/>
+      <point x="214" y="620" type="line"/>
+      <point x="148" y="620" type="line"/>
+      <point x="33" y="733" type="line"/>
+      <point x="53" y="748" type="line"/>
+      <point x="196" y="653" type="line"/>
+      <point x="166" y="653" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

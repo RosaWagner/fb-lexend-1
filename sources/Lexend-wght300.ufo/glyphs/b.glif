@@ -9,7 +9,7 @@ b
   <guideline x="865" y="493" angle="270" identifier="MaBVgWS3Ig"/>
   <guideline x="644" y="76" angle="270" identifier="x0h7L4YUfZ"/>
   <anchor x="302.0" y="0" name="bottom"/>
-  <anchor x="302.0" y="510.0" name="top"/>
+  <anchor x="302.0" y="520" name="top"/>
   <outline>
     <contour>
       <point x="330" y="531" type="qcurve"/>

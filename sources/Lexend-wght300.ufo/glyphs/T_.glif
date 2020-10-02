@@ -5,9 +5,10 @@
   <note>
 T
 </note>
-  <anchor x="278" y="0" name="bottom"/>
-  <anchor x="278" y="350.0" name="center"/>
-  <anchor x="278" y="700.0" name="top"/>
+  <guideline x="258.5" y="0" angle="270.0" identifier="FEKkJemmlO"/>
+  <anchor x="258" y="0" name="bottom"/>
+  <anchor x="259" y="350.0" name="center"/>
+  <anchor x="259" y="700.0" name="top"/>
   <outline>
     <contour>
       <point x="280" y="0" type="line"/>

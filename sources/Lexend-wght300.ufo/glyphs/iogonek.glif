@@ -7,29 +7,32 @@ iogonek
 </note>
   <outline>
     <contour>
-      <point x="145.0" y="52.0" type="qcurve"/>
-      <point x="95.0" y="7.0" type="line"/>
-      <point x="95.0" y="525.0" type="line"/>
-      <point x="198.0" y="525.0" type="line"/>
-      <point x="198.0" y="0.0" type="line"/>
-      <point x="148.0" y="-21.0"/>
-      <point x="93.0" y="-75.0"/>
-      <point x="93.0" y="-102.0" type="qcurve" smooth="yes"/>
-      <point x="93.0" y="-120.0"/>
-      <point x="120.0" y="-144.0"/>
-      <point x="140.0" y="-144.0" type="qcurve" smooth="yes"/>
-      <point x="152.0" y="-144.0"/>
-      <point x="180.0" y="-131.0"/>
-      <point x="195.0" y="-118.0" type="qcurve"/>
-      <point x="234.0" y="-177.0" type="line"/>
-      <point x="204.0" y="-199.0"/>
-      <point x="147.0" y="-221.0"/>
-      <point x="120.0" y="-221.0" type="qcurve" smooth="yes"/>
-      <point x="68.0" y="-221.0"/>
-      <point x="0.0" y="-161.0"/>
-      <point x="0.0" y="-114.0" type="qcurve" smooth="yes"/>
-      <point x="0.0" y="-70.0"/>
-      <point x="70.0" y="11.0"/>
+      <point x="137" y="-201" type="qcurve"/>
+      <point x="91.57943925233644" y="-201.0"/>
+      <point x="29.0" y="-148.0"/>
+      <point x="29" y="-103" type="qcurve"/>
+      <point x="29.0" y="-58.0"/>
+      <point x="85" y="0"/>
+      <point x="130" y="21" type="qcurve"/>
+      <point x="167" y="0" type="line"/>
+      <point x="117" y="-26"/>
+      <point x="77.0" y="-71.0"/>
+      <point x="77" y="-103" type="qcurve"/>
+      <point x="77.0" y="-128"/>
+      <point x="113.0" y="-160.0"/>
+      <point x="142" y="-160" type="qcurve"/>
+      <point x="161.0" y="-160.0"/>
+      <point x="198.18875315135398" y="-146.81124684864602"/>
+      <point x="211" y="-134" type="qcurve"/>
+      <point x="231" y="-164" type="line"/>
+      <point x="214" y="-180"/>
+      <point x="164" y="-201"/>
+    </contour>
+    <contour>
+      <point x="167" y="520" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="117" y="0" type="line"/>
+      <point x="117" y="520" type="line"/>
     </contour>
     <component base="dotaccentcomb" xOffset="45"/>
   </outline>

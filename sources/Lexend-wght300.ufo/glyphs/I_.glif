@@ -5,9 +5,10 @@
   <note>
 I
 </note>
-  <anchor x="233.73213859732826" y="0" name="bottom"/>
-  <anchor x="423.73213859732823" y="10.0" name="ogonek"/>
-  <anchor x="233.73213859732826" y="700.0" name="top"/>
+  <guideline x="206.0" y="0" angle="270.0" identifier="Ryo1iLfLUE"/>
+  <anchor x="206" y="0" name="bottom"/>
+  <anchor x="314" y="10.0" name="ogonek"/>
+  <anchor x="206" y="700.0" name="top"/>
   <anchor x="118.73213859732826" y="700.0" name="topleft"/>
   <outline>
     <contour>

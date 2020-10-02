@@ -2,27 +2,26 @@
 <glyph name="kgreenlandic" format="2">
   <advance width="556"/>
   <unicode hex="0138"/>
-  <anchor x="295.0" y="0" name="bottom"/>
-  <anchor x="295.0" y="510.0" name="top"/>
+  <anchor x="263.0" y="0" name="bottom"/>
+  <anchor x="255.0" y="520.0" name="top"/>
   <outline>
     <contour>
-      <point x="171.0" y="0.0" type="line"/>
-      <point x="74.0" y="0.0" type="line"/>
-      <point x="74.0" y="525.0" type="line"/>
-      <point x="171.0" y="525.0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="75" y="520" type="line"/>
+      <point x="125" y="520" type="line"/>
     </contour>
     <contour>
-      <point x="408.0" y="525.0" type="line"/>
-      <point x="529.0" y="525.0" type="line"/>
-      <point x="276.0" y="269.0" type="line"/>
-      <point x="162.0" y="154.0" type="line"/>
-      <point x="157.0" y="256.0" type="line"/>
+      <point x="400" y="520" type="line"/>
+      <point x="466" y="520" type="line"/>
+      <point x="107" y="172" type="line"/>
+      <point x="107" y="235" type="line"/>
     </contour>
     <contour>
-      <point x="534.0" y="-1.0" type="line"/>
-      <point x="411.0" y="0.0" type="line"/>
-      <point x="218.0" y="272.0" type="line"/>
-      <point x="287.0" y="319.0" type="line"/>
+      <point x="494" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="188" y="278" type="line"/>
+      <point x="222" y="315" type="line"/>
     </contour>
   </outline>
   <lib>

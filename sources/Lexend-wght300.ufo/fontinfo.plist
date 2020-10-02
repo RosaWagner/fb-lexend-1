@@ -32,9 +32,21 @@
         <key>identifier</key>
         <string>vnRTRUYAhU</string>
         <key>x</key>
-        <integer>579</integer>
+        <integer>213</integer>
         <key>y</key>
-        <integer>760</integer>
+        <integer>756</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>wkEEQaGfdl</string>
+        <key>name</key>
+        <string>diacritics-base</string>
+        <key>x</key>
+        <integer>183</integer>
+        <key>y</key>
+        <integer>620</integer>
       </dict>
     </array>
     <key>italicAngle</key>

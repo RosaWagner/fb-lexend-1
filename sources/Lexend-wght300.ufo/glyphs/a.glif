@@ -5,10 +5,9 @@
   <note>
 a
 </note>
-  <guideline x="485" y="215" angle="270" identifier="MBcyPfDNFT"/>
-  <anchor x="304.0" y="-20.0" name="bottom"/>
-  <anchor x="553.0" y="3.0" name="ogonek"/>
-  <anchor x="300.0" y="530.0" name="top"/>
+  <anchor x="304.0" y="0" name="bottom"/>
+  <anchor x="524.0" y="10.0" name="ogonek"/>
+  <anchor x="300.0" y="520" name="top"/>
   <outline>
     <contour>
       <point x="486" y="520" type="line"/>

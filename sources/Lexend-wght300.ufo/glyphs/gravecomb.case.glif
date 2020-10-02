@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb.case" format="2">
-  <anchor x="167.0" y="519.0" name="_top"/>
-  <anchor x="125.0" y="764.0" name="top"/>
+  <anchor x="127.0" y="520" name="_top"/>
+  <anchor x="140.0" y="740.0" name="top"/>
   <outline>
     <contour>
       <point x="48.0" y="694.0" type="line"/>
@@ -14,6 +14,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>250</integer>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

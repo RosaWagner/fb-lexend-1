@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb" format="2">
   <unicode hex="0304"/>
-  <anchor x="213.0" y="529.0" name="_top"/>
-  <anchor x="213.0" y="683.0" name="top"/>
+  <guideline x="211" y="552" angle="270" identifier="qWiouJS4Pn"/>
+  <anchor x="211.0" y="520" name="_top"/>
+  <anchor x="211.0" y="740" name="top"/>
   <outline>
     <component base="macron" yOffset="46"/>
   </outline>
@@ -10,6 +11,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>424</integer>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

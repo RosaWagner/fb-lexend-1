@@ -1,24 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb" format="2">
   <unicode hex="030C"/>
-  <anchor x="180.0" y="520.0" name="_top"/>
-  <anchor x="180.0" y="765.0" name="top"/>
+  <guideline x="181" y="616" angle="270" identifier="sEBLFv87y5"/>
+  <anchor x="181.0" y="520.0" name="_top"/>
+  <anchor x="181.0" y="765.0" name="top"/>
   <outline>
     <contour>
-      <point x="196.0" y="700.0" type="line"/>
-      <point x="166.0" y="700.0" type="line"/>
-      <point x="291.0" y="773.0" type="line"/>
-      <point x="329.0" y="740.0" type="line"/>
-      <point x="224.0" y="627.0" type="line"/>
-      <point x="138.0" y="627.0" type="line"/>
-      <point x="33.0" y="740.0" type="line"/>
-      <point x="71.0" y="773.0" type="line"/>
+      <point x="303.0" y="761.0" type="line"/>
+      <point x="321.0" y="748.0" type="line"/>
+      <point x="214.0" y="642.0" type="line"/>
+      <point x="148.0" y="642.0" type="line"/>
+      <point x="42.0" y="748.0" type="line"/>
+      <point x="59.0" y="762.0" type="line"/>
+      <point x="196.0" y="675.0" type="line"/>
+      <point x="166.0" y="675.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>359</integer>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

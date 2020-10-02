@@ -8,7 +8,7 @@ h
   <guideline x="297.5" y="0" angle="270.0" identifier="IcEqilVbz3"/>
   <anchor x="278.0" y="0" name="bottom"/>
   <anchor x="102.0" y="593.0" name="center"/>
-  <anchor x="101.0" y="729.0" name="top"/>
+  <anchor x="99.0" y="740.0" name="top"/>
   <outline>
     <contour>
       <point x="311" y="531" type="qcurve"/>
