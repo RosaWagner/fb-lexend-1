@@ -7,25 +7,31 @@ comma
 </note>
   <outline>
     <contour>
-      <point x="132" y="117" type="qcurve"/>
-      <point x="170" y="117"/>
-      <point x="221" y="54"/>
-      <point x="221" y="4" type="qcurve" smooth="yes"/>
-      <point x="221" y="-55"/>
-      <point x="145" y="-157"/>
-      <point x="88" y="-179" type="qcurve"/>
-      <point x="50" y="-133" type="line"/>
-      <point x="85" y="-113"/>
-      <point x="129" y="-61"/>
-      <point x="129" y="-42" type="qcurve" smooth="yes"/>
-      <point x="129" y="-32"/>
-      <point x="119" y="-13"/>
-      <point x="103" y="4" type="qcurve" smooth="yes"/>
-      <point x="83" y="23"/>
-      <point x="71" y="49"/>
-      <point x="71" y="64" type="qcurve"/>
-      <point x="71" y="88"/>
-      <point x="105" y="117"/>
+      <point x="125" y="140" type="qcurve"/>
+      <point x="173.2133333333333" y="140.0"/>
+      <point x="238.0" y="65.0"/>
+      <point x="238" y="5" type="qcurve" smooth="yes"/>
+      <point x="238.0" y="-66.0"/>
+      <point x="136.80508679007337" y="-194.3423558899808"/>
+      <point x="58" y="-215" type="qcurve"/>
+      <point x="6.0" y="-151" type="line"/>
+      <point x="50.051008060456255" y="-134.4808719773289"/>
+      <point x="102.0" y="-75.83516483516483"/>
+      <point x="102" y="-56" type="qcurve" smooth="yes"/>
+      <point x="102.0" y="-46.888888888888886"/>
+      <point x="93.02870209099858" y="-26.41722125459915"/>
+      <point x="74" y="-15" type="qcurve" smooth="yes"/>
+      <point x="49.19220891775046" y="0.5048694264059606"/>
+      <point x="29.0" y="38.0"/>
+      <point x="29" y="62" type="qcurve"/>
+      <point x="29.0" y="98.0"/>
+      <point x="82.6774193548387" y="140.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

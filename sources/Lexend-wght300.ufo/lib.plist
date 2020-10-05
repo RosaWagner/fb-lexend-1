@@ -147,8 +147,10 @@
           <string>threequarters</string>
           <string>questiondown</string>
           <string>AE</string>
+          <string>Agrave</string>
           <string>Aacute</string>
           <string>Acircumflex</string>
+          <string>Adieresis</string>
           <string>Atilde</string>
           <string>Aring</string>
           <string>Ccedilla</string>
@@ -1289,8 +1291,10 @@
       <string>threequarters</string>
       <string>questiondown</string>
       <string>AE</string>
+      <string>Agrave</string>
       <string>Aacute</string>
       <string>Acircumflex</string>
+      <string>Adieresis</string>
       <string>Atilde</string>
       <string>Aring</string>
       <string>Ccedilla</string>

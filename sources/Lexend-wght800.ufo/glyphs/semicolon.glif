@@ -1,25 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="semicolon" format="2">
-  <advance width="257"/>
+  <advance width="305"/>
   <unicode hex="003B"/>
   <note>
 semicolon
 </note>
+  <guideline x="163" y="254" angle="90" identifier="trmYSbrRrK"/>
   <outline>
-    <contour>
-      <point x="199" y="460" type="qcurve" smooth="yes"/>
-      <point x="199" y="427"/>
-      <point x="161" y="385"/>
-      <point x="130" y="385" type="qcurve" smooth="yes"/>
-      <point x="97" y="385"/>
-      <point x="61" y="424"/>
-      <point x="61" y="460" type="qcurve" smooth="yes"/>
-      <point x="61" y="493"/>
-      <point x="99" y="535"/>
-      <point x="130" y="535" type="qcurve" smooth="yes"/>
-      <point x="163" y="535"/>
-      <point x="199" y="496"/>
-    </contour>
-    <component base="comma" xOffset="-7"/>
+    <component base="comma" xOffset="24"/>
+    <component base="period" xOffset="27" yOffset="357"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>
