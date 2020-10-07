@@ -6,20 +6,18 @@
 yen
 </note>
   <anchor x="345" y="-1" name="bottom"/>
-  <anchor x="341" y="700" name="top"/>
-  <anchor x="70" y="700" name="topleft"/>
   <outline>
     <contour>
-      <point x="588" y="58" type="line"/>
-      <point x="136" y="58" type="line"/>
-      <point x="136" y="164" type="line"/>
-      <point x="588" y="164" type="line"/>
+      <point x="601" y="58" type="line"/>
+      <point x="149" y="58" type="line"/>
+      <point x="149" y="164" type="line"/>
+      <point x="601" y="164" type="line"/>
     </contour>
     <contour>
-      <point x="588" y="208" type="line"/>
-      <point x="136" y="208" type="line"/>
-      <point x="136" y="314" type="line"/>
-      <point x="588" y="314" type="line"/>
+      <point x="601" y="208" type="line"/>
+      <point x="149" y="208" type="line"/>
+      <point x="149" y="314" type="line"/>
+      <point x="601" y="314" type="line"/>
     </contour>
     <component base="Y" xOffset="10"/>
   </outline>

@@ -5,10 +5,12 @@
   <note>
 ordfeminine
 </note>
+  <guideline x="250" y="624" angle="0" identifier="YvAH4A0TT9"/>
+  <guideline x="228" y="488" angle="0" identifier="wDwVpSAAsd"/>
   <outline>
     <contour>
-      <point x="272" y="441"/>
-      <point x="203" y="390"/>
+      <point x="282.0" y="447.219512195122"/>
+      <point x="207.0" y="390.0"/>
       <point x="157" y="390" type="qcurve"/>
       <point x="103" y="390"/>
       <point x="40" y="485"/>
@@ -16,30 +18,30 @@ ordfeminine
       <point x="40" y="631"/>
       <point x="112" y="722"/>
       <point x="169" y="722" type="qcurve"/>
-      <point x="218" y="722"/>
-      <point x="272" y="675"/>
-      <point x="272" y="632" type="qcurve"/>
+      <point x="222.75728155339806" y="722.0"/>
+      <point x="282.0" y="669.7777777777778"/>
+      <point x="282" y="622" type="qcurve"/>
       <point x="257" y="648" type="line"/>
       <point x="257" y="715" type="line"/>
       <point x="390" y="715" type="line"/>
       <point x="390" y="401" type="line"/>
       <point x="257" y="401" type="line"/>
       <point x="257" y="474" type="line"/>
-      <point x="272" y="472" type="line"/>
+      <point x="282" y="482" type="line"/>
     </contour>
     <contour>
-      <point x="171" y="562" type="qcurve"/>
-      <point x="171" y="523"/>
-      <point x="194" y="478"/>
-      <point x="216" y="478" type="qcurve"/>
-      <point x="236" y="478"/>
-      <point x="261" y="520"/>
-      <point x="261" y="555" type="qcurve"/>
-      <point x="261" y="592"/>
-      <point x="237" y="634"/>
-      <point x="215" y="634" type="qcurve"/>
-      <point x="196" y="634"/>
-      <point x="171" y="592"/>
+      <point x="171" y="559" type="qcurve"/>
+      <point x="171.0" y="526.3783783783783"/>
+      <point x="194.0" y="488.0"/>
+      <point x="216" y="488" type="qcurve"/>
+      <point x="236.0" y="488.0"/>
+      <point x="261.0" y="526.6567164179105"/>
+      <point x="261" y="558" type="qcurve"/>
+      <point x="261.0" y="588.6086956521739"/>
+      <point x="237.0" y="624.0"/>
+      <point x="215" y="624" type="qcurve"/>
+      <point x="196.0" y="624.0"/>
+      <point x="171.0" y="586.258064516129"/>
     </contour>
   </outline>
   <lib>

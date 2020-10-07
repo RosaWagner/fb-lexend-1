@@ -7,13 +7,19 @@ logicalnot
 </note>
   <outline>
     <contour>
-      <point x="620" y="117" type="line"/>
-      <point x="515" y="117" type="line"/>
-      <point x="515" y="319" type="line"/>
-      <point x="534" y="307" type="line"/>
-      <point x="50" y="307" type="line"/>
-      <point x="50" y="404" type="line"/>
-      <point x="620" y="404" type="line"/>
+      <point x="635" y="102" type="line"/>
+      <point x="440" y="102" type="line"/>
+      <point x="440" y="319" type="line"/>
+      <point x="549" y="254" type="line"/>
+      <point x="35" y="254" type="line"/>
+      <point x="35" y="424" type="line"/>
+      <point x="635" y="424" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

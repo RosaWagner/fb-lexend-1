@@ -11,18 +11,18 @@ Hbar
   <anchor x="84" y="700" name="topleft"/>
   <outline>
     <contour>
-      <point x="163" y="468" type="line"/>
-      <point x="57" y="468" type="line"/>
-      <point x="57" y="572" type="line"/>
-      <point x="173" y="572" type="line"/>
-      <point x="219" y="562" type="line"/>
-      <point x="613" y="562" type="line"/>
-      <point x="649" y="572" type="line"/>
-      <point x="800" y="572" type="line"/>
-      <point x="800" y="468" type="line"/>
-      <point x="656" y="468" type="line"/>
-      <point x="625" y="478" type="line"/>
-      <point x="209" y="478" type="line"/>
+      <point x="163" y="483" type="line"/>
+      <point x="57" y="483" type="line"/>
+      <point x="57" y="637" type="line"/>
+      <point x="173" y="637" type="line"/>
+      <point x="219" y="607" type="line"/>
+      <point x="613" y="607" type="line"/>
+      <point x="649" y="637" type="line"/>
+      <point x="800" y="637" type="line"/>
+      <point x="800" y="483" type="line"/>
+      <point x="656" y="483" type="line"/>
+      <point x="625" y="513" type="line"/>
+      <point x="209" y="513" type="line"/>
     </contour>
     <component base="H" xOffset="48"/>
   </outline>
