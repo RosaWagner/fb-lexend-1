@@ -2,20 +2,12 @@
 <glyph name="ruble" format="2">
   <advance width="719"/>
   <unicode hex="20BD"/>
-  <anchor x="406" y="0" name="bottom"/>
-  <anchor x="406" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="194" y="300" type="line"/>
-      <point x="194" y="207" type="line"/>
-      <point x="91" y="207" type="line"/>
-      <point x="91" y="300" type="line"/>
-    </contour>
-    <contour>
-      <point x="434" y="154" type="line"/>
-      <point x="434" y="61" type="line"/>
-      <point x="91" y="61" type="line"/>
-      <point x="91" y="154" type="line"/>
+      <point x="358" y="77" type="line"/>
+      <point x="90" y="77" type="line"/>
+      <point x="90" y="247" type="line"/>
+      <point x="358" y="247" type="line"/>
     </contour>
     <contour>
       <point x="155" y="700" type="line"/>
@@ -44,13 +36,11 @@
       <point x="367" y="611" type="line"/>
       <point x="367" y="358" type="line"/>
     </contour>
+    <component base="P" xOffset="85"/>
+    <component base="strokeshortcomb" xOffset="40" yOffset="-134"/>
+    <component base="P" xOffset="85"/>
+    <component base="strokeshortcomb" xOffset="40" yOffset="-134"/>
+    <component base="P" xOffset="85"/>
+    <component base="strokeshortcomb" xOffset="40" yOffset="-134"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>peso</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>P</string>
-    </dict>
-  </lib>
 </glyph>

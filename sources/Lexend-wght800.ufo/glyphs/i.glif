@@ -8,7 +8,7 @@ i
   <guideline x="180.0" y="0" angle="90.0" identifier="v7Qd5Ew0pn"/>
   <anchor x="179" y="0" name="bottom"/>
   <anchor x="267" y="10" name="ogonek"/>
-  <anchor x="179" y="765" name="top"/>
+  <anchor x="180" y="770" name="top"/>
   <outline>
     <component base="dotaccentcomb" xOffset="73" yOffset="14"/>
     <component base="idotless" xOffset="5"/>

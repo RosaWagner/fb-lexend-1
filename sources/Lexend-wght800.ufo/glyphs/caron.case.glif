@@ -2,6 +2,6 @@
 <glyph name="caron.case" format="2">
   <advance width="364"/>
   <outline>
-    <component base="caroncomb.case"/>
+    <component base="caroncomb.case" yOffset="-40"/>
   </outline>
 </glyph>

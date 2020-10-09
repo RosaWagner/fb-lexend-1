@@ -9,7 +9,7 @@ x
   <guideline x="623" y="-57" angle="90" identifier="xIjz0tRDxR"/>
   <guideline x="686" y="273" angle="0" identifier="0jDQvzAmMt"/>
   <anchor x="322" y="0" name="bottom"/>
-  <anchor x="322" y="510" name="top"/>
+  <anchor x="322" y="535" name="top"/>
   <outline>
     <contour>
       <point x="29" y="535" type="line"/>

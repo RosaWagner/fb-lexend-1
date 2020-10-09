@@ -6,7 +6,7 @@
 g
 </note>
   <anchor x="342" y="0" name="bottom"/>
-  <anchor x="342" y="535" name="top"/>
+  <anchor x="329" y="535" name="top"/>
   <outline>
     <contour>
       <point x="420" y="270" type="qcurve"/>
@@ -39,8 +39,8 @@ g
       <point x="167" y="5"/>
       <point x="30" y="155"/>
       <point x="30" y="272" type="qcurve"/>
-      <point x="30" y="393"/>
-      <point x="165" y="546"/>
+      <point x="30.0" y="393.0"/>
+      <point x="165.0" y="546.0"/>
       <point x="268" y="546" type="qcurve"/>
       <point x="342" y="546"/>
       <point x="451" y="478"/>

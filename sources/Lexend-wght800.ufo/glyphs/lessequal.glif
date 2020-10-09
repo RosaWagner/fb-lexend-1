@@ -7,20 +7,20 @@ lessequal
 </note>
   <outline>
     <contour>
-      <point x="561" y="0" type="line"/>
-      <point x="64" y="0" type="line"/>
-      <point x="64" y="90" type="line"/>
-      <point x="561" y="90" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="65" y="158" type="line"/>
+      <point x="562" y="158" type="line"/>
     </contour>
     <contour>
-      <point x="519" y="219" type="line"/>
-      <point x="497" y="138" type="line"/>
-      <point x="65" y="296" type="line"/>
-      <point x="65" y="361" type="line"/>
-      <point x="497" y="518" type="line"/>
-      <point x="526" y="444" type="line"/>
-      <point x="136" y="299" type="line"/>
-      <point x="131" y="362" type="line"/>
+      <point x="551" y="313" type="line"/>
+      <point x="497" y="168" type="line"/>
+      <point x="65" y="315" type="line"/>
+      <point x="65" y="436" type="line"/>
+      <point x="497" y="583" type="line"/>
+      <point x="551" y="438" type="line"/>
+      <point x="201" y="350" type="line"/>
+      <point x="201" y="401" type="line"/>
     </contour>
   </outline>
 </glyph>

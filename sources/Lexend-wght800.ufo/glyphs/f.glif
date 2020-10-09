@@ -6,7 +6,7 @@
 f
 </note>
   <anchor x="197" y="0" name="bottom"/>
-  <anchor x="197" y="510" name="top"/>
+  <anchor x="187" y="535" name="top"/>
   <outline>
     <contour>
       <point x="387" y="515" type="line"/>

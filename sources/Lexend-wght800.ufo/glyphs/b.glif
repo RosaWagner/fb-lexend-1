@@ -6,12 +6,12 @@
 b
 </note>
   <anchor x="346" y="0" name="bottom"/>
-  <anchor x="346" y="510" name="top"/>
+  <anchor x="376" y="535" name="top"/>
   <outline>
     <contour>
       <point x="416" y="546" type="qcurve"/>
-      <point x="518" y="546"/>
-      <point x="649" y="388"/>
+      <point x="517.6378600823045" y="546.0"/>
+      <point x="649.0" y="388.0"/>
       <point x="649" y="267" type="qcurve"/>
       <point x="649" y="144"/>
       <point x="520" y="-11"/>

@@ -2,34 +2,35 @@
 <glyph name="liraTurkish" format="2">
   <advance width="609"/>
   <unicode hex="20BA"/>
+  <guideline x="776" y="813" angle="0" identifier="wdujNUjn2x"/>
   <outline>
     <contour>
-      <point x="551" y="115"/>
-      <point x="352" y="-10"/>
-      <point x="237" y="-10" type="qcurve"/>
-      <point x="205" y="-10"/>
-      <point x="167" y="-5"/>
-      <point x="156" y="0" type="qcurve"/>
-      <point x="156" y="700" type="line"/>
-      <point x="254" y="700" type="line"/>
-      <point x="255" y="52" type="line"/>
-      <point x="244" y="87" type="line"/>
-      <point x="320" y="87"/>
-      <point x="446" y="158"/>
-      <point x="468" y="219" type="qcurve"/>
-      <point x="560" y="193" type="line"/>
+      <point x="257" y="-10" type="qcurve"/>
+      <point x="191" y="-10"/>
+      <point x="122.94819693390258" y="2.736487028327467"/>
+      <point x="106" y="10" type="qcurve"/>
+      <point x="106" y="700" type="line"/>
+      <point x="306" y="700" type="line"/>
+      <point x="307" y="52" type="line"/>
+      <point x="264" y="177" type="line"/>
+      <point x="317.2584269662921" y="177.0"/>
+      <point x="403.96092506095994" y="223.89362933261307"/>
+      <point x="422" y="273" type="qcurve"/>
+      <point x="606" y="210" type="line"/>
+      <point x="576" y="82"/>
+      <point x="398" y="-10"/>
     </contour>
     <contour>
-      <point x="67" y="336" type="line"/>
-      <point x="28" y="404" type="line"/>
+      <point x="49" y="325" type="line"/>
+      <point x="10" y="393" type="line"/>
       <point x="368" y="595" type="line"/>
       <point x="412" y="528" type="line"/>
     </contour>
     <contour>
-      <point x="87" y="176" type="line"/>
-      <point x="48" y="244" type="line"/>
-      <point x="388" y="435" type="line"/>
-      <point x="432" y="368" type="line"/>
+      <point x="65" y="175" type="line"/>
+      <point x="26" y="243" type="line"/>
+      <point x="384" y="445" type="line"/>
+      <point x="428" y="378" type="line"/>
     </contour>
   </outline>
 </glyph>

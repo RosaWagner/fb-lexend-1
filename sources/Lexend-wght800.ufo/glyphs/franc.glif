@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="franc" format="2">
-  <advance width="602"/>
+  <advance width="639"/>
   <unicode hex="20A3"/>
   <outline>
-    <component base="F"/>
-    <component base="strokeshortcomb" xOffset="-20" yOffset="-120"/>
+    <contour>
+      <point x="383" y="104" type="line"/>
+      <point x="20" y="104" type="line"/>
+      <point x="20" y="197" type="line"/>
+      <point x="383" y="197" type="line"/>
+    </contour>
+    <component base="F" xOffset="9"/>
   </outline>
 </glyph>

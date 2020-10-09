@@ -7,20 +7,20 @@ greaterequal
 </note>
   <outline>
     <contour>
-      <point x="561" y="0" type="line"/>
-      <point x="64" y="0" type="line"/>
-      <point x="64" y="106" type="line"/>
-      <point x="561" y="106" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="65" y="158" type="line"/>
+      <point x="562" y="158" type="line"/>
     </contour>
     <contour>
-      <point x="72" y="453" type="line"/>
-      <point x="94" y="544" type="line"/>
-      <point x="526" y="386" type="line"/>
-      <point x="526" y="311" type="line"/>
-      <point x="94" y="154" type="line"/>
-      <point x="65" y="238" type="line"/>
-      <point x="455" y="383" type="line"/>
-      <point x="460" y="310" type="line"/>
+      <point x="76" y="438" type="line"/>
+      <point x="130" y="583" type="line"/>
+      <point x="562" y="436" type="line"/>
+      <point x="562" y="315" type="line"/>
+      <point x="130" y="168" type="line"/>
+      <point x="76" y="313" type="line"/>
+      <point x="426" y="401" type="line"/>
+      <point x="426" y="350" type="line"/>
     </contour>
   </outline>
 </glyph>

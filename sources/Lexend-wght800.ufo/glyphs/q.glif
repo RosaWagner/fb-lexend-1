@@ -6,7 +6,7 @@
 q
 </note>
   <anchor x="331" y="0" name="bottom"/>
-  <anchor x="331" y="510" name="top"/>
+  <anchor x="331" y="535" name="top"/>
   <outline>
     <contour>
       <point x="421" y="535" type="line"/>

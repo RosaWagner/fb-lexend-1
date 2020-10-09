@@ -6,7 +6,7 @@
 p
 </note>
   <anchor x="345" y="0" name="bottom"/>
-  <anchor x="345" y="510" name="top"/>
+  <anchor x="345" y="535" name="top"/>
   <outline>
     <contour>
       <point x="238" y="478"/>
