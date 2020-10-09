@@ -11,7 +11,7 @@ Lcaron
   <anchor x="547" y="700" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="comma" xOffset="523" yOffset="599"/>
+    <component base="comma" xOffset="383" yOffset="599"/>
   </outline>
   <lib>
     <dict>

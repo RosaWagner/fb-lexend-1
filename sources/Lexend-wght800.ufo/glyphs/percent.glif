@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="percent" format="2">
-  <advance width="921"/>
+  <advance width="1064"/>
   <unicode hex="0025"/>
   <note>
 percent
 </note>
   <outline>
-    <component base="fraction" xOffset="151"/>
-    <component base="zero.dnom" xOffset="25" yOffset="339"/>
-    <component base="zero.dnom" xOffset="532"/>
+    <component base="fraction" xOffset="222"/>
+    <component base="zero.dnom" yOffset="339"/>
+    <component base="zero.dnom" xOffset="600"/>
   </outline>
   <lib>
     <dict>

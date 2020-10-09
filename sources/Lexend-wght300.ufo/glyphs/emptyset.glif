@@ -12,10 +12,10 @@ emptyset
   <anchor x="319.0" y="531.0" name="topright"/>
   <outline>
     <contour>
-      <point x="98.0" y="-13.0" type="line"/>
-      <point x="34.0" y="53.0" type="line"/>
-      <point x="531.0" y="535.0" type="line"/>
-      <point x="592.0" y="469.0" type="line"/>
+      <point x="80.0" y="3.0" type="line"/>
+      <point x="43.0" y="40.0" type="line"/>
+      <point x="540.0" y="522.0" type="line"/>
+      <point x="574.0" y="485.0" type="line"/>
     </contour>
     <component base="o"/>
   </outline>

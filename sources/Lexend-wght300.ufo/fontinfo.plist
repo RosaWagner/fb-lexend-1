@@ -48,6 +48,18 @@
         <key>y</key>
         <integer>620</integer>
       </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>D8SgqXP3zk</string>
+        <key>name</key>
+        <string>O</string>
+        <key>x</key>
+        <integer>852</integer>
+        <key>y</key>
+        <integer>705</integer>
+      </dict>
     </array>
     <key>italicAngle</key>
     <integer>-180</integer>

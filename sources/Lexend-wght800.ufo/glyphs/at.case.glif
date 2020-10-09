@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="at.case" format="2">
-  <advance width="965"/>
+  <advance width="985"/>
   <outline>
-    <component base="at" yOffset="100"/>
+    <component base="at" xOffset="10" yOffset="100"/>
   </outline>
   <lib>
     <dict>

@@ -11,7 +11,7 @@ lcaron
   <anchor x="229" y="580" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="caronalt" xOffset="186" yOffset="53"/>
+    <component base="caronalt" xOffset="266" yOffset="53"/>
   </outline>
   <lib>
     <dict>

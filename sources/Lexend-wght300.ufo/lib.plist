@@ -1130,6 +1130,8 @@
     <false/>
     <key>com.typemytype.robofont.guideline.magnetic.6Aoj7c5Mn5</key>
     <real>8.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.D8SgqXP3zk</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.TE3wBqeRJJ</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.vnRTRUYAhU</key>
@@ -1137,6 +1139,8 @@
     <key>com.typemytype.robofont.guideline.magnetic.wkEEQaGfdl</key>
     <real>10.0</real>
     <key>com.typemytype.robofont.guideline.showMeasurements.6Aoj7c5Mn5</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.D8SgqXP3zk</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.TE3wBqeRJJ</key>
     <false/>

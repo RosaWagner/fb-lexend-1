@@ -7,6 +7,6 @@ guillemotleft
 </note>
   <outline>
     <component base="guilsinglleft" xOffset="211"/>
-    <component base="guilsinglleft" xOffset="-2"/>
+    <component base="guilsinglleft" xOffset="-22"/>
   </outline>
 </glyph>

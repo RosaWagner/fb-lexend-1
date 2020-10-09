@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglleft" format="2">
-  <advance width="273"/>
+  <advance width="346"/>
   <unicode hex="2039"/>
   <note>
 guilsinglleft
 </note>
+  <guideline x="696" y="312" angle="90" identifier="jGgFATf1Ts"/>
   <outline>
     <contour>
-      <point x="113" y="255" type="line"/>
-      <point x="114" y="266" type="line"/>
-      <point x="233" y="95" type="line"/>
-      <point x="170" y="50" type="line"/>
-      <point x="7" y="262" type="line"/>
-      <point x="7" y="254" type="line"/>
-      <point x="169" y="471" type="line"/>
-      <point x="232" y="426" type="line"/>
+      <point x="176" y="233" type="line"/>
+      <point x="176" y="284" type="line"/>
+      <point x="306" y="96" type="line"/>
+      <point x="198" y="21" type="line"/>
+      <point x="20" y="248" type="line"/>
+      <point x="20" y="269" type="line"/>
+      <point x="198" y="496" type="line"/>
+      <point x="306" y="421" type="line"/>
     </contour>
   </outline>
 </glyph>
