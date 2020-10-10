@@ -28,7 +28,7 @@ question
       <point x="514.0" y="429.52542372881356"/>
       <point x="389.45342749154065" y="285.8422264924035"/>
       <point x="293" y="258" type="qcurve"/>
-      <point x="333" y="297" type="line"/>
+      <point x="293" y="258" type="line"/>
       <point x="293" y="258" type="line"/>
     </contour>
     <component base="period" xOffset="140"/>
