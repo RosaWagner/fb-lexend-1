@@ -5,13 +5,13 @@
   <note>
 Lcommaaccent
 </note>
-  <anchor x="276" y="-289" name="bottom"/>
+  <anchor x="296" y="-289" name="bottom"/>
   <anchor x="291" y="350" name="center"/>
   <anchor x="141" y="700" name="top"/>
   <anchor x="547" y="700" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="commaaccentcomb.case" xOffset="154"/>
+    <component base="commaaccentcomb.case" xOffset="174" yOffset="-20"/>
   </outline>
   <lib>
     <dict>

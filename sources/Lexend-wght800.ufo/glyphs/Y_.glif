@@ -5,8 +5,9 @@
   <note>
 Y
 </note>
-  <anchor x="305" y="-1" name="bottom"/>
-  <anchor x="301" y="700" name="top"/>
+  <guideline x="355.0" y="0" angle="90.0" identifier="ASvTATGY8q"/>
+  <anchor x="355" y="0" name="bottom"/>
+  <anchor x="355" y="700" name="top"/>
   <anchor x="30" y="700" name="topleft"/>
   <outline>
     <contour>

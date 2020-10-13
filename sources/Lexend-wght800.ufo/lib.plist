@@ -79,7 +79,7 @@
     <key>com.typemytype.robofont.compileSettings.decompose</key>
     <false/>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
-    <integer>1</integer>
+    <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <false/>
     <key>com.typemytype.robofont.guideline.magnetic.2sVw57Kb1n</key>

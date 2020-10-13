@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb" format="2">
   <unicode hex="0301"/>
-  <anchor x="90" y="532" name="_top"/>
-  <anchor x="125" y="791" name="top"/>
+  <guideline x="1" y="781" angle="0" identifier="BMwDDlyEbR"/>
+  <guideline x="22" y="575" angle="0" identifier="Qot0bfdPA6"/>
+  <anchor x="168" y="535" name="_top"/>
+  <anchor x="145" y="791" name="top"/>
   <outline>
-    <component base="acute" xOffset="1" yOffset="60"/>
+    <component base="acute" xOffset="1" yOffset="4"/>
   </outline>
   <lib>
     <dict>

@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb" format="2">
   <unicode hex="0302"/>
-  <anchor x="200" y="535" name="_top"/>
-  <anchor x="196" y="783" name="top"/>
+  <guideline x="198" y="362" angle="90" identifier="owtgSrkPXv"/>
+  <guideline x="12" y="781" angle="0" identifier="7TXy5Dkd8R"/>
+  <guideline x="34" y="575" angle="0" identifier="P824Jr4xGO"/>
+  <anchor x="198" y="535" name="_top"/>
+  <anchor x="198" y="783" name="top"/>
   <outline>
-    <component base="circumflex" yOffset="50"/>
+    <component base="circumflex" yOffset="18"/>
   </outline>
   <lib>
     <dict>

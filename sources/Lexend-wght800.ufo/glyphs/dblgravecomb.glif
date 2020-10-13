@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblgravecomb" format="2">
   <unicode hex="030F"/>
-  <anchor x="259" y="499" name="_top"/>
-  <anchor x="228" y="810" name="top"/>
+  <anchor x="279" y="535" name="_top"/>
+  <anchor x="278" y="810" name="top"/>
   <outline>
-    <component base="gravecomb" xOffset="17" yOffset="5"/>
+    <component base="gravecomb" xOffset="-50" yOffset="5"/>
     <component base="gravecomb" xOffset="199" yOffset="13"/>
   </outline>
   <lib>

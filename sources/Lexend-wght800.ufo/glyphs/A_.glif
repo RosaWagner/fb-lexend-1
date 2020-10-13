@@ -7,7 +7,7 @@ A
 </note>
   <guideline x="345.0" y="0" angle="90.0" identifier="Onci2Ybw7n"/>
   <anchor x="345" y="0" name="bottom"/>
-  <anchor x="633" y="20" name="ogonek"/>
+  <anchor x="710" y="0" name="ogonek"/>
   <anchor x="345" y="700" name="top"/>
   <outline>
     <contour>

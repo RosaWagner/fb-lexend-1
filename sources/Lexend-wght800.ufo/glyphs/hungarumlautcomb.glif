@@ -2,6 +2,8 @@
 <glyph name="hungarumlautcomb" format="2">
   <unicode hex="030B"/>
   <guideline x="210" y="669" angle="90" identifier="2uiILZQRHP"/>
+  <guideline x="40" y="781" angle="0" identifier="2INptI5dU8"/>
+  <guideline x="74" y="575" angle="0" identifier="ZNHqwW5P32"/>
   <anchor x="210" y="512" name="_top"/>
   <anchor x="210" y="740" name="top"/>
   <outline>

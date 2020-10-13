@@ -1,37 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringcomb" format="2">
   <unicode hex="030A"/>
+  <guideline x="36" y="781" angle="0" identifier="UBhmBTQHqD"/>
+  <guideline x="36" y="575" angle="0" identifier="WlzSW1YxwB"/>
   <anchor x="158" y="490" name="_top"/>
   <anchor x="158" y="775" name="top"/>
   <outline>
-    <contour>
-      <point x="269" y="669" type="qcurve"/>
-      <point x="269" y="627"/>
-      <point x="203" y="564"/>
-      <point x="159" y="564" type="qcurve"/>
-      <point x="116" y="564"/>
-      <point x="50" y="627"/>
-      <point x="50" y="669" type="qcurve"/>
-      <point x="50" y="712"/>
-      <point x="115" y="775"/>
-      <point x="159" y="775" type="qcurve"/>
-      <point x="203" y="775"/>
-      <point x="269" y="712"/>
-    </contour>
-    <contour>
-      <point x="110" y="669" type="qcurve"/>
-      <point x="110" y="650"/>
-      <point x="139" y="623"/>
-      <point x="159" y="623" type="qcurve"/>
-      <point x="180" y="623"/>
-      <point x="209" y="650"/>
-      <point x="209" y="669" type="qcurve"/>
-      <point x="209" y="690"/>
-      <point x="180" y="716"/>
-      <point x="159" y="716" type="qcurve"/>
-      <point x="138" y="716"/>
-      <point x="110" y="689"/>
-    </contour>
+    <component base="ring" yOffset="-8"/>
   </outline>
   <lib>
     <dict>

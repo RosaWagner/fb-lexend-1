@@ -6,8 +6,8 @@
 a
 </note>
   <guideline x="339.5" y="0" angle="90.0" identifier="w6FTMUqGjU"/>
-  <anchor x="327" y="-20" name="bottom"/>
-  <anchor x="576" y="3" name="ogonek"/>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="609" y="0" name="ogonek"/>
   <anchor x="329" y="535" name="top"/>
   <outline>
     <contour>

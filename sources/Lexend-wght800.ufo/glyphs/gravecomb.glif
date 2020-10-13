@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
+  <guideline x="33" y="781" angle="0" identifier="V0nVt7NKrn"/>
+  <guideline x="33" y="575" angle="0" identifier="QBdOpYHztw"/>
   <anchor x="202" y="535" name="_top"/>
   <anchor x="208" y="764" name="top"/>
   <outline>
-    <component base="grave" xOffset="50" yOffset="49"/>
+    <component base="grave" xOffset="50" yOffset="5"/>
   </outline>
   <lib>
     <dict>
