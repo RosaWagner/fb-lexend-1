@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aringacute" format="2">
-  <advance width="615"/>
+  <advance width="679"/>
   <unicode hex="01FB"/>
-  <anchor x="311" y="-20" name="bottom"/>
-  <anchor x="560" y="3" name="ogonek"/>
-  <anchor x="352" y="929" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="ringcomb" xOffset="147"/>
-    <component base="acutecomb.case" xOffset="227" yOffset="226"/>
+    <component base="ringcomb" xOffset="179" yOffset="54"/>
+    <component base="acutecomb" xOffset="269" yOffset="394"/>
   </outline>
   <lib>
     <dict>
@@ -39,6 +36,8 @@
           <string>acutecomb.case</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

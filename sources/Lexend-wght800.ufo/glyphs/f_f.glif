@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f" format="2">
-  <advance width="766"/>
-  <anchor x="197" y="0" name="bottom_1"/>
-  <anchor x="570" y="0" name="bottom_2"/>
-  <anchor x="197" y="510" name="top_1"/>
-  <anchor x="570" y="510" name="top_2"/>
+  <advance width="786"/>
+  <unicode hex="FB00"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="373"/>
+    <component base="f" xOffset="393"/>
   </outline>
   <lib>
     <dict>
@@ -26,6 +23,8 @@
       <string>f</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>f</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

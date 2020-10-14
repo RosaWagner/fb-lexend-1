@@ -5,6 +5,7 @@
   <note>
 S
 </note>
+  <guideline x="320.5" y="0" angle="90.0" name="center" identifier="WHpN6R0SV4"/>
   <anchor x="316" y="0" name="bottom"/>
   <anchor x="316" y="700" name="top"/>
   <outline>

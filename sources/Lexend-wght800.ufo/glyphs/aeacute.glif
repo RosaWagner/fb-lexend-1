@@ -2,10 +2,14 @@
 <glyph name="aeacute" format="2">
   <advance width="899"/>
   <unicode hex="01FD"/>
-  <anchor x="410" y="0" name="bottom"/>
-  <anchor x="487" y="774" name="top"/>
   <outline>
     <component base="ae"/>
-    <component base="acutecomb" xOffset="362" yOffset="-17"/>
+    <component base="acutecomb" xOffset="344.75" yOffset="46"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
+    </dict>
+  </lib>
 </glyph>

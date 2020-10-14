@@ -2,63 +2,9 @@
 <glyph name="eogonek" format="2">
   <advance width="586"/>
   <unicode hex="0119"/>
-  <note>
-eogonek
-</note>
   <outline>
-    <contour>
-      <point x="449" y="196" type="qcurve"/>
-      <point x="542" y="65" type="line"/>
-      <point x="529" y="55"/>
-      <point x="452" y="-5"/>
-      <point x="431" y="-22" type="qcurve" smooth="yes"/>
-      <point x="408" y="-41"/>
-      <point x="391" y="-68"/>
-      <point x="391" y="-84" type="qcurve" smooth="yes"/>
-      <point x="391" y="-96"/>
-      <point x="410" y="-113"/>
-      <point x="424" y="-113" type="qcurve" smooth="yes"/>
-      <point x="444" y="-113"/>
-      <point x="475" y="-99"/>
-      <point x="488" y="-87" type="qcurve"/>
-      <point x="544" y="-180" type="line"/>
-      <point x="504" y="-206"/>
-      <point x="431" y="-231"/>
-      <point x="395" y="-231" type="qcurve" smooth="yes"/>
-      <point x="325" y="-231.0"/>
-      <point x="243.0" y="-173"/>
-      <point x="243" y="-120" type="qcurve"/>
-      <point x="243.0" y="-87"/>
-      <point x="323" y="0"/>
-      <point x="407" y="38" type="qcurve"/>
-      <point x="393" y="-10" type="line"/>
-      <point x="329" y="-10" type="line"/>
-      <point x="189" y="-10"/>
-      <point x="30" y="147"/>
-      <point x="30" y="268" type="qcurve"/>
-      <point x="30" y="389"/>
-      <point x="183" y="546"/>
-      <point x="301" y="546" type="qcurve"/>
-      <point x="419" y="546"/>
-      <point x="562" y="389"/>
-      <point x="562" y="268" type="qcurve"/>
-      <point x="561" y="226" type="line"/>
-      <point x="227" y="226" type="line"/>
-      <point x="242" y="197"/>
-      <point x="304" y="164"/>
-      <point x="352" y="164" type="qcurve"/>
-      <point x="382" y="164"/>
-      <point x="425" y="179"/>
-    </contour>
-    <contour>
-      <point x="305" y="383" type="qcurve"/>
-      <point x="271" y="383"/>
-      <point x="227" y="350"/>
-      <point x="219" y="321" type="qcurve"/>
-      <point x="381" y="321" type="line"/>
-      <point x="380" y="350"/>
-      <point x="339" y="383"/>
-    </contour>
+    <component base="e"/>
+    <component base="ogonekcomb" xOffset="254.80999999998858" yOffset="9"/>
   </outline>
   <lib>
     <dict>
@@ -66,6 +12,8 @@ eogonek
       <string>e</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>e</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

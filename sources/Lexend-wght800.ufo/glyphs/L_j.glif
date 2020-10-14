@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lj" format="2">
-  <advance width="862"/>
+  <advance width="985"/>
   <unicode hex="01C8"/>
-  <anchor x="298" y="0" name="bottom_1"/>
-  <anchor x="750" y="0" name="bottom_2"/>
-  <anchor x="291" y="350" name="center"/>
-  <anchor x="141" y="700" name="top_1"/>
-  <anchor x="737" y="771" name="top_2"/>
-  <anchor x="547" y="700" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="j" xOffset="599"/>
+    <component base="j" xOffset="616"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
+    </dict>
+  </lib>
 </glyph>

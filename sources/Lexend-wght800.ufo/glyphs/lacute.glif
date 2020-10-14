@@ -1,17 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lacute" format="2">
-  <advance width="251"/>
+  <advance width="343"/>
   <unicode hex="013A"/>
-  <note>
-lacute
-</note>
-  <anchor x="122" y="0" name="bottom"/>
-  <anchor x="122" y="289" name="center"/>
-  <anchor x="171" y="928" name="top"/>
-  <anchor x="229" y="580" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="acutecomb.case" xOffset="46" yOffset="225"/>
+    <component base="acutecomb" xOffset="85.64999999999418" yOffset="234.1399999999942"/>
   </outline>
   <lib>
     <dict>
@@ -19,6 +12,8 @@ lacute
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

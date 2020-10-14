@@ -1,16 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="agrave" format="2">
-  <advance width="633"/>
+  <advance width="679"/>
   <unicode hex="00E0"/>
-  <note>
-agrave
-</note>
-  <anchor x="311" y="-20" name="bottom"/>
-  <anchor x="560" y="3" name="ogonek"/>
-  <anchor x="278" y="775" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="gravecomb" xOffset="153" yOffset="11"/>
+    <component base="gravecomb" xOffset="129.63999999999942" yOffset="45"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,8 @@ agrave
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

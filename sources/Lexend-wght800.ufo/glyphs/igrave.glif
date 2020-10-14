@@ -1,16 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="igrave" format="2">
-  <advance width="398"/>
+  <advance width="323"/>
   <unicode hex="00EC"/>
-  <note>
-igrave
-</note>
-  <anchor x="146" y="0" name="bottom"/>
-  <anchor x="230" y="10" name="ogonek"/>
-  <anchor x="117" y="770" name="top"/>
   <outline>
-    <component base="idotless" xOffset="22"/>
-    <component base="gravecomb" xOffset="-8" yOffset="6"/>
+    <component base="idotless"/>
+    <component base="gravecomb" xOffset="-69.54999999999563" yOffset="45"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,8 @@ igrave
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

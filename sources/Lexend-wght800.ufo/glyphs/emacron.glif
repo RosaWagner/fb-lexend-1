@@ -2,15 +2,9 @@
 <glyph name="emacron" format="2">
   <advance width="586"/>
   <unicode hex="0113"/>
-  <note>
-emacron
-</note>
-  <anchor x="292" y="-20" name="bottom"/>
-  <anchor x="521" y="10" name="ogonek"/>
-  <anchor x="293" y="684" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="macroncomb" xOffset="80" yOffset="1"/>
+    <component base="macroncomb" xOffset="84" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,8 @@ emacron
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

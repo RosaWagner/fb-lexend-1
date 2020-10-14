@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ecaron" format="2">
-  <advance width="614"/>
+  <advance width="668"/>
   <unicode hex="011A"/>
-  <anchor x="322" y="0" name="bottom"/>
-  <anchor x="475" y="10" name="ogonek"/>
-  <anchor x="317" y="957" name="top"/>
-  <anchor x="46" y="700" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="caroncomb.case" xOffset="132" yOffset="64"/>
+    <component base="caroncomb.case" xOffset="151" yOffset="51"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
+    </dict>
+  </lib>
 </glyph>

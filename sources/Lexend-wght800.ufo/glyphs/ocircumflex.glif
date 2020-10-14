@@ -1,18 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ocircumflex" format="2">
-  <advance width="615"/>
+  <advance width="660"/>
   <unicode hex="00F4"/>
-  <note>
-ocircumflex
-</note>
-  <anchor x="305" y="0" name="bottom"/>
-  <anchor x="305" y="256" name="center"/>
-  <anchor x="547" y="10" name="ogonek"/>
-  <anchor x="311" y="762" name="top"/>
-  <anchor x="319" y="531" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="circumflexcomb" xOffset="127" yOffset="-21"/>
+    <component base="circumflexcomb" xOffset="132" yOffset="25"/>
   </outline>
   <lib>
     <dict>
@@ -20,6 +12,8 @@ ocircumflex
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

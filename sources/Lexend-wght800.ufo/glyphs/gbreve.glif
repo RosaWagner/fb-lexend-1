@@ -1,15 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gbreve" format="2">
-  <advance width="649"/>
+  <advance width="684"/>
   <unicode hex="011F"/>
-  <note>
-gbreve
-</note>
-  <anchor x="327" y="0" name="bottom"/>
-  <anchor x="327" y="746" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="brevecomb" xOffset="123" yOffset="34"/>
+    <component base="brevecomb" xOffset="142.96000000002095" yOffset="20"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +12,8 @@ gbreve
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

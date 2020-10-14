@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ibreve" format="2">
-  <advance width="478"/>
+  <advance width="602"/>
   <unicode hex="012C"/>
-  <anchor x="238" y="0" name="bottom"/>
-  <anchor x="428" y="10" name="ogonek"/>
-  <anchor x="238" y="839" name="top"/>
-  <anchor x="123" y="700" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="brevecomb.case" xOffset="34" yOffset="80"/>
+    <component base="brevecomb.case" xOffset="100" yOffset="99"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
+    </dict>
+  </lib>
 </glyph>

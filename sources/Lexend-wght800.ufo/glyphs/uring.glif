@@ -1,17 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uring" format="2">
-  <advance width="605"/>
+  <advance width="669"/>
   <unicode hex="016F"/>
-  <note>
-uring
-</note>
-  <anchor x="299" y="0" name="bottom"/>
-  <anchor x="530" y="0" name="ogonek"/>
-  <anchor x="299" y="795" name="top"/>
-  <anchor x="386" y="532" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="ringcomb" xOffset="141" yOffset="20"/>
+    <component base="ringcomb" xOffset="168.5" yOffset="54"/>
   </outline>
   <lib>
     <dict>
@@ -19,6 +12,8 @@ uring
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

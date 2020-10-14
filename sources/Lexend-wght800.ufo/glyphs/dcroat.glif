@@ -1,17 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcroat" format="2">
-  <advance width="634"/>
+  <advance width="669"/>
   <unicode hex="0111"/>
-  <note>
-dcroat
-</note>
-  <anchor x="321" y="-20" name="bottom"/>
-  <anchor x="486" y="614" name="center"/>
-  <anchor x="321" y="530" name="top"/>
-  <anchor x="608" y="510" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="strokeshortcomb" xOffset="309" yOffset="320"/>
+    <component base="horizontalbarlc" xOffset="417.929999999993" yOffset="612.3300000000163"/>
   </outline>
   <lib>
     <dict>
@@ -19,6 +12,8 @@ dcroat
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

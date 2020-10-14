@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dzcaron" format="2">
-  <advance width="1231"/>
+  <advance width="1388"/>
   <unicode hex="01C5"/>
-  <anchor x="335" y="0" name="bottom_1"/>
-  <anchor x="987" y="0" name="bottom_2"/>
-  <anchor x="147" y="350" name="center"/>
-  <anchor x="325" y="700" name="top_1"/>
-  <anchor x="995" y="755" name="top_2"/>
   <outline>
     <component base="D"/>
-    <component base="zcaron" xOffset="747"/>
+    <component base="zcaron" xOffset="789"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,18 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi" format="2">
-  <advance width="657"/>
+  <advance width="751"/>
   <unicode hex="FB01"/>
-  <note>
-fi
-</note>
-  <anchor x="197" y="0" name="bottom_1"/>
-  <anchor x="518" y="-15" name="bottom_2"/>
-  <anchor x="606" y="-5" name="ogonek"/>
-  <anchor x="197" y="510" name="top_1"/>
-  <anchor x="519" y="750" name="top_2"/>
   <outline>
     <component base="f"/>
-    <component base="i" xOffset="379" yOffset="-15"/>
+    <component base="i" xOffset="393"/>
   </outline>
   <lib>
     <dict>
@@ -31,6 +23,8 @@ fi
       <string>f</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>i</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

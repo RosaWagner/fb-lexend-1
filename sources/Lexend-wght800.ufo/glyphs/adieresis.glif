@@ -1,18 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="adieresis" format="2">
-  <advance width="633"/>
+  <advance width="679"/>
   <unicode hex="00E4"/>
-  <note>
-adieresis
-</note>
-  <guideline x="336" y="643" angle="90.0" identifier="SBPO3dopZJ"/>
-  <anchor x="311" y="-20" name="bottom"/>
-  <anchor x="560" y="3" name="ogonek"/>
-  <anchor x="336" y="704" name="top"/>
-  <anchor x="336" y="535" name="_top"/>
   <outline>
     <component base="a"/>
-    <component base="dieresiscomb" xOffset="148" yOffset="29"/>
+    <component base="dieresiscomb" xOffset="98.5" yOffset="32"/>
   </outline>
   <lib>
     <dict>
@@ -20,6 +12,8 @@ adieresis
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

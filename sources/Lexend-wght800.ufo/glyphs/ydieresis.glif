@@ -1,16 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ydieresis" format="2">
-  <advance width="581"/>
+  <advance width="649"/>
   <unicode hex="00FF"/>
-  <note>
-ydieresis
-</note>
-  <anchor x="490" y="0" name="bottom"/>
-  <anchor x="328" y="684" name="top"/>
-  <anchor x="328" y="534" name="_top"/>
   <outline>
     <component base="y"/>
-    <component base="dieresiscomb" xOffset="139" yOffset="9"/>
+    <component base="dieresiscomb" xOffset="84" yOffset="32"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,8 @@ ydieresis
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>
