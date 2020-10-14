@@ -70,6 +70,8 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>5</integer>
+    <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
+    <string>Lexend-wght800</string>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -232,8 +234,8 @@
       <string>onequarter</string>
       <string>onehalf</string>
       <string>threequarters</string>
-      <string>questiondown</string>
       <string>Agrave</string>
+      <string>questiondown</string>
       <string>Aacute</string>
       <string>Acircumflex</string>
       <string>Atilde</string>

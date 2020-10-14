@@ -2,19 +2,20 @@
 <glyph name="caroncomb" format="2">
   <unicode hex="030C"/>
   <guideline x="-89" y="781" angle="0" identifier="iCI3rwaOcJ"/>
-  <guideline x="-112" y="575" angle="0" identifier="oJbanjAMrq"/>
-  <anchor x="180" y="520" name="_top"/>
-  <anchor x="180" y="765" name="top"/>
+  <guideline x="170" y="806" angle="0" identifier="G92wDa8y3A"/>
+  <guideline x="-169.56595115291304" y="616.1805092030734" angle="0" identifier="kwI3fCqPcb"/>
+  <anchor x="197" y="535" name="_top"/>
+  <anchor x="198" y="765" name="top"/>
   <outline>
     <contour>
-      <point x="196" y="684" type="line"/>
-      <point x="166" y="684" type="line"/>
-      <point x="291" y="757" type="line"/>
-      <point x="329" y="724" type="line"/>
-      <point x="224" y="611" type="line"/>
-      <point x="138" y="611" type="line"/>
-      <point x="33" y="724" type="line"/>
-      <point x="71" y="757" type="line"/>
+      <point x="213" y="695" type="line"/>
+      <point x="183" y="695" type="line"/>
+      <point x="328" y="773" type="line"/>
+      <point x="386" y="730" type="line"/>
+      <point x="249" y="587" type="line"/>
+      <point x="147" y="587" type="line"/>
+      <point x="10" y="730" type="line"/>
+      <point x="68" y="773" type="line"/>
     </contour>
   </outline>
   <lib>

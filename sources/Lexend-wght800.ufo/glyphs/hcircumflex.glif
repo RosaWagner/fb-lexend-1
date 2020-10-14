@@ -6,7 +6,5 @@
   <anchor x="122" y="593" name="center"/>
   <anchor x="121" y="944" name="top"/>
   <outline>
-    <component base="h"/>
-    <component base="circumflexcomb.case" xOffset="-60" yOffset="187"/>
   </outline>
 </glyph>

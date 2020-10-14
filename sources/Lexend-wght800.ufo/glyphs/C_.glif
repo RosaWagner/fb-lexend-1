@@ -5,7 +5,7 @@
   <note>
 C
 </note>
-  <guideline x="347.5" y="0" angle="90.0" identifier="FaEEHQ0PIo"/>
+  <guideline x="414" y="641" angle="90.0" name="center" identifier="FaEEHQ0PIo"/>
   <anchor x="389" y="0" name="bottom"/>
   <anchor x="384" y="700" name="top"/>
   <outline>
@@ -42,6 +42,8 @@ C
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>O</string>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

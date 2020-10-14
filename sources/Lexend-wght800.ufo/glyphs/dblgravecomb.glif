@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblgravecomb" format="2">
   <unicode hex="030F"/>
+  <guideline x="574" y="781" angle="0" identifier="yfRcPAL4mX"/>
+  <guideline x="551" y="575" angle="0" identifier="2Gwq4by3rz"/>
   <anchor x="279" y="535" name="_top"/>
   <anchor x="278" y="810" name="top"/>
   <outline>
-    <component base="gravecomb" xOffset="-50" yOffset="5"/>
-    <component base="gravecomb" xOffset="199" yOffset="13"/>
+    <component base="gravecomb" xOffset="-50" yOffset="-8"/>
+    <component base="gravecomb" xOffset="199"/>
   </outline>
   <lib>
     <dict>

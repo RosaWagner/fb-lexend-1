@@ -5,7 +5,7 @@
   <note>
 A
 </note>
-  <guideline x="345.0" y="0" angle="90.0" identifier="Onci2Ybw7n"/>
+  <guideline x="345.0" y="0" angle="90.0" name="center" identifier="Onci2Ybw7n"/>
   <anchor x="345" y="0" name="bottom"/>
   <anchor x="710" y="0" name="ogonek"/>
   <anchor x="345" y="700" name="top"/>
@@ -39,4 +39,10 @@ A
       <point x="508" y="251" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

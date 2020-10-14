@@ -10,10 +10,4 @@ percent
     <component base="zero.dnom" yOffset="339"/>
     <component base="zero.dnom" xOffset="600"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -5,7 +5,7 @@
   <note>
 a
 </note>
-  <guideline x="339.5" y="0" angle="90.0" identifier="w6FTMUqGjU"/>
+  <guideline x="339" y="652" angle="90.0" name="center" identifier="w6FTMUqGjU"/>
   <anchor x="327" y="0" name="bottom"/>
   <anchor x="609" y="0" name="ogonek"/>
   <anchor x="329" y="535" name="top"/>
@@ -33,11 +33,11 @@ a
     </contour>
     <contour>
       <point x="229" y="268" type="qcurve"/>
-      <point x="229" y="214"/>
-      <point x="276" y="156"/>
+      <point x="229.0" y="214.0"/>
+      <point x="276.0" y="156.0"/>
       <point x="319" y="156" type="qcurve"/>
-      <point x="363" y="156"/>
-      <point x="410" y="214"/>
+      <point x="363.0" y="156.0"/>
+      <point x="410.0" y="214.0"/>
       <point x="410" y="268" type="qcurve"/>
       <point x="410" y="322"/>
       <point x="363" y="381"/>

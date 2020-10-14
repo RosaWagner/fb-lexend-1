@@ -26,8 +26,6 @@ dollar
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>S</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>
