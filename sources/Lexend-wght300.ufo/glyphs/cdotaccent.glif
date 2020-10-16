@@ -1,15 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cdotaccent" format="2">
-  <advance width="535"/>
+  <advance width="518"/>
   <unicode hex="010B"/>
-  <note>
-cdotaccent
-</note>
-  <anchor x="259.0" y="0" name="bottom"/>
-  <anchor x="299.0" y="770.0" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="dotaccentcomb" xOffset="194" yOffset="19"/>
+    <component base="dotaccentcomb" xOffset="171.1600000000035" yOffset="-14"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +12,8 @@ cdotaccent
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

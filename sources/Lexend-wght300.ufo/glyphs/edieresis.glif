@@ -2,15 +2,9 @@
 <glyph name="edieresis" format="2">
   <advance width="540"/>
   <unicode hex="00EB"/>
-  <note>
-edieresis
-</note>
-  <anchor x="292.0" y="-20.0" name="bottom"/>
-  <anchor x="521.0" y="10.0" name="ogonek"/>
-  <anchor x="293.0" y="704.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dieresiscomb" xOffset="82"/>
+    <component base="dieresiscomb" xOffset="96" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,8 @@ edieresis
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

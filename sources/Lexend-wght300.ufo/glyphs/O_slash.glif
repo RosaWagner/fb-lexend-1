@@ -2,22 +2,14 @@
 <glyph name="Oslash" format="2">
   <advance width="787"/>
   <unicode hex="00D8"/>
-  <note>
-Oslash
-</note>
-  <anchor x="367" y="0" name="bottom"/>
-  <anchor x="367" y="700.0" name="top"/>
-  <anchor x="386" y="350.0" name="center"/>
-  <anchor x="690.0" y="10.0" name="ogonek"/>
-  <anchor x="25" y="700.0" name="topleft"/>
-  <anchor x="387" y="706.0" name="topright"/>
   <outline>
-    <contour>
-      <point x="74" y="6" type="line"/>
-      <point x="664" y="722" type="line"/>
-      <point x="698" y="698" type="line"/>
-      <point x="107" y="-21" type="line"/>
-    </contour>
     <component base="O"/>
+    <component base="diagonalbarO" xOffset="394" yOffset="350"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
+    </dict>
+  </lib>
 </glyph>

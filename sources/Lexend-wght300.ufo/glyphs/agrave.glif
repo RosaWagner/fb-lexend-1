@@ -4,7 +4,7 @@
   <unicode hex="00E0"/>
   <outline>
     <component base="a"/>
-    <component base="gravecomb" xOffset="156" yOffset="-1"/>
+    <component base="gravecomb" xOffset="169.52000000000407" yOffset="15"/>
   </outline>
   <lib>
     <dict>
@@ -12,6 +12,8 @@
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

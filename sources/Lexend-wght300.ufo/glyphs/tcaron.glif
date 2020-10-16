@@ -1,17 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcaron" format="2">
-  <advance width="389"/>
+  <advance width="527"/>
   <unicode hex="0165"/>
-  <note>
-tcaron
-</note>
-  <anchor x="182.0" y="0" name="bottom"/>
-  <anchor x="182.0" y="256.0" name="center"/>
-  <anchor x="183.0" y="646.0" name="top"/>
-  <anchor x="308.0" y="548.0" name="topright"/>
   <outline>
-    <component base="t"/>
-    <component base="caronalt" xOffset="211" yOffset="94"/>
+    <component base="t" xOffset="42"/>
+    <component base="caronalt" xOffset="399" yOffset="-78.5"/>
   </outline>
   <lib>
     <dict>
@@ -28,6 +21,8 @@ tcaron
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>t</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

@@ -5,8 +5,9 @@
   <note>
 dotlessj
 </note>
+  <guideline x="138" y="371" angle="270.0" name="center" identifier="ijmDlHoAg2"/>
   <anchor x="151" y="0" name="bottom"/>
-  <anchor x="138" y="531.0" name="top"/>
+  <anchor x="138" y="521.0" name="top"/>
   <outline>
     <contour>
       <point x="163" y="520" type="line"/>

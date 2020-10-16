@@ -1,16 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abreve" format="2">
-  <advance width="633"/>
+  <advance width="607"/>
   <unicode hex="0103"/>
-  <note>
-abreve
-</note>
-  <anchor x="311.0" y="-20.0" name="bottom"/>
-  <anchor x="560.0" y="3.0" name="ogonek"/>
-  <anchor x="307.0" y="741.0" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="103" yOffset="29"/>
+    <component base="brevecomb" xOffset="116.72000000000116" yOffset="9"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,8 @@ abreve
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,16 +2,9 @@
 <glyph name="udieresis" format="2">
   <advance width="560"/>
   <unicode hex="00FC"/>
-  <note>
-udieresis
-</note>
-  <anchor x="299.0" y="20.0" name="bottom"/>
-  <anchor x="530.0" y="20.0" name="ogonek"/>
-  <anchor x="299.0" y="704.0" name="top"/>
-  <anchor x="386.0" y="552.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dieresiscomb" xOffset="90" yOffset="20"/>
+    <component base="dieresiscomb" xOffset="103.5" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -19,6 +12,8 @@ udieresis
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

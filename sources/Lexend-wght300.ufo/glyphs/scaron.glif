@@ -2,14 +2,9 @@
 <glyph name="scaron" format="2">
   <advance width="479"/>
   <unicode hex="0161"/>
-  <note>
-scaron
-</note>
-  <anchor x="238.0" y="0" name="bottom"/>
-  <anchor x="238.0" y="775.0" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="caroncomb" xOffset="58" yOffset="10"/>
+    <component base="caroncomb" xOffset="67.91999999999825" yOffset="-6"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +12,8 @@ scaron
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

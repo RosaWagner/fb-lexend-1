@@ -1,17 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lcommaaccent" format="2">
-  <advance width="251"/>
+  <advance width="200"/>
   <unicode hex="013C"/>
-  <note>
-lcommaaccent
-</note>
-  <anchor x="100.0" y="-289.0" name="bottom"/>
-  <anchor x="122.0" y="289.0" name="center"/>
-  <anchor x="123.0" y="740.0" name="top"/>
-  <anchor x="229.0" y="580.0" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="commaaccentcomb.case" xOffset="-22"/>
+    <component base="commaaccentcomb" xOffset="-21.399999999999636" yOffset="-57"/>
   </outline>
   <lib>
     <dict>
@@ -19,6 +12,8 @@ lcommaaccent
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

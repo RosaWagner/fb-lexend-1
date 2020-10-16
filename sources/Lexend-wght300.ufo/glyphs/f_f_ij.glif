@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_ij" format="2">
-  <advance width="1274"/>
+  <advance width="1128"/>
   <outline>
     <component base="f"/>
-    <component base="f_ij" xOffset="393"/>
+    <component base="f" xOffset="364"/>
+    <component base="ij" xOffset="728"/>
   </outline>
   <lib>
     <dict>
@@ -11,6 +12,8 @@
       <string>f</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ij</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

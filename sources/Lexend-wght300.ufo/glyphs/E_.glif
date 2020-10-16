@@ -5,6 +5,7 @@
   <note>
 E
 </note>
+  <guideline x="315" y="457" angle="270.0" name="center" identifier="boOiPIFTsa"/>
   <anchor x="315.5982078959924" y="0" name="bottom"/>
   <anchor x="469" y="10.0" name="ogonek"/>
   <anchor x="310.5982078959924" y="700.0" name="top"/>

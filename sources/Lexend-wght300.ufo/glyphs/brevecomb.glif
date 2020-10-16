@@ -5,7 +5,7 @@
   <anchor x="182.0" y="520" name="_top"/>
   <anchor x="182.0" y="740" name="top"/>
   <outline>
-    <component base="breve" yOffset="35"/>
+    <component base="breve" yOffset="6"/>
   </outline>
   <lib>
     <dict>

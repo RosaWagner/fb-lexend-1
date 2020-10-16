@@ -1,16 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbar" format="2">
-  <advance width="595"/>
+  <advance width="560"/>
   <unicode hex="0127"/>
-  <note>
-hbar
-</note>
-  <anchor x="292.0" y="0" name="bottom"/>
-  <anchor x="122.0" y="593.0" name="center"/>
-  <anchor x="121.0" y="729.0" name="top"/>
   <outline>
     <component base="h"/>
-    <component base="strokeshortcomb" xOffset="-55" yOffset="299"/>
+    <component base="horizontalbarlc" xOffset="211.29000000000087" yOffset="614.1999999999825"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,8 @@ hbar
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

@@ -5,7 +5,7 @@
   <note>
 I
 </note>
-  <guideline x="206.0" y="0" angle="270.0" identifier="Ryo1iLfLUE"/>
+  <guideline x="206.0" y="0" angle="270.0" name="center" identifier="Ryo1iLfLUE"/>
   <anchor x="206" y="0" name="bottom"/>
   <anchor x="314" y="10.0" name="ogonek"/>
   <anchor x="206" y="700.0" name="top"/>
