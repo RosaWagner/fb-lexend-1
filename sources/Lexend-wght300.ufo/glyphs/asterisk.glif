@@ -7,9 +7,6 @@ asterisk
 </note>
   <outline>
     <contour>
-      <point x="329" y="441" type="line"/>
-      <point x="204" y="518" type="line"/>
-      <point x="213" y="520" type="line"/>
       <point x="221" y="376" type="line"/>
       <point x="175" y="376" type="line"/>
       <point x="183" y="521" type="line"/>
@@ -31,6 +28,9 @@ asterisk
       <point x="220" y="532" type="line"/>
       <point x="220" y="544" type="line"/>
       <point x="352" y="480" type="line"/>
+      <point x="329" y="441" type="line"/>
+      <point x="204" y="518" type="line"/>
+      <point x="213" y="520" type="line"/>
     </contour>
   </outline>
   <lib>

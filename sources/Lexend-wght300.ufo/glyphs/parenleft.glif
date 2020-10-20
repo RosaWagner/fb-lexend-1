@@ -7,10 +7,6 @@ parenleft
 </note>
   <outline>
     <contour>
-      <point x="300" y="-153" type="qcurve"/>
-      <point x="270" y="-186" type="line"/>
-      <point x="148" y="-110"/>
-      <point x="20" y="118"/>
       <point x="20" y="258" type="qcurve" smooth="yes"/>
       <point x="20" y="397"/>
       <point x="149" y="626"/>
@@ -21,6 +17,10 @@ parenleft
       <point x="70" y="258" type="qcurve"/>
       <point x="70" y="135"/>
       <point x="187" y="-74"/>
+      <point x="300" y="-153" type="qcurve"/>
+      <point x="270" y="-186" type="line"/>
+      <point x="148" y="-110"/>
+      <point x="20" y="118"/>
     </contour>
   </outline>
   <lib>

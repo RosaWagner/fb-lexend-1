@@ -7,22 +7,22 @@ pi
 </note>
   <outline>
     <contour>
-      <point x="205.0" y="0.0" type="line"/>
-      <point x="114.0" y="0.0" type="line"/>
-      <point x="114.0" y="476.0" type="line"/>
-      <point x="131.0" y="425.0" type="line"/>
-      <point x="40.0" y="425.0" type="line"/>
-      <point x="40.0" y="526.0" type="line"/>
-      <point x="574.0" y="526.0" type="line"/>
-      <point x="574.0" y="425.0" type="line"/>
-      <point x="491.0" y="425.0" type="line"/>
-      <point x="500.0" y="438.0" type="line"/>
-      <point x="500.0" y="0.0" type="line"/>
-      <point x="409.0" y="0.0" type="line"/>
-      <point x="409.0" y="460.0" type="line"/>
-      <point x="419.0" y="425.0" type="line"/>
-      <point x="192.0" y="425.0" type="line"/>
-      <point x="205.0" y="438.0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="114" y="509" type="line"/>
+      <point x="131" y="474" type="line"/>
+      <point x="40" y="474" type="line"/>
+      <point x="40" y="520" type="line"/>
+      <point x="574" y="520" type="line"/>
+      <point x="574" y="474" type="line"/>
+      <point x="483" y="474" type="line"/>
+      <point x="500" y="509" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="450" y="488" type="line"/>
+      <point x="464" y="474" type="line"/>
+      <point x="151" y="474" type="line"/>
+      <point x="164" y="487" type="line"/>
     </contour>
   </outline>
 </glyph>

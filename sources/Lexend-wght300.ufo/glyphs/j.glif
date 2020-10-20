@@ -5,8 +5,8 @@
   <note>
 j
 </note>
-  <anchor x="137" y="0" name="bottom"/>
-  <anchor x="124" y="520.0" name="top"/>
+  <anchor x="103" y="0" name="bottom"/>
+  <anchor x="100" y="733.0" name="top"/>
   <outline>
     <component base="jdotless" xOffset="-38"/>
     <component base="dotaccentcomb" xOffset="-5" yOffset="14"/>

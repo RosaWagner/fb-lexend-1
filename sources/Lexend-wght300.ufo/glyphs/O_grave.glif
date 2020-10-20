@@ -2,9 +2,10 @@
 <glyph name="Ograve" format="2">
   <advance width="787"/>
   <unicode hex="00D2"/>
+  <guideline x="393.5" y="0" angle="270.0" identifier="JxxAwVS5xz"/>
   <outline>
     <component base="O"/>
-    <component base="gravecomb.case" xOffset="258" yOffset="168"/>
+    <component base="gravecomb.case" xOffset="235" yOffset="168"/>
   </outline>
   <lib>
     <dict>

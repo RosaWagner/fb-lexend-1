@@ -2,6 +2,7 @@
 <glyph name="Yacute" format="2">
   <advance width="631"/>
   <unicode hex="00DD"/>
+  <guideline x="315.5" y="0" angle="270.0" identifier="nHEpdRezSy"/>
   <outline>
     <component base="Y"/>
     <component base="acutecomb.case" xOffset="229.80000000001746" yOffset="168"/>

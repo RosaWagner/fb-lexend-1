@@ -7,9 +7,6 @@ comma
 </note>
   <outline>
     <contour>
-      <point x="78" y="42" type="qcurve"/>
-      <point x="78" y="56"/>
-      <point x="99" y="75"/>
       <point x="114" y="75" type="qcurve"/>
       <point x="142" y="75"/>
       <point x="173" y="37"/>
@@ -26,6 +23,9 @@ comma
       <point x="100" y="4" type="qcurve"/>
       <point x="90" y="13"/>
       <point x="78" y="31"/>
+      <point x="78" y="42" type="qcurve"/>
+      <point x="78" y="56"/>
+      <point x="99" y="75"/>
     </contour>
   </outline>
   <lib>

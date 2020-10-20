@@ -5,27 +5,27 @@
   <anchor x="219" y="10" name="_bottom"/>
   <outline>
     <contour>
-      <point x="148.0" y="-195.0" type="qcurve"/>
-      <point x="106.0" y="-195.0"/>
-      <point x="50.0" y="-138"/>
-      <point x="50.0" y="-100.0" type="qcurve"/>
-      <point x="50.0" y="-52"/>
-      <point x="135" y="20"/>
+      <point x="158.0" y="-195.0" type="qcurve"/>
+      <point x="116.0" y="-195.0"/>
+      <point x="60.0" y="-138"/>
+      <point x="60.0" y="-100.0" type="qcurve"/>
+      <point x="60.0" y="-52.0"/>
+      <point x="139.4036395577639" y="20.69200050193433"/>
       <point x="205.0" y="31.0" type="qcurve"/>
       <point x="229.0" y="28.0" type="line"/>
       <point x="229.0" y="0.0" type="line"/>
-      <point x="172" y="-6"/>
-      <point x="101.0" y="-58"/>
-      <point x="101.0" y="-90.0" type="qcurve" smooth="yes"/>
-      <point x="101.0" y="-114"/>
-      <point x="131.0" y="-144.0"/>
-      <point x="155.0" y="-144.0" type="qcurve" smooth="yes"/>
-      <point x="171" y="-144.0"/>
-      <point x="196" y="-130"/>
-      <point x="209.0" y="-111.0" type="qcurve"/>
-      <point x="248.0" y="-139.0" type="line"/>
-      <point x="239" y="-162"/>
-      <point x="180.0" y="-195.0"/>
+      <point x="176.40228037424208" y="-5.5366020658692525"/>
+      <point x="111.0" y="-58.0"/>
+      <point x="111.0" y="-90.0" type="qcurve" smooth="yes"/>
+      <point x="111.0" y="-114"/>
+      <point x="141.0" y="-144.0"/>
+      <point x="165.0" y="-144.0" type="qcurve" smooth="yes"/>
+      <point x="181" y="-144.0"/>
+      <point x="206" y="-130"/>
+      <point x="219.0" y="-111.0" type="qcurve"/>
+      <point x="258.0" y="-139.0" type="line"/>
+      <point x="245" y="-166"/>
+      <point x="190.0" y="-195.0"/>
     </contour>
   </outline>
   <lib>

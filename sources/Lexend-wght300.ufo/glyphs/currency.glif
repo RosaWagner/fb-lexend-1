@@ -39,10 +39,10 @@ currency
       <point x="148" y="360"/>
     </contour>
     <contour>
-      <point x="184" y="428" type="line"/>
       <point x="148" y="393" type="line"/>
       <point x="68" y="468" type="line"/>
       <point x="103" y="504" type="line"/>
+      <point x="184" y="428" type="line"/>
     </contour>
     <contour>
       <point x="375" y="428" type="line"/>
@@ -51,16 +51,16 @@ currency
       <point x="411" y="393" type="line"/>
     </contour>
     <contour>
-      <point x="184" y="182" type="line"/>
-      <point x="103" y="106" type="line"/>
       <point x="68" y="142" type="line"/>
       <point x="148" y="217" type="line"/>
+      <point x="184" y="182" type="line"/>
+      <point x="103" y="106" type="line"/>
     </contour>
     <contour>
+      <point x="456" y="106" type="line"/>
       <point x="375" y="182" type="line"/>
       <point x="411" y="217" type="line"/>
       <point x="491" y="142" type="line"/>
-      <point x="456" y="106" type="line"/>
     </contour>
   </outline>
   <lib>

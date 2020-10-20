@@ -6,11 +6,32 @@
 Iogonek
 </note>
   <anchor x="238.0" y="0" name="bottom"/>
-  <anchor x="428.0" y="10.0" name="ogonek"/>
+  <anchor x="346.0" y="10.0" name="ogonek"/>
   <anchor x="238.0" y="700.0" name="top"/>
   <anchor x="123.0" y="700.0" name="topleft"/>
   <outline>
+    <contour>
+      <point x="324" y="0" type="line"/>
+      <point x="257.17734073048473" y="-7.544493788493663"/>
+      <point x="187.0" y="-73.0"/>
+      <point x="187" y="-112" type="qcurve"/>
+      <point x="187.0" y="-139.0"/>
+      <point x="229.0" y="-172.0"/>
+      <point x="262" y="-172" type="qcurve"/>
+      <point x="288" y="-172"/>
+      <point x="336" y="-154"/>
+      <point x="350" y="-142" type="qcurve"/>
+      <point x="372" y="-176" type="line"/>
+      <point x="353" y="-193"/>
+      <point x="295" y="-217"/>
+      <point x="259" y="-217" type="qcurve"/>
+      <point x="205" y="-217"/>
+      <point x="139" y="-159"/>
+      <point x="139" y="-110" type="qcurve"/>
+      <point x="139.0" y="-67.0"/>
+      <point x="214.7545260823092" y="7.744041456327558"/>
+      <point x="291" y="26" type="qcurve"/>
+    </contour>
     <component base="I"/>
-    <component base="ogonek" xOffset="155"/>
   </outline>
 </glyph>
