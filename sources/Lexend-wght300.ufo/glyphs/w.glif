@@ -5,7 +5,7 @@
   <note>
 w
 </note>
-  <guideline x="371.5" y="0" angle="270.0" identifier="Tu0jlyTfzs"/>
+  <guideline x="371.5" y="0" angle="270.0" name="center" identifier="Tu0jlyTfzs"/>
   <anchor x="372" y="0" name="bottom"/>
   <anchor x="372" y="520.0" name="top"/>
   <outline>

@@ -2,10 +2,9 @@
 <glyph name="eacute" format="2">
   <advance width="540"/>
   <unicode hex="00E9"/>
-  <guideline x="270.0" y="0" angle="270.0" identifier="wVcASj5EXL"/>
   <outline>
     <component base="e"/>
-    <component base="acutecomb" xOffset="142" yOffset="15"/>
+    <component base="acutecomb" xOffset="144.61999999999534" yOffset="15"/>
   </outline>
   <lib>
     <dict>

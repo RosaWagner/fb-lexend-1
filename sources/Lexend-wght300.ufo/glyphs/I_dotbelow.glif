@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idotbelow" format="2">
-  <advance width="478"/>
+  <advance width="412"/>
   <unicode hex="1ECA"/>
-  <anchor x="238.0" y="-194.0" name="bottom"/>
-  <anchor x="428.0" y="10.0" name="ogonek"/>
-  <anchor x="238.0" y="700.0" name="top"/>
-  <anchor x="123.0" y="700.0" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="dotbelowcomb.case" xOffset="133"/>
+    <component base="dotbelowcomb.case" xOffset="100" yOffset="-72"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
+    </dict>
+  </lib>
 </glyph>

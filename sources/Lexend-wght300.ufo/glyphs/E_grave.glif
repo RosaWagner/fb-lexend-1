@@ -2,10 +2,9 @@
 <glyph name="Egrave" format="2">
   <advance width="585"/>
   <unicode hex="00C8"/>
-  <guideline x="292.5" y="0" angle="270.0" identifier="UkwDuuYotc"/>
   <outline>
     <component base="E"/>
-    <component base="gravecomb.case" xOffset="140" yOffset="168"/>
+    <component base="gravecomb.case" xOffset="158.5399999999936" yOffset="168"/>
   </outline>
   <lib>
     <dict>

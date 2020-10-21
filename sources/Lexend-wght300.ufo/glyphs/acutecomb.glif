@@ -1,23 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb" format="2">
+  <advance width="269"/>
   <unicode hex="0301"/>
-  <guideline x="126" y="441" angle="270" identifier="shSsaxRl05"/>
-  <anchor x="126.0" y="540" name="_top"/>
-  <anchor x="126.0" y="740" name="top"/>
   <outline>
-    <contour>
-      <point x="234.0" y="692.0" type="line"/>
-      <point x="73.0" y="600.0" type="line"/>
-      <point x="60.0" y="619.0" type="line"/>
-      <point x="196.0" y="739.0" type="line"/>
-    </contour>
+    <component base="acute"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>269</integer>
       <key>public.markColor</key>
-      <string>0.983,1,0.5753,1</string>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

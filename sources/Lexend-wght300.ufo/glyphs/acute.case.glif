@@ -2,7 +2,12 @@
 <glyph name="acute.case" format="2">
   <advance width="249"/>
   <outline>
-    <component base="acutecomb.case"/>
+    <contour>
+      <point x="211" y="694" type="line"/>
+      <point x="50" y="602" type="line"/>
+      <point x="36" y="621" type="line"/>
+      <point x="173" y="741" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

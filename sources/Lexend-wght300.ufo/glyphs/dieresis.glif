@@ -5,7 +5,34 @@
   <guideline x="181.0" y="0" angle="270.0" identifier="hENX0FA4P9"/>
   <anchor x="181" y="520.0" name="_top"/>
   <outline>
-    <component base="dieresiscomb" xOffset="5"/>
+    <contour>
+      <point x="132" y="674" type="qcurve" smooth="yes"/>
+      <point x="132" y="654"/>
+      <point x="108" y="629"/>
+      <point x="86" y="629" type="qcurve" smooth="yes"/>
+      <point x="64" y="629"/>
+      <point x="40" y="653"/>
+      <point x="40" y="674" type="qcurve" smooth="yes"/>
+      <point x="40" y="694"/>
+      <point x="64" y="719"/>
+      <point x="86" y="719" type="qcurve" smooth="yes"/>
+      <point x="108" y="719"/>
+      <point x="132" y="695"/>
+    </contour>
+    <contour>
+      <point x="322" y="674" type="qcurve" smooth="yes"/>
+      <point x="322" y="654"/>
+      <point x="298" y="629"/>
+      <point x="276" y="629" type="qcurve" smooth="yes"/>
+      <point x="254" y="629"/>
+      <point x="230" y="653"/>
+      <point x="230" y="674" type="qcurve" smooth="yes"/>
+      <point x="230" y="694"/>
+      <point x="254" y="719"/>
+      <point x="276" y="719" type="qcurve" smooth="yes"/>
+      <point x="298" y="719"/>
+      <point x="322" y="695"/>
+    </contour>
   </outline>
   <lib>
     <dict>

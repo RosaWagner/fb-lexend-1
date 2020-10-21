@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abreveacute" format="2">
-  <advance width="633"/>
+  <advance width="607"/>
   <unicode hex="1EAF"/>
-  <anchor x="311.0" y="-20.0" name="bottom"/>
-  <anchor x="560.0" y="3.0" name="ogonek"/>
-  <anchor x="315.0" y="766.0" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb_acutecomb" xOffset="115" yOffset="15"/>
+    <component base="brevecomb" xOffset="118" yOffset="15"/>
+    <component base="acutecomb" xOffset="188" yOffset="182"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
+    </dict>
+  </lib>
 </glyph>

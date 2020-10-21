@@ -1,15 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wacute" format="2">
-  <advance width="800"/>
+  <advance width="743"/>
   <unicode hex="1E83"/>
-  <note>
-wacute
-</note>
-  <anchor x="410.0" y="0" name="bottom"/>
-  <anchor x="445.0" y="764.0" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="acutecomb" xOffset="320" yOffset="-27"/>
+    <component base="acutecomb" xOffset="239.5" yOffset="15"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +12,8 @@ wacute
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
     </dict>
   </lib>
 </glyph>

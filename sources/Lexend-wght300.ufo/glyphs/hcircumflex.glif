@@ -2,10 +2,9 @@
 <glyph name="hcircumflex" format="2">
   <advance width="560"/>
   <unicode hex="0125"/>
-  <guideline x="99" y="778" angle="270" identifier="QKZPBPWp09"/>
   <outline>
     <component base="h"/>
-    <component base="circumflexcomb" xOffset="-48" yOffset="166"/>
+    <component base="circumflexcomb" xOffset="-81" yOffset="166"/>
   </outline>
   <lib>
     <dict>

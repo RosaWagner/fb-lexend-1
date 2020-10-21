@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotbelowcomb.case" format="2">
+  <guideline x="105" y="-44" angle="270" identifier="1zjKPzeGkK"/>
   <anchor x="105.0" y="0" name="_bottom"/>
-  <anchor x="105.0" y="-194.0" name="bottom"/>
+  <anchor x="105.0" y="0.0" name="bottom"/>
   <outline>
-    <component base="dotaccent" yOffset="-827"/>
+    <component base="dotaccent" xOffset="1" yOffset="-751"/>
   </outline>
   <lib>
     <dict>

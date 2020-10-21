@@ -2,8 +2,6 @@
 <glyph name="Ntilde" format="2">
   <advance width="781"/>
   <unicode hex="00D1"/>
-  <guideline x="390.5" y="0" angle="270.0" identifier="HwpQdPh58x"/>
-  <guideline x="390.5" y="0" angle="270.0" identifier="R2tWhnQaOB"/>
   <outline>
     <component base="N"/>
     <component base="tildecomb.case" xOffset="182" yOffset="177"/>

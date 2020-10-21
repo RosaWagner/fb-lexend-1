@@ -2,9 +2,9 @@
 <glyph name="f_f_ij" format="2">
   <advance width="1128"/>
   <outline>
-    <component base="f" xOffset="10"/>
-    <component base="f" xOffset="354"/>
-    <component base="ij" xOffset="716"/>
+    <component base="f"/>
+    <component base="f" xOffset="364"/>
+    <component base="ij" xOffset="728"/>
   </outline>
   <lib>
     <dict>

@@ -1,39 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iogonek" format="2">
-  <advance width="289"/>
+  <advance width="200"/>
   <unicode hex="012F"/>
-  <note>
-iogonek
-</note>
   <outline>
-    <contour>
-      <point x="137" y="-201" type="qcurve"/>
-      <point x="91.57943925233644" y="-201.0"/>
-      <point x="29.0" y="-148.0"/>
-      <point x="29" y="-103" type="qcurve"/>
-      <point x="29.0" y="-58.0"/>
-      <point x="85" y="0"/>
-      <point x="130" y="21" type="qcurve"/>
-      <point x="167" y="0" type="line"/>
-      <point x="117" y="-26"/>
-      <point x="77.0" y="-71.0"/>
-      <point x="77" y="-103" type="qcurve"/>
-      <point x="77.0" y="-128"/>
-      <point x="113.0" y="-160.0"/>
-      <point x="142" y="-160" type="qcurve"/>
-      <point x="161.0" y="-160.0"/>
-      <point x="198.18875315135398" y="-146.81124684864602"/>
-      <point x="211" y="-134" type="qcurve"/>
-      <point x="231" y="-164" type="line"/>
-      <point x="214" y="-180"/>
-      <point x="164" y="-201"/>
-    </contour>
-    <contour>
-      <point x="167" y="520" type="line"/>
-      <point x="167" y="0" type="line"/>
-      <point x="117" y="0" type="line"/>
-      <point x="117" y="520" type="line"/>
-    </contour>
-    <component base="dotaccentcomb" xOffset="45"/>
+    <component base="i"/>
+    <component base="ogonekcomb" xOffset="-35.11999999999534" yOffset="-26"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3081,1,0.0008,1</string>
+    </dict>
+  </lib>
 </glyph>

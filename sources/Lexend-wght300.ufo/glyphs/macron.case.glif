@@ -2,7 +2,12 @@
 <glyph name="macron.case" format="2">
   <advance width="431"/>
   <outline>
-    <component base="macroncomb.case" yOffset="40"/>
+    <contour>
+      <point x="357" y="652" type="line"/>
+      <point x="73" y="652" type="line"/>
+      <point x="73" y="700" type="line"/>
+      <point x="357" y="700" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -2,10 +2,9 @@
 <glyph name="Iacute" format="2">
   <advance width="412"/>
   <unicode hex="00CD"/>
-  <guideline x="206.0" y="0" angle="270.0" identifier="KCRZMDzyEp"/>
   <outline>
     <component base="I"/>
-    <component base="acutecomb.case" xOffset="95" yOffset="168"/>
+    <component base="acutecomb.case" xOffset="96.02999999999884" yOffset="168"/>
   </outline>
   <lib>
     <dict>

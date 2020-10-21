@@ -2,9 +2,10 @@
 <glyph name="Tcaron" format="2">
   <advance width="517"/>
   <unicode hex="0164"/>
+  <guideline x="258.5" y="0" angle="270.0" identifier="CCYw308fVj"/>
   <outline>
     <component base="T"/>
-    <component base="caroncomb.case" xOffset="111" yOffset="159"/>
+    <component base="caroncomb.case" xOffset="77" yOffset="159"/>
   </outline>
   <lib>
     <dict>
