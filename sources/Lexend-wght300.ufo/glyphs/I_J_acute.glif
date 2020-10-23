@@ -3,7 +3,7 @@
   <advance width="1011"/>
   <outline>
     <component base="IJ"/>
-    <component base="acutecomb.case" xOffset="608.8000000000466" yOffset="168"/>
+    <component base="acutecomb.case" xOffset="716.2000000000116" yOffset="168"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +39,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>J</string>
       <key>public.markColor</key>
-      <string>0.3081,1,0.0008,1</string>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

@@ -5,7 +5,7 @@
   <outline>
     <component base="A"/>
     <component base="circumflexcomb.case" xOffset="142.5" yOffset="158"/>
-    <component base="dotbelowcomb.case" xOffset="217.5" yOffset="-72"/>
+    <component base="dotbelowcomb.case" xOffset="217.5" yOffset="-98"/>
   </outline>
   <lib>
     <dict>
@@ -14,7 +14,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
       <key>public.markColor</key>
-      <string>0.3081,1,0.0008,1</string>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

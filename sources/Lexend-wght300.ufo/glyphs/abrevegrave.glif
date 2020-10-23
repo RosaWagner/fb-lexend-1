@@ -5,12 +5,12 @@
   <outline>
     <component base="a"/>
     <component base="brevecomb" xOffset="118" yOffset="15"/>
-    <component base="gravecomb" xOffset="143" yOffset="183"/>
+    <component base="gravecomb" xOffset="123" yOffset="183"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.3081,1,0.0008,1</string>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

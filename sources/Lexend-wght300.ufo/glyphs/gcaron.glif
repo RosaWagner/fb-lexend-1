@@ -4,12 +4,12 @@
   <unicode hex="01E7"/>
   <outline>
     <component base="g"/>
-    <component base="caroncomb" xOffset="119.68000000000029" yOffset="-6"/>
+    <component base="caroncomb" xOffset="120.5199999999968" yOffset="5"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.3081,1,0.0008,1</string>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

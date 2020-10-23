@@ -7,7 +7,7 @@ divide
 </note>
   <guideline x="295.5" y="0" angle="270.0" identifier="EWBCfLqhk8"/>
   <outline>
-    <component base="minus" xOffset="-1" yOffset="-25"/>
+    <component base="minus" xOffset="-1" yOffset="6"/>
     <component base="dotaccent" xOffset="191" yOffset="-230"/>
     <component base="dotaccent" xOffset="190" yOffset="-548"/>
   </outline>

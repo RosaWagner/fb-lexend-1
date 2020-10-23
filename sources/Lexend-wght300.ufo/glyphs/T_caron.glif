@@ -2,15 +2,14 @@
 <glyph name="Tcaron" format="2">
   <advance width="517"/>
   <unicode hex="0164"/>
-  <guideline x="258.5" y="0" angle="270.0" identifier="CCYw308fVj"/>
   <outline>
     <component base="T"/>
-    <component base="caroncomb.case" xOffset="77" yOffset="159"/>
+    <component base="caroncomb.case" xOffset="78" yOffset="167"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.3081,1,0.0008,1</string>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

@@ -39,10 +39,10 @@ AE
       <point x="486" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="176" y="211" type="line"/>
-      <point x="212" y="261" type="line"/>
-      <point x="490" y="261" type="line"/>
-      <point x="490" y="211" type="line"/>
+      <point x="176" y="191" type="line"/>
+      <point x="212" y="241" type="line"/>
+      <point x="490" y="241" type="line"/>
+      <point x="490" y="191" type="line"/>
     </contour>
   </outline>
   <lib>
