@@ -1,18 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ihookabove" format="2">
-  <advance width="243"/>
+  <advance width="323"/>
   <unicode hex="1EC9"/>
-  <anchor x="124" y="0" name="bottom"/>
-  <anchor x="208" y="10" name="ogonek"/>
-  <anchor x="114" y="823" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="hookabovecomb" xOffset="-31" yOffset="33"/>
+    <component base="hookabovecomb" xOffset="18.5" yOffset="13"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

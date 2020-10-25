@@ -1,31 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb" format="2">
+  <advance width="238"/>
   <unicode hex="0307"/>
-  <guideline x="105" y="483" angle="90" identifier="IWfZXDH1SY"/>
-  <guideline x="-82" y="781" angle="0" identifier="5Ew9UFTPju"/>
-  <guideline x="-100" y="575" angle="0" identifier="1mKz8oOrSr"/>
-  <anchor x="105" y="511" name="_top"/>
-  <anchor x="105" y="751" name="top"/>
   <outline>
-    <contour>
-      <point x="221" y="678" type="qcurve" smooth="yes"/>
-      <point x="221.0" y="636.0"/>
-      <point x="159.15126050420167" y="582.0"/>
-      <point x="106" y="582" type="qcurve"/>
-      <point x="51.88235294117647" y="582.0"/>
-      <point x="-9.0" y="632.0"/>
-      <point x="-9" y="678" type="qcurve" smooth="yes"/>
-      <point x="-9.0" y="720.0"/>
-      <point x="52.84873949579832" y="774.0"/>
-      <point x="106" y="774" type="qcurve"/>
-      <point x="160.11764705882354" y="774.0"/>
-      <point x="221.0" y="724.0"/>
-    </contour>
+    <component base="dotaccent"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>210</integer>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

@@ -11,7 +11,8 @@ uni00B5
       <point x="488" y="520" type="line"/>
       <point x="488" y="0" type="line"/>
       <point x="440" y="0" type="line"/>
-      <point x="436" y="96" type="line"/>
+      <point x="435" y="126" type="line"/>
+      <point x="449" y="123" type="line"/>
       <point x="415" y="52"/>
       <point x="314" y="-10"/>
       <point x="261" y="-10" type="qcurve"/>

@@ -1,19 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ellipsis" format="2">
-  <advance width="754"/>
+  <advance width="834"/>
   <unicode hex="2026"/>
-  <note>
-ellipsis
-</note>
   <outline>
     <component base="period"/>
-    <component base="period" xOffset="238"/>
-    <component base="period" xOffset="476"/>
+    <component base="period" xOffset="278"/>
+    <component base="period" xOffset="556"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>period</string>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oinvertedbreve" format="2">
-  <advance width="615"/>
+  <advance width="660"/>
   <unicode hex="020F"/>
-  <anchor x="305" y="0" name="bottom"/>
-  <anchor x="305" y="256" name="center"/>
-  <anchor x="547" y="10" name="ogonek"/>
-  <anchor x="305" y="764" name="top"/>
-  <anchor x="319" y="531" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="breveinvertedcomb" xOffset="101" yOffset="-11"/>
+    <component base="breveinvertedcomb" xOffset="128" yOffset="30"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

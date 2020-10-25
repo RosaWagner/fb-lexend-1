@@ -5,20 +5,20 @@
   <anchor x="207" y="548" name="_top"/>
   <outline>
     <contour>
-      <point x="376.8873982716809" y="663.4369913584045"/>
-      <point x="274.0" y="570.0"/>
-      <point x="201" y="570" type="qcurve" smooth="yes"/>
-      <point x="128.0" y="570.0"/>
-      <point x="25.112601728319095" y="663.4369913584045"/>
-      <point x="9" y="744" type="qcurve"/>
-      <point x="133" y="756" type="line"/>
-      <point x="142" y="730"/>
-      <point x="180.0" y="701.0"/>
-      <point x="201" y="701" type="qcurve" smooth="yes"/>
-      <point x="222.0" y="701.0"/>
-      <point x="260" y="730"/>
-      <point x="269" y="756" type="qcurve"/>
-      <point x="393" y="744" type="line"/>
+      <point x="378" y="669"/>
+      <point x="274.0" y="582.0"/>
+      <point x="201" y="582" type="qcurve" smooth="yes"/>
+      <point x="128.0" y="582.0"/>
+      <point x="24" y="669"/>
+      <point x="9" y="746" type="qcurve"/>
+      <point x="133" y="758" type="line"/>
+      <point x="142" y="732"/>
+      <point x="180.0" y="703.0"/>
+      <point x="201" y="703" type="qcurve" smooth="yes"/>
+      <point x="222.0" y="703.0"/>
+      <point x="260" y="732"/>
+      <point x="269" y="758" type="qcurve"/>
+      <point x="393" y="746" type="line"/>
     </contour>
   </outline>
 </glyph>

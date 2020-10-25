@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odblgrave" format="2">
-  <advance width="615"/>
+  <advance width="660"/>
   <unicode hex="020D"/>
-  <anchor x="305" y="0" name="bottom"/>
-  <anchor x="305" y="256" name="center"/>
-  <anchor x="547" y="10" name="ogonek"/>
-  <anchor x="274" y="824" name="top"/>
-  <anchor x="319" y="531" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="dblgravecomb" xOffset="46" yOffset="14"/>
+    <component base="dblgravecomb" xOffset="-4.849999999976717" yOffset="53"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

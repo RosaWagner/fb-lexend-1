@@ -9,9 +9,6 @@ asterisk
   <guideline x="277" y="461" angle="0" identifier="6H31bwO9kH"/>
   <outline>
     <contour>
-      <point x="320" y="398" type="line"/>
-      <point x="223" y="483" type="line"/>
-      <point x="247" y="482" type="line"/>
       <point x="254" y="366" type="line"/>
       <point x="139" y="366" type="line"/>
       <point x="147" y="486" type="line"/>
@@ -33,6 +30,9 @@ asterisk
       <point x="254" y="532" type="line"/>
       <point x="254" y="551" type="line"/>
       <point x="372" y="500" type="line"/>
+      <point x="320" y="398" type="line"/>
+      <point x="223" y="483" type="line"/>
+      <point x="247" y="482" type="line"/>
     </contour>
   </outline>
   <lib>

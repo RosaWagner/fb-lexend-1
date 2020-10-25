@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Abrevetilde" format="2">
-  <advance width="700"/>
+  <advance width="690"/>
   <unicode hex="1EB4"/>
-  <anchor x="352" y="0" name="bottom"/>
-  <anchor x="609" y="10" name="ogonek"/>
-  <anchor x="362" y="1107" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb.case" xOffset="148" yOffset="80"/>
-    <component base="tildecomb.case" xOffset="142" yOffset="374"/>
+    <component base="brevecomb.case" xOffset="144" yOffset="114"/>
+    <component base="tildecomb.case" xOffset="133.5" yOffset="438"/>
   </outline>
   <lib>
     <dict>
@@ -16,6 +13,8 @@
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

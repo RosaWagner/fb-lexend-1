@@ -1,8 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflex" format="2">
-  <advance width="368"/>
+  <advance width="416"/>
   <unicode hex="02C6"/>
+  <guideline x="-78" y="781" angle="0" identifier="mKFVi7oaAY"/>
+  <guideline x="-78" y="575" angle="0" identifier="blA9sXrO51"/>
   <outline>
-    <component base="caron" yScale="-1" yOffset="1320"/>
+    <contour>
+      <point x="338" y="577" type="line"/>
+      <point x="193" y="655" type="line"/>
+      <point x="223" y="655" type="line"/>
+      <point x="78" y="577" type="line"/>
+      <point x="20" y="620" type="line"/>
+      <point x="157" y="763" type="line"/>
+      <point x="259" y="763" type="line"/>
+      <point x="396" y="620" type="line"/>
+    </contour>
   </outline>
 </glyph>

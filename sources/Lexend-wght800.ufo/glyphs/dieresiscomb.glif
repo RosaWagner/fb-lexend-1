@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb" format="2">
+  <advance width="511"/>
   <unicode hex="0308"/>
-  <guideline x="-46" y="781" angle="0" identifier="Lv4HoacCeX"/>
-  <guideline x="-58" y="575" angle="0" identifier="862OxWLDG3"/>
-  <anchor x="235" y="536" name="_top"/>
-  <anchor x="235" y="710" name="top"/>
   <outline>
-    <component base="dieresis" xOffset="-15" yOffset="22"/>
+    <component base="dieresis"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>413</integer>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

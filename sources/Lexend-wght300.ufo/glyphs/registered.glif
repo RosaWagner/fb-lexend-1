@@ -7,6 +7,20 @@ registered
 </note>
   <outline>
     <contour>
+      <point x="489" y="484" type="qcurve" smooth="yes"/>
+      <point x="489" y="390"/>
+      <point x="355" y="259"/>
+      <point x="260" y="259" type="qcurve" smooth="yes"/>
+      <point x="164" y="259"/>
+      <point x="30" y="390"/>
+      <point x="30" y="484" type="qcurve" smooth="yes"/>
+      <point x="30" y="578"/>
+      <point x="165" y="709"/>
+      <point x="260" y="709" type="qcurve" smooth="yes"/>
+      <point x="354" y="709"/>
+      <point x="489" y="577"/>
+    </contour>
+    <contour>
       <point x="356" y="534" type="qcurve" smooth="yes"/>
       <point x="356" y="502"/>
       <point x="311" y="461"/>
@@ -32,20 +46,6 @@ registered
       <point x="186" y="579" type="line"/>
       <point x="207" y="589" type="line"/>
       <point x="207" y="479" type="line"/>
-    </contour>
-    <contour>
-      <point x="489" y="484" type="qcurve" smooth="yes"/>
-      <point x="489" y="390"/>
-      <point x="355" y="259"/>
-      <point x="260" y="259" type="qcurve" smooth="yes"/>
-      <point x="164" y="259"/>
-      <point x="30" y="390"/>
-      <point x="30" y="484" type="qcurve" smooth="yes"/>
-      <point x="30" y="578"/>
-      <point x="165" y="709"/>
-      <point x="260" y="709" type="qcurve" smooth="yes"/>
-      <point x="354" y="709"/>
-      <point x="489" y="577"/>
     </contour>
     <contour>
       <point x="59" y="484" type="qcurve" smooth="yes"/>

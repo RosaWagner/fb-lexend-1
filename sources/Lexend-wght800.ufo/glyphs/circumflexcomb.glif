@@ -1,18 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb" format="2">
+  <advance width="416"/>
   <unicode hex="0302"/>
-  <guideline x="198" y="362" angle="90" identifier="owtgSrkPXv"/>
-  <guideline x="12" y="781" angle="0" identifier="7TXy5Dkd8R"/>
-  <guideline x="34" y="575" angle="0" identifier="P824Jr4xGO"/>
-  <anchor x="198" y="535" name="_top"/>
-  <anchor x="198" y="783" name="top"/>
   <outline>
-    <component base="circumflex" yOffset="18"/>
+    <component base="circumflex"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>368</integer>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

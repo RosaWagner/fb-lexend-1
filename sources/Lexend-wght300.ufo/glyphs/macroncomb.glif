@@ -3,7 +3,7 @@
   <advance width="424"/>
   <unicode hex="0304"/>
   <outline>
-    <component base="macron"/>
+    <component base="macron" yOffset="20"/>
   </outline>
   <lib>
     <dict>

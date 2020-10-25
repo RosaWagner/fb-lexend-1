@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acircumflexacute" format="2">
-  <advance width="700"/>
+  <advance width="690"/>
   <unicode hex="1EA4"/>
-  <anchor x="352" y="0" name="bottom"/>
-  <anchor x="609" y="10" name="ogonek"/>
-  <anchor x="536" y="988" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb.case" xOffset="152" yOffset="158"/>
-    <component base="acutecomb.case" xOffset="411" yOffset="285"/>
+    <component base="circumflexcomb.case" xOffset="134" yOffset="203"/>
+    <component base="acutecomb.case" xOffset="432" yOffset="325"/>
   </outline>
   <lib>
     <dict>
@@ -43,6 +40,8 @@
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

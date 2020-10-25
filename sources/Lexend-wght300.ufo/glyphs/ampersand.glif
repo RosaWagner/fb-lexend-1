@@ -52,7 +52,7 @@ ampersand
       <point x="221.0" y="589.488188976378"/>
       <point x="221" y="527" type="qcurve"/>
       <point x="221.0" y="486.22162162162164"/>
-      <point x="271.14736079154943" y="414.75185614551975"/>
+      <point x="271" y="415"/>
       <point x="336" y="343" type="qcurve" smooth="yes"/>
       <point x="524" y="135" type="line"/>
       <point x="550" y="106" type="line"/>

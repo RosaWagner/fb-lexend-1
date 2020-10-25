@@ -5,25 +5,23 @@
   <note>
 t
 </note>
-  <guideline x="194" y="581" angle="90.0" identifier="WtIJ6OYv2w"/>
+  <guideline x="194" y="581" angle="90.0" name="center" identifier="WtIJ6OYv2w"/>
   <anchor x="194" y="0" name="bottom"/>
-  <anchor x="194" y="256" name="center"/>
+  <anchor x="224" y="206" name="center"/>
   <anchor x="194" y="670" name="top"/>
   <anchor x="370" y="608" name="topright"/>
   <outline>
+    <contour>
+      <point x="301" y="670" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="98" y="670" type="line"/>
+    </contour>
     <contour>
       <point x="399" y="535" type="line"/>
       <point x="399" y="365" type="line"/>
       <point x="25" y="365" type="line"/>
       <point x="25" y="535" type="line"/>
-    </contour>
-    <contour>
-      <point x="301" y="670" type="line"/>
-      <point x="301" y="0" type="line"/>
-      <point x="275" y="0"/>
-      <point x="124" y="0"/>
-      <point x="98" y="0" type="qcurve"/>
-      <point x="98" y="670" type="line"/>
     </contour>
   </outline>
 </glyph>

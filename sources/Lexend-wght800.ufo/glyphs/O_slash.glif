@@ -3,6 +3,12 @@
   <advance width="834"/>
   <unicode hex="00D8"/>
   <outline>
+    <contour>
+      <point x="151" y="-33" type="line"/>
+      <point x="88" y="20" type="line"/>
+      <point x="677" y="741" type="line"/>
+      <point x="745" y="694" type="line"/>
+    </contour>
     <component base="O"/>
     <component base="diagonalbarO" xOffset="417" yOffset="355"/>
   </outline>

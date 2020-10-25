@@ -1,11 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="412"/>
+  <advance width="536"/>
   <unicode hex="02DD"/>
   <guideline x="231" y="575" angle="0" identifier="hl8t4ZQHsL"/>
   <guideline x="139" y="780" angle="0" identifier="NnKKPW2l64"/>
-  <anchor x="188" y="515" name="_top"/>
+  <anchor x="246" y="515" name="_top"/>
   <outline>
-    <component base="hungarumlautcomb"/>
+    <contour>
+      <point x="268" y="673" type="line"/>
+      <point x="73" y="564" type="line"/>
+      <point x="20" y="641" type="line"/>
+      <point x="172" y="793" type="line"/>
+    </contour>
+    <contour>
+      <point x="516" y="673" type="line"/>
+      <point x="321" y="564" type="line"/>
+      <point x="268" y="641" type="line"/>
+      <point x="420" y="793" type="line"/>
+    </contour>
   </outline>
 </glyph>

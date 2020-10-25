@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotaccent" format="2">
-  <advance width="377"/>
-  <note>
-i.loclTRK
-</note>
-  <anchor x="178" y="0" name="bottom"/>
-  <anchor x="262" y="10" name="ogonek"/>
-  <anchor x="178" y="765" name="top"/>
+  <advance width="323"/>
   <outline>
-    <component base="idotless" xOffset="54"/>
-    <component base="dotaccentcomb" xOffset="73" yOffset="14"/>
+    <component base="idotless"/>
+    <component base="dotaccent" xOffset="42.5" yOffset="33"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +11,8 @@ i.loclTRK
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

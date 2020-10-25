@@ -2,11 +2,15 @@
 <glyph name="ecircumflextilde" format="2">
   <advance width="586"/>
   <unicode hex="1EC5"/>
-  <anchor x="292" y="-20" name="bottom"/>
-  <anchor x="521" y="10" name="ogonek"/>
-  <anchor x="295" y="740" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb_tildecomb" xOffset="75" yOffset="15"/>
+    <component base="circumflexcomb" xOffset="93" yOffset="38"/>
+    <component base="tildecomb" xOffset="79.5" yOffset="255"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

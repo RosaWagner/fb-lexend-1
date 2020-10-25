@@ -7,16 +7,16 @@ multiply
 </note>
   <outline>
     <contour>
-      <point x="529" y="403" type="line"/>
+      <point x="529" y="155" type="line"/>
+      <point x="409" y="34" type="line"/>
+      <point x="41" y="403" type="line"/>
+      <point x="161" y="523" type="line"/>
+    </contour>
+    <contour>
       <point x="161" y="34" type="line"/>
       <point x="41" y="155" type="line"/>
       <point x="409" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="41" y="403" type="line"/>
-      <point x="161" y="523" type="line"/>
-      <point x="529" y="155" type="line"/>
-      <point x="409" y="34" type="line"/>
+      <point x="529" y="403" type="line"/>
     </contour>
   </outline>
 </glyph>

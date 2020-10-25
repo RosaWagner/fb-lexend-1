@@ -9,40 +9,32 @@ AE
   <anchor x="624.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="515" y="0" type="line"/>
-      <point x="465" y="0" type="line"/>
+      <point x="166" y="191" type="line"/>
+      <point x="202" y="241" type="line"/>
+      <point x="495" y="241" type="line"/>
+      <point x="465" y="221" type="line"/>
       <point x="465" y="626" type="line"/>
-      <point x="515" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="868" y="0" type="line"/>
-      <point x="490" y="0" type="line"/>
-      <point x="490" y="50" type="line"/>
-      <point x="868" y="50" type="line"/>
-    </contour>
-    <contour>
-      <point x="815" y="336" type="line"/>
-      <point x="489" y="336" type="line"/>
-      <point x="489" y="386" type="line"/>
-      <point x="815" y="386" type="line"/>
-    </contour>
-    <contour>
-      <point x="872" y="650" type="line"/>
-      <point x="489" y="650" type="line"/>
-      <point x="489" y="700" type="line"/>
-      <point x="872" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="546" y="700" type="move"/>
+      <point x="477" y="600" type="line"/>
       <point x="60" y="0" type="line"/>
       <point x="0" y="0" type="line"/>
       <point x="486" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="176" y="191" type="line"/>
-      <point x="212" y="241" type="line"/>
-      <point x="490" y="241" type="line"/>
-      <point x="490" y="191" type="line"/>
+      <point x="872" y="700" type="line"/>
+      <point x="872" y="650" type="line"/>
+      <point x="485" y="650" type="line"/>
+      <point x="515" y="680" type="line"/>
+      <point x="515" y="366" type="line"/>
+      <point x="485" y="386" type="line"/>
+      <point x="815" y="386" type="line"/>
+      <point x="815" y="336" type="line"/>
+      <point x="485" y="336" type="line"/>
+      <point x="515" y="356" type="line"/>
+      <point x="515" y="20" type="line"/>
+      <point x="485" y="50" type="line"/>
+      <point x="868" y="50" type="line"/>
+      <point x="868" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="465" y="211" type="line"/>
+      <point x="495" y="191" type="line"/>
     </contour>
   </outline>
   <lib>

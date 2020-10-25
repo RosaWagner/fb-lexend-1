@@ -7,8 +7,39 @@ divide
 </note>
   <guideline x="295.5" y="0" angle="270.0" identifier="EWBCfLqhk8"/>
   <outline>
-    <component base="minus" xOffset="-1" yOffset="6"/>
-    <component base="dotaccent" xOffset="191" yOffset="-230"/>
-    <component base="dotaccent" xOffset="190" yOffset="-548"/>
+    <contour>
+      <point x="535" y="268" type="line"/>
+      <point x="54" y="268" type="line"/>
+      <point x="54" y="316" type="line"/>
+      <point x="535" y="316" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="126" type="qcurve" smooth="yes"/>
+      <point x="341" y="106"/>
+      <point x="317" y="81"/>
+      <point x="295" y="81" type="qcurve" smooth="yes"/>
+      <point x="273" y="81"/>
+      <point x="249" y="105"/>
+      <point x="249" y="126" type="qcurve" smooth="yes"/>
+      <point x="249" y="146"/>
+      <point x="273" y="171"/>
+      <point x="295" y="171" type="qcurve" smooth="yes"/>
+      <point x="317" y="171"/>
+      <point x="341" y="147"/>
+    </contour>
+    <contour>
+      <point x="342" y="444" type="qcurve" smooth="yes"/>
+      <point x="342" y="424"/>
+      <point x="318" y="399"/>
+      <point x="296" y="399" type="qcurve" smooth="yes"/>
+      <point x="274" y="399"/>
+      <point x="250" y="423"/>
+      <point x="250" y="444" type="qcurve" smooth="yes"/>
+      <point x="250" y="464"/>
+      <point x="274" y="489"/>
+      <point x="296" y="489" type="qcurve" smooth="yes"/>
+      <point x="318" y="489"/>
+      <point x="342" y="465"/>
+    </contour>
   </outline>
 </glyph>

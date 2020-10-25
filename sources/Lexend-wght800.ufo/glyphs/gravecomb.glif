@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
+  <advance width="336"/>
   <unicode hex="0300"/>
-  <guideline x="33" y="781" angle="0" identifier="V0nVt7NKrn"/>
-  <guideline x="33" y="575" angle="0" identifier="QBdOpYHztw"/>
-  <anchor x="202" y="535" name="_top"/>
-  <anchor x="208" y="764" name="top"/>
   <outline>
-    <component base="grave" xOffset="50" yOffset="5"/>
+    <component base="grave"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>267</integer>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

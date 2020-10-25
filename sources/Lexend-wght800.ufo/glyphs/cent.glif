@@ -9,20 +9,18 @@ cent
   <anchor x="319" y="618" name="top"/>
   <outline>
     <contour>
-      <point x="359" y="572" type="line"/>
-      <point x="276" y="563" type="line"/>
-      <point x="229" y="606" type="line"/>
-      <point x="219" y="710" type="line"/>
-      <point x="416" y="710" type="line"/>
-      <point x="406" y="605" type="line"/>
-    </contour>
-    <contour>
-      <point x="359" y="141" type="line"/>
-      <point x="406" y="107" type="line"/>
+      <point x="416" y="107" type="line"/>
       <point x="416" y="0" type="line"/>
       <point x="219" y="0" type="line"/>
-      <point x="229" y="108" type="line"/>
-      <point x="276" y="145" type="line"/>
+      <point x="219" y="108" type="line"/>
+      <point x="244" y="146" type="line"/>
+      <point x="244" y="550" type="line"/>
+      <point x="219" y="606" type="line"/>
+      <point x="219" y="710" type="line"/>
+      <point x="416" y="710" type="line"/>
+      <point x="416" y="605" type="line"/>
+      <point x="401" y="550" type="line"/>
+      <point x="401" y="145" type="line"/>
     </contour>
     <component base="c" xOffset="20" yOffset="88"/>
   </outline>

@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="firsttonechinese" format="2">
-  <advance width="500"/>
+  <advance width="424"/>
   <unicode hex="02C9"/>
   <outline>
-    <contour>
-      <point x="441" y="607" type="line"/>
-      <point x="59" y="607" type="line"/>
-      <point x="59" y="700" type="line"/>
-      <point x="441" y="700" type="line"/>
-    </contour>
+    <component base="macron"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

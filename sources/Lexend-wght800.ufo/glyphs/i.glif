@@ -10,7 +10,7 @@ i
   <anchor x="268" y="0" name="ogonek"/>
   <anchor x="179" y="770" name="top"/>
   <outline>
-    <component base="dotaccentcomb" xOffset="73" yOffset="14"/>
+    <component base="dotaccentcomb" xOffset="50" yOffset="14"/>
     <component base="idotless" xOffset="15"/>
   </outline>
   <lib>

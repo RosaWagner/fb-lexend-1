@@ -3,9 +3,8 @@
   <advance width="690"/>
   <unicode hex="01FA"/>
   <outline>
-    <component base="A"/>
-    <component base="ringcomb" xOffset="185" yOffset="199"/>
-    <component base="acutecombstack" xOffset="443" yOffset="1074"/>
+    <component base="Aring"/>
+    <component base="acutecomb.case" xOffset="217.1599999999744" yOffset="411"/>
   </outline>
   <lib>
     <dict>
@@ -14,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
       <key>public.markColor</key>
-      <string>0.3081,1,0.0008,1</string>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

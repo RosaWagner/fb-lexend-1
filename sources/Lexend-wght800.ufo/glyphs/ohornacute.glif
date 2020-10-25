@@ -1,20 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohornacute" format="2">
-  <advance width="615"/>
+  <advance width="692"/>
   <unicode hex="1EDB"/>
-  <anchor x="300" y="0" name="bottom"/>
-  <anchor x="305" y="256" name="center"/>
-  <anchor x="547" y="10" name="ogonek"/>
-  <anchor x="335" y="769" name="top"/>
-  <anchor x="319" y="531" name="topright"/>
   <outline>
     <component base="ohorn"/>
-    <component base="acutecomb" xOffset="210" yOffset="-22"/>
+    <component base="acutecomb" xOffset="229.1870000000199" yOffset="55"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

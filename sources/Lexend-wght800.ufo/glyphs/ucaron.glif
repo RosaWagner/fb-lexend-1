@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ucaron" format="2">
-  <advance width="605"/>
+  <advance width="669"/>
+  <unicode hex="01E5"/>
   <unicode hex="01D4"/>
-  <anchor x="299" y="0" name="bottom"/>
-  <anchor x="530" y="0" name="ogonek"/>
-  <anchor x="299" y="755" name="top"/>
-  <anchor x="386" y="532" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="caroncomb" xOffset="119" yOffset="-10"/>
+    <component base="caroncomb" xOffset="130.5" yOffset="28"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringcomb" format="2">
+  <advance width="336"/>
   <unicode hex="030A"/>
-  <guideline x="36" y="781" angle="0" identifier="UBhmBTQHqD"/>
-  <guideline x="36" y="575" angle="0" identifier="WlzSW1YxwB"/>
-  <anchor x="158" y="490" name="_top"/>
-  <anchor x="158" y="775" name="top"/>
   <outline>
-    <component base="ring" yOffset="-8"/>
+    <component base="ring"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>319</integer>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

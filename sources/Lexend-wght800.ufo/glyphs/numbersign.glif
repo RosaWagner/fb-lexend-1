@@ -13,22 +13,22 @@ numbersign
       <point x="409" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="716" y="403" type="line"/>
-      <point x="98" y="403" type="line"/>
-      <point x="98" y="566" type="line"/>
-      <point x="716" y="566" type="line"/>
-    </contour>
-    <contour>
-      <point x="679" y="143" type="line"/>
-      <point x="60" y="143" type="line"/>
-      <point x="60" y="306" type="line"/>
-      <point x="679" y="306" type="line"/>
+      <point x="716" y="413" type="line"/>
+      <point x="98" y="413" type="line"/>
+      <point x="98" y="576" type="line"/>
+      <point x="716" y="576" type="line"/>
     </contour>
     <contour>
       <point x="548" y="0" type="line"/>
       <point x="369" y="0" type="line"/>
       <point x="489" y="700" type="line"/>
       <point x="668" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="679" y="133" type="line"/>
+      <point x="60" y="133" type="line"/>
+      <point x="60" y="296" type="line"/>
+      <point x="679" y="296" type="line"/>
     </contour>
   </outline>
 </glyph>

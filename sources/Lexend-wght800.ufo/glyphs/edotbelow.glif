@@ -2,11 +2,14 @@
 <glyph name="edotbelow" format="2">
   <advance width="586"/>
   <unicode hex="1EB9"/>
-  <anchor x="292" y="-240" name="bottom"/>
-  <anchor x="521" y="10" name="ogonek"/>
-  <anchor x="293" y="530" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dotbelowcomb" xOffset="187" yOffset="-17"/>
+    <component base="dotbelowcomb" xOffset="200" yOffset="-83"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

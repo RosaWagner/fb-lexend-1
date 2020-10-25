@@ -1,16 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tcommaaccent" format="2">
-  <advance width="576"/>
+  <advance width="714"/>
   <unicode hex="021A"/>
-  <note>
-uni021A
-</note>
-  <anchor x="266" y="-289" name="bottom"/>
-  <anchor x="288" y="350" name="center"/>
-  <anchor x="288" y="700" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="commaaccentcomb.case" xOffset="144"/>
+    <component base="commaaccentcomb.case" xOffset="209.2399999999907" yOffset="-10"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,8 @@ uni021A
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

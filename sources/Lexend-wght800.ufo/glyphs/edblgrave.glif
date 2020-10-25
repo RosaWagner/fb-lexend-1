@@ -2,11 +2,14 @@
 <glyph name="edblgrave" format="2">
   <advance width="586"/>
   <unicode hex="0205"/>
-  <anchor x="292" y="-20" name="bottom"/>
-  <anchor x="521" y="10" name="ogonek"/>
-  <anchor x="262" y="841" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dblgravecomb" xOffset="34" yOffset="31"/>
+    <component base="dblgravecomb" xOffset="-35.44999999997526" yOffset="53"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>
