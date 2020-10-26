@@ -5,6 +5,8 @@
   <note>
 dcaron
 </note>
+  <guideline x="663" y="593" angle="0" identifier="CY65HF3VQA"/>
+  <guideline x="649" y="791" angle="0" identifier="ljGPuKzB3j"/>
   <anchor x="321" y="-20" name="bottom"/>
   <anchor x="486" y="614" name="center"/>
   <anchor x="321" y="530" name="top"/>

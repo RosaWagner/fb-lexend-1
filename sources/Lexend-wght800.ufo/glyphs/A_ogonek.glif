@@ -3,8 +3,29 @@
   <advance width="690"/>
   <unicode hex="0104"/>
   <outline>
+    <contour>
+      <point x="704" y="0" type="line"/>
+      <point x="666" y="-9"/>
+      <point x="611" y="-50"/>
+      <point x="611" y="-75" type="qcurve" smooth="yes"/>
+      <point x="611" y="-85"/>
+      <point x="623" y="-97"/>
+      <point x="634" y="-97" type="qcurve" smooth="yes"/>
+      <point x="643" y="-97"/>
+      <point x="655" y="-86"/>
+      <point x="663" y="-74" type="qcurve"/>
+      <point x="734" y="-145" type="line"/>
+      <point x="718" y="-171"/>
+      <point x="654" y="-215"/>
+      <point x="614" y="-215" type="qcurve" smooth="yes"/>
+      <point x="558" y="-215"/>
+      <point x="485" y="-153"/>
+      <point x="485" y="-103" type="qcurve" smooth="yes"/>
+      <point x="485" y="-51"/>
+      <point x="579" y="27"/>
+      <point x="660" y="49" type="qcurve"/>
+    </contour>
     <component base="A"/>
-    <component base="ogonekcomb.case" xOffset="468.8299999999763" yOffset="4"/>
   </outline>
   <lib>
     <dict>

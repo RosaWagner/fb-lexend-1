@@ -6,16 +6,18 @@
   <anchor x="526" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="183" y="322" type="line"/>
-      <point x="10" y="322" type="line"/>
-      <point x="10" y="415" type="line"/>
-      <point x="169" y="415" type="line"/>
-    </contour>
-    <contour>
-      <point x="861" y="415" type="line"/>
-      <point x="1034" y="415" type="line"/>
-      <point x="1034" y="322" type="line"/>
-      <point x="838" y="322" type="line"/>
+      <point x="157" y="291" type="line"/>
+      <point x="15" y="291" type="line"/>
+      <point x="15" y="476" type="line"/>
+      <point x="109" y="476" type="line"/>
+      <point x="143" y="469" type="line"/>
+      <point x="918" y="469" type="line"/>
+      <point x="960" y="476" type="line"/>
+      <point x="1053" y="476" type="line"/>
+      <point x="1053" y="291" type="line"/>
+      <point x="895" y="291" type="line"/>
+      <point x="854" y="298" type="line"/>
+      <point x="187" y="298" type="line"/>
     </contour>
     <component base="W" xOffset="29"/>
   </outline>

@@ -21,7 +21,7 @@ uni00B5
       <point x="170" y="49" type="qcurve"/>
       <point x="177" y="62" type="line"/>
       <point x="177" y="-157" type="line"/>
-      <point x="81" y="-157" type="line"/>
+      <point x="80" y="-157" type="line"/>
       <point x="80" y="525" type="line"/>
       <point x="177" y="525" type="line"/>
       <point x="177" y="222" type="line" smooth="yes"/>

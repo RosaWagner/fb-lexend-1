@@ -34,10 +34,7 @@ ae
       <point x="693" y="84"/>
       <point x="760" y="110"/>
       <point x="799" y="144" type="qcurve"/>
-      <point x="850" y="69" type="line"/>
-      <point x="850" y="69"/>
-      <point x="849" y="69"/>
-      <point x="849" y="69" type="qcurve"/>
+      <point x="849" y="69" type="line"/>
       <point x="813" y="34"/>
       <point x="699" y="-10"/>
       <point x="644" y="-10" type="qcurve" smooth="yes"/>

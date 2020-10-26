@@ -17,6 +17,18 @@
       <point x="646" y="321" type="line"/>
       <point x="132" y="321" type="line"/>
     </contour>
+    <contour>
+      <point x="138" y="314" type="line"/>
+      <point x="40" y="314" type="line"/>
+      <point x="40" y="407" type="line"/>
+      <point x="138" y="407" type="line"/>
+    </contour>
+    <contour>
+      <point x="755" y="314" type="line"/>
+      <point x="755" y="407" type="line"/>
+      <point x="853" y="407" type="line"/>
+      <point x="853" y="314" type="line"/>
+    </contour>
     <component base="N"/>
   </outline>
 </glyph>

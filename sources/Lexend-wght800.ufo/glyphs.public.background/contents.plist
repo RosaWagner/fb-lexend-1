@@ -24,6 +24,8 @@
     <string>kaf-ar.medi.glif</string>
     <key>kaf-ar.medi.v2</key>
     <string>kaf-ar.medi.v2.glif</string>
+    <key>kip</key>
+    <string>kip.glif</string>
     <key>naira</key>
     <string>naira.glif</string>
     <key>nine-ar</key>
@@ -48,6 +50,8 @@
     <string>two-ar.glif</string>
     <key>wasla-ar</key>
     <string>wasla-ar.glif</string>
+    <key>won</key>
+    <string>won.glif</string>
     <key>zero-ar</key>
     <string>zero-ar.glif</string>
   </dict>
