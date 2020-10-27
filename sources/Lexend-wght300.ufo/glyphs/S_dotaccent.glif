@@ -1,11 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Sdotaccent" format="2">
-  <advance width="624"/>
-  <unicode hex="1E60"/>
-  <anchor x="321.0" y="0" name="bottom"/>
-  <anchor x="321.0" y="907.0" name="top"/>
+  <advance width="593"/>
   <outline>
     <component base="S"/>
-    <component base="dotaccentcomb.case" xOffset="216" yOffset="170"/>
+    <component base="dotaccentcomb.case" xOffset="192" yOffset="141"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -43,4 +43,10 @@ florin
       <point x="424" y="488"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5917,1,0.4781,1</string>
+    </dict>
+  </lib>
 </glyph>

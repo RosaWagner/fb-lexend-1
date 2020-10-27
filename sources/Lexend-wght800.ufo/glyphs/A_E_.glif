@@ -43,6 +43,8 @@ AE
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>E</string>
+      <key>public.markColor</key>
+      <string>0.5917,1,0.4781,1</string>
     </dict>
   </lib>
 </glyph>

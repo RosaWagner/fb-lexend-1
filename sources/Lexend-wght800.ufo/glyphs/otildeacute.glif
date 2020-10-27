@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="otildeacute" format="2">
-  <advance width="615"/>
-  <unicode hex="1E4D"/>
-  <anchor x="305" y="0" name="bottom"/>
-  <anchor x="305" y="256" name="center"/>
-  <anchor x="547" y="10" name="ogonek"/>
-  <anchor x="352" y="1006" name="top"/>
-  <anchor x="319" y="531" name="topright"/>
+  <advance width="660"/>
   <outline>
-    <component base="o"/>
-    <component base="tildecomb" xOffset="102"/>
-    <component base="acutecomb" xOffset="227" yOffset="215"/>
+    <component base="otilde"/>
+    <component base="acutecomb" xOffset="190.55999999999767" yOffset="272"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

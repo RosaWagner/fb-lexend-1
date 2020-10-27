@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tdieresis" format="2">
-  <advance width="384"/>
-  <unicode hex="1E97"/>
-  <anchor x="182" y="0" name="bottom"/>
-  <anchor x="182" y="256" name="center"/>
-  <anchor x="183" y="820" name="top"/>
-  <anchor x="308" y="548" name="topright"/>
+  <advance width="409"/>
   <outline>
     <component base="t"/>
-    <component base="dieresiscomb" xOffset="-12" yOffset="145"/>
+    <component base="dieresiscomb" xOffset="-31.5" yOffset="154"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

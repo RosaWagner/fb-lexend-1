@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Llinebelow" format="2">
-  <advance width="599"/>
-  <unicode hex="1E3A"/>
-  <anchor x="298" y="-230" name="bottom"/>
-  <anchor x="291" y="350" name="center"/>
-  <anchor x="141" y="700" name="top"/>
-  <anchor x="547" y="700" name="topright"/>
+  <advance width="616"/>
   <outline>
     <component base="L"/>
-    <component base="macronbelowcomb.case" xOffset="100"/>
+    <component base="macronbelowcomb.case" xOffset="131" yOffset="-60"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

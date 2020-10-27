@@ -1,11 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nlinebelow" format="2">
-  <advance width="595"/>
-  <unicode hex="1E49"/>
-  <anchor x="303.0" y="-164.0" name="bottom"/>
-  <anchor x="303.0" y="510.0" name="top"/>
+  <advance width="558"/>
   <outline>
     <component base="n"/>
-    <component base="macronbelowcomb" xOffset="90"/>
+    <component base="macronbelowcomb" xOffset="69.5" yOffset="-40"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

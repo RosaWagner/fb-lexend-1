@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbrevebelow" format="2">
-  <advance width="595"/>
-  <unicode hex="1E2B"/>
-  <anchor x="292.0" y="-170.0" name="bottom"/>
-  <anchor x="122.0" y="593.0" name="center"/>
-  <anchor x="121.0" y="729.0" name="top"/>
+  <advance width="560"/>
   <outline>
     <component base="h"/>
-    <component base="brevebelowcomb" xOffset="88"/>
+    <component base="brevebelowcomb.case" xOffset="106.46999999999025" yOffset="-27"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

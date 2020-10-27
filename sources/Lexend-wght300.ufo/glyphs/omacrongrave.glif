@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omacrongrave" format="2">
-  <advance width="615"/>
-  <unicode hex="1E51"/>
-  <anchor x="305.0" y="0" name="bottom"/>
-  <anchor x="305.0" y="256.0" name="center"/>
-  <anchor x="547.0" y="10.0" name="ogonek"/>
-  <anchor x="276.0" y="912.0" name="top"/>
-  <anchor x="319.0" y="531.0" name="topright"/>
+  <advance width="599"/>
   <outline>
-    <component base="o"/>
-    <component base="macroncomb" xOffset="92" yOffset="-16"/>
-    <component base="gravecomb" xOffset="151" yOffset="148"/>
+    <component base="omacron"/>
+    <component base="gravecomb" xOffset="157.8399999999965" yOffset="84"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

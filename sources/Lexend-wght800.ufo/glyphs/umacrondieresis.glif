@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="umacrondieresis" format="2">
-  <advance width="605"/>
-  <unicode hex="1E7B"/>
-  <anchor x="299" y="0" name="bottom"/>
-  <anchor x="530" y="0" name="ogonek"/>
-  <anchor x="299" y="838" name="top"/>
-  <anchor x="386" y="532" name="topright"/>
+  <advance width="669"/>
   <outline>
     <component base="u"/>
-    <component base="macroncomb" xOffset="86" yOffset="-19"/>
-    <component base="dieresiscomb" xOffset="104" yOffset="163"/>
+    <component base="macroncomb" xOffset="116.5" yOffset="51"/>
+    <component base="dieresiscomb" xOffset="73" yOffset="265"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>
