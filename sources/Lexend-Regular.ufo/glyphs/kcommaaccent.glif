@@ -9,7 +9,7 @@ kcommaaccent
   <anchor x="279" y="510" name="top"/>
   <outline>
     <component base="k"/>
-    <component base="commaaccentcomb.case" xOffset="135"/>
+    <component base="commaaccentcomb" xOffset="145"/>
   </outline>
   <lib>
     <dict>

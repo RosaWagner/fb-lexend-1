@@ -21,15 +21,16 @@
       <point x="624" y="301"/>
       <point x="623" y="417" type="qcurve"/>
       <point x="623" y="700" type="line"/>
-      <point x="650" y="700"/>
-      <point x="646" y="700"/>
-      <point x="673" y="700" type="qcurve"/>
+      <point x="673" y="700" type="line"/>
       <point x="673" y="0" type="line"/>
       <point x="625" y="0" type="line"/>
       <point x="136" y="641" type="line"/>
       <point x="150" y="669" type="line"/>
-      <point x="152" y="620"/>
-      <point x="158" y="365"/>
+      <point x="151" y="648"/>
+      <point x="153" y="565"/>
+      <point x="154" y="520" type="qcurve" smooth="yes"/>
+      <point x="156" y="461"/>
+      <point x="158" y="356"/>
     </contour>
   </outline>
   <lib>

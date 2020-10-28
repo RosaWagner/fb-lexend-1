@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eth" format="2">
-  <advance width="790"/>
+  <advance width="822"/>
   <unicode hex="00D0"/>
   <outline>
-    <component base="D"/>
-    <component base="strokeshortcomb" xOffset="-41" yOffset="56"/>
+    <component base="D" xOffset="32"/>
+    <component base="strokeshortcomb" xOffset="20" yOffset="56"/>
   </outline>
   <lib>
     <dict>

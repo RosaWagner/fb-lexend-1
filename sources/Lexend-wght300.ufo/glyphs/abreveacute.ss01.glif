@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abreveacute.ss01" format="2">
-  <advance width="534"/>
-  <anchor x="277.0" y="-13.0" name="bottom"/>
-  <anchor x="466.0" y="10.0" name="ogonek"/>
-  <anchor x="287.0" y="766.0" name="top"/>
+  <advance width="538"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="brevecomb_acutecomb" xOffset="87" yOffset="15"/>
+    <component base="brevecomb" xOffset="84.24000000000524" yOffset="15"/>
+    <component base="acutecomb" xOffset="184.24000000000524" yOffset="182"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

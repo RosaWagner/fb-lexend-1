@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idieresis.ss01" format="2">
-  <advance width="308"/>
-  <anchor x="153" y="0" name="bottom"/>
-  <anchor x="343" y="10" name="ogonek"/>
-  <anchor x="163" y="857" name="top"/>
-  <anchor x="100" y="700" name="topleft"/>
+  <advance width="376"/>
   <outline>
     <component base="I.ss01"/>
-    <component base="dieresiscomb.case" xOffset="-47" yOffset="175"/>
+    <component base="dieresiscomb.case" xOffset="-64.5" yOffset="214"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

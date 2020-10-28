@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abreve.ss01" format="2">
-  <advance width="534"/>
-  <note>
-abreve
-</note>
-  <anchor x="277" y="-13" name="bottom"/>
-  <anchor x="466" y="10" name="ogonek"/>
-  <anchor x="279" y="741" name="top"/>
+  <advance width="591"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="brevecomb" xOffset="75" yOffset="29"/>
+    <component base="brevecomb" xOffset="99.80000000001746" yOffset="33"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +11,8 @@ abreve
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

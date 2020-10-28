@@ -18,7 +18,6 @@
       <point x="209" y="534" type="line"/>
     </contour>
     <component base="H"/>
-    <component base="horizontalbarH" xOffset="367.4642771946528" yOffset="511"/>
   </outline>
   <lib>
     <dict>

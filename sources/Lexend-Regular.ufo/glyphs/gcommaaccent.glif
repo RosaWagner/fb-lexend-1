@@ -9,7 +9,7 @@ gcommaaccent
   <anchor x="327" y="535" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="commaaccentcomb.case" xScale="-1" yScale="-1" xOffset="502" yOffset="561"/>
+    <component base="commaaccentcomb" xScale="-1" yScale="-1" xOffset="491" yOffset="563"/>
   </outline>
   <lib>
     <dict>

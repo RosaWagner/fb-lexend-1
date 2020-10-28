@@ -11,7 +11,7 @@ lacute
   <anchor x="229" y="580" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="acutecomb.case" xOffset="46" yOffset="225"/>
+    <component base="acutecomb" xOffset="24" yOffset="157"/>
   </outline>
   <lib>
     <dict>

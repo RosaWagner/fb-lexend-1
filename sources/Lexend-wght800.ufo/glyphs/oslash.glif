@@ -10,7 +10,6 @@
       <point x="581" y="496" type="line"/>
     </contour>
     <component base="o"/>
-    <component base="diagonalbaro" xOffset="330" yOffset="266"/>
   </outline>
   <lib>
     <dict>

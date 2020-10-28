@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aring.ss01" format="2">
-  <advance width="534"/>
-  <note>
-aring
-</note>
-  <anchor x="277.0" y="-13.0" name="bottom"/>
-  <anchor x="466.0" y="10.0" name="ogonek"/>
-  <anchor x="279.0" y="815.0" name="top"/>
+  <advance width="538"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="ringcomb" xOffset="121" yOffset="40"/>
+    <component base="ringcomb" xOffset="105.24000000001979" yOffset="6"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +11,8 @@ aring
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

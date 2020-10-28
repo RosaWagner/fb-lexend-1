@@ -9,15 +9,16 @@ eng
   <anchor x="295" y="510" name="top"/>
   <outline>
     <contour>
-      <point x="366" y="-118"/>
-      <point x="424" y="-58"/>
-      <point x="424" y="1" type="qcurve"/>
+      <point x="424" y="1" type="line"/>
       <point x="527" y="25" type="line"/>
       <point x="527" y="-24" type="line" smooth="yes"/>
       <point x="527" y="-101"/>
       <point x="427" y="-197"/>
       <point x="347" y="-197" type="qcurve"/>
       <point x="308" y="-118" type="line"/>
+      <point x="365.0" y="-118.0"/>
+      <point x="422.99145552066636" y="-58.495579801349486"/>
+      <point x="424" y="0" type="qcurve"/>
     </contour>
     <component base="n"/>
   </outline>

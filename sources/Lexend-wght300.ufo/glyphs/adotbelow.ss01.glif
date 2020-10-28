@@ -1,11 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="adotbelow.ss01" format="2">
-  <advance width="534"/>
-  <anchor x="277.0" y="-233.0" name="bottom"/>
-  <anchor x="466.0" y="10.0" name="ogonek"/>
-  <anchor x="279.0" y="530.0" name="top"/>
+  <advance width="538"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="dotbelowcomb" xOffset="172" yOffset="-10"/>
+    <component base="dotbelowcomb" xOffset="147" yOffset="6"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
+    </dict>
+  </lib>
 </glyph>

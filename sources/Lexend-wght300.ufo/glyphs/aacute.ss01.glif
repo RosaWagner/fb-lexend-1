@@ -1,12 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aacute.ss01" format="2">
-  <advance width="534"/>
-  <note>
-aacute
-</note>
+  <advance width="538"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="acutecomb" xOffset="189" yOffset="-2"/>
+    <component base="acutecomb" xOffset="138.06000000001222" yOffset="15"/>
   </outline>
   <lib>
     <dict>
@@ -14,6 +11,8 @@ aacute
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.8396,1,0.425,1</string>
     </dict>
   </lib>
 </glyph>

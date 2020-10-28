@@ -3,8 +3,35 @@
   <advance width="647"/>
   <unicode hex="00C5"/>
   <outline>
+    <contour>
+      <point x="433" y="771" type="qcurve"/>
+      <point x="433" y="729"/>
+      <point x="367" y="666"/>
+      <point x="323" y="666" type="qcurve"/>
+      <point x="280" y="666"/>
+      <point x="214" y="729"/>
+      <point x="214" y="771" type="qcurve"/>
+      <point x="214" y="814"/>
+      <point x="279" y="877"/>
+      <point x="323" y="877" type="qcurve"/>
+      <point x="367" y="877"/>
+      <point x="433" y="814"/>
+    </contour>
+    <contour>
+      <point x="254" y="771" type="qcurve"/>
+      <point x="254" y="744"/>
+      <point x="295" y="705"/>
+      <point x="323" y="705" type="qcurve"/>
+      <point x="352" y="705"/>
+      <point x="393" y="744"/>
+      <point x="393" y="771" type="qcurve"/>
+      <point x="393" y="801"/>
+      <point x="352" y="838"/>
+      <point x="323" y="838" type="qcurve"/>
+      <point x="293" y="838"/>
+      <point x="254" y="800"/>
+    </contour>
     <component base="A"/>
-    <component base="ringcomb.case" xOffset="164" yOffset="-15"/>
   </outline>
   <lib>
     <dict>
