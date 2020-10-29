@@ -11,7 +11,7 @@ uogonek
   <anchor x="386.0" y="532.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="ogonekcomb" xOffset="268" yOffset="-10"/>
+    <component base="ogonekcomb" xOffset="258"/>
   </outline>
   <lib>
     <dict>

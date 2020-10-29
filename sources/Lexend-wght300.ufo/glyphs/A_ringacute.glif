@@ -3,9 +3,8 @@
   <advance width="647"/>
   <unicode hex="01FA"/>
   <outline>
-    <component base="A"/>
-    <component base="ringcomb.case" xOffset="164" yOffset="-15"/>
     <component base="acutecomb.case" xOffset="207.88000000000466" yOffset="336"/>
+    <component base="Aring"/>
   </outline>
   <lib>
     <dict>

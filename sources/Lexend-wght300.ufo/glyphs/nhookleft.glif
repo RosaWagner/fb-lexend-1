@@ -6,16 +6,15 @@
   <anchor x="318.0" y="510.0" name="top"/>
   <outline>
     <contour>
+      <point x="88" y="0" type="qcurve"/>
       <point x="138" y="50" type="line"/>
       <point x="138" y="-52" type="line" smooth="yes"/>
-      <point x="138" y="-116"/>
-      <point x="63" y="-195.0"/>
+      <point x="138" y="-116.0"/>
+      <point x="69" y="-195"/>
       <point x="2" y="-195" type="qcurve"/>
       <point x="-19" y="-152" type="line"/>
-      <point x="41" y="-152.0"/>
-      <point x="88.0" y="-92.0"/>
-      <point x="88" y="-32" type="qcurve"/>
-      <point x="88" y="50" type="line"/>
+      <point x="50" y="-152"/>
+      <point x="88.0" y="-83.88059701492537"/>
     </contour>
     <component base="n" xOffset="15"/>
   </outline>

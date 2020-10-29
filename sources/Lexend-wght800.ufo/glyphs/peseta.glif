@@ -6,18 +6,10 @@
   <anchor x="371" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="119" y="361" type="line"/>
+      <point x="765" y="361" type="line"/>
       <point x="27" y="361" type="line"/>
       <point x="27" y="546" type="line"/>
-      <point x="121" y="546" type="line"/>
-      <point x="155" y="539" type="line"/>
-      <point x="630" y="539" type="line"/>
-      <point x="672" y="546" type="line"/>
       <point x="765" y="546" type="line"/>
-      <point x="765" y="361" type="line"/>
-      <point x="667" y="361" type="line"/>
-      <point x="626" y="368" type="line"/>
-      <point x="149" y="368" type="line"/>
     </contour>
     <component base="P" xOffset="50"/>
   </outline>

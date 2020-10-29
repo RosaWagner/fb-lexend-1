@@ -7,9 +7,6 @@ quoteleft
 </note>
   <outline>
     <contour>
-      <point x="170" y="521" type="qcurve"/>
-      <point x="170" y="505"/>
-      <point x="149" y="486"/>
       <point x="131" y="486" type="qcurve"/>
       <point x="99.0" y="486.0"/>
       <point x="65.0" y="523"/>
@@ -26,6 +23,9 @@ quoteleft
       <point x="148" y="559" type="qcurve" smooth="yes"/>
       <point x="157" y="552"/>
       <point x="170" y="532"/>
+      <point x="170" y="521" type="qcurve"/>
+      <point x="170" y="505"/>
+      <point x="149" y="486"/>
     </contour>
   </outline>
 </glyph>

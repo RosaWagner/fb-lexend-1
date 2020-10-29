@@ -2,34 +2,7 @@
 <glyph name="dieresis.case" format="2">
   <advance width="413"/>
   <outline>
-    <contour>
-      <point x="122" y="674" type="qcurve" smooth="yes"/>
-      <point x="122" y="654"/>
-      <point x="98" y="629"/>
-      <point x="76" y="629" type="qcurve" smooth="yes"/>
-      <point x="54" y="629"/>
-      <point x="30" y="653"/>
-      <point x="30" y="674" type="qcurve" smooth="yes"/>
-      <point x="30" y="694"/>
-      <point x="54" y="719"/>
-      <point x="76" y="719" type="qcurve" smooth="yes"/>
-      <point x="98" y="719"/>
-      <point x="122" y="695"/>
-    </contour>
-    <contour>
-      <point x="322" y="674" type="qcurve" smooth="yes"/>
-      <point x="322" y="654"/>
-      <point x="298" y="629"/>
-      <point x="276" y="629" type="qcurve" smooth="yes"/>
-      <point x="254" y="629"/>
-      <point x="230" y="653"/>
-      <point x="230" y="674" type="qcurve" smooth="yes"/>
-      <point x="230" y="694"/>
-      <point x="254" y="719"/>
-      <point x="276" y="719" type="qcurve" smooth="yes"/>
-      <point x="298" y="719"/>
-      <point x="322" y="695"/>
-    </contour>
+    <component base="dieresiscomb.case"/>
   </outline>
   <lib>
     <dict>

@@ -4,18 +4,7 @@
   <unicode hex="02DD"/>
   <anchor x="188.0" y="515.0" name="_top"/>
   <outline>
-    <contour>
-      <point x="203" y="692" type="line"/>
-      <point x="42" y="600" type="line"/>
-      <point x="28" y="619" type="line"/>
-      <point x="165" y="739" type="line"/>
-    </contour>
-    <contour>
-      <point x="369" y="692" type="line"/>
-      <point x="208" y="600" type="line"/>
-      <point x="194" y="619" type="line"/>
-      <point x="331" y="739" type="line"/>
-    </contour>
+    <component base="hungarumlautcomb" xOffset="11"/>
   </outline>
   <lib>
     <dict>

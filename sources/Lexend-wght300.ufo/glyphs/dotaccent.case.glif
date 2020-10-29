@@ -2,20 +2,7 @@
 <glyph name="dotaccent.case" format="2">
   <advance width="238"/>
   <outline>
-    <contour>
-      <point x="164" y="674" type="qcurve" smooth="yes"/>
-      <point x="164" y="654"/>
-      <point x="140" y="629"/>
-      <point x="118" y="629" type="qcurve" smooth="yes"/>
-      <point x="96" y="629"/>
-      <point x="72" y="653"/>
-      <point x="72" y="674" type="qcurve" smooth="yes"/>
-      <point x="72" y="694"/>
-      <point x="96" y="719"/>
-      <point x="118" y="719" type="qcurve" smooth="yes"/>
-      <point x="140" y="719"/>
-      <point x="164" y="695"/>
-    </contour>
+    <component base="dotaccentcomb.case" xOffset="13"/>
   </outline>
   <lib>
     <dict>

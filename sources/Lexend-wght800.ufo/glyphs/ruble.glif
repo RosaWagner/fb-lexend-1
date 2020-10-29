@@ -6,44 +6,13 @@
   <anchor x="406" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="155" y="700" type="line"/>
-      <point x="470" y="700" type="line" smooth="yes"/>
-      <point x="578.0" y="700"/>
-      <point x="718.0" y="570.625"/>
-      <point x="718" y="470" type="qcurve" smooth="yes"/>
-      <point x="718.0" y="364.6465517241379"/>
-      <point x="578.0" y="228.0"/>
-      <point x="470" y="228" type="qcurve"/>
-      <point x="285" y="228" type="line"/>
-      <point x="371" y="302" type="line"/>
-      <point x="371" y="0" type="line"/>
-      <point x="155" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="284" y="392" type="line"/>
-      <point x="430" y="392" type="line" smooth="yes"/>
-      <point x="459" y="392"/>
-      <point x="496" y="425"/>
-      <point x="496" y="456" type="qcurve" smooth="yes"/>
-      <point x="496" y="487"/>
-      <point x="459" y="516"/>
-      <point x="430" y="516" type="qcurve" smooth="yes"/>
-      <point x="284" y="516" type="line"/>
-      <point x="367" y="611" type="line"/>
-      <point x="367" y="358" type="line"/>
-    </contour>
-    <contour>
-      <point x="448" y="47" type="line"/>
-      <point x="82" y="47" type="line"/>
-      <point x="82" y="202" type="line"/>
-      <point x="448" y="202" type="line"/>
-    </contour>
-    <contour>
+      <point x="238" y="394" type="line"/>
       <point x="238" y="239" type="line"/>
       <point x="82" y="239" type="line"/>
       <point x="82" y="394" type="line"/>
-      <point x="238" y="394" type="line"/>
     </contour>
+    <component base="P" xOffset="85"/>
+    <component base="strokeshortcomb" xOffset="61" yOffset="-192"/>
   </outline>
   <lib>
     <dict>

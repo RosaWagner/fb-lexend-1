@@ -3,7 +3,14 @@
   <anchor x="198.0" y="0" name="_bottom"/>
   <anchor x="198.0" y="-230.0" name="bottom"/>
   <outline>
-    <component base="macron" yOffset="-722"/>
+    <contour>
+      <point x="349" y="-132" type="line"/>
+      <point x="75" y="-132" type="line"/>
+      <point x="75" y="-107" type="line"/>
+      <point x="75" y="-84" type="line"/>
+      <point x="349" y="-84" type="line"/>
+      <point x="349" y="-111" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

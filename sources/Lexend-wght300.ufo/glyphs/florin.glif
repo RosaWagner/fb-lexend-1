@@ -37,10 +37,10 @@ florin
       <point x="152.85034013605443" y="-31.0"/>
     </contour>
     <contour>
-      <point x="440" y="381" type="line"/>
-      <point x="71" y="382" type="line"/>
-      <point x="71" y="428" type="line"/>
-      <point x="440" y="427" type="line"/>
+      <point x="440" y="401" type="line"/>
+      <point x="71" y="402" type="line"/>
+      <point x="71" y="448" type="line"/>
+      <point x="440" y="447" type="line"/>
     </contour>
   </outline>
   <lib>

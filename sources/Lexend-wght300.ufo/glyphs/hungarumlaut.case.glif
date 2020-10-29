@@ -3,18 +3,7 @@
   <advance width="412"/>
   <anchor x="186.0" y="525.0" name="_top"/>
   <outline>
-    <contour>
-      <point x="203" y="696" type="line"/>
-      <point x="42" y="604" type="line"/>
-      <point x="28" y="623" type="line"/>
-      <point x="165" y="743" type="line"/>
-    </contour>
-    <contour>
-      <point x="369" y="696" type="line"/>
-      <point x="208" y="604" type="line"/>
-      <point x="194" y="623" type="line"/>
-      <point x="331" y="743" type="line"/>
-    </contour>
+    <component base="hungarumlautcomb" yOffset="4"/>
   </outline>
   <lib>
     <dict>

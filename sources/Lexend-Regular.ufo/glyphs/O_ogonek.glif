@@ -10,6 +10,6 @@
   <anchor x="387" y="706" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="ogonekcomb" xOffset="442"/>
+    <component base="ogonekcomb" xOffset="247"/>
   </outline>
 </glyph>

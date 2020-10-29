@@ -6,20 +6,6 @@
   <anchor x="365" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="119" y="471" type="line"/>
-      <point x="27" y="471" type="line"/>
-      <point x="27" y="626" type="line"/>
-      <point x="121" y="626" type="line"/>
-      <point x="155" y="619" type="line"/>
-      <point x="520" y="619" type="line"/>
-      <point x="562" y="626" type="line"/>
-      <point x="765" y="626" type="line"/>
-      <point x="765" y="471" type="line"/>
-      <point x="557" y="471" type="line"/>
-      <point x="516" y="478" type="line"/>
-      <point x="149" y="478" type="line"/>
-    </contour>
-    <contour>
       <point x="119" y="281" type="line"/>
       <point x="27" y="281" type="line"/>
       <point x="27" y="436" type="line"/>
@@ -32,6 +18,20 @@
       <point x="577" y="281" type="line"/>
       <point x="536" y="288" type="line"/>
       <point x="149" y="288" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="471" type="line"/>
+      <point x="27" y="471" type="line"/>
+      <point x="27" y="626" type="line"/>
+      <point x="121" y="626" type="line"/>
+      <point x="155" y="619" type="line"/>
+      <point x="520" y="619" type="line"/>
+      <point x="562" y="626" type="line"/>
+      <point x="765" y="626" type="line"/>
+      <point x="765" y="471" type="line"/>
+      <point x="557" y="471" type="line"/>
+      <point x="516" y="478" type="line"/>
+      <point x="149" y="478" type="line"/>
     </contour>
     <component base="P" xOffset="44"/>
   </outline>

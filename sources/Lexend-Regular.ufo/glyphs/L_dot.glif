@@ -11,7 +11,7 @@ Ldot
   <anchor x="547" y="700" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="periodcentered.case" xOffset="601"/>
+    <component base="periodcentered.case" xOffset="300"/>
   </outline>
   <lib>
     <dict>

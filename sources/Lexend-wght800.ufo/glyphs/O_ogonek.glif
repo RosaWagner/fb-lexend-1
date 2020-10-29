@@ -3,8 +3,8 @@
   <advance width="834"/>
   <unicode hex="01EA"/>
   <outline>
-    <component base="O"/>
-    <component base="ogonekcomb.case" xOffset="324" yOffset="13"/>
+    <component base="O" xOffset="-11.621851317005621"/>
+    <component base="ogonekcomb" xOffset="276.3781486829944" yOffset="3"/>
   </outline>
   <lib>
     <dict>

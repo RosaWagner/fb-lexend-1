@@ -6,10 +6,6 @@
   <anchor x="372.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="396" y="773" type="line"/>
-      <point x="396" y="693" type="line"/>
-      <point x="396" y="668" type="line"/>
-      <point x="396" y="25" type="line"/>
       <point x="396" y="10" type="line"/>
       <point x="396" y="-84" type="line"/>
       <point x="348" y="-84" type="line"/>
@@ -18,6 +14,10 @@
       <point x="348" y="666" type="line"/>
       <point x="348" y="692" type="line"/>
       <point x="348" y="773" type="line"/>
+      <point x="396" y="773" type="line"/>
+      <point x="396" y="693" type="line"/>
+      <point x="396" y="668" type="line"/>
+      <point x="396" y="25" type="line"/>
     </contour>
     <component base="C"/>
   </outline>
