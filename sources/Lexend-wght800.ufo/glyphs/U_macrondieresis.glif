@@ -2,8 +2,9 @@
 <glyph name="Umacrondieresis" format="2">
   <advance width="774"/>
   <outline>
-    <component base="Umacron"/>
     <component base="dieresiscomb.case" xOffset="139.5" yOffset="393"/>
+    <component base="U"/>
+    <component base="macroncomb.case" xOffset="177" yOffset="173"/>
   </outline>
   <lib>
     <dict>

@@ -2,8 +2,6 @@
 <glyph name="aabreve.ss01" format="2">
   <advance width="591"/>
   <outline>
-    <component base="a.ss01"/>
-    <component base="brevecomb" xOffset="99.80000000001746" yOffset="33"/>
   </outline>
   <lib>
     <dict>

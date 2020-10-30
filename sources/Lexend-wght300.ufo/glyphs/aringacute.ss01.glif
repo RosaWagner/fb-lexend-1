@@ -4,7 +4,7 @@
   <outline>
     <component base="a.ss01"/>
     <component base="ringcomb" xOffset="105.24000000001979" yOffset="6"/>
-    <component base="acutecomb" xOffset="132.7400000000198" yOffset="211"/>
+    <component base="acutecomb.case" xOffset="141" yOffset="209"/>
   </outline>
   <lib>
     <dict>

@@ -6,6 +6,21 @@
 greaterequal
 </note>
   <outline>
-    <component base="lessequal" xScale="-1" xOffset="627"/>
+    <contour>
+      <point x="554" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="103" y="48" type="line"/>
+      <point x="554" y="48" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="469" type="line"/>
+      <point x="127" y="509" type="line"/>
+      <point x="554" y="355" type="line"/>
+      <point x="554" y="304" type="line"/>
+      <point x="124" y="159" type="line"/>
+      <point x="113" y="200" type="line"/>
+      <point x="529" y="341" type="line"/>
+      <point x="529" y="318" type="line"/>
+    </contour>
   </outline>
 </glyph>

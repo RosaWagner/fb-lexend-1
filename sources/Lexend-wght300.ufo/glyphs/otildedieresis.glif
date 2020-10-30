@@ -2,8 +2,9 @@
 <glyph name="otildedieresis" format="2">
   <advance width="599"/>
   <outline>
-    <component base="otilde"/>
     <component base="dieresiscomb" xOffset="118.5" yOffset="141"/>
+    <component base="o"/>
+    <component base="tildecomb" xOffset="88" yOffset="4"/>
   </outline>
   <lib>
     <dict>

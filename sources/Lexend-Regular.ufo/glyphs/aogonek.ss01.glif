@@ -6,8 +6,30 @@ aogonek
 </note>
   <outline>
     <contour>
-      <point x="449" y="-199"/>
-      <point x="388" y="-221"/>
+      <point x="216" y="-10" type="qcurve"/>
+      <point x="140" y="-10"/>
+      <point x="38" y="77"/>
+      <point x="38" y="149" type="qcurve"/>
+      <point x="38" y="233"/>
+      <point x="157" y="319"/>
+      <point x="274" y="319" type="qcurve"/>
+      <point x="420" y="319" type="line"/>
+      <point x="411" y="237" type="line"/>
+      <point x="261" y="237" type="line" smooth="yes"/>
+      <point x="200" y="237"/>
+      <point x="135" y="192"/>
+      <point x="135" y="151" type="qcurve"/>
+      <point x="135" y="118"/>
+      <point x="183" y="78"/>
+      <point x="220" y="78" type="qcurve"/>
+      <point x="274" y="78"/>
+      <point x="365" y="133"/>
+      <point x="386" y="174" type="qcurve"/>
+      <point x="410" y="107" type="line"/>
+      <point x="378" y="55"/>
+      <point x="274" y="-10"/>
+    </contour>
+    <contour>
       <point x="358" y="-221" type="qcurve" smooth="yes"/>
       <point x="307" y="-221"/>
       <point x="238" y="-164"/>
@@ -42,30 +64,8 @@ aogonek
       <point x="426" y="-130"/>
       <point x="443" y="-118" type="qcurve"/>
       <point x="482" y="-177" type="line"/>
-    </contour>
-    <contour>
-      <point x="378" y="55"/>
-      <point x="274" y="-10"/>
-      <point x="216" y="-10" type="qcurve"/>
-      <point x="140" y="-10"/>
-      <point x="38" y="77"/>
-      <point x="38" y="149" type="qcurve"/>
-      <point x="38" y="233"/>
-      <point x="157" y="319"/>
-      <point x="274" y="319" type="qcurve"/>
-      <point x="420" y="319" type="line"/>
-      <point x="411" y="237" type="line"/>
-      <point x="261" y="237" type="line" smooth="yes"/>
-      <point x="200" y="237"/>
-      <point x="135" y="192"/>
-      <point x="135" y="151" type="qcurve"/>
-      <point x="135" y="118"/>
-      <point x="183" y="78"/>
-      <point x="220" y="78" type="qcurve"/>
-      <point x="274" y="78"/>
-      <point x="365" y="133"/>
-      <point x="386" y="174" type="qcurve"/>
-      <point x="410" y="107" type="line"/>
+      <point x="449" y="-199"/>
+      <point x="388" y="-221"/>
     </contour>
   </outline>
   <lib>

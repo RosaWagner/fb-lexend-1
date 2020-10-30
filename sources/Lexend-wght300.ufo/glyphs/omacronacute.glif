@@ -2,8 +2,9 @@
 <glyph name="omacronacute" format="2">
   <advance width="599"/>
   <outline>
-    <component base="omacron"/>
     <component base="acutecomb" xOffset="188.77000000000407" yOffset="83"/>
+    <component base="o"/>
+    <component base="macroncomb" xOffset="86" yOffset="-35"/>
   </outline>
   <lib>
     <dict>

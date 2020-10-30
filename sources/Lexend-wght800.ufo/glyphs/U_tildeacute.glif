@@ -2,8 +2,9 @@
 <glyph name="Utildeacute" format="2">
   <advance width="774"/>
   <outline>
-    <component base="Utilde"/>
     <component base="acutecomb.case" xOffset="244" yOffset="399"/>
+    <component base="U"/>
+    <component base="tildecomb.case" xOffset="181" yOffset="215"/>
   </outline>
   <lib>
     <dict>

@@ -5,21 +5,8 @@
   <anchor x="413" y="0" name="bottom"/>
   <anchor x="400" y="700" name="top"/>
   <outline>
-    <contour>
-      <point x="498" y="800" type="line"/>
-      <point x="498" y="636" type="line"/>
-      <point x="478" y="597" type="line"/>
-      <point x="478" y="113" type="line"/>
-      <point x="498" y="71" type="line"/>
-      <point x="498" y="-133" type="line"/>
-      <point x="305" y="-133" type="line"/>
-      <point x="305" y="75" type="line"/>
-      <point x="325" y="118" type="line"/>
-      <point x="325" y="586" type="line"/>
-      <point x="305" y="626" type="line"/>
-      <point x="305" y="800" type="line"/>
-    </contour>
     <component base="G"/>
+    <component base="bar" xOffset="210" yOffset="58"/>
   </outline>
   <lib>
     <dict>

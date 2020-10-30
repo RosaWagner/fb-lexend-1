@@ -1132,6 +1132,11 @@
       <string>_spacingBehDotless</string>
       <string>_spacingDal</string>
       <string>IJacute.ss01</string>
+      <string>Jacute.loclNLD</string>
+      <string>iacute_j.loclNLD</string>
+      <string>jacute.loclNLD</string>
+      <string>Iacute_J.loclNLD</string>
+      <string>aabreve.ss01</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

@@ -2,8 +2,6 @@
 <glyph name="Jacute.loclNLD" format="2">
   <advance width="599"/>
   <outline>
-    <component base="J"/>
-    <component base="acutecomb.case" xOffset="313.20000000001164" yOffset="168"/>
   </outline>
   <lib>
     <dict>

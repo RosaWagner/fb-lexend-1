@@ -23,7 +23,7 @@ estimated
       <point x="596" y="299"/>
       <point x="583" y="285"/>
       <point x="573" y="285" type="qcurve"/>
-      <point x="153" y="285" type="line"/>
+      <point x="223" y="285" type="line"/>
       <point x="238" y="292" type="line"/>
       <point x="238" y="60" type="line" smooth="yes"/>
       <point x="238" y="59.0"/>
@@ -45,9 +45,9 @@ estimated
       <point x="553" y="119"/>
     </contour>
     <contour>
-      <point x="149" y="324" type="line"/>
-      <point x="491" y="324" type="line"/>
-      <point x="402" y="320" type="line"/>
+      <point x="219" y="324" type="line"/>
+      <point x="422" y="324" type="line"/>
+      <point x="402" y="314" type="line"/>
       <point x="402" y="473" type="line" smooth="yes"/>
       <point x="402" y="475.0"/>
       <point x="402" y="477"/>

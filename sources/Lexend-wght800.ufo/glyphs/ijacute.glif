@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ijacute" format="2">
   <advance width="621"/>
+  <guideline x="497" y="615" angle="0" identifier="BRF7zL2Nsp"/>
   <outline>
-    <component base="i"/>
     <component base="jdotless" xOffset="358"/>
     <component base="acutecomb" xOffset="426.75" yOffset="55"/>
+    <component base="idotless" xOffset="15"/>
+    <component base="acutecomb" xOffset="15" yOffset="55"/>
   </outline>
   <lib>
     <dict>

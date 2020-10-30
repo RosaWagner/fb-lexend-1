@@ -2,8 +2,9 @@
 <glyph name="Emacronacute" format="2">
   <advance width="668"/>
   <outline>
-    <component base="Emacron"/>
     <component base="acutecomb.case" xOffset="227.07000000000698" yOffset="373"/>
+    <component base="E"/>
+    <component base="macroncomb.case" xOffset="126" yOffset="173"/>
   </outline>
   <lib>
     <dict>

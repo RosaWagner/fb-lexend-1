@@ -2,8 +2,6 @@
 <glyph name="iacute_j.loclNLD" format="2">
   <advance width="323"/>
   <outline>
-    <component base="iacute"/>
-    <component base="jacute.loclNLD"/>
   </outline>
   <lib>
     <dict>

@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scarondotaccent" format="2">
   <advance width="479"/>
+  <guideline x="249" y="721" angle="270.0" identifier="Lx8WLxlLJ1"/>
   <outline>
-    <component base="scaron"/>
-    <component base="dotaccentcomb" xOffset="131" yOffset="134"/>
+    <component base="dotaccentcomb" xOffset="144" yOffset="134"/>
+    <component base="s"/>
+    <component base="caroncomb" xOffset="68" yOffset="5"/>
   </outline>
   <lib>
     <dict>

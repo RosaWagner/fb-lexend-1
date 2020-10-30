@@ -4,8 +4,7 @@
   <unicode hex="1EA5"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb" xOffset="131" yOffset="38"/>
-    <component base="acutecomb" xOffset="392" yOffset="201"/>
+    <component base="circumflexcomb_acutecomb" xOffset="128" yOffset="38"/>
   </outline>
   <lib>
     <dict>

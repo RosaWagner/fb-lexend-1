@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="emacronacute" format="2">
-  <advance width="540"/>
+  <advance width="546"/>
   <outline>
-    <component base="emacron"/>
-    <component base="acutecomb" xOffset="159.6200000000099" yOffset="83"/>
+    <component base="e"/>
+    <component base="macroncomb" xOffset="68" yOffset="-35"/>
+    <component base="acutecomb" xOffset="160" yOffset="83"/>
   </outline>
   <lib>
     <dict>

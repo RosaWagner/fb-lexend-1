@@ -2,8 +2,9 @@
 <glyph name="ccedillaacute" format="2">
   <advance width="563"/>
   <outline>
-    <component base="ccedilla"/>
     <component base="acutecomb" xOffset="166.5399999999936" yOffset="55"/>
+    <component base="c"/>
+    <component base="cedillacomb" xOffset="177" yOffset="5"/>
   </outline>
   <lib>
     <dict>

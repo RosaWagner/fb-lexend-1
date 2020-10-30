@@ -2,8 +2,9 @@
 <glyph name="Scarondotaccent" format="2">
   <advance width="641"/>
   <outline>
-    <component base="Scaron"/>
     <component base="dotaccentcomb.case" xOffset="201.32000000000698" yOffset="381"/>
+    <component base="S"/>
+    <component base="caroncomb.case" xOffset="117" yOffset="58"/>
   </outline>
   <lib>
     <dict>
