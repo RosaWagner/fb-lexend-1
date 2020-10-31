@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tlinebelow" format="2">
   <advance width="517"/>
+  <guideline x="258.5" y="0" angle="270.0" identifier="mXTlL2cNsz"/>
   <outline>
     <component base="T"/>
-    <component base="macronbelowcomb.case" xOffset="9.449999999993452" yOffset="-60"/>
+    <component base="macronbelowcomb.case" xOffset="48" yOffset="-5"/>
   </outline>
   <lib>
     <dict>

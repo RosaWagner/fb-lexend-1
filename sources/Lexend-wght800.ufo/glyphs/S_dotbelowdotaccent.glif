@@ -3,7 +3,7 @@
   <advance width="641"/>
   <outline>
     <component base="S"/>
-    <component base="dotbelowcomb.case" xOffset="175.5" yOffset="-91"/>
+    <component base="dotbelowcomb.case" xOffset="176" yOffset="-17"/>
     <component base="dotaccentcomb.case" xOffset="191.5" yOffset="188"/>
   </outline>
   <lib>

@@ -3,7 +3,7 @@
   <advance width="586"/>
   <outline>
     <component base="e"/>
-    <component base="cedillacomb" xOffset="189.79999999999927" yOffset="-24"/>
+    <component base="cedillacomb" xOffset="190" yOffset="5"/>
     <component base="brevecomb" xOffset="140" yOffset="33"/>
   </outline>
   <lib>

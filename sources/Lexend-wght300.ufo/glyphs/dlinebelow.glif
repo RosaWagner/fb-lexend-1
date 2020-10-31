@@ -3,7 +3,7 @@
   <advance width="609"/>
   <outline>
     <component base="d"/>
-    <component base="macronbelowcomb" xOffset="73" yOffset="-40"/>
+    <component base="macronbelowcomb" xOffset="73" yOffset="-5"/>
   </outline>
   <lib>
     <dict>

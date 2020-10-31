@@ -4,7 +4,7 @@
   <unicode hex="1EE3"/>
   <outline>
     <component base="ohorn"/>
-    <component base="dotbelowcomb" xOffset="240.16999999999825" yOffset="-83"/>
+    <component base="dotbelowcomb" xOffset="240" yOffset="-9"/>
   </outline>
   <lib>
     <dict>

@@ -5,7 +5,7 @@
   <outline>
     <component base="e"/>
     <component base="circumflexcomb" xOffset="106.16000000001804" yOffset="38"/>
-    <component base="dotbelowcomb" xOffset="213.16000000001804" yOffset="-83"/>
+    <component base="dotbelowcomb" xOffset="213" yOffset="-9"/>
   </outline>
   <lib>
     <dict>
