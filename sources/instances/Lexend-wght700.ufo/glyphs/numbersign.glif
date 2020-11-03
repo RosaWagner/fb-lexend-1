@@ -1,34 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="numbersign" format="2">
-  <advance width="678"/>
+  <advance width="743"/>
   <unicode hex="0023"/>
   <note>
 numbersign
 </note>
   <outline>
     <contour>
-      <point x="191.0" y="0.0" type="line"/>
-      <point x="101.0" y="0.0" type="line"/>
-      <point x="221.0" y="700.0" type="line"/>
-      <point x="311.0" y="700.0" type="line"/>
+      <point x="256.3333333333333" y="0.0" type="line"/>
+      <point x="107.0" y="0.0" type="line"/>
+      <point x="227.0" y="700.0" type="line"/>
+      <point x="376.3333333333333" y="700.0" type="line"/>
     </contour>
     <contour>
-      <point x="647.0" y="453.0" type="line"/>
-      <point x="69.0" y="453.0" type="line"/>
-      <point x="69.0" y="536.0" type="line"/>
-      <point x="647.0" y="536.0" type="line"/>
+      <point x="693.0" y="426.3333333333333" type="line"/>
+      <point x="88.33333333333333" y="426.3333333333333" type="line"/>
+      <point x="88.33333333333333" y="562.6666666666666" type="line"/>
+      <point x="693.0" y="562.6666666666666" type="line"/>
     </contour>
     <contour>
-      <point x="457.0" y="0.0" type="line"/>
-      <point x="367.0" y="0.0" type="line"/>
-      <point x="487.0" y="700.0" type="line"/>
-      <point x="577.0" y="700.0" type="line"/>
+      <point x="517.6666666666666" y="0.0" type="line"/>
+      <point x="368.3333333333333" y="0.0" type="line"/>
+      <point x="488.3333333333333" y="700.0" type="line"/>
+      <point x="637.6666666666666" y="700.0" type="line"/>
     </contour>
     <contour>
-      <point x="610.0" y="173.0" type="line"/>
-      <point x="31.0" y="173.0" type="line"/>
-      <point x="31.0" y="256.0" type="line"/>
-      <point x="610.0" y="256.0" type="line"/>
+      <point x="656.0" y="146.33333333333334" type="line"/>
+      <point x="50.33333333333333" y="146.33333333333334" type="line"/>
+      <point x="50.33333333333333" y="282.6666666666667" type="line"/>
+      <point x="656.0" y="282.6666666666667" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -5,10 +5,10 @@
   <note>
 O
 </note>
-  <anchor x="387.0" y="0" name="bottom"/>
-  <anchor x="387.0" y="350.0" name="center"/>
+  <anchor x="389.5" y="0" name="bottom"/>
+  <anchor x="390.0" y="350.0" name="center"/>
   <anchor x="691.0" y="10.0" name="ogonek"/>
-  <anchor x="387.0" y="700.0" name="top"/>
+  <anchor x="389.5" y="700.0" name="top"/>
   <anchor x="26.0" y="700.0" name="topleft"/>
   <anchor x="388.0" y="706.0" name="topright"/>
   <outline>

@@ -5,11 +5,9 @@
   <note>
 scedilla
 </note>
-  <anchor x="243.0" y="-148.0" name="bottom"/>
-  <anchor x="238.0" y="530.0" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="cedillacomb" xOffset="118"/>
+    <component base="cedillacomb" xOffset="120.67999999999665" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

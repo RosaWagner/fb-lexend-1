@@ -1,12 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ahookabove.ss01" format="2">
-  <advance width="534"/>
-  <anchor x="277.0" y="-13.0" name="bottom"/>
-  <anchor x="466.0" y="10.0" name="ogonek"/>
-  <anchor x="269.0" y="828.0" name="top"/>
+  <advance width="538"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="hookabovecomb" xOffset="124" yOffset="38"/>
+    <component base="hookabovecomb" xOffset="108.5" yOffset="27"/>
   </outline>
   <lib>
     <dict>

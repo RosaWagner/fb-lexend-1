@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="765"/>
+  <unicode hex="20B1"/>
+  <anchor x="389.0" y="0" name="bottom"/>
+  <anchor x="389.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="175.0" y="355.6666666666667" type="line"/>
+      <point x="69.0" y="355.6666666666667" type="line"/>
+      <point x="69.0" y="456.6666666666667" type="line"/>
+      <point x="177.66666666666666" y="456.6666666666667" type="line"/>
+      <point x="204.33333333333334" y="447.6666666666667" type="line"/>
+      <point x="548.6666666666666" y="447.6666666666667" type="line"/>
+      <point x="586.0" y="456.6666666666667" type="line"/>
+      <point x="725.0" y="456.6666666666667" type="line"/>
+      <point x="725.0" y="355.6666666666667" type="line"/>
+      <point x="581.0" y="355.6666666666667" type="line"/>
+      <point x="546.0" y="367.3333333333333" type="line"/>
+      <point x="201.0" y="367.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="175.66666666666666" y="495.6666666666667" type="line"/>
+      <point x="69.0" y="495.6666666666667" type="line"/>
+      <point x="69.0" y="595.3333333333334" type="line"/>
+      <point x="179.66666666666666" y="595.3333333333334" type="line"/>
+      <point x="205.66666666666666" y="583.6666666666666" type="line"/>
+      <point x="538.0" y="583.6666666666666" type="line"/>
+      <point x="576.6666666666666" y="595.3333333333334" type="line"/>
+      <point x="725.0" y="595.3333333333334" type="line"/>
+      <point x="725.0" y="495.6666666666667" type="line"/>
+      <point x="578.3333333333334" y="495.6666666666667" type="line"/>
+      <point x="540.6666666666666" y="503.3333333333333" type="line"/>
+      <point x="203.0" y="503.3333333333333" type="line"/>
+    </contour>
+    <component base="P" xOffset="68"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>peseta</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>peseta</string>
+    </dict>
+  </lib>
+</glyph>

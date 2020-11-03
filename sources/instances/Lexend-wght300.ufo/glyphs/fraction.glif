@@ -7,12 +7,12 @@ fraction
 </note>
   <outline>
     <contour>
-      <point x="118.0" y="0.0" type="line"/>
-      <point x="20.0" y="0.0" type="line"/>
-      <point x="241.0" y="335.0" type="line"/>
-      <point x="483.0" y="700.0" type="line"/>
-      <point x="586.0" y="700.0" type="line"/>
-      <point x="323.0" y="307.0" type="line"/>
+      <point x="95.0" y="0.0" type="line"/>
+      <point x="42.0" y="0.0" type="line"/>
+      <point x="266.0" y="335.0" type="line"/>
+      <point x="508.0" y="700.0" type="line"/>
+      <point x="561.0" y="700.0" type="line"/>
+      <point x="298.0" y="307.0" type="line"/>
     </contour>
   </outline>
 </glyph>

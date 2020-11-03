@@ -6,7 +6,7 @@
 k
 </note>
   <anchor x="309.6666666666667" y="0" name="bottom"/>
-  <anchor x="309.6666666666667" y="510.0" name="top"/>
+  <anchor x="337.0" y="526.6666666666666" name="top"/>
   <outline>
     <contour>
       <point x="241.0" y="0.0" type="line"/>
@@ -17,7 +17,7 @@ k
     <contour>
       <point x="415.3333333333333" y="531.6666666666666" type="line"/>
       <point x="637.6666666666666" y="531.6666666666666" type="line"/>
-      <point x="185.33333333333334" y="108.0" type="line"/>
+      <point x="235.33333333333331" y="154.66666666666666" type="line"/>
       <point x="167.0" y="276.0" type="line"/>
     </contour>
     <contour>

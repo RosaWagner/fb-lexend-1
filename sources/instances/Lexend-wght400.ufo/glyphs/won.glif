@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="won" format="2">
-  <advance width="999"/>
+  <advance width="983"/>
   <unicode hex="20A9"/>
-  <anchor x="500.0" y="0" name="bottom"/>
-  <anchor x="500.0" y="700.0" name="top"/>
+  <anchor x="492.0" y="0" name="bottom"/>
+  <anchor x="492.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="157.0" y="322.0" type="line"/>
-      <point x="24.0" y="322.0" type="line"/>
-      <point x="24.0" y="415.0" type="line"/>
-      <point x="143.0" y="415.0" type="line"/>
-      <point x="176.0" y="401.0" type="line"/>
-      <point x="779.0" y="401.0" type="line"/>
-      <point x="815.0" y="415.0" type="line"/>
-      <point x="928.0" y="415.0" type="line"/>
-      <point x="928.0" y="322.0" type="line"/>
-      <point x="792.0" y="322.0" type="line"/>
-      <point x="743.0" y="336.0" type="line"/>
-      <point x="205.0" y="336.0" type="line"/>
+      <point x="163.0" y="325.0" type="line"/>
+      <point x="40.0" y="325.0" type="line"/>
+      <point x="40.0" y="395.5" type="line"/>
+      <point x="152.5" y="395.5" type="line"/>
+      <point x="181.0" y="387.5" type="line"/>
+      <point x="778.5" y="387.5" type="line"/>
+      <point x="811.0" y="395.5" type="line"/>
+      <point x="922.5" y="395.5" type="line"/>
+      <point x="922.5" y="325.0" type="line"/>
+      <point x="797.0" y="325.0" type="line"/>
+      <point x="760.5" y="333.0" type="line"/>
+      <point x="200.0" y="333.0" type="line"/>
     </contour>
-    <component base="W" xOffset="3"/>
+    <component base="W" xOffset="14"/>
   </outline>
   <lib>
     <dict>

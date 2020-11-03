@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aacute.ss01" format="2">
-  <advance width="534"/>
+  <advance width="591"/>
   <note>
 aacute
 </note>
-  <anchor x="277.0" y="-13.0" name="bottom"/>
-  <anchor x="466.0" y="10.0" name="ogonek"/>
-  <anchor x="314.0" y="789.0" name="top"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="acutecomb" xOffset="189" yOffset="-2"/>
+    <component base="acutecomb" xOffset="149.52000000000407" yOffset="55"/>
   </outline>
   <lib>
     <dict>

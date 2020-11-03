@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="radical" format="2">
-  <advance width="684"/>
+  <advance width="747"/>
   <unicode hex="221A"/>
   <note>
 radical
 </note>
   <outline>
     <contour>
-      <point x="281.0" y="-130.0" type="line"/>
-      <point x="191.0" y="-130.0" type="line"/>
-      <point x="15.0" y="309.0" type="line"/>
-      <point x="124.0" y="309.0" type="line"/>
-      <point x="259.0" y="-88.0" type="line"/>
-      <point x="204.0" y="-67.0" type="line"/>
-      <point x="473.0" y="700.0" type="line"/>
-      <point x="664.0" y="700.0" type="line"/>
-      <point x="664.0" y="603.0" type="line"/>
-      <point x="492.0" y="603.0" type="line"/>
-      <point x="554.0" y="620.0" type="line"/>
+      <point x="351.0" y="-152.0" type="line"/>
+      <point x="202.33333333333334" y="-152.0" type="line"/>
+      <point x="8.333333333333334" y="328.3333333333333" type="line"/>
+      <point x="184.0" y="328.3333333333333" type="line"/>
+      <point x="297.0" y="-22.66666666666667" type="line"/>
+      <point x="230.66666666666666" y="-24.333333333333336" type="line"/>
+      <point x="479.6666666666667" y="700.0" type="line"/>
+      <point x="754.0" y="700.0" type="line"/>
+      <point x="754.0" y="520.3333333333334" type="line"/>
+      <point x="522.0" y="520.3333333333334" type="line"/>
+      <point x="620.0" y="592.6666666666666" type="line"/>
     </contour>
   </outline>
 </glyph>

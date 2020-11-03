@@ -5,9 +5,9 @@
   <note>
 D
 </note>
-  <anchor x="345.6666666666667" y="0" name="bottom"/>
+  <anchor x="346.3333333333333" y="0" name="bottom"/>
   <anchor x="157.66666666666666" y="350.0" name="center"/>
-  <anchor x="335.6666666666667" y="700.0" name="top"/>
+  <anchor x="345.6666666666667" y="700.0" name="top"/>
   <outline>
     <contour>
       <point x="86.0" y="700.0" type="line"/>

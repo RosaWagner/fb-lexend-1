@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aacute" format="2">
-  <advance width="633"/>
+  <advance width="620"/>
   <unicode hex="00E1"/>
   <note>
 aacute
 </note>
-  <anchor x="311.0" y="-20.0" name="bottom"/>
-  <anchor x="560.0" y="3.0" name="ogonek"/>
-  <anchor x="342.0" y="789.0" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="acutecomb" xOffset="217" yOffset="-2"/>
+    <component base="acutecomb" xOffset="194.13999999999942" yOffset="6.5"/>
   </outline>
   <lib>
     <dict>

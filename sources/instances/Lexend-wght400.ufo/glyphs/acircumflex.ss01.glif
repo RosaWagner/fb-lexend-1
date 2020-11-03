@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflex.ss01" format="2">
-  <advance width="534"/>
+  <advance width="536"/>
   <note>
 acircumflex
 </note>
-  <anchor x="277.0" y="-13.0" name="bottom"/>
-  <anchor x="466.0" y="10.0" name="ogonek"/>
-  <anchor x="285.0" y="779.0" name="top"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="circumflexcomb" xOffset="101" yOffset="-4"/>
+    <component base="circumflexcomb" xOffset="93.24000000000524" yOffset="-0.5"/>
   </outline>
   <lib>
     <dict>

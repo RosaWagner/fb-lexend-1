@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenright" format="2">
-  <advance width="363"/>
+  <advance width="407"/>
   <unicode hex="0029"/>
   <note>
 parenright
 </note>
   <outline>
-    <component base="parenleft" xScale="-1" yScale="-1" xOffset="364" yOffset="516"/>
+    <component base="parenleft" xScale="-1" yScale="-1" xOffset="407" yOffset="516"/>
   </outline>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="g" format="2">
-  <advance width="669"/>
+  <advance width="672"/>
   <unicode hex="0067"/>
   <note>
 g
 </note>
   <anchor x="337.0" y="0" name="bottom"/>
-  <anchor x="337.0" y="535.0" name="top"/>
+  <anchor x="328.3333333333333" y="535.0" name="top"/>
   <outline>
     <contour>
       <point x="76.0" y="-161.0" type="qcurve"/>

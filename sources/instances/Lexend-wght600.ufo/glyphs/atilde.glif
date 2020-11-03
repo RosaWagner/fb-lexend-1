@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="atilde" format="2">
+  <advance width="648"/>
+  <unicode hex="00E3"/>
+  <note>
+atilde
+</note>
+  <outline>
+    <component base="a"/>
+    <component base="tildecomb" xOffset="112.5" yOffset="25.333333333333332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

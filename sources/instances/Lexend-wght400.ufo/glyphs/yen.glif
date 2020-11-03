@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yen" format="2">
-  <advance width="660"/>
+  <advance width="651"/>
   <unicode hex="00A5"/>
   <note>
 yen
 </note>
-  <anchor x="335.0" y="-1.0" name="bottom"/>
-  <anchor x="331.0" y="700.0" name="top"/>
-  <anchor x="60.0" y="700.0" name="topleft"/>
+  <anchor x="334.5" y="-1.0" name="bottom"/>
+  <anchor x="332.0" y="700.0" name="top"/>
+  <anchor x="62.5" y="700.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="558.0" y="88.0" type="line"/>
-      <point x="146.0" y="90.0" type="line"/>
-      <point x="146.0" y="176.0" type="line"/>
-      <point x="558.0" y="174.0" type="line"/>
+      <point x="535.5" y="106.0" type="line"/>
+      <point x="148.5" y="107.0" type="line"/>
+      <point x="148.5" y="174.0" type="line"/>
+      <point x="535.5" y="173.0" type="line"/>
     </contour>
     <contour>
-      <point x="558.0" y="228.0" type="line"/>
-      <point x="146.0" y="230.0" type="line"/>
-      <point x="146.0" y="316.0" type="line"/>
-      <point x="558.0" y="314.0" type="line"/>
+      <point x="535.5" y="248.0" type="line"/>
+      <point x="148.5" y="249.0" type="line"/>
+      <point x="148.5" y="316.0" type="line"/>
+      <point x="535.5" y="315.0" type="line"/>
     </contour>
-    <component base="Y"/>
+    <component base="Y" xOffset="2.5"/>
   </outline>
   <lib>
     <dict>

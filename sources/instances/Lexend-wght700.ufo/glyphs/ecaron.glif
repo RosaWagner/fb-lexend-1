@@ -5,12 +5,9 @@
   <note>
 ecaron
 </note>
-  <anchor x="292.0" y="-20.0" name="bottom"/>
-  <anchor x="521.0" y="10.0" name="ogonek"/>
-  <anchor x="293.0" y="775.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="caroncomb" xOffset="113" yOffset="10"/>
+    <component base="caroncomb" xOffset="115.106666666669" yOffset="22"/>
   </outline>
   <lib>
     <dict>

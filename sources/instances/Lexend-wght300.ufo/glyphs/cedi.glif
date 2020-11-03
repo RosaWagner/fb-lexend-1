@@ -6,18 +6,18 @@
   <anchor x="372.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="428.0" y="21.0" type="line"/>
-      <point x="428.0" y="-81.0" type="line"/>
-      <point x="321.0" y="-81.0" type="line"/>
-      <point x="321.0" y="18.0" type="line"/>
-      <point x="325.0" y="73.0" type="line"/>
-      <point x="325.0" y="637.0" type="line"/>
-      <point x="321.0" y="673.0" type="line"/>
-      <point x="321.0" y="776.0" type="line"/>
-      <point x="428.0" y="776.0" type="line"/>
-      <point x="428.0" y="680.0" type="line"/>
-      <point x="418.0" y="642.0" type="line"/>
-      <point x="418.0" y="66.0" type="line"/>
+      <point x="396.0" y="10.0" type="line"/>
+      <point x="396.0" y="-84.0" type="line"/>
+      <point x="348.0" y="-84.0" type="line"/>
+      <point x="348.0" y="9.0" type="line"/>
+      <point x="348.0" y="25.0" type="line"/>
+      <point x="348.0" y="666.0" type="line"/>
+      <point x="348.0" y="692.0" type="line"/>
+      <point x="348.0" y="773.0" type="line"/>
+      <point x="396.0" y="773.0" type="line"/>
+      <point x="396.0" y="693.0" type="line"/>
+      <point x="396.0" y="668.0" type="line"/>
+      <point x="396.0" y="25.0" type="line"/>
     </contour>
     <component base="C"/>
   </outline>

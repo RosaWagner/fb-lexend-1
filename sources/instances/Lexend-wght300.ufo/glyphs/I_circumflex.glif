@@ -1,13 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Icircumflex" format="2">
-  <advance width="478"/>
+  <advance width="412"/>
   <unicode hex="00CE"/>
-  <anchor x="238.0" y="0" name="bottom"/>
-  <anchor x="428.0" y="10.0" name="ogonek"/>
-  <anchor x="238.0" y="915.0" name="top"/>
-  <anchor x="123.0" y="700.0" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="circumflexcomb.case" xOffset="57" yOffset="158"/>
+    <component base="circumflexcomb.case" xOffset="25" yOffset="158"/>
   </outline>
 </glyph>

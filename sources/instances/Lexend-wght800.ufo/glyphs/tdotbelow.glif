@@ -1,13 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tdotbelow" format="2">
-  <advance width="384"/>
+  <advance width="409"/>
   <unicode hex="1E6D"/>
-  <anchor x="182.0" y="-220.0" name="bottom"/>
-  <anchor x="182.0" y="256.0" name="center"/>
-  <anchor x="183.0" y="646.0" name="top"/>
-  <anchor x="308.0" y="548.0" name="topright"/>
   <outline>
     <component base="t"/>
-    <component base="dotbelowcomb" xOffset="77" yOffset="3"/>
+    <component base="dotbelowcomb" xOffset="107" yOffset="-9"/>
   </outline>
 </glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="softhyphen" format="2">
+  <advance width="432"/>
+  <unicode hex="00AD"/>
+  <note>
+softhyphen
+</note>
+  <outline>
+    <component base="hyphen" xOffset="3.333333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hyphen</string>
+    </dict>
+  </lib>
+</glyph>

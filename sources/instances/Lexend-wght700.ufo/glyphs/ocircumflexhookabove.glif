@@ -1,15 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ocircumflexhookabove" format="2">
-  <advance width="615"/>
+  <advance width="645"/>
   <unicode hex="1ED5"/>
-  <anchor x="305.0" y="0" name="bottom"/>
-  <anchor x="305.0" y="256.0" name="center"/>
-  <anchor x="547.0" y="10.0" name="ogonek"/>
-  <anchor x="305.0" y="763.0" name="top"/>
-  <anchor x="319.0" y="531.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="118" yOffset="1"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="116" yOffset="39.666666666666664"/>
   </outline>
   <lib>
     <dict>

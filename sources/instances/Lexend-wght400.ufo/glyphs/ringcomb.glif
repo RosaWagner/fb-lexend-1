@@ -1,36 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringcomb" format="2">
+  <advance width="160"/>
   <unicode hex="030A"/>
-  <anchor x="158.0" y="490.0" name="_top"/>
-  <anchor x="158.0" y="775.0" name="top"/>
   <outline>
     <contour>
-      <point x="269.0" y="669.0" type="qcurve"/>
-      <point x="269.0" y="627.0"/>
-      <point x="203.0" y="564.0"/>
-      <point x="159.0" y="564.0" type="qcurve"/>
-      <point x="116.0" y="564.0"/>
-      <point x="50.0" y="627.0"/>
-      <point x="50.0" y="669.0" type="qcurve"/>
-      <point x="50.0" y="712.0"/>
-      <point x="115.0" y="775.0"/>
+      <point x="266.5" y="671.5" type="qcurve"/>
+      <point x="266.5" y="630.5"/>
+      <point x="202.0" y="569.0"/>
+      <point x="159.0" y="569.0" type="qcurve"/>
+      <point x="117.0" y="569.0"/>
+      <point x="52.5" y="630.5"/>
+      <point x="52.5" y="671.5" type="qcurve"/>
+      <point x="52.5" y="713.5"/>
+      <point x="116.0" y="775.0"/>
       <point x="159.0" y="775.0" type="qcurve"/>
-      <point x="203.0" y="775.0"/>
-      <point x="269.0" y="712.0"/>
+      <point x="202.0" y="775.0"/>
+      <point x="266.5" y="713.5"/>
     </contour>
     <contour>
-      <point x="110.0" y="669.0" type="qcurve"/>
-      <point x="110.0" y="650.0"/>
-      <point x="139.0" y="623.0"/>
-      <point x="159.0" y="623.0" type="qcurve"/>
-      <point x="180.0" y="623.0"/>
-      <point x="209.0" y="650.0"/>
-      <point x="209.0" y="669.0" type="qcurve"/>
-      <point x="209.0" y="690.0"/>
-      <point x="180.0" y="716.0"/>
-      <point x="159.0" y="716.0" type="qcurve"/>
-      <point x="138.0" y="716.0"/>
-      <point x="110.0" y="689.0"/>
+      <point x="102.5" y="671.5" type="qcurve"/>
+      <point x="102.5" y="649.5"/>
+      <point x="136.0" y="618.0"/>
+      <point x="159.0" y="618.0" type="qcurve"/>
+      <point x="183.0" y="618.0"/>
+      <point x="216.5" y="649.5"/>
+      <point x="216.5" y="671.5" type="qcurve"/>
+      <point x="216.5" y="696.0"/>
+      <point x="183.0" y="726.0"/>
+      <point x="159.0" y="726.0" type="qcurve"/>
+      <point x="134.5" y="726.0"/>
+      <point x="102.5" y="695.0"/>
     </contour>
   </outline>
   <lib>

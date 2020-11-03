@@ -1,13 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Egrave" format="2">
-  <advance width="614"/>
+  <advance width="668"/>
   <unicode hex="00C8"/>
-  <anchor x="322.0" y="0" name="bottom"/>
-  <anchor x="475.0" y="10.0" name="ogonek"/>
-  <anchor x="275.0" y="945.0" name="top"/>
-  <anchor x="46.0" y="700.0" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="gravecomb.case" xOffset="150" yOffset="181"/>
+    <component base="gravecomb.case" xOffset="168.93000000000757" yOffset="210"/>
   </outline>
 </glyph>

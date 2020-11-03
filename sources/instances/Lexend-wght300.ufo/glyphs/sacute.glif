@@ -5,11 +5,9 @@
   <note>
 sacute
 </note>
-  <anchor x="238.0" y="0" name="bottom"/>
-  <anchor x="273.0" y="789.0" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="acutecomb" xOffset="148" yOffset="-2"/>
+    <component base="acutecomb" xOffset="132.3000000000029" yOffset="15"/>
   </outline>
   <lib>
     <dict>

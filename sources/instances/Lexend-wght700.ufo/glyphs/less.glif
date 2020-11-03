@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="less" format="2">
-  <advance width="524"/>
+  <advance width="525"/>
   <unicode hex="003C"/>
   <note>
 less
 </note>
   <outline>
     <contour>
-      <point x="98.0" y="218.0" type="line"/>
-      <point x="98.0" y="285.0" type="line"/>
-      <point x="457.0" y="79.0" type="line"/>
-      <point x="409.0" y="4.0" type="line"/>
-      <point x="48.0" y="211.0" type="line"/>
-      <point x="48.0" y="292.0" type="line"/>
-      <point x="409.0" y="499.0" type="line"/>
-      <point x="457.0" y="424.0" type="line"/>
+      <point x="146.66666666666666" y="223.33333333333334" type="line"/>
+      <point x="146.66666666666666" y="279.6666666666667" type="line"/>
+      <point x="486.3333333333333" y="105.66666666666666" type="line"/>
+      <point x="411.6666666666667" y="-9.333333333333332" type="line"/>
+      <point x="39.333333333333336" y="204.33333333333334" type="line"/>
+      <point x="39.333333333333336" y="298.6666666666667" type="line"/>
+      <point x="411.6666666666667" y="512.3333333333334" type="line"/>
+      <point x="486.3333333333333" y="397.3333333333333" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -6,9 +6,9 @@
 u
 </note>
   <anchor x="317.0" y="0" name="bottom"/>
-  <anchor x="548.0" y="0" name="ogonek"/>
-  <anchor x="317.0" y="510.0" name="top"/>
-  <anchor x="404.0" y="532.0" name="topright"/>
+  <anchor x="574.6666666666666" y="0" name="ogonek"/>
+  <anchor x="319.0" y="526.6666666666666" name="top"/>
+  <anchor x="464.0" y="534.0" name="topright"/>
   <outline>
     <contour>
       <point x="316.6666666666667" y="129.33333333333331" type="qcurve" smooth="yes"/>
@@ -19,7 +19,7 @@ u
       <point x="432.0" y="531.6666666666666"/>
       <point x="549.6666666666666" y="531.6666666666666"/>
       <point x="575.6666666666666" y="531.6666666666666" type="qcurve"/>
-      <point x="577.0" y="0.0" type="line"/>
+      <point x="575.6666666666666" y="0.0" type="line"/>
       <point x="417.3333333333333" y="0.0" type="line"/>
       <point x="409.3333333333333" y="108.66666666666667" type="line"/>
       <point x="440.6666666666667" y="120.66666666666667" type="line"/>

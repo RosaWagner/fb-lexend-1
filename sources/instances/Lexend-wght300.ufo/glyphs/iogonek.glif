@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iogonek" format="2">
-  <advance width="289"/>
+  <advance width="200"/>
   <unicode hex="012F"/>
   <note>
 iogonek
 </note>
   <outline>
     <contour>
-      <point x="145.0" y="52.0" type="qcurve"/>
-      <point x="95.0" y="7.0" type="line"/>
-      <point x="95.0" y="525.0" type="line"/>
-      <point x="198.0" y="525.0" type="line"/>
-      <point x="198.0" y="0.0" type="line"/>
-      <point x="148.0" y="-21.0"/>
-      <point x="93.0" y="-75.0"/>
-      <point x="93.0" y="-102.0" type="qcurve" smooth="yes"/>
-      <point x="93.0" y="-120.0"/>
-      <point x="120.0" y="-144.0"/>
-      <point x="140.0" y="-144.0" type="qcurve" smooth="yes"/>
-      <point x="152.0" y="-144.0"/>
-      <point x="180.0" y="-131.0"/>
-      <point x="195.0" y="-118.0" type="qcurve"/>
-      <point x="234.0" y="-177.0" type="line"/>
-      <point x="204.0" y="-199.0"/>
-      <point x="147.0" y="-221.0"/>
-      <point x="120.0" y="-221.0" type="qcurve" smooth="yes"/>
-      <point x="68.0" y="-221.0"/>
-      <point x="0.0" y="-161.0"/>
-      <point x="0.0" y="-114.0" type="qcurve" smooth="yes"/>
-      <point x="0.0" y="-70.0"/>
-      <point x="70.0" y="11.0"/>
+      <point x="103.0" y="48.0" type="qcurve"/>
+      <point x="75.0" y="1.0" type="line"/>
+      <point x="75.0" y="520.0" type="line"/>
+      <point x="125.0" y="520.0" type="line"/>
+      <point x="125.0" y="0.0" type="line"/>
+      <point x="85.0" y="-19.0"/>
+      <point x="35.0" y="-63.0"/>
+      <point x="35.0" y="-90.0" type="qcurve" smooth="yes"/>
+      <point x="35.0" y="-114.0"/>
+      <point x="65.0" y="-144.0"/>
+      <point x="89.0" y="-144.0" type="qcurve" smooth="yes"/>
+      <point x="105.0" y="-144.0"/>
+      <point x="130.0" y="-130.0"/>
+      <point x="143.0" y="-111.0" type="qcurve"/>
+      <point x="182.0" y="-139.0" type="line"/>
+      <point x="169.0" y="-166.0"/>
+      <point x="117.0" y="-195.0"/>
+      <point x="85.0" y="-195.0" type="qcurve" smooth="yes"/>
+      <point x="39.0" y="-195.0"/>
+      <point x="-16.0" y="-141.62921348314606"/>
+      <point x="-16.0" y="-100.0" type="qcurve" smooth="yes"/>
+      <point x="-16.0" y="-53.87012987012987"/>
+      <point x="35.77102120479819" y="4.49889607369294"/>
     </contour>
-    <component base="dotaccentcomb" xOffset="45"/>
+    <component base="dotaccentcomb" xOffset="-5" yOffset="14"/>
   </outline>
 </glyph>

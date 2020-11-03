@@ -2,11 +2,8 @@
 <glyph name="edblgrave" format="2">
   <advance width="586"/>
   <unicode hex="0205"/>
-  <anchor x="292.0" y="-20.0" name="bottom"/>
-  <anchor x="521.0" y="10.0" name="ogonek"/>
-  <anchor x="262.0" y="841.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dblgravecomb" xOffset="34" yOffset="31"/>
+    <component base="dblgravecomb" xOffset="8" yOffset="45.666666666666664"/>
   </outline>
 </glyph>

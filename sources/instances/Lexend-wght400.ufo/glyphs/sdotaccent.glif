@@ -2,10 +2,8 @@
 <glyph name="sdotaccent" format="2">
   <advance width="479"/>
   <unicode hex="1E61"/>
-  <anchor x="238.0" y="0" name="bottom"/>
-  <anchor x="238.0" y="770.0" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="dotaccentcomb" xOffset="133" yOffset="19"/>
+    <component base="dotaccentcomb" xOffset="133.5" yOffset="2.5"/>
   </outline>
 </glyph>

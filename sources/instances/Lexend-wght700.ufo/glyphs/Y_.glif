@@ -5,8 +5,8 @@
   <note>
 Y
 </note>
-  <anchor x="315.0" y="-1.0" name="bottom"/>
-  <anchor x="311.0" y="700.0" name="top"/>
+  <anchor x="348.3333333333333" y="-0.33333333333333337" name="bottom"/>
+  <anchor x="347.0" y="700.0" name="top"/>
   <anchor x="40.0" y="700.0" name="topleft"/>
   <outline>
     <contour>

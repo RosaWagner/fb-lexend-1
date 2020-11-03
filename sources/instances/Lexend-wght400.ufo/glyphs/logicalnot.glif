@@ -7,13 +7,13 @@ logicalnot
 </note>
   <outline>
     <contour>
-      <point x="620.0" y="117.0" type="line"/>
-      <point x="515.0" y="117.0" type="line"/>
-      <point x="515.0" y="319.0" type="line"/>
-      <point x="534.0" y="307.0" type="line"/>
-      <point x="50.0" y="307.0" type="line"/>
-      <point x="50.0" y="404.0" type="line"/>
-      <point x="620.0" y="404.0" type="line"/>
+      <point x="615.0" y="117.0" type="line"/>
+      <point x="538.5" y="117.0" type="line"/>
+      <point x="538.5" y="339.0" type="line"/>
+      <point x="557.5" y="327.0" type="line"/>
+      <point x="55.0" y="327.0" type="line"/>
+      <point x="55.0" y="399.0" type="line"/>
+      <point x="615.0" y="399.0" type="line"/>
     </contour>
   </outline>
 </glyph>

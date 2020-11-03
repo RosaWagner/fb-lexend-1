@@ -1,12 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ydotaccent" format="2">
-  <advance width="660"/>
+  <advance width="631"/>
   <unicode hex="1E8E"/>
-  <anchor x="335.0" y="-1.0" name="bottom"/>
-  <anchor x="331.0" y="907.0" name="top"/>
-  <anchor x="60.0" y="700.0" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="dotaccentcomb.case" xOffset="226" yOffset="170"/>
+    <component base="dotaccentcomb.case" xOffset="210.5" yOffset="141"/>
   </outline>
 </glyph>

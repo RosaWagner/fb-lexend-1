@@ -5,13 +5,9 @@
   <note>
 udieresis
 </note>
-  <anchor x="299.0" y="10.0" name="bottom"/>
-  <anchor x="530.0" y="10.0" name="ogonek"/>
-  <anchor x="299.0" y="694.0" name="top"/>
-  <anchor x="386.0" y="542.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dieresiscomb" xOffset="97" yOffset="14.5"/>
+    <component base="dieresiscomb" xOffset="101.25" yOffset="4"/>
   </outline>
   <lib>
     <dict>

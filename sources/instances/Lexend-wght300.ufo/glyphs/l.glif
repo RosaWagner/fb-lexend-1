@@ -7,7 +7,7 @@ l
 </note>
   <anchor x="100.0" y="0" name="bottom"/>
   <anchor x="100.0" y="289.0" name="center"/>
-  <anchor x="101.0" y="740.0" name="top"/>
+  <anchor x="100.0" y="740.0" name="top"/>
   <anchor x="207.0" y="580.0" name="topright"/>
   <outline>
     <contour>

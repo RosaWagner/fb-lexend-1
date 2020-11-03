@@ -6,13 +6,13 @@
   <anchor x="406.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="194.0" y="364.0" type="line"/>
-      <point x="194.0" y="271.0" type="line"/>
-      <point x="91.0" y="271.0" type="line"/>
-      <point x="91.0" y="364.0" type="line"/>
+      <point x="238.0" y="394.0" type="line"/>
+      <point x="238.0" y="239.0" type="line"/>
+      <point x="82.0" y="239.0" type="line"/>
+      <point x="82.0" y="394.0" type="line"/>
     </contour>
     <component base="P" xOffset="85"/>
-    <component base="strokeshortcomb" xOffset="40" yOffset="-134"/>
+    <component base="strokeshortcomb" xOffset="61" yOffset="-192"/>
   </outline>
   <lib>
     <dict>

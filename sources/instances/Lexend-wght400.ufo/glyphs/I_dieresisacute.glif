@@ -1,14 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idieresisacute" format="2">
-  <advance width="478"/>
+  <advance width="445"/>
   <unicode hex="1E2E"/>
-  <anchor x="238.0" y="0" name="bottom"/>
-  <anchor x="428.0" y="10.0" name="ogonek"/>
-  <anchor x="296.0" y="1045.0" name="top"/>
-  <anchor x="123.0" y="700.0" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="dieresiscomb.case" xOffset="38" yOffset="175"/>
-    <component base="acutecomb.case" xOffset="171" yOffset="342"/>
+    <component base="dieresiscomb.case" xOffset="34" yOffset="158"/>
+    <component base="acutecomb.case" xOffset="133.75499999999738" yOffset="331"/>
   </outline>
 </glyph>

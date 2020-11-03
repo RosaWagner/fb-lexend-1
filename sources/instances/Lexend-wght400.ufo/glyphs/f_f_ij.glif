@@ -1,14 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_ij" format="2">
-  <advance width="1274"/>
-  <anchor x="894.0" y="-15.0" name="bottom_1"/>
-  <anchor x="1162.0" y="-15.0" name="bottom_2"/>
-  <anchor x="982.0" y="-5.0" name="ogonek"/>
-  <anchor x="197.0" y="510.0" name="top_1"/>
-  <anchor x="1149.0" y="756.0" name="top_2"/>
+  <advance width="1201"/>
   <outline>
     <component base="f"/>
-    <component base="f_ij" xOffset="393"/>
+    <component base="f_ij" xOffset="378.5"/>
   </outline>
   <lib>
     <dict>

@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scaron" format="2">
-  <advance width="479"/>
+  <advance width="498"/>
   <unicode hex="0161"/>
   <note>
 scaron
 </note>
-  <anchor x="238.0" y="0" name="bottom"/>
-  <anchor x="238.0" y="775.0" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="caroncomb" xOffset="58" yOffset="10"/>
+    <component base="caroncomb" xOffset="64.96000000000156" yOffset="22"/>
   </outline>
   <lib>
     <dict>

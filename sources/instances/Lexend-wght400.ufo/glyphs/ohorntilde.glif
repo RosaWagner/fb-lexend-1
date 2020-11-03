@@ -1,15 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohorntilde" format="2">
-  <advance width="615"/>
+  <advance width="634"/>
   <unicode hex="1EE1"/>
-  <anchor x="300.0" y="0" name="bottom"/>
-  <anchor x="305.0" y="256.0" name="center"/>
-  <anchor x="547.0" y="10.0" name="ogonek"/>
-  <anchor x="312.0" y="744.0" name="top"/>
-  <anchor x="319.0" y="531.0" name="topright"/>
   <outline>
     <component base="ohorn"/>
-    <component base="tildecomb" xOffset="97" yOffset="-3"/>
+    <component base="tildecomb" xOffset="93.5" yOffset="0.5"/>
   </outline>
   <lib>
     <dict>

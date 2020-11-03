@@ -5,8 +5,8 @@
   <note>
 w
 </note>
-  <anchor x="396.0" y="0" name="bottom"/>
-  <anchor x="396.0" y="505.0" name="top"/>
+  <anchor x="391.0" y="0" name="bottom"/>
+  <anchor x="391.0" y="512.5" name="top"/>
   <outline>
     <contour>
       <point x="677.0" y="522.5" type="line"/>

@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="pi" format="2">
-  <advance width="614"/>
+  <advance width="651"/>
   <unicode hex="03C0"/>
   <note>
 pi
 </note>
   <outline>
     <contour>
-      <point x="205.0" y="0.0" type="line"/>
-      <point x="114.0" y="0.0" type="line"/>
-      <point x="114.0" y="476.0" type="line"/>
-      <point x="131.0" y="425.0" type="line"/>
-      <point x="40.0" y="425.0" type="line"/>
-      <point x="40.0" y="526.0" type="line"/>
-      <point x="574.0" y="526.0" type="line"/>
-      <point x="574.0" y="425.0" type="line"/>
-      <point x="491.0" y="425.0" type="line"/>
-      <point x="500.0" y="438.0" type="line"/>
-      <point x="500.0" y="0.0" type="line"/>
-      <point x="409.0" y="0.0" type="line"/>
-      <point x="409.0" y="460.0" type="line"/>
-      <point x="419.0" y="425.0" type="line"/>
-      <point x="192.0" y="425.0" type="line"/>
-      <point x="205.0" y="438.0" type="line"/>
+      <point x="263.6666666666667" y="0.0" type="line"/>
+      <point x="104.0" y="0.0" type="line"/>
+      <point x="104.0" y="482.0" type="line"/>
+      <point x="121.0" y="385.0" type="line"/>
+      <point x="30.0" y="385.0" type="line"/>
+      <point x="30.0" y="532.0" type="line"/>
+      <point x="630.6666666666666" y="532.0" type="line"/>
+      <point x="630.6666666666666" y="385.0" type="line"/>
+      <point x="547.6666666666666" y="385.0" type="line"/>
+      <point x="556.6666666666666" y="444.0" type="line"/>
+      <point x="556.6666666666666" y="0.0" type="line"/>
+      <point x="397.0" y="0.0" type="line"/>
+      <point x="397.0" y="466.0" type="line"/>
+      <point x="407.0" y="385.0" type="line"/>
+      <point x="250.66666666666666" y="385.0" type="line"/>
+      <point x="263.6666666666667" y="444.0" type="line"/>
     </contour>
   </outline>
 </glyph>

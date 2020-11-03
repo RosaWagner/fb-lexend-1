@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb" format="2">
+  <advance width="184"/>
   <unicode hex="0302"/>
-  <anchor x="178.0" y="534.0" name="_top"/>
-  <anchor x="184.0" y="783.0" name="top"/>
   <outline>
-    <component base="circumflex" yOffset="50"/>
+    <component base="circumflex" yOffset="25"/>
   </outline>
   <lib>
     <dict>

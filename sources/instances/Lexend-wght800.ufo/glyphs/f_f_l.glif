@@ -1,17 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_l" format="2">
-  <advance width="1017"/>
-  <anchor x="888.0" y="0" name="bottom"/>
-  <anchor x="197.0" y="0" name="bottom_1"/>
-  <anchor x="570.0" y="0" name="bottom_2"/>
-  <anchor x="888.0" y="289.0" name="center"/>
-  <anchor x="889.0" y="740.0" name="top"/>
-  <anchor x="197.0" y="510.0" name="top_1"/>
-  <anchor x="570.0" y="510.0" name="top_2"/>
-  <anchor x="995.0" y="580.0" name="topright"/>
+  <advance width="1129"/>
   <outline>
     <component base="f_f"/>
-    <component base="l" xOffset="766"/>
+    <component base="l" xOffset="786"/>
   </outline>
   <lib>
     <dict>

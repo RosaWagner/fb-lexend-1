@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dollar" format="2">
-  <advance width="624"/>
+  <advance width="609"/>
   <unicode hex="0024"/>
   <note>
 dollar
 </note>
-  <anchor x="321.0" y="0" name="bottom"/>
-  <anchor x="321.0" y="700.0" name="top"/>
+  <anchor x="322.0" y="0" name="bottom"/>
+  <anchor x="322.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="254.0" y="363.0" type="line"/>
-      <point x="351.0" y="330.0" type="line"/>
-      <point x="351.0" y="-91.0" type="line"/>
-      <point x="254.0" y="-91.0" type="line"/>
+      <point x="270.5" y="363.0" type="line"/>
+      <point x="343.5" y="330.0" type="line"/>
+      <point x="343.5" y="-91.0" type="line"/>
+      <point x="270.5" y="-91.0" type="line"/>
     </contour>
     <contour>
-      <point x="391.0" y="330.0" type="line"/>
-      <point x="294.0" y="363.0" type="line"/>
-      <point x="294.0" y="782.0" type="line"/>
-      <point x="391.0" y="782.0" type="line"/>
+      <point x="363.5" y="330.0" type="line"/>
+      <point x="290.5" y="363.0" type="line"/>
+      <point x="290.5" y="782.0" type="line"/>
+      <point x="363.5" y="782.0" type="line"/>
     </contour>
     <component base="S"/>
   </outline>

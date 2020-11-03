@@ -8,7 +8,7 @@ o
   <anchor x="302.0" y="0" name="bottom"/>
   <anchor x="301.5" y="256.0" name="center"/>
   <anchor x="543.5" y="10.0" name="ogonek"/>
-  <anchor x="302.0" y="513.0" name="top"/>
+  <anchor x="302.0" y="516.5" name="top"/>
   <anchor x="315.5" y="531.0" name="topright"/>
   <outline>
     <contour>

@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="semicolon" format="2">
-  <advance width="257"/>
+  <advance width="289"/>
   <unicode hex="003B"/>
   <note>
 semicolon
 </note>
   <outline>
     <contour>
-      <point x="199.0" y="460.0" type="qcurve" smooth="yes"/>
-      <point x="199.0" y="427.0"/>
-      <point x="161.0" y="385.0"/>
-      <point x="130.0" y="385.0" type="qcurve" smooth="yes"/>
-      <point x="97.0" y="385.0"/>
-      <point x="61.0" y="424.0"/>
-      <point x="61.0" y="460.0" type="qcurve" smooth="yes"/>
-      <point x="61.0" y="493.0"/>
-      <point x="99.0" y="535.0"/>
-      <point x="130.0" y="535.0" type="qcurve" smooth="yes"/>
-      <point x="163.0" y="535.0"/>
-      <point x="199.0" y="496.0"/>
+      <point x="243.0" y="450.6666666666667" type="qcurve" smooth="yes"/>
+      <point x="243.0" y="410.3333333333333"/>
+      <point x="193.66666666666666" y="359.0"/>
+      <point x="154.0" y="359.0" type="qcurve" smooth="yes"/>
+      <point x="111.66666666666667" y="359.0"/>
+      <point x="65.0" y="406.6666666666667"/>
+      <point x="65.0" y="450.6666666666667" type="qcurve" smooth="yes"/>
+      <point x="65.0" y="491.0"/>
+      <point x="114.33333333333333" y="542.3333333333334"/>
+      <point x="154.0" y="542.3333333333334" type="qcurve" smooth="yes"/>
+      <point x="196.33333333333331" y="542.3333333333334"/>
+      <point x="243.0" y="494.6666666666667"/>
     </contour>
-    <component base="comma" xOffset="-7"/>
+    <component base="comma" xOffset="13.666666666666664"/>
   </outline>
 </glyph>

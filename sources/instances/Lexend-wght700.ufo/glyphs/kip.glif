@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kip" format="2">
-  <advance width="759"/>
+  <advance width="767"/>
   <unicode hex="20AD"/>
   <anchor x="363.0" y="0" name="bottom"/>
   <anchor x="375.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="377.0" y="320.0" type="line"/>
-      <point x="377.0" y="415.0" type="line"/>
-      <point x="632.0" y="415.0" type="line"/>
-      <point x="632.0" y="320.0" type="line"/>
+      <point x="383.6666666666667" y="306.0" type="line"/>
+      <point x="383.6666666666667" y="461.0" type="line"/>
+      <point x="645.3333333333334" y="461.0" type="line"/>
+      <point x="645.3333333333334" y="306.0" type="line"/>
     </contour>
     <contour>
-      <point x="203.0" y="415.0" type="line"/>
-      <point x="199.0" y="320.0" type="line"/>
-      <point x="30.0" y="320.0" type="line"/>
-      <point x="30.0" y="415.0" type="line"/>
+      <point x="209.66666666666666" y="461.0" type="line"/>
+      <point x="205.66666666666666" y="306.0" type="line"/>
+      <point x="30.0" y="306.0" type="line"/>
+      <point x="30.0" y="461.0" type="line"/>
     </contour>
     <component base="K" xOffset="27"/>
   </outline>

@@ -8,12 +8,12 @@
   <anchor x="238.0" y="-14.0" name="topright"/>
   <outline>
     <contour>
-      <point x="416.0" y="801.0" type="line"/>
-      <point x="416.0" y="254.0" type="line"/>
-      <point x="319.0" y="254.0" type="line"/>
-      <point x="319.0" y="801.0" type="line"/>
+      <point x="434.0" y="813.6666666666666" type="line"/>
+      <point x="434.0" y="229.33333333333334" type="line"/>
+      <point x="286.3333333333333" y="229.33333333333334" type="line"/>
+      <point x="286.3333333333333" y="813.6666666666666" type="line"/>
     </contour>
-    <component base="U" xScale="-1" yScale="-1" xOffset="750" yOffset="694"/>
+    <component base="U" xScale="-1" yScale="-1" xOffset="750" yOffset="698"/>
   </outline>
   <lib>
     <dict>

@@ -2,6 +2,6 @@
 <glyph name="macron.case" format="2">
   <advance width="431"/>
   <outline>
-    <component base="macroncomb.case"/>
+    <component base="macroncomb.case" yOffset="20"/>
   </outline>
 </glyph>

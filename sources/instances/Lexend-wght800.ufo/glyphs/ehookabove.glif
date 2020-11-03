@@ -2,12 +2,9 @@
 <glyph name="ehookabove" format="2">
   <advance width="586"/>
   <unicode hex="1EBB"/>
-  <anchor x="292.0" y="-20.0" name="bottom"/>
-  <anchor x="521.0" y="10.0" name="ogonek"/>
-  <anchor x="283.0" y="828.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="hookabovecomb" xOffset="138" yOffset="38"/>
+    <component base="hookabovecomb" xOffset="158" yOffset="59"/>
   </outline>
   <lib>
     <dict>

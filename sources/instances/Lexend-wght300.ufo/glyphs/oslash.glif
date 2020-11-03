@@ -1,21 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslash" format="2">
-  <advance width="615"/>
+  <advance width="599"/>
   <unicode hex="00F8"/>
   <note>
 oslash
 </note>
-  <anchor x="305.0" y="530.0" name="top"/>
-  <anchor x="305.0" y="0" name="bottom"/>
-  <anchor x="305.0" y="256.0" name="center"/>
-  <anchor x="547.0" y="10.0" name="ogonek"/>
-  <anchor x="319.0" y="531.0" name="topright"/>
   <outline>
     <contour>
-      <point x="107.0" y="-35.0" type="line"/>
-      <point x="41.0" y="13.0" type="line"/>
-      <point x="494.0" y="545.0" type="line"/>
-      <point x="561.0" y="496.0" type="line"/>
+      <point x="92.0" y="-12.0" type="line"/>
+      <point x="56.0" y="13.0" type="line"/>
+      <point x="509.0" y="545.0" type="line"/>
+      <point x="546.0" y="519.0" type="line"/>
     </contour>
     <component base="o"/>
   </outline>

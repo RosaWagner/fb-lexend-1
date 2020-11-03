@@ -9,8 +9,8 @@
   <anchor x="100.0" y="700.0" name="topleft"/>
   <outline>
     <component base="IJ.ss01"/>
-    <component base="acutecomb.case" xOffset="101" yOffset="152"/>
-    <component base="acutecomb.case" xOffset="679" yOffset="152"/>
+    <component base="acutecomb.case" xOffset="101" yOffset="210"/>
+    <component base="acutecomb.case" xOffset="679" yOffset="210"/>
   </outline>
   <lib>
     <dict>

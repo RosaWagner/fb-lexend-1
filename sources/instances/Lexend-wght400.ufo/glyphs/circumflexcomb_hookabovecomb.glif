@@ -3,8 +3,8 @@
   <anchor x="187.0" y="512.0" name="_top"/>
   <anchor x="187.0" y="762.0" name="top"/>
   <outline>
-    <component base="circumflexcomb" xOffset="7" yOffset="-21"/>
-    <component base="hookabovecomb" xOffset="233" yOffset="88"/>
+    <component base="circumflexcomb" xOffset="7" yOffset="-8.5"/>
+    <component base="hookabovecomb" xOffset="212.5" yOffset="86"/>
   </outline>
   <lib>
     <dict>

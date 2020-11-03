@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threeeighths" format="2">
-  <advance width="805"/>
+  <advance width="883"/>
   <unicode hex="215C"/>
   <outline>
-    <component base="three.numr" xOffset="-37"/>
-    <component base="fraction" xOffset="82"/>
-    <component base="eight.dnom" xOffset="443"/>
+    <component base="three.numr" xOffset="14.333333333333329"/>
+    <component base="fraction" xOffset="133.33333333333331"/>
+    <component base="eight.dnom" xOffset="494.3333333333333"/>
   </outline>
   <lib>
     <dict>

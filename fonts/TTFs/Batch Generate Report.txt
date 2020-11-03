@@ -1,0 +1,179 @@
+Batch Generated Fonts:
+**********************
+
+Generate:
+*********
+Lexend-wght300.ufo
+******************
+
+source: /Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/sources/instances/Lexend-wght300.ufo
+
+Generate ttf
+''''''''''''
+    path: /Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/fonts/TTFs/Lexend-wght300.ttf
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotfexe [WARNING] <Lexend-wght300> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: slash eth
+        makeotfexe [WARNING] <Lexend-wght300> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: R endash
+        makeotfexe [WARNING] <Lexend-wght300> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: v comma
+        makeotfexe [WARNING] <Lexend-wght300> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn slash
+        makeotfexe [WARNING] <Lexend-wght300> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn backslash
+        makeotfexe [WARNING] <Lexend-wght300> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: germandbls slash
+        makeotfexe [WARNING] <Lexend-wght300> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: germandbls backslash
+        makeotfexe [WARNING] <Lexend-wght300> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: dcaron idblgrave
+        makeotfexe [WARNING] <Lexend-wght300> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Wacute idblgrave
+        makeotfexe [WARNING] <Lexend-wght300> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+        Built release mode font 'Lexend-wght300.ttf' Revision 1.002
+        
+        --------------------
+
+Lexend-wght800.ufo
+******************
+
+source: /Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/sources/instances/Lexend-wght800.ufo
+
+Generate ttf
+''''''''''''
+    path: /Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/fonts/TTFs/Lexend-wght800.ttf
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotfexe [WARNING] <Lexend-wght800> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: slash eth
+        makeotfexe [WARNING] <Lexend-wght800> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: R endash
+        makeotfexe [WARNING] <Lexend-wght800> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: v comma
+        makeotfexe [WARNING] <Lexend-wght800> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn slash
+        makeotfexe [WARNING] <Lexend-wght800> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn backslash
+        makeotfexe [WARNING] <Lexend-wght800> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: germandbls slash
+        makeotfexe [WARNING] <Lexend-wght800> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: germandbls backslash
+        makeotfexe [WARNING] <Lexend-wght800> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: dcaron idblgrave
+        makeotfexe [WARNING] <Lexend-wght800> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Wacute idblgrave
+        makeotfexe [WARNING] <Lexend-wght800> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+        Built release mode font 'Lexend-wght800.ttf' Revision 1.002
+        
+        --------------------
+
+Lexend-wght700.ufo
+******************
+
+source: /Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/sources/instances/Lexend-wght700.ufo
+
+Generate ttf
+''''''''''''
+    path: /Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/fonts/TTFs/Lexend-wght700.ttf
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotfexe [WARNING] <Lexend-wght700> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: slash eth
+        makeotfexe [WARNING] <Lexend-wght700> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: R endash
+        makeotfexe [WARNING] <Lexend-wght700> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: v comma
+        makeotfexe [WARNING] <Lexend-wght700> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn slash
+        makeotfexe [WARNING] <Lexend-wght700> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn backslash
+        makeotfexe [WARNING] <Lexend-wght700> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: germandbls slash
+        makeotfexe [WARNING] <Lexend-wght700> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: germandbls backslash
+        makeotfexe [WARNING] <Lexend-wght700> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: dcaron idblgrave
+        makeotfexe [WARNING] <Lexend-wght700> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Wacute idblgrave
+        makeotfexe [WARNING] <Lexend-wght700> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+        Built release mode font 'Lexend-wght700.ttf' Revision 1.002
+        
+        --------------------
+
+Lexend-wght600.ufo
+******************
+
+source: /Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/sources/instances/Lexend-wght600.ufo
+
+Generate ttf
+''''''''''''
+    path: /Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/fonts/TTFs/Lexend-wght600.ttf
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotfexe [WARNING] <Lexend-wght600> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: slash eth
+        makeotfexe [WARNING] <Lexend-wght600> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: R endash
+        makeotfexe [WARNING] <Lexend-wght600> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: v comma
+        makeotfexe [WARNING] <Lexend-wght600> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn slash
+        makeotfexe [WARNING] <Lexend-wght600> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn backslash
+        makeotfexe [WARNING] <Lexend-wght600> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: germandbls slash
+        makeotfexe [WARNING] <Lexend-wght600> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: germandbls backslash
+        makeotfexe [WARNING] <Lexend-wght600> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: dcaron idblgrave
+        makeotfexe [WARNING] <Lexend-wght600> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Wacute idblgrave
+        makeotfexe [WARNING] <Lexend-wght600> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+        Built release mode font 'Lexend-wght600.ttf' Revision 1.002
+        
+        --------------------
+
+Lexend-wght400.ufo
+******************
+
+source: /Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/sources/instances/Lexend-wght400.ufo
+
+Generate ttf
+''''''''''''
+    path: /Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/fonts/TTFs/Lexend-wght400.ttf
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotfexe [WARNING] <Lexend-wght400> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: slash eth
+        makeotfexe [WARNING] <Lexend-wght400> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: R endash
+        makeotfexe [WARNING] <Lexend-wght400> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: v comma
+        makeotfexe [WARNING] <Lexend-wght400> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn slash
+        makeotfexe [WARNING] <Lexend-wght400> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn backslash
+        makeotfexe [WARNING] <Lexend-wght400> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: germandbls slash
+        makeotfexe [WARNING] <Lexend-wght400> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: germandbls backslash
+        makeotfexe [WARNING] <Lexend-wght400> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: dcaron idblgrave
+        makeotfexe [WARNING] <Lexend-wght400> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Wacute idblgrave
+        makeotfexe [WARNING] <Lexend-wght400> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+        Built release mode font 'Lexend-wght400.ttf' Revision 1.002
+        
+        --------------------
+
+Lexend-Regular.ufo
+******************
+
+source: /Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/sources/Lexend-Regular.ufo
+
+Generate ttf
+''''''''''''
+    path: /Users/so/Desktop/Typemade/TypeDesign/FB/Lexend/fb-lexend-SO/fonts/TTFs/Lexend-Regular.ttf
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotfexe [WARNING] <Lexend-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: slash eth
+        makeotfexe [WARNING] <Lexend-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: R endash
+        makeotfexe [WARNING] <Lexend-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: backslash eth
+        makeotfexe [WARNING] <Lexend-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: v comma
+        makeotfexe [WARNING] <Lexend-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn slash
+        makeotfexe [WARNING] <Lexend-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Thorn backslash
+        makeotfexe [WARNING] <Lexend-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: germandbls slash
+        makeotfexe [WARNING] <Lexend-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: germandbls backslash
+        makeotfexe [WARNING] <Lexend-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: dcaron idblgrave
+        makeotfexe [WARNING] <Lexend-Regular> Pair positioning has conflicting statements in standalone lookup 'kern_ltr'; choosing the first value: Wacute idblgrave
+        makeotfexe [WARNING] <Lexend-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+        Built release mode font 'Lexend-Regular.ttf' Revision 1.002
+        
+        --------------------

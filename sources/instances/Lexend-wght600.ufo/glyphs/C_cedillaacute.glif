@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccedillaacute" format="2">
+  <advance width="684"/>
+  <unicode hex="1E08"/>
+  <outline>
+    <component base="C"/>
+    <component base="cedillacomb.case" xOffset="252.33333333333334" yOffset="1.6666666666666665"/>
+    <component base="acutecomb.case" xOffset="280.29333333333005" yOffset="193.33333333333334"/>
+  </outline>
+</glyph>

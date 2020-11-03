@@ -7,14 +7,14 @@ greater
 </note>
   <outline>
     <contour>
-      <point x="420.0" y="285.0" type="line"/>
-      <point x="420.0" y="218.0" type="line"/>
-      <point x="61.0" y="424.0" type="line"/>
-      <point x="109.0" y="499.0" type="line"/>
-      <point x="470.0" y="292.0" type="line"/>
-      <point x="470.0" y="211.0" type="line"/>
-      <point x="109.0" y="4.0" type="line"/>
-      <point x="61.0" y="79.0" type="line"/>
+      <point x="383.3333333333333" y="279.6666666666667" type="line"/>
+      <point x="383.3333333333333" y="223.33333333333334" type="line"/>
+      <point x="43.66666666666667" y="397.3333333333333" type="line"/>
+      <point x="118.33333333333333" y="512.3333333333334" type="line"/>
+      <point x="490.6666666666667" y="298.6666666666667" type="line"/>
+      <point x="490.6666666666667" y="204.33333333333334" type="line"/>
+      <point x="118.33333333333333" y="-9.333333333333332" type="line"/>
+      <point x="43.66666666666667" y="105.66666666666666" type="line"/>
     </contour>
   </outline>
 </glyph>

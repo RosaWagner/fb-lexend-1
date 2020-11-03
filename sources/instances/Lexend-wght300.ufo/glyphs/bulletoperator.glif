@@ -7,18 +7,18 @@ bulletoperator
 </note>
   <outline>
     <contour>
-      <point x="194.0" y="301.0" type="qcurve" smooth="yes"/>
-      <point x="194.0" y="271.0"/>
-      <point x="152.0" y="229.0"/>
-      <point x="123.0" y="229.0" type="qcurve" smooth="yes"/>
-      <point x="93.0" y="229.0"/>
-      <point x="50.0" y="271.0"/>
-      <point x="50.0" y="301.0" type="qcurve" smooth="yes"/>
-      <point x="50.0" y="330.0"/>
-      <point x="93.0" y="373.0"/>
-      <point x="123.0" y="373.0" type="qcurve" smooth="yes"/>
-      <point x="152.0" y="373.0"/>
-      <point x="194.0" y="330.0"/>
+      <point x="164.0" y="301.0" type="qcurve" smooth="yes"/>
+      <point x="164.0" y="284.0"/>
+      <point x="139.74647887323943" y="259.0"/>
+      <point x="123.0" y="259.0" type="qcurve" smooth="yes"/>
+      <point x="105.32876712328768" y="259.0"/>
+      <point x="80.0" y="284.0"/>
+      <point x="80.0" y="301.0" type="qcurve" smooth="yes"/>
+      <point x="80.0" y="318.0"/>
+      <point x="105.32876712328768" y="343.0"/>
+      <point x="123.0" y="343.0" type="qcurve" smooth="yes"/>
+      <point x="139.74647887323943" y="343.0"/>
+      <point x="164.0" y="318.0"/>
     </contour>
   </outline>
 </glyph>

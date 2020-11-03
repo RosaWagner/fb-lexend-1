@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="igrave" format="2">
-  <advance width="243"/>
+  <advance width="296"/>
   <unicode hex="00EC"/>
   <note>
 igrave
 </note>
-  <anchor x="124.0" y="0" name="bottom"/>
-  <anchor x="208.0" y="10.0" name="ogonek"/>
-  <anchor x="95.0" y="770.0" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="gravecomb" xOffset="-30" yOffset="6"/>
+    <component base="gravecomb" xOffset="-54.36666666668316" yOffset="38.666666666666664"/>
   </outline>
   <lib>
     <dict>

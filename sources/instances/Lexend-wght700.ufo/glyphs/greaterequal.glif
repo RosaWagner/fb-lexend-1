@@ -7,20 +7,20 @@ greaterequal
 </note>
   <outline>
     <contour>
-      <point x="561.0" y="0.0" type="line"/>
-      <point x="64.0" y="0.0" type="line"/>
-      <point x="64.0" y="106.0" type="line"/>
-      <point x="561.0" y="106.0" type="line"/>
+      <point x="561.6666666666666" y="0.0" type="line"/>
+      <point x="64.66666666666667" y="0.0" type="line"/>
+      <point x="64.66666666666667" y="140.66666666666666" type="line"/>
+      <point x="561.6666666666666" y="140.66666666666666" type="line"/>
     </contour>
     <contour>
-      <point x="72.0" y="453.0" type="line"/>
-      <point x="94.0" y="544.0" type="line"/>
-      <point x="526.0" y="386.0" type="line"/>
-      <point x="526.0" y="311.0" type="line"/>
-      <point x="94.0" y="154.0" type="line"/>
-      <point x="65.0" y="238.0" type="line"/>
-      <point x="455.0" y="383.0" type="line"/>
-      <point x="460.0" y="310.0" type="line"/>
+      <point x="74.66666666666667" y="443.0" type="line"/>
+      <point x="118.0" y="570.0" type="line"/>
+      <point x="550.0" y="419.3333333333333" type="line"/>
+      <point x="550.0" y="313.6666666666667" type="line"/>
+      <point x="118.0" y="163.33333333333334" type="line"/>
+      <point x="72.33333333333333" y="288.0" type="line"/>
+      <point x="435.6666666666667" y="395.0" type="line"/>
+      <point x="437.3333333333333" y="336.6666666666667" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -7,22 +7,22 @@ product
 </note>
   <outline>
     <contour>
-      <point x="231.0" y="-200.0" type="line"/>
+      <point x="204.0" y="-200.0" type="line"/>
       <point x="127.0" y="-200.0" type="line"/>
-      <point x="127.0" y="641.0" type="line"/>
-      <point x="231.0" y="641.0" type="line"/>
+      <point x="127.0" y="661.0" type="line"/>
+      <point x="204.0" y="661.0" type="line"/>
     </contour>
     <contour>
-      <point x="680.0" y="603.0" type="line"/>
-      <point x="28.0" y="603.0" type="line"/>
+      <point x="680.0" y="627.5" type="line"/>
+      <point x="28.0" y="627.5" type="line"/>
       <point x="28.0" y="700.0" type="line"/>
       <point x="680.0" y="700.0" type="line"/>
     </contour>
     <contour>
       <point x="581.0" y="-200.0" type="line"/>
-      <point x="476.0" y="-200.0" type="line"/>
-      <point x="476.0" y="656.0" type="line"/>
-      <point x="581.0" y="656.0" type="line"/>
+      <point x="503.5" y="-200.0" type="line"/>
+      <point x="503.5" y="668.5" type="line"/>
+      <point x="581.0" y="668.5" type="line"/>
     </contour>
   </outline>
 </glyph>

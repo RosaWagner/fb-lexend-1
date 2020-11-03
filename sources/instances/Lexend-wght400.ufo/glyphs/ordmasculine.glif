@@ -8,31 +8,31 @@ ordmasculine
   <outline>
     <contour>
       <point x="176.0" y="710.0" type="qcurve"/>
-      <point x="243.0" y="710.0"/>
-      <point x="334.0" y="617.0"/>
-      <point x="334.0" y="549.0" type="qcurve"/>
-      <point x="334.0" y="482.0"/>
-      <point x="244.0" y="392.0"/>
+      <point x="240.87974683544303" y="710.0"/>
+      <point x="329.0" y="617.0"/>
+      <point x="329.0" y="549.0" type="qcurve"/>
+      <point x="329.0" y="482.0"/>
+      <point x="241.84810126582278" y="392.0"/>
       <point x="176.0" y="392.0" type="qcurve"/>
-      <point x="109.0" y="392.0"/>
-      <point x="20.0" y="481.0"/>
-      <point x="20.0" y="549.0" type="qcurve"/>
-      <point x="20.0" y="618.0"/>
-      <point x="109.0" y="710.0"/>
+      <point x="111.1474358974359" y="392.0"/>
+      <point x="25.0" y="481.0"/>
+      <point x="25.0" y="549.0" type="qcurve"/>
+      <point x="25.0" y="618.0"/>
+      <point x="111.1474358974359" y="710.0"/>
     </contour>
     <contour>
-      <point x="176.0" y="463.0" type="qcurve"/>
-      <point x="207.0" y="463.0"/>
-      <point x="245.0" y="511.0"/>
-      <point x="245.0" y="549.0" type="qcurve"/>
-      <point x="245.0" y="589.0"/>
-      <point x="207.0" y="639.0"/>
-      <point x="176.0" y="639.0" type="qcurve"/>
-      <point x="145.0" y="639.0"/>
-      <point x="108.0" y="589.0"/>
-      <point x="108.0" y="549.0" type="qcurve"/>
-      <point x="108.0" y="511.0"/>
-      <point x="146.0" y="463.0"/>
+      <point x="176.0" y="447.5" type="qcurve"/>
+      <point x="215.08695652173913" y="447.5"/>
+      <point x="263.0" y="504.0"/>
+      <point x="263.0" y="549.0" type="qcurve"/>
+      <point x="263.0" y="596.0"/>
+      <point x="215.08695652173913" y="654.5"/>
+      <point x="176.0" y="654.5" type="qcurve"/>
+      <point x="136.80088495575222" y="654.5"/>
+      <point x="90.5" y="596.0"/>
+      <point x="90.5" y="549.0" type="qcurve"/>
+      <point x="90.5" y="504.0"/>
+      <point x="138.21238938053096" y="447.5"/>
     </contour>
   </outline>
 </glyph>

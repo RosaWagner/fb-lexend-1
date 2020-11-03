@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="manat" format="2">
-  <advance width="760"/>
+  <advance width="759"/>
   <unicode hex="20BC"/>
-  <anchor x="380.0" y="694.0" name="bottom"/>
-  <anchor x="97.0" y="684.0" name="ogonek"/>
-  <anchor x="380.0" y="-6.0" name="top"/>
-  <anchor x="238.0" y="-14.0" name="topright"/>
+  <anchor x="382.5" y="694.0" name="bottom"/>
+  <anchor x="99.5" y="684.0" name="ogonek"/>
+  <anchor x="382.5" y="-6.0" name="top"/>
+  <anchor x="240.5" y="-14.0" name="topright"/>
   <outline>
     <contour>
-      <point x="416.0" y="801.0" type="line"/>
-      <point x="416.0" y="254.0" type="line"/>
-      <point x="319.0" y="254.0" type="line"/>
-      <point x="319.0" y="801.0" type="line"/>
+      <point x="409.5" y="801.0" type="line"/>
+      <point x="409.5" y="254.0" type="line"/>
+      <point x="336.0" y="254.0" type="line"/>
+      <point x="336.0" y="801.0" type="line"/>
     </contour>
-    <component base="U" xScale="-1" yScale="-1" xOffset="750" yOffset="694"/>
+    <component base="U" xScale="-1" yScale="-1" xOffset="752.5" yOffset="694"/>
   </outline>
   <lib>
     <dict>

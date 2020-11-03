@@ -1,13 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idieresisacute.ss01" format="2">
-  <advance width="308"/>
-  <anchor x="153.0" y="0" name="bottom"/>
-  <anchor x="343.0" y="10.0" name="ogonek"/>
-  <anchor x="211.0" y="1045.0" name="top"/>
-  <anchor x="100.0" y="700.0" name="topleft"/>
+  <advance width="376"/>
   <outline>
     <component base="I.ss01"/>
-    <component base="dieresiscomb.case" xOffset="-47" yOffset="175"/>
-    <component base="acutecomb.case" xOffset="86" yOffset="342"/>
+    <component base="dieresiscomb.case" xOffset="-65" yOffset="214"/>
+    <component base="acutecomb.case" xOffset="62.470000000001164" yOffset="415"/>
   </outline>
 </glyph>

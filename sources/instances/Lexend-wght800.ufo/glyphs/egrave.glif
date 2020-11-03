@@ -5,12 +5,9 @@
   <note>
 egrave
 </note>
-  <anchor x="292.0" y="-20.0" name="bottom"/>
-  <anchor x="521.0" y="10.0" name="ogonek"/>
-  <anchor x="264.0" y="775.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="gravecomb" xOffset="139" yOffset="11"/>
+    <component base="gravecomb" xOffset="75.80000000000291" yOffset="55"/>
   </outline>
   <lib>
     <dict>

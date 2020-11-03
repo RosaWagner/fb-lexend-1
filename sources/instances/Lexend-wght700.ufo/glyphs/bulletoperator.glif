@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bulletoperator" format="2">
-  <advance width="244"/>
+  <advance width="361"/>
   <unicode hex="2219"/>
   <note>
 bulletoperator
 </note>
   <outline>
     <contour>
-      <point x="194.0" y="301.0" type="qcurve" smooth="yes"/>
-      <point x="194.0" y="271.0"/>
-      <point x="152.0" y="229.0"/>
-      <point x="123.0" y="229.0" type="qcurve" smooth="yes"/>
-      <point x="93.0" y="229.0"/>
-      <point x="50.0" y="271.0"/>
-      <point x="50.0" y="301.0" type="qcurve" smooth="yes"/>
-      <point x="50.0" y="330.0"/>
-      <point x="93.0" y="373.0"/>
-      <point x="123.0" y="373.0" type="qcurve" smooth="yes"/>
-      <point x="152.0" y="373.0"/>
-      <point x="194.0" y="330.0"/>
+      <point x="304.0" y="303.6666666666667" type="qcurve" smooth="yes"/>
+      <point x="304.0" y="253.0"/>
+      <point x="230.66666666666666" y="181.0"/>
+      <point x="182.33333333333331" y="181.0" type="qcurve" smooth="yes"/>
+      <point x="130.33333333333331" y="181.0"/>
+      <point x="56.666666666666664" y="253.0"/>
+      <point x="56.666666666666664" y="303.6666666666667" type="qcurve" smooth="yes"/>
+      <point x="56.666666666666664" y="354.0"/>
+      <point x="130.33333333333331" y="428.3333333333333"/>
+      <point x="182.33333333333331" y="428.3333333333333" type="qcurve" smooth="yes"/>
+      <point x="230.66666666666666" y="428.3333333333333"/>
+      <point x="304.0" y="354.0"/>
     </contour>
   </outline>
 </glyph>

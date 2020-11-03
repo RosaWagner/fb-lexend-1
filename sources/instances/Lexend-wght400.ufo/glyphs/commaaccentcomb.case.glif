@@ -1,28 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccentcomb.case" format="2">
   <anchor x="144.0" y="0" name="_bottom"/>
-  <anchor x="122.0" y="-289.0" name="bottom"/>
   <outline>
     <contour>
-      <point x="99.0" y="-243.0" type="qcurve"/>
-      <point x="75.0" y="-201.0" type="line"/>
-      <point x="96.0" y="-196.0"/>
-      <point x="129.0" y="-164.0"/>
-      <point x="129.0" y="-149.0" type="qcurve" smooth="yes"/>
-      <point x="129.0" y="-143.0"/>
-      <point x="122.0" y="-135.0"/>
-      <point x="110.0" y="-132.0" type="qcurve" smooth="yes"/>
-      <point x="92.0" y="-127.0"/>
-      <point x="80.0" y="-109.0"/>
-      <point x="80.0" y="-94.0" type="qcurve"/>
-      <point x="80.0" y="-72.0"/>
-      <point x="116.0" y="-45.0"/>
-      <point x="145.0" y="-45.0" type="qcurve"/>
-      <point x="178.0" y="-45.0"/>
-      <point x="223.0" y="-87.0"/>
-      <point x="223.0" y="-122.0" type="qcurve" smooth="yes"/>
-      <point x="223.0" y="-160.0"/>
-      <point x="155.0" y="-224.0"/>
+      <point x="96.0" y="-223.5" type="qcurve"/>
+      <point x="75.0" y="-192.0" type="line"/>
+      <point x="98.42433788437963" y="-181.66706794886085"/>
+      <point x="126.5" y="-149.8478260869565"/>
+      <point x="126.5" y="-134.0" type="qcurve" smooth="yes"/>
+      <point x="126.5" y="-127.5"/>
+      <point x="119.5" y="-116.5"/>
+      <point x="105.0" y="-111.5" type="qcurve" smooth="yes"/>
+      <point x="90.8676043732181" y="-106.94704174928724"/>
+      <point x="79.0" y="-89.0"/>
+      <point x="79.0" y="-76.0" type="qcurve"/>
+      <point x="79.0" y="-58.0"/>
+      <point x="107.5" y="-35.0"/>
+      <point x="129.5" y="-35.0" type="qcurve"/>
+      <point x="160.0" y="-35.0"/>
+      <point x="198.0" y="-72.32394366197184"/>
+      <point x="198.0" y="-104.0" type="qcurve" smooth="yes"/>
+      <point x="198.0" y="-142.04430379746836"/>
+      <point x="145.3690719115494" y="-201.60593829130136"/>
     </contour>
   </outline>
   <lib>

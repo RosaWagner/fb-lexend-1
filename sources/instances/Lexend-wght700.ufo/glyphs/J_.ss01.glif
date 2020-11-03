@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="J.ss01" format="2">
-  <advance width="582"/>
+  <advance width="577"/>
   <note>
 J
 </note>
-  <anchor x="310.0" y="0" name="bottom"/>
-  <anchor x="426.0" y="700.0" name="top"/>
+  <anchor x="300.0" y="0" name="bottom"/>
+  <anchor x="416.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="256.0" y="-10.0" type="qcurve"/>
-      <point x="188.0" y="-10.0"/>
-      <point x="79.0" y="60.0"/>
-      <point x="50.0" y="117.0" type="qcurve"/>
-      <point x="118.0" y="188.0" type="line"/>
-      <point x="161.0" y="129.0"/>
-      <point x="219.0" y="95.0"/>
-      <point x="256.0" y="95.0" type="qcurve" smooth="yes"/>
-      <point x="310.0" y="95.0"/>
-      <point x="376.0" y="167.0"/>
-      <point x="376.0" y="223.0" type="qcurve"/>
-      <point x="376.0" y="700.0" type="line"/>
-      <point x="484.0" y="700.0" type="line"/>
-      <point x="484.0" y="213.0" type="line"/>
-      <point x="484.0" y="118.0"/>
-      <point x="357.0" y="-10.0"/>
+      <point x="252.66666666666666" y="-10.0" type="qcurve"/>
+      <point x="170.0" y="-10.0"/>
+      <point x="57.0" y="55.333333333333336"/>
+      <point x="30.0" y="106.33333333333333" type="qcurve"/>
+      <point x="136.0" y="214.0" type="line"/>
+      <point x="161.0" y="178.33333333333331"/>
+      <point x="207.0" y="147.66666666666666"/>
+      <point x="236.66666666666666" y="147.66666666666666" type="qcurve" smooth="yes"/>
+      <point x="270.6666666666667" y="147.66666666666666"/>
+      <point x="316.0" y="193.0"/>
+      <point x="316.0" y="231.66666666666666" type="qcurve"/>
+      <point x="316.0" y="700.0" type="line"/>
+      <point x="490.6666666666667" y="700.0" type="line"/>
+      <point x="490.6666666666667" y="213.0" type="line"/>
+      <point x="490.6666666666667" y="110.0"/>
+      <point x="359.0" y="-10.0"/>
     </contour>
   </outline>
   <lib>

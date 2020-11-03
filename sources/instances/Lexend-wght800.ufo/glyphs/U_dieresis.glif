@@ -2,12 +2,8 @@
 <glyph name="Udieresis" format="2">
   <advance width="774"/>
   <unicode hex="00DC"/>
-  <anchor x="370.0" y="0" name="bottom"/>
-  <anchor x="653.0" y="10.0" name="ogonek"/>
-  <anchor x="380.0" y="857.0" name="top"/>
-  <anchor x="512.0" y="708.0" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="dieresiscomb.case" xOffset="184" yOffset="175"/>
+    <component base="dieresiscomb.case" xOffset="139.5" yOffset="214"/>
   </outline>
 </glyph>

@@ -5,12 +5,9 @@
   <note>
 idieresis
 </note>
-  <anchor x="124.0" y="0" name="bottom"/>
-  <anchor x="208.0" y="10.0" name="ogonek"/>
-  <anchor x="124.0" y="699.0" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="dieresiscomb" xOffset="-90"/>
+    <component base="dieresiscomb" xOffset="-81" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

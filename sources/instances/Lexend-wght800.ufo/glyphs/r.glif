@@ -6,7 +6,7 @@
 r
 </note>
   <anchor x="169.0" y="0" name="bottom"/>
-  <anchor x="260.0" y="510.0" name="top"/>
+  <anchor x="264.0" y="535.0" name="top"/>
   <outline>
     <contour>
       <point x="483.0" y="537.0" type="qcurve"/>

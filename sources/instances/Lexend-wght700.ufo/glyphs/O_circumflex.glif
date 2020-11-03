@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ocircumflex" format="2">
-  <advance width="782"/>
+  <advance width="817"/>
   <unicode hex="00D4"/>
-  <anchor x="386.0" y="0" name="bottom"/>
-  <anchor x="386.0" y="350.0" name="center"/>
-  <anchor x="690.0" y="10.0" name="ogonek"/>
-  <anchor x="386.0" y="915.0" name="top"/>
-  <anchor x="25.0" y="700.0" name="topleft"/>
-  <anchor x="387.0" y="706.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb.case" xOffset="205" yOffset="158"/>
+    <component base="circumflexcomb.case" xOffset="209" yOffset="188"/>
   </outline>
 </glyph>

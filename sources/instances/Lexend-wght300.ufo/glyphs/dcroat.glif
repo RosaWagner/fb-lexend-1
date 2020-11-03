@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcroat" format="2">
-  <advance width="634"/>
+  <advance width="609"/>
   <unicode hex="0111"/>
   <note>
 dcroat
 </note>
-  <anchor x="321.0" y="-20.0" name="bottom"/>
-  <anchor x="486.0" y="614.0" name="center"/>
-  <anchor x="321.0" y="530.0" name="top"/>
-  <anchor x="608.0" y="510.0" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="strokeshortcomb" xOffset="309" yOffset="320"/>
+    <component base="strokeshortcomb" xOffset="290" yOffset="330"/>
   </outline>
   <lib>
     <dict>

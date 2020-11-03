@@ -7,22 +7,22 @@ plusminus
 </note>
   <outline>
     <contour>
-      <point x="532.0" y="285.0" type="line"/>
-      <point x="50.0" y="285.0" type="line"/>
-      <point x="50.0" y="375.0" type="line"/>
-      <point x="532.0" y="375.0" type="line"/>
+      <point x="547.3333333333334" y="317.0" type="line"/>
+      <point x="39.333333333333336" y="317.0" type="line"/>
+      <point x="39.333333333333336" y="453.66666666666663" type="line"/>
+      <point x="547.3333333333334" y="453.66666666666663" type="line"/>
     </contour>
     <contour>
-      <point x="344.0" y="143.0" type="line"/>
-      <point x="240.0" y="143.0" type="line"/>
-      <point x="240.0" y="534.0" type="line"/>
-      <point x="344.0" y="534.0" type="line"/>
+      <point x="372.6666666666667" y="190.33333333333331" type="line"/>
+      <point x="214.66666666666666" y="190.33333333333331" type="line"/>
+      <point x="214.66666666666666" y="582.6666666666666" type="line"/>
+      <point x="372.6666666666667" y="582.6666666666666" type="line"/>
     </contour>
     <contour>
-      <point x="532.0" y="-1.0" type="line"/>
-      <point x="50.0" y="-1.0" type="line"/>
-      <point x="50.0" y="91.0" type="line"/>
-      <point x="532.0" y="91.0" type="line"/>
+      <point x="549.3333333333334" y="-7.0" type="line"/>
+      <point x="41.333333333333336" y="-7.0" type="line"/>
+      <point x="41.333333333333336" y="130.33333333333331" type="line"/>
+      <point x="549.3333333333334" y="130.33333333333331" type="line"/>
     </contour>
   </outline>
   <lib>

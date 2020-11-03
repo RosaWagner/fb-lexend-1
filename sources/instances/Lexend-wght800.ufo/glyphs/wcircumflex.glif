@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wcircumflex" format="2">
-  <advance width="800"/>
+  <advance width="859"/>
   <unicode hex="0175"/>
   <note>
 wcircumflex
 </note>
-  <anchor x="410.0" y="0" name="bottom"/>
-  <anchor x="416.0" y="754.0" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="circumflexcomb" xOffset="232" yOffset="-29"/>
+    <component base="circumflexcomb" xOffset="221.5" yOffset="38"/>
   </outline>
   <lib>
     <dict>

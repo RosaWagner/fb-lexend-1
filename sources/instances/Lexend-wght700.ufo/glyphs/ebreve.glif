@@ -2,11 +2,8 @@
 <glyph name="ebreve" format="2">
   <advance width="586"/>
   <unicode hex="0115"/>
-  <anchor x="292.0" y="-20.0" name="bottom"/>
-  <anchor x="521.0" y="10.0" name="ogonek"/>
-  <anchor x="293.0" y="741.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="brevecomb" xOffset="89" yOffset="29"/>
+    <component base="brevecomb" xOffset="105.21333333334769" yOffset="26.333333333333332"/>
   </outline>
 </glyph>

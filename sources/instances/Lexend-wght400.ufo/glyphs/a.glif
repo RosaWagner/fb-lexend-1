@@ -5,9 +5,9 @@
   <note>
 a
 </note>
-  <anchor x="307.5" y="-20.0" name="bottom"/>
-  <anchor x="556.5" y="3.0" name="ogonek"/>
-  <anchor x="303.5" y="530.0" name="top"/>
+  <anchor x="307.5" y="-10.0" name="bottom"/>
+  <anchor x="542.0" y="6.5" name="ogonek"/>
+  <anchor x="303.5" y="525.0" name="top"/>
   <outline>
     <contour>
       <point x="471.5" y="522.5" type="line"/>

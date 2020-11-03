@@ -7,8 +7,8 @@ t
 </note>
   <anchor x="182.0" y="0" name="bottom"/>
   <anchor x="182.0" y="256.0" name="center"/>
-  <anchor x="183.0" y="646.0" name="top"/>
-  <anchor x="308.0" y="548.0" name="topright"/>
+  <anchor x="183.0" y="652.5" name="top"/>
+  <anchor x="303.0" y="565.0" name="topright"/>
   <outline>
     <contour>
       <point x="224.0" y="659.0" type="line"/>

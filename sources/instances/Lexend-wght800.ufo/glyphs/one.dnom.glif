@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.dnom" format="2">
-  <advance width="281"/>
+  <advance width="298"/>
   <outline>
     <contour>
-      <point x="201.0" y="346.0" type="line"/>
-      <point x="201.0" y="-2.0" type="line"/>
-      <point x="182.0" y="-2.0"/>
-      <point x="145.0" y="-2.0"/>
-      <point x="126.0" y="-2.0" type="qcurve"/>
-      <point x="126.0" y="272.0" type="line"/>
-      <point x="132.0" y="254.0" type="line"/>
-      <point x="82.0" y="222.0" type="line"/>
-      <point x="47.0" y="288.0" type="line"/>
-      <point x="145.0" y="346.0" type="line"/>
+      <point x="258.0" y="379.0" type="line"/>
+      <point x="258.0" y="0.0" type="line"/>
+      <point x="219.0" y="0.0"/>
+      <point x="142.0" y="0.0"/>
+      <point x="103.0" y="0.0" type="qcurve"/>
+      <point x="103.0" y="305.0" type="line"/>
+      <point x="134.0" y="247.0" type="line"/>
+      <point x="64.0" y="205.0" type="line"/>
+      <point x="10.0" y="301.0" type="line"/>
+      <point x="142.0" y="379.0" type="line"/>
     </contour>
   </outline>
 </glyph>

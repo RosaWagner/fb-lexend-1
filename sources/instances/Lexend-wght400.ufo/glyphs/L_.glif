@@ -6,9 +6,9 @@
 L
 </note>
   <anchor x="294.7991039479962" y="0" name="bottom"/>
-  <anchor x="287.7991039479962" y="350.0" name="center"/>
+  <anchor x="299.5" y="350.0" name="center"/>
   <anchor x="137.79910394799617" y="700.0" name="top"/>
-  <anchor x="543.7991039479962" y="700.0" name="topright"/>
+  <anchor x="428.0" y="700.0" name="topright"/>
   <outline>
     <contour>
       <point x="155.0" y="77.0" type="line"/>

@@ -7,20 +7,20 @@ increment
 </note>
   <outline>
     <contour>
-      <point x="340.0" y="748.0" type="line"/>
-      <point x="719.0" y="-38.0" type="line"/>
-      <point x="724.0" y="0.0" type="line"/>
-      <point x="-18.0" y="0.0" type="line"/>
-      <point x="1.0" y="-28.0" type="line"/>
-      <point x="364.0" y="736.0" type="line"/>
+      <point x="360.0" y="748.0" type="line"/>
+      <point x="731.0" y="0.0" type="line"/>
+      <point x="731.0" y="0.0" type="line"/>
+      <point x="-16.0" y="0.0" type="line"/>
+      <point x="-16.0" y="0.0" type="line"/>
+      <point x="350.0" y="748.0" type="line"/>
     </contour>
     <contour>
-      <point x="363.0" y="530.0" type="line"/>
-      <point x="139.0" y="64.0" type="line"/>
-      <point x="122.0" y="83.0" type="line"/>
-      <point x="598.0" y="83.0" type="line"/>
-      <point x="573.0" y="61.0" type="line"/>
-      <point x="347.0" y="530.0" type="line"/>
+      <point x="423.0" y="530.0" type="line"/>
+      <point x="189.0" y="64.0" type="line"/>
+      <point x="112.0" y="163.0" type="line"/>
+      <point x="608.0" y="163.0" type="line"/>
+      <point x="523.0" y="61.0" type="line"/>
+      <point x="287.0" y="530.0" type="line"/>
     </contour>
   </outline>
 </glyph>

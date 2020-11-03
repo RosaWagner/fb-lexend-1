@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="softhyphen" format="2">
-  <advance width="394"/>
+  <advance width="470"/>
   <unicode hex="00AD"/>
   <note>
 softhyphen
 </note>
   <outline>
-    <component base="hyphen"/>
+    <component base="hyphen" xOffset="6.666666666666666"/>
   </outline>
   <lib>
     <dict>

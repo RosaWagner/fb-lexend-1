@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="colonsign" format="2">
-  <advance width="637"/>
+  <advance width="721"/>
   <unicode hex="20A1"/>
-  <anchor x="377.0" y="0" name="bottom"/>
-  <anchor x="372.0" y="700.0" name="top"/>
+  <anchor x="389.0" y="0" name="bottom"/>
+  <anchor x="384.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="105.0" y="-106.0" type="line"/>
-      <point x="28.0" y="-70.0" type="line"/>
-      <point x="460.0" y="803.0" type="line"/>
-      <point x="533.0" y="773.0" type="line"/>
+      <point x="128.0" y="-123.0" type="line"/>
+      <point x="-31.0" y="-57.0" type="line"/>
+      <point x="407.0" y="837.0" type="line"/>
+      <point x="566.0" y="771.0" type="line"/>
     </contour>
     <contour>
-      <point x="265.0" y="-139.0" type="line"/>
-      <point x="188.0" y="-103.0" type="line"/>
-      <point x="620.0" y="770.0" type="line"/>
-      <point x="693.0" y="740.0" type="line"/>
+      <point x="368.0" y="-123.0" type="line"/>
+      <point x="209.0" y="-57.0" type="line"/>
+      <point x="647.0" y="837.0" type="line"/>
+      <point x="806.0" y="771.0" type="line"/>
     </contour>
-    <component base="C"/>
+    <component base="C" xOffset="12"/>
   </outline>
 </glyph>

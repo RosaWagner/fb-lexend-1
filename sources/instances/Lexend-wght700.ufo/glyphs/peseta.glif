@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="peseta" format="2">
-  <advance width="791"/>
+  <advance width="771"/>
   <unicode hex="20A7"/>
-  <anchor x="401.0" y="0" name="bottom"/>
-  <anchor x="401.0" y="700.0" name="top"/>
+  <anchor x="381.0" y="0" name="bottom"/>
+  <anchor x="381.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="721.0" y="435.0" type="line"/>
-      <point x="90.0" y="435.0" type="line"/>
-      <point x="90.0" y="528.0" type="line"/>
-      <point x="721.0" y="528.0" type="line"/>
+      <point x="750.3333333333334" y="385.6666666666667" type="line"/>
+      <point x="48.0" y="385.6666666666667" type="line"/>
+      <point x="48.0" y="540.0" type="line"/>
+      <point x="750.3333333333334" y="540.0" type="line"/>
     </contour>
-    <component base="P" xOffset="80"/>
+    <component base="P" xOffset="60"/>
   </outline>
 </glyph>

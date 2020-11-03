@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oe" format="2">
-  <advance width="1019"/>
+  <advance width="1028"/>
   <unicode hex="0153"/>
   <note>
 oe
@@ -13,7 +13,7 @@ oe
   <anchor x="319.0" y="531.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="e" xOffset="433"/>
+    <component base="e" xOffset="482"/>
   </outline>
   <lib>
     <dict>

@@ -6,7 +6,7 @@
 E
 </note>
   <anchor x="330.0" y="0" name="bottom"/>
-  <anchor x="483.0" y="10.0" name="ogonek"/>
+  <anchor x="572.3333333333334" y="3.333333333333334" name="ogonek"/>
   <anchor x="325.0" y="700.0" name="top"/>
   <anchor x="54.0" y="700.0" name="topleft"/>
   <outline>

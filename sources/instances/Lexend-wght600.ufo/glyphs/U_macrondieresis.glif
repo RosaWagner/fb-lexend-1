@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Umacrondieresis" format="2">
+  <advance width="751"/>
+  <unicode hex="1E7A"/>
+  <outline>
+    <component base="U"/>
+    <component base="macroncomb.case" xOffset="163" yOffset="167"/>
+    <component base="dieresiscomb.case" xOffset="159.83333333333334" yOffset="363"/>
+  </outline>
+</glyph>

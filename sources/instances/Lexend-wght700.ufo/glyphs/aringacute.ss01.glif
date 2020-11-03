@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aringacute.ss01" format="2">
-  <advance width="615"/>
-  <anchor x="277.0" y="-13.0" name="bottom"/>
-  <anchor x="466.0" y="10.0" name="ogonek"/>
-  <anchor x="332.0" y="989.0" name="top"/>
+  <advance width="599"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="ringcomb" xOffset="121" yOffset="40"/>
-    <component base="acutecomb.case" xOffset="207" yOffset="286"/>
+    <component base="ringcomb" xOffset="132.33333333333334" yOffset="51.33333333333333"/>
+    <component base="acutecomb.case" xOffset="169" yOffset="302"/>
   </outline>
   <lib>
     <dict>

@@ -1,17 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ocircumflextilde" format="2">
-  <advance width="762"/>
+  <advance width="810"/>
   <unicode hex="1ED6"/>
-  <anchor x="386.0" y="0" name="bottom"/>
-  <anchor x="386.0" y="350.0" name="center"/>
-  <anchor x="690.0" y="10.0" name="ogonek"/>
-  <anchor x="388.0" y="1068.0" name="top"/>
-  <anchor x="25.0" y="700.0" name="topleft"/>
-  <anchor x="387.0" y="706.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb.case" xOffset="200" yOffset="158"/>
-    <component base="tildecomb.case" xOffset="168" yOffset="335"/>
+    <component base="circumflexcomb.case" xOffset="207.33333333333334" yOffset="188"/>
+    <component base="tildecomb.case" xOffset="193" yOffset="421.66666666666663"/>
   </outline>
   <lib>
     <dict>
