@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w" format="2">
+  <advance width="810"/>
+  <unicode hex="0077"/>
+  <note>
+w
+</note>
+  <anchor x="412.6666666666667" y="0" name="bottom"/>
+  <anchor x="412.6666666666667" y="510.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="668.0" y="526.6666666666666" type="line"/>
+      <point x="790.6666666666666" y="526.6666666666666" type="line"/>
+      <point x="612.6666666666666" y="0.0" type="line"/>
+      <point x="527.8333333333334" y="0.0" type="line"/>
+      <point x="390.8333333333333" y="319.6666666666667" type="line"/>
+      <point x="410.6666666666667" y="317.1666666666667" type="line"/>
+      <point x="281.0" y="0.0" type="line"/>
+      <point x="197.0" y="0.0" type="line"/>
+      <point x="19.166666666666668" y="526.6666666666666" type="line"/>
+      <point x="141.83333333333334" y="527.5" type="line"/>
+      <point x="261.3333333333333" y="146.83333333333334" type="line"/>
+      <point x="238.83333333333334" y="149.16666666666666" type="line"/>
+      <point x="369.5" y="446.6666666666667" type="line"/>
+      <point x="440.5" y="446.6666666666667" type="line"/>
+      <point x="573.6666666666666" y="148.33333333333334" type="line"/>
+      <point x="547.8333333333334" y="146.16666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>v</string>
+    </dict>
+  </lib>
+</glyph>

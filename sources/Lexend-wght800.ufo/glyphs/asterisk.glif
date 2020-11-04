@@ -11,28 +11,28 @@ asterisk
     <contour>
       <point x="254" y="366" type="line"/>
       <point x="139" y="366" type="line"/>
-      <point x="147" y="486" type="line"/>
-      <point x="171" y="482" type="line"/>
+      <point x="159" y="500" type="line"/>
+      <point x="175" y="497" type="line"/>
       <point x="66" y="398" type="line"/>
       <point x="14" y="500" type="line"/>
-      <point x="132" y="546" type="line"/>
-      <point x="132" y="527" type="line"/>
+      <point x="149" y="542" type="line"/>
+      <point x="149" y="528" type="line"/>
       <point x="14" y="577" type="line"/>
       <point x="66" y="678" type="line"/>
-      <point x="171" y="594" type="line"/>
-      <point x="147" y="590" type="line"/>
+      <point x="175" y="575" type="line"/>
+      <point x="159" y="572" type="line"/>
       <point x="139" y="710" type="line"/>
       <point x="254" y="710" type="line"/>
-      <point x="247" y="595" type="line"/>
-      <point x="223" y="592" type="line"/>
+      <point x="229" y="576" type="line"/>
+      <point x="212" y="574" type="line"/>
       <point x="320" y="678" type="line"/>
       <point x="372" y="577" type="line"/>
-      <point x="254" y="532" type="line"/>
-      <point x="254" y="551" type="line"/>
+      <point x="233" y="532" type="line"/>
+      <point x="233" y="546" type="line"/>
       <point x="372" y="500" type="line"/>
       <point x="320" y="398" type="line"/>
-      <point x="223" y="483" type="line"/>
-      <point x="247" y="482" type="line"/>
+      <point x="212" y="498" type="line"/>
+      <point x="229" y="497" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="G" format="2">
+  <advance width="764"/>
+  <unicode hex="0047"/>
+  <note>
+G
+</note>
+  <anchor x="416.0" y="0" name="bottom"/>
+  <anchor x="403.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="49.0" y="348.5" type="qcurve"/>
+      <point x="49.0" y="502.0"/>
+      <point x="255.5" y="705.5"/>
+      <point x="407.5" y="705.5" type="qcurve" smooth="yes"/>
+      <point x="487.0" y="705.5"/>
+      <point x="634.0" y="639.0"/>
+      <point x="672.5" y="587.0" type="qcurve"/>
+      <point x="620.5" y="533.0" type="line"/>
+      <point x="578.5" y="577.0"/>
+      <point x="464.5" y="628.0"/>
+      <point x="408.5" y="628.0" type="qcurve" smooth="yes"/>
+      <point x="290.5" y="628.0"/>
+      <point x="130.5" y="469.0"/>
+      <point x="130.5" y="348.5" type="qcurve"/>
+      <point x="130.5" y="229.0"/>
+      <point x="296.0" y="67.5"/>
+      <point x="415.5" y="67.5" type="qcurve" smooth="yes"/>
+      <point x="511.0" y="67.5"/>
+      <point x="640.5" y="174.5"/>
+      <point x="640.5" y="253.0" type="qcurve" smooth="yes"/>
+      <point x="640.5" y="287.0" type="line"/>
+      <point x="657.0" y="267.0" type="line"/>
+      <point x="412.0" y="267.0" type="line"/>
+      <point x="412.0" y="345.5" type="line"/>
+      <point x="719.5" y="345.5" type="line"/>
+      <point x="721.5" y="333.0"/>
+      <point x="723.5" y="300.0"/>
+      <point x="723.5" y="286.0" type="qcurve" smooth="yes"/>
+      <point x="723.5" y="155.5982169370023"/>
+      <point x="543.5761405703713" y="-10.0"/>
+      <point x="413.0" y="-10.0" type="qcurve"/>
+      <point x="258.5" y="-10.0"/>
+      <point x="49.0" y="194.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

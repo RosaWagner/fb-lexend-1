@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad-ar.init" format="2">
+  <advance width="1003"/>
+  <unicode hex="FEBF"/>
+  <anchor x="916.0" y="0" name="#entry"/>
+  <anchor x="641.0" y="0" name="bottom"/>
+  <anchor x="671.0" y="709.0" name="top"/>
+  <outline>
+    <component base="sad-ar.init"/>
+    <component base="dotabove-ar" xOffset="542"/>
+  </outline>
+</glyph>

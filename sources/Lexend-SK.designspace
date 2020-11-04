@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="weight" minimum="300" maximum="800" default="500"/>
+  </axes>
+  <sources>
+    <source filename="Lexend-Regular.ufo" familyname="Lexend" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="Lexend-wght300.ufo" familyname="Lexend" stylename="weght300">
+      <location>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="Lexend-wght800.ufo" familyname="Lexend" stylename="weght800">
+      <location>
+        <dimension name="weight" xvalue="800"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Lexend" stylename="wght300" filename="instances/Lexend_wght300.ufo">
+      <location>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Lexend" stylename="wght400" filename="instances/Lexend_wght400.ufo">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Lexend" stylename="wght550" filename="instances/Lexend_wght550.ufo">
+      <location>
+        <dimension name="weight" xvalue="550"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Lexend" stylename="wght600" filename="instances/Lexend_wght600.ufo">
+      <location>
+        <dimension name="weight" xvalue="600"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Lexend" stylename="wght700" filename="instances/Lexend_wght700.ufo">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Lexend" stylename="wght800" filename="instances/Lexend_wght800.ufo">
+      <location>
+        <dimension name="weight" xvalue="800"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>vertical</key>
+        <array>
+          <string>weight</string>
+        </array>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>weight</key>
+        <real>600.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>SKATEBOARD</string>
+    </dict>
+  </lib>
+</designspace>

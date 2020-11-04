@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
+  <advance width="74"/>
+  <unicode hex="0303"/>
+  <outline>
+    <contour>
+      <point x="117.0" y="614.3333333333334" type="qcurve"/>
+      <point x="36.666666666666664" y="626.0" type="line"/>
+      <point x="38.333333333333336" y="680.3899782135077"/>
+      <point x="100.66666666666667" y="751.0"/>
+      <point x="148.16666666666666" y="751.0" type="qcurve" smooth="yes"/>
+      <point x="167.0" y="751.0"/>
+      <point x="200.83333333333334" y="734.8333333333334"/>
+      <point x="226.16666666666666" y="712.1666666666666" type="qcurve" smooth="yes"/>
+      <point x="242.16666666666666" y="698.0"/>
+      <point x="256.6666666666667" y="690.1666666666666"/>
+      <point x="263.6666666666667" y="690.1666666666666" type="qcurve"/>
+      <point x="276.6666666666667" y="690.1666666666666"/>
+      <point x="292.1666666666667" y="718.5"/>
+      <point x="291.1666666666667" y="739.3333333333334" type="qcurve"/>
+      <point x="371.3333333333333" y="722.6666666666666" type="line"/>
+      <point x="368.8333333333333" y="675.6177777777777"/>
+      <point x="312.5" y="610.0"/>
+      <point x="269.6666666666667" y="610.0" type="qcurve"/>
+      <point x="247.16666666666666" y="610.0"/>
+      <point x="208.16666666666666" y="628.3333333333334"/>
+      <point x="180.5" y="651.5" type="qcurve" smooth="yes"/>
+      <point x="167.0" y="663.0"/>
+      <point x="155.83333333333334" y="670.0"/>
+      <point x="150.66666666666666" y="670.0" type="qcurve" smooth="yes"/>
+      <point x="134.5" y="670.0"/>
+      <point x="117.0" y="641.8333333333334"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>401</integer>
+    </dict>
+  </lib>
+</glyph>

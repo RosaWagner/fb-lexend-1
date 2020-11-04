@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edieresis" format="2">
+  <advance width="540"/>
+  <unicode hex="00EB"/>
+  <note>
+edieresis
+</note>
+  <anchor x="292.0" y="-20.0" name="bottom"/>
+  <anchor x="521.0" y="10.0" name="ogonek"/>
+  <anchor x="293.0" y="704.0" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="dieresiscomb" xOffset="82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

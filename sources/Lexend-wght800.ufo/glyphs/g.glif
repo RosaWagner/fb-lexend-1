@@ -10,19 +10,19 @@ g
   <outline>
     <contour>
       <point x="61" y="-158" type="qcurve"/>
-      <point x="126" y="-17" type="line"/>
-      <point x="160" y="-43"/>
-      <point x="232" y="-70"/>
-      <point x="283" y="-70" type="qcurve"/>
-      <point x="360" y="-70"/>
-      <point x="415" y="-14"/>
+      <point x="126" y="-27" type="line"/>
+      <point x="162" y="-55"/>
+      <point x="237" y="-80"/>
+      <point x="283" y="-80" type="qcurve"/>
+      <point x="353" y="-80"/>
+      <point x="415" y="-16"/>
       <point x="415" y="55" type="qcurve"/>
       <point x="415" y="135" type="line"/>
-      <point x="460" y="121" type="line"/>
-      <point x="448" y="70"/>
-      <point x="341" y="5"/>
-      <point x="273" y="5" type="qcurve"/>
-      <point x="167" y="5"/>
+      <point x="460" y="131" type="line"/>
+      <point x="448" y="80"/>
+      <point x="341" y="15"/>
+      <point x="273" y="15" type="qcurve"/>
+      <point x="167" y="15"/>
       <point x="30" y="155"/>
       <point x="30" y="272" type="qcurve"/>
       <point x="30.0" y="393.0"/>
