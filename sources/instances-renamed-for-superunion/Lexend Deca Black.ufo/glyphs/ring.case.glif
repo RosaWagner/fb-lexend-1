@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring.case" format="2">
+  <advance width="336"/>
+  <anchor x="164.0" y="628.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="298.0" y="815.0" type="qcurve"/>
+      <point x="298.0" y="764.0"/>
+      <point x="221.0" y="691.0"/>
+      <point x="169.0" y="691.0" type="qcurve"/>
+      <point x="117.0" y="691.0"/>
+      <point x="40.0" y="764.0"/>
+      <point x="40.0" y="815.0" type="qcurve"/>
+      <point x="40.0" y="867.0"/>
+      <point x="116.0" y="941.0"/>
+      <point x="169.0" y="941.0" type="qcurve"/>
+      <point x="222.0" y="941.0"/>
+      <point x="298.0" y="867.0"/>
+    </contour>
+    <contour>
+      <point x="141.0" y="816.0" type="qcurve"/>
+      <point x="141.0" y="803.0"/>
+      <point x="157.0" y="787.0"/>
+      <point x="169.0" y="787.0" type="qcurve"/>
+      <point x="181.0" y="787.0"/>
+      <point x="197.0" y="803.0"/>
+      <point x="197.0" y="815.0" type="qcurve"/>
+      <point x="197.0" y="828.0"/>
+      <point x="181.0" y="845.0"/>
+      <point x="169.0" y="845.0" type="qcurve"/>
+      <point x="157.0" y="845.0"/>
+      <point x="141.0" y="829.0"/>
+    </contour>
+  </outline>
+</glyph>

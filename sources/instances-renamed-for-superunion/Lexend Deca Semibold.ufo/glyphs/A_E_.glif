@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="1031"/>
+  <unicode hex="00C6"/>
+  <note>
+AE
+</note>
+  <anchor x="538.0" y="0" name="bottom"/>
+  <anchor x="687.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="206.0" y="147.0" type="line"/>
+      <point x="273.0" y="263.0" type="line"/>
+      <point x="518.6666666666666" y="263.0" type="line"/>
+      <point x="500.6666666666667" y="213.0" type="line"/>
+      <point x="500.6666666666667" y="552.0" type="line"/>
+      <point x="519.6666666666666" y="541.0" type="line"/>
+      <point x="149.66666666666666" y="0.0" type="line"/>
+      <point x="-3.333333333333332" y="0.0" type="line"/>
+      <point x="484.6666666666667" y="700.0" type="line"/>
+      <point x="965.0" y="700.0" type="line"/>
+      <point x="965.0" y="579.6666666666666" type="line"/>
+      <point x="628.0" y="579.6666666666666" type="line"/>
+      <point x="637.0" y="588.6666666666666" type="line"/>
+      <point x="637.0" y="396.3333333333333" type="line"/>
+      <point x="629.0" y="413.3333333333333" type="line"/>
+      <point x="920.0" y="413.3333333333333" type="line"/>
+      <point x="920.0" y="296.0" type="line"/>
+      <point x="627.0" y="296.0" type="line"/>
+      <point x="637.0" y="310.0" type="line"/>
+      <point x="637.0" y="99.33333333333333" type="line"/>
+      <point x="628.0" y="120.33333333333333" type="line"/>
+      <point x="965.0" y="120.33333333333333" type="line"/>
+      <point x="965.0" y="0.0" type="line"/>
+      <point x="500.6666666666667" y="0.0" type="line"/>
+      <point x="500.6666666666667" y="166.0" type="line"/>
+      <point x="523.6666666666666" y="147.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

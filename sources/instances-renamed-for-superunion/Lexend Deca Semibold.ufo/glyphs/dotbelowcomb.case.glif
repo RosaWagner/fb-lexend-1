@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb.case" format="2">
+  <anchor x="118.33333333333333" y="0" name="_bottom"/>
+  <anchor x="118.33333333333333" y="-194.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="204.66666666666666" y="-127.0" type="qcurve" smooth="yes"/>
+      <point x="204.66666666666666" y="-161.0"/>
+      <point x="158.66666666666666" y="-203.66666666666666"/>
+      <point x="119.0" y="-203.66666666666666" type="qcurve" smooth="yes"/>
+      <point x="78.33333333333333" y="-203.66666666666666"/>
+      <point x="33.333333333333336" y="-163.66666666666666"/>
+      <point x="33.333333333333336" y="-127.0" type="qcurve" smooth="yes"/>
+      <point x="33.333333333333336" y="-93.0"/>
+      <point x="79.33333333333333" y="-50.333333333333336"/>
+      <point x="119.0" y="-50.333333333333336" type="qcurve" smooth="yes"/>
+      <point x="159.66666666666666" y="-50.333333333333336"/>
+      <point x="204.66666666666666" y="-90.33333333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

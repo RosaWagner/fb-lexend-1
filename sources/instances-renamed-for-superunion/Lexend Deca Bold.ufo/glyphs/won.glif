@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="1029"/>
+  <unicode hex="20A9"/>
+  <anchor x="517.3333333333334" y="0" name="bottom"/>
+  <anchor x="517.3333333333334" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="157.0" y="301.3333333333333" type="line"/>
+      <point x="18.0" y="301.3333333333333" type="line"/>
+      <point x="18.0" y="455.6666666666667" type="line"/>
+      <point x="120.33333333333334" y="455.6666666666667" type="line"/>
+      <point x="154.0" y="446.3333333333333" type="line"/>
+      <point x="871.6666666666666" y="446.3333333333333" type="line"/>
+      <point x="911.6666666666666" y="455.6666666666667" type="line"/>
+      <point x="1011.3333333333334" y="455.6666666666667" type="line"/>
+      <point x="1011.3333333333334" y="301.3333333333333" type="line"/>
+      <point x="860.6666666666666" y="301.3333333333333" type="line"/>
+      <point x="817.0" y="310.6666666666667" type="line"/>
+      <point x="193.0" y="310.6666666666667" type="line"/>
+    </contour>
+    <component base="W" xOffset="20.333333333333332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>W</string>
+    </dict>
+  </lib>
+</glyph>

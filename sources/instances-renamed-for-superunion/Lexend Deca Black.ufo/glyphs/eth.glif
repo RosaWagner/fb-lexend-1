@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth" format="2">
+  <advance width="614"/>
+  <unicode hex="00F0"/>
+  <note>
+eth
+</note>
+  <outline>
+    <contour>
+      <point x="584.0" y="293.0" type="qcurve"/>
+      <point x="584.0" y="159.55172413793105"/>
+      <point x="431.9097472924188" y="-7.0"/>
+      <point x="305.0" y="-7.0" type="qcurve"/>
+      <point x="180.9025270758123" y="-7.0"/>
+      <point x="30.0" y="143.0"/>
+      <point x="30.0" y="252.0" type="qcurve"/>
+      <point x="30.0" y="356.0"/>
+      <point x="190.0" y="508.0"/>
+      <point x="295.0" y="508.0" type="qcurve"/>
+      <point x="370.0" y="508.0"/>
+      <point x="474.0" y="422.0"/>
+      <point x="488.0" y="348.0" type="qcurve"/>
+      <point x="358.0" y="379.0" type="line"/>
+      <point x="353.0" y="483.0"/>
+      <point x="270.0" y="602.0"/>
+      <point x="169.0" y="632.0" type="qcurve"/>
+      <point x="221.0" y="750.0" type="line"/>
+      <point x="386.84730729760656" y="710.0367934222635"/>
+      <point x="584.0" y="475.01713062098503"/>
+    </contour>
+    <contour>
+      <point x="217.0" y="262.0" type="qcurve"/>
+      <point x="217.0" y="218.0"/>
+      <point x="269.0" y="159.0"/>
+      <point x="307.0" y="159.0" type="qcurve"/>
+      <point x="345.0" y="159.0"/>
+      <point x="397.0" y="218.0"/>
+      <point x="397.0" y="262.0" type="qcurve"/>
+      <point x="397.0" y="304.0"/>
+      <point x="345.0" y="362.0"/>
+      <point x="307.0" y="362.0" type="qcurve"/>
+      <point x="269.0" y="362.0"/>
+      <point x="217.0" y="305.0"/>
+    </contour>
+    <contour>
+      <point x="368.0" y="554.0" type="line"/>
+      <point x="146.0" y="501.0" type="line"/>
+      <point x="133.0" y="566.0" type="line"/>
+      <point x="303.0" y="610.0" type="line"/>
+      <point x="362.0" y="650.0" type="line"/>
+      <point x="508.0" y="683.0" type="line"/>
+      <point x="526.0" y="617.0" type="line"/>
+      <point x="413.0" y="591.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

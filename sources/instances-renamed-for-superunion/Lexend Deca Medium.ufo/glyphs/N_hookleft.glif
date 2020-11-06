@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhookleft" format="2">
+  <advance width="781"/>
+  <unicode hex="019D"/>
+  <outline>
+    <contour>
+      <point x="205.5" y="266.6666666666667" type="qcurve"/>
+      <point x="205.5" y="-16.166666666666668" type="line" smooth="yes"/>
+      <point x="205.5" y="-102.33333333333333"/>
+      <point x="99.33333333333333" y="-198.66666666666666"/>
+      <point x="8.833333333333332" y="-198.66666666666666" type="qcurve"/>
+      <point x="-38.333333333333336" y="-106.33333333333333" type="line"/>
+      <point x="21.333333333333332" y="-106.33333333333333"/>
+      <point x="80.83333333333333" y="-46.5"/>
+      <point x="80.83333333333333" y="12.666666666666666" type="qcurve"/>
+      <point x="80.83333333333333" y="700.0" type="line"/>
+      <point x="193.83333333333334" y="700.0" type="line"/>
+      <point x="604.1666666666666" y="148.33333333333334" type="line"/>
+      <point x="583.1666666666666" y="143.16666666666666" type="line"/>
+      <point x="572.8333333333334" y="211.5"/>
+      <point x="563.0" y="378.3333333333333"/>
+      <point x="563.1666666666666" y="486.6666666666667" type="qcurve"/>
+      <point x="563.1666666666666" y="700.0" type="line"/>
+      <point x="687.8333333333334" y="700.0" type="line"/>
+      <point x="687.8333333333334" y="0.0" type="line"/>
+      <point x="572.8333333333334" y="0.0" type="line"/>
+      <point x="162.83333333333334" y="541.6666666666666" type="line"/>
+      <point x="185.5" y="549.3333333333334" type="line"/>
+      <point x="188.83333333333334" y="517.3333333333334"/>
+      <point x="198.0" y="427.8333333333333"/>
+      <point x="199.66666666666666" y="396.0" type="qcurve" smooth="yes"/>
+      <point x="203.0" y="356.8333333333333"/>
+      <point x="205.5" y="295.8333333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohm" format="2">
+  <advance width="675"/>
+  <unicode hex="2126"/>
+  <note>
+Ohm
+</note>
+  <outline>
+    <contour>
+      <point x="25.0" y="404.0" type="qcurve"/>
+      <point x="25.0" y="534.0"/>
+      <point x="204.0" y="705.0"/>
+      <point x="338.0" y="705.0" type="qcurve"/>
+      <point x="472.0" y="705.0"/>
+      <point x="651.0" y="534.0"/>
+      <point x="651.0" y="404.0" type="qcurve"/>
+      <point x="651.0" y="307.0"/>
+      <point x="533.0" y="109.0"/>
+      <point x="441.0" y="16.0" type="qcurve"/>
+      <point x="426.0" y="48.0" type="line"/>
+      <point x="637.0" y="48.0" type="line"/>
+      <point x="637.0" y="0.0" type="line"/>
+      <point x="414.0" y="0.0" type="line"/>
+      <point x="414.0" y="56.0" type="line"/>
+      <point x="425.3130188173549" y="72.4553000979707"/>
+      <point x="518.544836452755" y="176.19804517866362"/>
+      <point x="540.0" y="214.0" type="qcurve" smooth="yes"/>
+      <point x="571.0" y="268.0"/>
+      <point x="598.0" y="350.0"/>
+      <point x="598.0" y="403.0" type="qcurve"/>
+      <point x="598.0" y="512.0"/>
+      <point x="450.0" y="655.0"/>
+      <point x="338.0" y="655.0" type="qcurve"/>
+      <point x="226.0" y="655.0"/>
+      <point x="78.0" y="512.0"/>
+      <point x="78.0" y="403.0" type="qcurve"/>
+      <point x="78.0" y="350.0"/>
+      <point x="105.0" y="268.0"/>
+      <point x="136.0" y="214.0" type="qcurve" smooth="yes"/>
+      <point x="157.45516354724498" y="176.1980451786636"/>
+      <point x="246.0" y="72.0"/>
+      <point x="262.0" y="56.0" type="qcurve"/>
+      <point x="262.0" y="0.0" type="line"/>
+      <point x="39.0" y="0.0" type="line"/>
+      <point x="39.0" y="48.0" type="line"/>
+      <point x="250.0" y="48.0" type="line"/>
+      <point x="235.0" y="16.0" type="line"/>
+      <point x="143.0" y="109.0"/>
+      <point x="25.0" y="307.0"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb.case" format="2">
+  <anchor x="163.0" y="534.1666666666666" name="_top"/>
+  <anchor x="155.0" y="760.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="82.0" y="664.6666666666666" type="qcurve"/>
+      <point x="45.166666666666664" y="717.3333333333334" type="line"/>
+      <point x="68.33333333333333" y="742.1666666666666"/>
+      <point x="116.0" y="765.8333333333334"/>
+      <point x="144.33333333333334" y="765.8333333333334" type="qcurve" smooth="yes"/>
+      <point x="194.16666666666666" y="765.8333333333334"/>
+      <point x="250.0" y="719.6666666666666"/>
+      <point x="250.0" y="682.0" type="qcurve" smooth="yes"/>
+      <point x="250.0" y="666.5"/>
+      <point x="238.33333333333334" y="640.1666666666666"/>
+      <point x="223.16666666666666" y="617.0" type="qcurve" smooth="yes"/>
+      <point x="216.33333333333334" y="606.3333333333334"/>
+      <point x="206.16666666666666" y="581.5"/>
+      <point x="205.33333333333334" y="572.6666666666666" type="qcurve"/>
+      <point x="129.5" y="572.6666666666666" type="line"/>
+      <point x="129.5" y="586.0"/>
+      <point x="136.10367233720007" y="612.0925141763335"/>
+      <point x="143.66666666666666" y="622.6666666666666" type="qcurve" smooth="yes"/>
+      <point x="159.93360566192715" y="645.9245097973364"/>
+      <point x="169.83333333333334" y="662.9371584699454"/>
+      <point x="169.83333333333334" y="670.5" type="qcurve" smooth="yes"/>
+      <point x="169.83333333333334" y="684.3333333333334"/>
+      <point x="154.83333333333334" y="696.8333333333334"/>
+      <point x="137.33333333333334" y="696.8333333333334" type="qcurve" smooth="yes"/>
+      <point x="124.5" y="696.8333333333334"/>
+      <point x="98.66666666666667" y="682.1666666666666"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>297</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

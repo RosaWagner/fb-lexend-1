@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aring" format="2">
+  <advance width="693"/>
+  <unicode hex="00C5"/>
+  <outline>
+    <contour>
+      <point x="486.6666666666667" y="782.0" type="qcurve"/>
+      <point x="486.6666666666667" y="730.6666666666666"/>
+      <point x="403.6666666666667" y="653.6666666666666"/>
+      <point x="347.6666666666667" y="653.6666666666666" type="qcurve"/>
+      <point x="291.6666666666667" y="653.6666666666666"/>
+      <point x="207.66666666666666" y="730.6666666666666"/>
+      <point x="207.66666666666666" y="782.0" type="qcurve"/>
+      <point x="207.66666666666666" y="838.0"/>
+      <point x="290.6666666666667" y="918.0"/>
+      <point x="347.6666666666667" y="918.0" type="qcurve"/>
+      <point x="403.6666666666667" y="918.0"/>
+      <point x="486.6666666666667" y="838.0"/>
+    </contour>
+    <contour>
+      <point x="308.0" y="782.0" type="qcurve"/>
+      <point x="308.0" y="765.3333333333334"/>
+      <point x="331.3333333333333" y="742.6666666666666"/>
+      <point x="347.6666666666667" y="742.6666666666666" type="qcurve"/>
+      <point x="363.6666666666667" y="742.6666666666666"/>
+      <point x="387.3333333333333" y="765.6666666666666"/>
+      <point x="387.3333333333333" y="782.0" type="qcurve"/>
+      <point x="387.3333333333333" y="799.6666666666666"/>
+      <point x="364.0" y="822.3333333333334"/>
+      <point x="347.6666666666667" y="822.3333333333334" type="qcurve"/>
+      <point x="331.3333333333333" y="822.3333333333334"/>
+      <point x="308.0" y="799.6666666666666"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

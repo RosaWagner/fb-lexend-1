@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="amacron.ss01" format="2">
+  <advance width="572"/>
+  <note>
+amacron
+</note>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="macroncomb" xOffset="74.66666666666667" yOffset="29.666666666666664"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

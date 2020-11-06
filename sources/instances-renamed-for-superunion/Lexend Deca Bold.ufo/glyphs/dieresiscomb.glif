@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <advance width="341"/>
+  <unicode hex="0308"/>
+  <outline>
+    <component base="dieresis" xOffset="-5" yOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>413</integer>
+    </dict>
+  </lib>
+</glyph>

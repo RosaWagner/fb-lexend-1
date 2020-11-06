@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eogonek" format="2">
+  <advance width="668"/>
+  <unicode hex="0118"/>
+  <note>
+Eogonek
+</note>
+  <outline>
+    <contour>
+      <point x="451.0" y="-215.0" type="qcurve" smooth="yes"/>
+      <point x="395.0" y="-215.0"/>
+      <point x="322.0" y="-153.0"/>
+      <point x="322.0" y="-103.0" type="qcurve" smooth="yes"/>
+      <point x="322.0" y="-51.0"/>
+      <point x="416.0" y="27.0"/>
+      <point x="497.0" y="49.0" type="qcurve"/>
+      <point x="541.0" y="0.0" type="line"/>
+      <point x="503.0" y="-9.0"/>
+      <point x="448.0" y="-50.0"/>
+      <point x="448.0" y="-75.0" type="qcurve" smooth="yes"/>
+      <point x="448.0" y="-85.0"/>
+      <point x="460.0" y="-97.0"/>
+      <point x="471.0" y="-97.0" type="qcurve" smooth="yes"/>
+      <point x="480.0" y="-97.0"/>
+      <point x="492.0" y="-86.0"/>
+      <point x="500.0" y="-74.0" type="qcurve"/>
+      <point x="571.0" y="-145.0" type="line"/>
+      <point x="555.0" y="-171.0"/>
+      <point x="491.0" y="-215.0"/>
+    </contour>
+    <component base="E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

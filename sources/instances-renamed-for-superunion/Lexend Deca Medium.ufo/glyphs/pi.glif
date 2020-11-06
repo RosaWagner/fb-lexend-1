@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi" format="2">
+  <advance width="623"/>
+  <unicode hex="03C0"/>
+  <note>
+pi
+</note>
+  <outline>
+    <contour>
+      <point x="219.66666666666666" y="0.0" type="line"/>
+      <point x="111.5" y="0.0" type="line"/>
+      <point x="111.5" y="477.5" type="line"/>
+      <point x="128.5" y="415.0" type="line"/>
+      <point x="37.5" y="415.0" type="line"/>
+      <point x="37.5" y="527.5" type="line"/>
+      <point x="588.1666666666666" y="527.5" type="line"/>
+      <point x="588.1666666666666" y="415.0" type="line"/>
+      <point x="505.1666666666667" y="415.0" type="line"/>
+      <point x="514.1666666666666" y="439.5" type="line"/>
+      <point x="514.1666666666666" y="0.0" type="line"/>
+      <point x="406.0" y="0.0" type="line"/>
+      <point x="406.0" y="461.5" type="line"/>
+      <point x="416.0" y="415.0" type="line"/>
+      <point x="206.66666666666666" y="415.0" type="line"/>
+      <point x="219.66666666666666" y="439.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="647"/>
+  <unicode hex="00DE"/>
+  <note>
+Thorn
+</note>
+  <anchor x="303.0" y="0" name="bottom"/>
+  <anchor x="303.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="88.66666666666667" y="700.0" type="line"/>
+      <point x="232.66666666666666" y="700.0" type="line"/>
+      <point x="232.66666666666666" y="0.0" type="line"/>
+      <point x="88.66666666666667" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="198.66666666666666" y="130.0" type="line"/>
+      <point x="197.66666666666666" y="260.6666666666667" type="line"/>
+      <point x="369.0" y="260.6666666666667" type="line" smooth="yes"/>
+      <point x="405.3333333333333" y="260.6666666666667"/>
+      <point x="456.3333333333333" y="316.3333333333333"/>
+      <point x="456.3333333333333" y="357.3333333333333" type="qcurve" smooth="yes"/>
+      <point x="456.3333333333333" y="398.3333333333333"/>
+      <point x="405.3333333333333" y="451.3333333333333"/>
+      <point x="369.0" y="451.3333333333333" type="qcurve"/>
+      <point x="164.33333333333334" y="451.3333333333333" type="line"/>
+      <point x="145.0" y="582.0" type="line"/>
+      <point x="383.6666666666667" y="582.0" type="line" smooth="yes"/>
+      <point x="476.3333333333333" y="582.0"/>
+      <point x="603.6666666666666" y="453.6666666666667"/>
+      <point x="603.6666666666666" y="358.6666666666667" type="qcurve" smooth="yes"/>
+      <point x="603.6666666666666" y="262.0"/>
+      <point x="476.3333333333333" y="130.0"/>
+      <point x="383.6666666666667" y="130.0" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>P</string>
+    </dict>
+  </lib>
+</glyph>

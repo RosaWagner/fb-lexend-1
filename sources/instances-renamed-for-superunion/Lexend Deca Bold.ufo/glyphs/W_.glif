@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="992"/>
+  <unicode hex="0057"/>
+  <note>
+W
+</note>
+  <anchor x="495.6666666666667" y="0" name="bottom"/>
+  <anchor x="495.6666666666667" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="208.33333333333334" y="0.0" type="line"/>
+      <point x="1.3333333333333357" y="700.0" type="line"/>
+      <point x="183.66666666666666" y="700.0" type="line"/>
+      <point x="283.3333333333333" y="343.3333333333333" type="line" smooth="yes"/>
+      <point x="297.5429659693248" y="291.37110209202547"/>
+      <point x="311.80253008825804" y="191.2219479361722"/>
+      <point x="313.3333333333333" y="165.66666666666666" type="qcurve"/>
+      <point x="293.0" y="166.0" type="line"/>
+      <point x="295.3242645017474" y="199.08088167249127"/>
+      <point x="309.5713489788071" y="292.46918308836115"/>
+      <point x="327.6666666666667" y="343.66666666666663" type="qcurve"/>
+      <point x="427.6666666666667" y="613.6666666666666" type="line"/>
+      <point x="570.0" y="613.6666666666666" type="line"/>
+      <point x="668.6666666666666" y="343.66666666666663" type="line" smooth="yes"/>
+      <point x="685.6666666666666" y="296.3333333333333"/>
+      <point x="701.0" y="221.66666666666666"/>
+      <point x="708.0" y="169.0" type="qcurve"/>
+      <point x="689.3333333333334" y="166.66666666666666" type="line"/>
+      <point x="694.6666666666666" y="214.33333333333334"/>
+      <point x="700.6666666666666" y="295.0"/>
+      <point x="713.6666666666666" y="344.3333333333333" type="qcurve"/>
+      <point x="812.6666666666666" y="700.0" type="line"/>
+      <point x="990.6666666666666" y="700.0" type="line"/>
+      <point x="782.3333333333334" y="0.0" type="line"/>
+      <point x="644.0" y="0.0" type="line"/>
+      <point x="481.0" y="397.3333333333333" type="line"/>
+      <point x="502.0" y="396.0" type="line"/>
+      <point x="352.6666666666667" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>V</string>
+    </dict>
+  </lib>
+</glyph>

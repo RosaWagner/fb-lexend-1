@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="745"/>
+  <unicode hex="20B1"/>
+  <anchor x="365.0" y="0" name="bottom"/>
+  <anchor x="365.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="119.0" y="281.0" type="line"/>
+      <point x="27.0" y="281.0" type="line"/>
+      <point x="27.0" y="436.0" type="line"/>
+      <point x="121.0" y="436.0" type="line"/>
+      <point x="155.0" y="429.0" type="line"/>
+      <point x="540.0" y="429.0" type="line"/>
+      <point x="582.0" y="436.0" type="line"/>
+      <point x="765.0" y="436.0" type="line"/>
+      <point x="765.0" y="281.0" type="line"/>
+      <point x="577.0" y="281.0" type="line"/>
+      <point x="536.0" y="288.0" type="line"/>
+      <point x="149.0" y="288.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="119.0" y="471.0" type="line"/>
+      <point x="27.0" y="471.0" type="line"/>
+      <point x="27.0" y="626.0" type="line"/>
+      <point x="121.0" y="626.0" type="line"/>
+      <point x="155.0" y="619.0" type="line"/>
+      <point x="520.0" y="619.0" type="line"/>
+      <point x="562.0" y="626.0" type="line"/>
+      <point x="765.0" y="626.0" type="line"/>
+      <point x="765.0" y="471.0" type="line"/>
+      <point x="557.0" y="471.0" type="line"/>
+      <point x="516.0" y="478.0" type="line"/>
+      <point x="149.0" y="478.0" type="line"/>
+    </contour>
+    <component base="P" xOffset="44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>peseta</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>peseta</string>
+    </dict>
+  </lib>
+</glyph>

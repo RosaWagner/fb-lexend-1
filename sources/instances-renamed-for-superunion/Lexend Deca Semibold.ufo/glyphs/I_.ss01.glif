@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.ss01" format="2">
+  <advance width="331"/>
+  <note>
+I
+</note>
+  <anchor x="162.33333333333334" y="0" name="bottom"/>
+  <anchor x="352.3333333333333" y="10.0" name="ogonek"/>
+  <anchor x="162.33333333333334" y="700.0" name="top"/>
+  <anchor x="109.33333333333333" y="700.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="237.33333333333334" y="700.0" type="qcurve"/>
+      <point x="237.33333333333334" y="0.0" type="line"/>
+      <point x="93.33333333333333" y="0.0" type="line"/>
+      <point x="93.33333333333333" y="700.0" type="line"/>
+      <point x="129.33333333333334" y="700.0"/>
+      <point x="201.33333333333334" y="700.0"/>
+    </contour>
+  </outline>
+</glyph>
