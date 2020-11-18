@@ -20,22 +20,22 @@ trademark
       <point x="200" y="676" type="line"/>
     </contour>
     <contour>
-      <point x="517" y="452" type="line"/>
+      <point x="518" y="454" type="line"/>
       <point x="669" y="700" type="line"/>
       <point x="700" y="700" type="line"/>
       <point x="700" y="340" type="line"/>
       <point x="654" y="340" type="line"/>
       <point x="654" y="643" type="line"/>
-      <point x="681" y="643" type="line"/>
-      <point x="546" y="418" type="line"/>
-      <point x="520" y="418" type="line"/>
-      <point x="385" y="643" type="line"/>
+      <point x="686" y="643" type="line"/>
+      <point x="551" y="426" type="line"/>
+      <point x="515" y="426" type="line"/>
+      <point x="380" y="643" type="line"/>
       <point x="412" y="643" type="line"/>
       <point x="412" y="340" type="line"/>
       <point x="366" y="340" type="line"/>
       <point x="366" y="700" type="line"/>
       <point x="397" y="700" type="line"/>
-      <point x="549" y="452" type="line"/>
+      <point x="550" y="454" type="line"/>
     </contour>
   </outline>
 </glyph>

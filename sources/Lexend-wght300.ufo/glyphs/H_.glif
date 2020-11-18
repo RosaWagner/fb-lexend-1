@@ -25,8 +25,8 @@ H
     <contour>
       <point x="137" y="324" type="line"/>
       <point x="137" y="374" type="line"/>
-      <point x="594" y="374" type="line"/>
-      <point x="594" y="324" type="line"/>
+      <point x="604" y="374" type="line"/>
+      <point x="604" y="324" type="line"/>
     </contour>
   </outline>
 </glyph>

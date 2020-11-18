@@ -44,9 +44,9 @@
         <key>name</key>
         <string>diacritics-base</string>
         <key>x</key>
-        <integer>106</integer>
+        <integer>486</integer>
         <key>y</key>
-        <integer>609</integer>
+        <integer>611</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -71,6 +71,16 @@
         <integer>216</integer>
         <key>y</key>
         <integer>-137</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>JYIw1OC4tO</string>
+        <key>x</key>
+        <integer>399</integer>
+        <key>y</key>
+        <integer>827</integer>
       </dict>
     </array>
     <key>italicAngle</key>
