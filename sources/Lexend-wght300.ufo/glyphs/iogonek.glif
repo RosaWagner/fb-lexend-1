@@ -4,36 +4,36 @@
   <unicode hex="012F"/>
   <outline>
     <contour>
-      <point x="103" y="48" type="qcurve"/>
+      <point x="125" y="0" type="line"/>
+      <point x="74" y="-29"/>
+      <point x="34.0" y="-89"/>
+      <point x="34" y="-117" type="qcurve"/>
+      <point x="34.0" y="-143"/>
+      <point x="65.0" y="-178.0"/>
+      <point x="95" y="-178" type="qcurve" smooth="yes"/>
+      <point x="113" y="-178"/>
+      <point x="142" y="-163"/>
+      <point x="160" y="-143" type="qcurve"/>
+      <point x="193" y="-167" type="line"/>
+      <point x="174" y="-192"/>
+      <point x="126" y="-221"/>
+      <point x="90" y="-221" type="qcurve" smooth="yes"/>
+      <point x="46.0" y="-221.0"/>
+      <point x="-12.0" y="-167"/>
+      <point x="-12" y="-124" type="qcurve"/>
+      <point x="-12.0" y="-84"/>
+      <point x="32" y="-15"/>
+      <point x="92" y="24" type="qcurve"/>
       <point x="75" y="1" type="line"/>
       <point x="75" y="520" type="line"/>
       <point x="125" y="520" type="line"/>
-      <point x="125" y="0" type="line"/>
-      <point x="85" y="-19"/>
-      <point x="35.0" y="-63.0"/>
-      <point x="35" y="-90" type="qcurve" smooth="yes"/>
-      <point x="35" y="-114"/>
-      <point x="65" y="-144"/>
-      <point x="89" y="-144" type="qcurve" smooth="yes"/>
-      <point x="105" y="-144"/>
-      <point x="130" y="-130"/>
-      <point x="143" y="-111" type="qcurve"/>
-      <point x="182" y="-139" type="line"/>
-      <point x="169" y="-166"/>
-      <point x="117" y="-195"/>
-      <point x="85" y="-195" type="qcurve"/>
-      <point x="39.0" y="-195.0"/>
-      <point x="-16.0" y="-141.62921348314606"/>
-      <point x="-16" y="-100" type="qcurve"/>
-      <point x="-16.0" y="-53.87012987012987"/>
-      <point x="35.77102120479819" y="4.49889607369294"/>
     </contour>
     <component base="dotaccentcomb" xOffset="-5" yOffset="14"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0.5917,1,0.4781,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ecedillabreve" format="2">
-  <advance width="540"/>
+  <advance width="546"/>
   <outline>
     <component base="e"/>
     <component base="cedillacomb" xOffset="184.32000000000335" yOffset="-6"/>

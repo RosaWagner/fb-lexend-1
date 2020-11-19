@@ -86,11 +86,15 @@
     <false/>
     <key>com.typemytype.robofont.guideline.magnetic.2sVw57Kb1n</key>
     <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.KVm5Sq1Zb0</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.P9jSkoa1g3</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.jQl5Mkell2</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.showMeasurements.2sVw57Kb1n</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.KVm5Sq1Zb0</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.P9jSkoa1g3</key>
     <false/>

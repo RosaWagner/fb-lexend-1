@@ -11,7 +11,7 @@ uogonek
   <anchor x="386.0" y="532.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="ogonekcomb" xOffset="258"/>
+    <component base="ogonekcomb" xOffset="273"/>
   </outline>
   <lib>
     <dict>
@@ -19,6 +19,8 @@ uogonek
       <string>u</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>u</string>
+      <key>public.markColor</key>
+      <string>0.5917,1,0.4781,1</string>
     </dict>
   </lib>
 </glyph>

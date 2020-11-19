@@ -8,6 +8,10 @@
   <anchor x="688.0" y="700.0" name="topright"/>
   <outline>
     <contour>
+      <point x="437" y="30" type="qcurve"/>
+      <point x="418" y="-6" type="line"/>
+      <point x="385" y="-6"/>
+      <point x="378" y="-6"/>
       <point x="374" y="-6" type="qcurve"/>
       <point x="258" y="-6"/>
       <point x="108" y="149"/>
@@ -24,31 +28,33 @@
       <point x="596" y="701" type="line"/>
       <point x="645" y="701" type="line"/>
       <point x="645" y="269" type="line"/>
-      <point x="645.0" y="182.0"/>
-      <point x="563.0" y="50.0"/>
-      <point x="494" y="19" type="qcurve"/>
-      <point x="438.68952816989673" y="-6.679861921119386"/>
-      <point x="368.0" y="-54.445378151260506"/>
-      <point x="368" y="-96" type="qcurve" smooth="yes"/>
-      <point x="368.0" y="-120.0"/>
-      <point x="397" y="-150.0"/>
-      <point x="421" y="-150" type="qcurve" smooth="yes"/>
-      <point x="437" y="-150"/>
-      <point x="462" y="-136"/>
-      <point x="475" y="-117" type="qcurve"/>
-      <point x="514" y="-145" type="line"/>
-      <point x="505.0" y="-168.0"/>
-      <point x="449.0" y="-201.0"/>
-      <point x="419" y="-201" type="qcurve"/>
-      <point x="373.0" y="-201.0"/>
-      <point x="316.0" y="-149.0"/>
-      <point x="316" y="-107" type="qcurve"/>
-      <point x="316.0" y="-76.07563025210084"/>
-      <point x="352.2693357103807" y="-20.876020069824772"/>
-      <point x="415" y="8" type="qcurve"/>
-      <point x="418" y="-6" type="line"/>
-      <point x="385" y="-6"/>
-      <point x="378" y="-6"/>
+      <point x="645.0" y="182.95255474452554"/>
+      <point x="550.4165977822249" y="26.433805295294835"/>
+      <point x="443.0" y="-2" type="qcurve" smooth="yes"/>
+      <point x="415.85406653144895" y="-9.238915591613619"/>
+      <point x="348.0" y="-82.05263157894737"/>
+      <point x="348" y="-119" type="qcurve"/>
+      <point x="348" y="-144"/>
+      <point x="388" y="-178"/>
+      <point x="417" y="-178" type="qcurve"/>
+      <point x="439" y="-178"/>
+      <point x="474" y="-160"/>
+      <point x="486" y="-146" type="qcurve"/>
+      <point x="519" y="-170" type="line"/>
+      <point x="500" y="-195"/>
+      <point x="449" y="-221"/>
+      <point x="415" y="-221" type="qcurve"/>
+      <point x="367" y="-221"/>
+      <point x="300" y="-163"/>
+      <point x="300" y="-121" type="qcurve"/>
+      <point x="300.0" y="-70.0"/>
+      <point x="382.4939699272433" y="4.626503241992584"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5917,1,0.4781,1</string>
+    </dict>
+  </lib>
 </glyph>

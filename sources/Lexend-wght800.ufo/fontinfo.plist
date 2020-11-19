@@ -50,6 +50,16 @@
         <key>y</key>
         <integer>716</integer>
       </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>KVm5Sq1Zb0</string>
+        <key>x</key>
+        <integer>37</integer>
+        <key>y</key>
+        <integer>379</integer>
+      </dict>
     </array>
     <key>italicAngle</key>
     <integer>0</integer>

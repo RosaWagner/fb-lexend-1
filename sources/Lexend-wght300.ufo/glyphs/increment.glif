@@ -1,26 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="increment" format="2">
-  <advance width="711"/>
+  <advance width="707"/>
   <unicode hex="2206"/>
   <note>
 increment
 </note>
+  <guideline x="355.5" y="0" angle="270.0" identifier="C8ZKDGeYEo"/>
   <outline>
     <contour>
-      <point x="355" y="717" type="line"/>
-      <point x="701" y="0" type="line"/>
-      <point x="701" y="0" type="line"/>
-      <point x="14" y="0" type="line"/>
-      <point x="14" y="0" type="line"/>
-      <point x="355" y="717" type="line"/>
+      <point x="352" y="717" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="352" y="717" type="line"/>
     </contour>
     <contour>
-      <point x="366.0" y="620.0" type="line"/>
-      <point x="83.0" y="30.0" type="line"/>
-      <point x="82.0" y="50.0" type="line"/>
-      <point x="637.0" y="50.0" type="line"/>
-      <point x="629.0" y="27.0" type="line"/>
-      <point x="344.0" y="620.0" type="line"/>
+      <point x="364" y="620" type="line"/>
+      <point x="80" y="27" type="line"/>
+      <point x="69" y="50" type="line"/>
+      <point x="635" y="50" type="line"/>
+      <point x="627" y="27" type="line"/>
+      <point x="342" y="620" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,12 +2,13 @@
 <glyph name="Oslash" format="2">
   <advance width="787"/>
   <unicode hex="00D8"/>
+  <guideline x="393.5" y="0" angle="270.0" identifier="0TtF1pNNgP"/>
   <outline>
     <contour>
-      <point x="113" y="-33" type="line"/>
-      <point x="75" y="-1" type="line"/>
-      <point x="669" y="725" type="line"/>
-      <point x="707" y="694" type="line"/>
+      <point x="114" y="-30" type="line"/>
+      <point x="80" y="2" type="line"/>
+      <point x="671" y="725" type="line"/>
+      <point x="705" y="693" type="line"/>
     </contour>
     <component base="O"/>
   </outline>
