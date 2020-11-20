@@ -31,18 +31,18 @@
       <point x="363.0" y="293.0"/>
     </contour>
     <contour>
-      <point x="226" y="256" type="qcurve"/>
-      <point x="226.0" y="272.0"/>
-      <point x="204.0" y="293.0"/>
-      <point x="187" y="293" type="qcurve"/>
-      <point x="171.0" y="293.0"/>
-      <point x="148.0" y="272.0"/>
       <point x="148" y="256" type="qcurve"/>
       <point x="148.0" y="242.0"/>
       <point x="170.0" y="220.0"/>
       <point x="186" y="220" type="qcurve"/>
       <point x="203.0" y="220.0"/>
       <point x="226.0" y="241.0"/>
+      <point x="226" y="256" type="qcurve"/>
+      <point x="226.0" y="272.0"/>
+      <point x="204.0" y="293.0"/>
+      <point x="187" y="293" type="qcurve"/>
+      <point x="171.0" y="293.0"/>
+      <point x="148.0" y="272.0"/>
     </contour>
   </outline>
 </glyph>

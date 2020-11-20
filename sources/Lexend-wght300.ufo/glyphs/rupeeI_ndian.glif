@@ -9,8 +9,8 @@
       <point x="394" y="622"/>
       <point x="432" y="538"/>
       <point x="432" y="489" type="qcurve" smooth="yes"/>
-      <point x="432.0" y="399.8955223880597"/>
-      <point x="316.0" y="290.0"/>
+      <point x="432" y="400"/>
+      <point x="316" y="290"/>
       <point x="227" y="290" type="qcurve"/>
       <point x="203" y="290" type="line"/>
       <point x="132" y="328" type="line"/>
@@ -19,8 +19,8 @@
       <point x="297" y="338"/>
       <point x="379" y="422"/>
       <point x="379" y="487" type="qcurve" smooth="yes"/>
-      <point x="379.0" y="559.7423312883435"/>
-      <point x="286.0" y="654.0"/>
+      <point x="379" y="560"/>
+      <point x="286" y="654"/>
       <point x="214" y="654" type="qcurve"/>
       <point x="90" y="654" type="line"/>
       <point x="90" y="700" type="line"/>
@@ -33,6 +33,11 @@
       <point x="449" y="0" type="line"/>
       <point x="382" y="0" type="line"/>
     </contour>
-    <component base="strokeshortcomb" xOffset="213" yOffset="190"/>
+    <contour>
+      <point x="531" y="467" type="line"/>
+      <point x="263" y="467" type="line"/>
+      <point x="263" y="508" type="line"/>
+      <point x="531" y="508" type="line"/>
+    </contour>
   </outline>
 </glyph>

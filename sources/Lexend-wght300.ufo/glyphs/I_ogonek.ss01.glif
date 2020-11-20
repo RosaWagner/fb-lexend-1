@@ -10,12 +10,28 @@ Iogonek
   <anchor x="100.0" y="700.0" name="topleft"/>
   <outline>
     <contour>
+      <point x="179" y="700" type="qcurve"/>
+      <point x="179" y="0" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="129" y="700" type="line"/>
+      <point x="142" y="700"/>
+      <point x="166" y="700"/>
+    </contour>
+    <contour>
+      <point x="144" y="-221" type="qcurve" smooth="yes"/>
+      <point x="100" y="-221"/>
+      <point x="42" y="-167"/>
+      <point x="42" y="-124" type="qcurve"/>
+      <point x="42" y="-84"/>
+      <point x="86" y="-15"/>
+      <point x="146" y="24" type="qcurve"/>
+      <point x="161" y="13" type="line"/>
       <point x="179" y="0" type="line"/>
       <point x="128" y="-29"/>
-      <point x="88.0" y="-89"/>
+      <point x="88" y="-89"/>
       <point x="88" y="-117" type="qcurve"/>
-      <point x="88.0" y="-143"/>
-      <point x="119.0" y="-178.0"/>
+      <point x="88" y="-143"/>
+      <point x="119" y="-178"/>
       <point x="149" y="-178" type="qcurve" smooth="yes"/>
       <point x="167" y="-178"/>
       <point x="196" y="-163"/>
@@ -23,15 +39,7 @@ Iogonek
       <point x="247" y="-167" type="line"/>
       <point x="228" y="-192"/>
       <point x="180" y="-221"/>
-      <point x="144" y="-221" type="qcurve" smooth="yes"/>
-      <point x="100.0" y="-221.0"/>
-      <point x="42.0" y="-167"/>
-      <point x="42" y="-124" type="qcurve"/>
-      <point x="42.0" y="-84"/>
-      <point x="86" y="-15"/>
-      <point x="146" y="24" type="qcurve"/>
     </contour>
-    <component base="I.ss01"/>
   </outline>
   <lib>
     <dict>

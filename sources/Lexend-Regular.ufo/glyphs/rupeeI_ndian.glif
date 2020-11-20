@@ -33,6 +33,11 @@
       <point x="478" y="-1" type="line"/>
       <point x="347" y="0" type="line"/>
     </contour>
-    <component base="strokeshortcomb" xOffset="192" yOffset="182"/>
+    <contour>
+      <point x="510" y="433" type="line"/>
+      <point x="242" y="433" type="line"/>
+      <point x="242" y="523" type="line"/>
+      <point x="510" y="523" type="line"/>
+    </contour>
   </outline>
 </glyph>

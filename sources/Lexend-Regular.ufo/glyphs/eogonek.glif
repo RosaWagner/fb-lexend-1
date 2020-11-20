@@ -7,6 +7,8 @@ eogonek
 </note>
   <outline>
     <contour>
+      <point x="453" y="70" type="qcurve"/>
+      <point x="493" y="95" type="line"/>
       <point x="475" y="63"/>
       <point x="356" y="-10"/>
       <point x="317" y="-10" type="qcurve"/>
@@ -59,8 +61,6 @@ eogonek
       <point x="283" y="-108" type="qcurve" smooth="yes"/>
       <point x="283" y="-69"/>
       <point x="350" y="7"/>
-      <point x="453" y="70" type="qcurve"/>
-      <point x="493" y="95" type="line"/>
     </contour>
   </outline>
   <lib>

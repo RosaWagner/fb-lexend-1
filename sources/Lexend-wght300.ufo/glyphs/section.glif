@@ -11,9 +11,9 @@ section
       <point x="384.09569347352567" y="410.9778394061309"/>
       <point x="469" y="336"/>
       <point x="469" y="277" type="qcurve" smooth="yes"/>
-      <point x="469" y="217"/>
-      <point x="390.1234415429217" y="135.28685637982815"/>
-      <point x="327" y="139" type="qcurve"/>
+      <point x="469.0" y="214.82608695652175"/>
+      <point x="389.4511520115102" y="129.97135542784062"/>
+      <point x="326" y="134" type="qcurve"/>
       <point x="336" y="165" type="line"/>
       <point x="397" y="144"/>
       <point x="448.0" y="74.9570995699735"/>
@@ -37,9 +37,9 @@ section
       <point x="161" y="166"/>
       <point x="74.0" y="232"/>
       <point x="74" y="293" type="qcurve"/>
-      <point x="74" y="344"/>
-      <point x="142" y="416.0"/>
-      <point x="204" y="427" type="qcurve"/>
+      <point x="74.0" y="345.14179104477614"/>
+      <point x="136.57819438912384" y="419.8122602948445"/>
+      <point x="194" y="430" type="qcurve"/>
       <point x="213" y="400" type="line"/>
       <point x="153" y="418"/>
       <point x="105.0" y="484.47058823529414"/>
@@ -72,15 +72,15 @@ section
       <point x="361.0" y="166.0"/>
       <point x="415.0" y="222.84615384615384"/>
       <point x="415.0" y="269.0" type="qcurve" smooth="yes"/>
-      <point x="415" y="301"/>
-      <point x="385" y="347"/>
-      <point x="341.0" y="360" type="qcurve" smooth="yes"/>
-      <point x="237.0" y="390" type="line" smooth="yes"/>
-      <point x="233" y="391"/>
-      <point x="226" y="392.0"/>
-      <point x="219.0" y="392" type="qcurve"/>
-      <point x="185.92134831460675" y="392.0"/>
-      <point x="127.0" y="339.28089887640454"/>
+      <point x="415.0" y="303.46153846153845"/>
+      <point x="385.3911326402264" y="354.1948655845501"/>
+      <point x="341.0" y="367" type="qcurve" smooth="yes"/>
+      <point x="237.0" y="397" type="line" smooth="yes"/>
+      <point x="233" y="398"/>
+      <point x="226" y="399.0"/>
+      <point x="219.0" y="399" type="qcurve"/>
+      <point x="186.0" y="399.0"/>
+      <point x="127.0" y="342.26966292134836"/>
     </contour>
   </outline>
   <lib>
