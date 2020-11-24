@@ -23,16 +23,16 @@ P
       <point x="70" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="199" y="392" type="line"/>
+      <point x="249" y="392" type="line"/>
       <point x="345" y="392" type="line" smooth="yes"/>
-      <point x="374.0" y="392.0"/>
+      <point x="374" y="392"/>
       <point x="411" y="425"/>
       <point x="411" y="456" type="qcurve" smooth="yes"/>
       <point x="411.0" y="487.0"/>
       <point x="374.0" y="516.0"/>
       <point x="345" y="516" type="qcurve" smooth="yes"/>
-      <point x="199" y="516" type="line"/>
-      <point x="282" y="611" type="line"/>
+      <point x="249" y="516" type="line"/>
+      <point x="282" y="551" type="line"/>
       <point x="282" y="358" type="line"/>
     </contour>
   </outline>

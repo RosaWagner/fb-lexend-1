@@ -24,6 +24,23 @@ Hbar
       <point x="625" y="478" type="line"/>
       <point x="209" y="478" type="line"/>
     </contour>
-    <component base="H" xOffset="48"/>
+    <contour>
+      <point x="146" y="700" type="line"/>
+      <point x="254" y="700" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="146" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="603" y="700" type="line"/>
+      <point x="711" y="700" type="line"/>
+      <point x="711" y="0" type="line"/>
+      <point x="603" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="297" type="line"/>
+      <point x="193" y="401" type="line"/>
+      <point x="651" y="401" type="line"/>
+      <point x="651" y="297" type="line"/>
+    </contour>
   </outline>
 </glyph>

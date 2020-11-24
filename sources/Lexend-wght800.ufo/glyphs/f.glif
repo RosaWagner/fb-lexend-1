@@ -15,24 +15,24 @@ f
       <point x="13" y="515" type="line"/>
     </contour>
     <contour>
-      <point x="424" y="700" type="qcurve"/>
-      <point x="369" y="560" type="line"/>
-      <point x="357" y="569"/>
-      <point x="338.6511627906977" y="575.0"/>
-      <point x="324" y="575" type="qcurve"/>
-      <point x="306.0" y="575.0"/>
-      <point x="289.0" y="554.0"/>
-      <point x="289" y="533" type="qcurve"/>
+      <point x="426" y="704" type="qcurve"/>
+      <point x="369" y="564" type="line"/>
+      <point x="361" y="570"/>
+      <point x="343" y="575"/>
+      <point x="333" y="575" type="qcurve"/>
+      <point x="310.0" y="575.0"/>
+      <point x="289.0" y="549.0"/>
+      <point x="289" y="523" type="qcurve"/>
       <point x="289" y="0" type="line"/>
       <point x="263" y="0"/>
       <point x="112" y="0"/>
       <point x="86" y="0" type="qcurve"/>
-      <point x="86" y="597" type="line"/>
-      <point x="86.0" y="658.457627118644"/>
+      <point x="86" y="557" type="line"/>
+      <point x="86.0" y="634.4864864864865"/>
       <point x="182.0" y="745.0"/>
       <point x="262" y="745" type="qcurve"/>
-      <point x="308" y="745.0"/>
-      <point x="389" y="723"/>
+      <point x="308.5679012345679" y="745.0"/>
+      <point x="392" y="725"/>
     </contour>
   </outline>
 </glyph>

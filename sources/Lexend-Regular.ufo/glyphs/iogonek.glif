@@ -31,6 +31,19 @@ iogonek
       <point x="0" y="-70"/>
       <point x="70" y="11"/>
     </contour>
-    <component base="dotaccentcomb" xOffset="45"/>
+    <contour>
+      <point x="220" y="690" type="qcurve" smooth="yes"/>
+      <point x="220" y="661"/>
+      <point x="183" y="625"/>
+      <point x="151" y="625" type="qcurve" smooth="yes"/>
+      <point x="118" y="625"/>
+      <point x="82" y="659"/>
+      <point x="82" y="690" type="qcurve" smooth="yes"/>
+      <point x="82" y="719"/>
+      <point x="119" y="755"/>
+      <point x="151" y="755" type="qcurve" smooth="yes"/>
+      <point x="184" y="755"/>
+      <point x="220" y="721"/>
+    </contour>
   </outline>
 </glyph>

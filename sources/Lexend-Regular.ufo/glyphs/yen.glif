@@ -21,7 +21,20 @@ yen
       <point x="146" y="316" type="line"/>
       <point x="558" y="314" type="line"/>
     </contour>
-    <component base="Y"/>
+    <contour>
+      <point x="526" y="700" type="line"/>
+      <point x="650" y="700" type="line"/>
+      <point x="379" y="289" type="line"/>
+      <point x="394" y="357" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="349" type="line"/>
+      <point x="293" y="300" type="line"/>
+      <point x="10" y="700" type="line"/>
+      <point x="140" y="700" type="line"/>
+      <point x="356" y="390" type="line"/>
+      <point x="331" y="393" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

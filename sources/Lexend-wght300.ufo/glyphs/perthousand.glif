@@ -22,17 +22,17 @@ perthousand
     </contour>
     <contour>
       <point x="96" y="518" type="qcurve"/>
-      <point x="96.0" y="451"/>
-      <point x="151.0" y="375.0"/>
+      <point x="96" y="451"/>
+      <point x="151" y="375"/>
       <point x="201" y="375" type="qcurve"/>
-      <point x="250.0" y="375.0"/>
-      <point x="305.0" y="450"/>
+      <point x="250" y="375"/>
+      <point x="305" y="450"/>
       <point x="305" y="518" type="qcurve"/>
-      <point x="305.0" y="587"/>
-      <point x="250.0" y="663.0"/>
+      <point x="305" y="587"/>
+      <point x="250" y="663"/>
       <point x="200" y="663" type="qcurve"/>
-      <point x="152.0" y="663.0"/>
-      <point x="96.0" y="585"/>
+      <point x="152" y="663"/>
+      <point x="96" y="585"/>
     </contour>
     <contour>
       <point x="797" y="180" type="qcurve"/>
@@ -50,17 +50,17 @@ perthousand
     </contour>
     <contour>
       <point x="539" y="180" type="qcurve"/>
-      <point x="539.0" y="113.0"/>
-      <point x="594" y="37.0"/>
+      <point x="539" y="113"/>
+      <point x="594" y="37"/>
       <point x="644" y="37" type="qcurve"/>
-      <point x="693" y="37.0"/>
-      <point x="748.0" y="112.0"/>
+      <point x="693" y="37"/>
+      <point x="748" y="112"/>
       <point x="748" y="180" type="qcurve"/>
-      <point x="748.0" y="249.0"/>
-      <point x="693" y="325.0"/>
+      <point x="748" y="249"/>
+      <point x="693" y="325"/>
       <point x="643" y="325" type="qcurve"/>
-      <point x="595" y="325.0"/>
-      <point x="539.0" y="247.0"/>
+      <point x="595" y="325"/>
+      <point x="539" y="247"/>
     </contour>
     <contour>
       <point x="1147" y="180" type="qcurve"/>
@@ -78,19 +78,26 @@ perthousand
     </contour>
     <contour>
       <point x="889" y="180" type="qcurve"/>
-      <point x="889.0" y="113.0"/>
-      <point x="944" y="37.0"/>
+      <point x="889" y="113"/>
+      <point x="944" y="37"/>
       <point x="994" y="37" type="qcurve"/>
-      <point x="1043" y="37.0"/>
-      <point x="1098.0" y="112.0"/>
+      <point x="1043" y="37"/>
+      <point x="1098" y="112"/>
       <point x="1098" y="180" type="qcurve"/>
-      <point x="1098.0" y="249.0"/>
-      <point x="1043" y="325.0"/>
+      <point x="1098" y="249"/>
+      <point x="1043" y="325"/>
       <point x="993" y="325" type="qcurve"/>
-      <point x="945" y="325.0"/>
-      <point x="889.0" y="247.0"/>
+      <point x="945" y="325"/>
+      <point x="889" y="247"/>
     </contour>
-    <component base="fraction" xOffset="125"/>
+    <contour>
+      <point x="222" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="433" y="405" type="line"/>
+      <point x="630" y="700" type="line"/>
+      <point x="688" y="700" type="line"/>
+      <point x="464" y="364" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

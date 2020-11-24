@@ -17,7 +17,24 @@
       <point x="30" y="302" type="line"/>
       <point x="30" y="487" type="line"/>
     </contour>
-    <component base="K" xOffset="27"/>
+    <contour>
+      <point x="107" y="0" type="line"/>
+      <point x="107" y="700" type="line"/>
+      <point x="323" y="700" type="line"/>
+      <point x="323" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="209" type="line"/>
+      <point x="188" y="369" type="line"/>
+      <point x="521" y="700" type="line"/>
+      <point x="762" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="546" y="0" type="line"/>
+      <point x="292" y="341" type="line"/>
+      <point x="432" y="462" type="line"/>
+      <point x="791" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -2,10 +2,11 @@
 <glyph name="Acircumflexacute" format="2">
   <advance width="690"/>
   <unicode hex="1EA4"/>
+  <guideline x="401" y="966" angle="0" identifier="vCTaumOc4e"/>
   <outline>
     <component base="A"/>
     <component base="circumflexcomb.case" xOffset="134" yOffset="203"/>
-    <component base="acutecomb.case" xOffset="432" yOffset="325"/>
+    <component base="acutecomb.case" xOffset="452" yOffset="329"/>
   </outline>
   <lib>
     <dict>

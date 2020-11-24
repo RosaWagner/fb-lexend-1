@@ -6,21 +6,8 @@
 semicolon
 </note>
   <outline>
-    <contour>
-      <point x="161" y="481" type="qcurve" smooth="yes"/>
-      <point x="161" y="459"/>
-      <point x="137" y="431"/>
-      <point x="117" y="431" type="qcurve" smooth="yes"/>
-      <point x="96" y="431"/>
-      <point x="73" y="457"/>
-      <point x="73" y="481" type="qcurve" smooth="yes"/>
-      <point x="73" y="503"/>
-      <point x="97" y="531"/>
-      <point x="117" y="531" type="qcurve" smooth="yes"/>
-      <point x="138" y="531"/>
-      <point x="161" y="505"/>
-    </contour>
     <component base="comma" xOffset="-20"/>
+    <component base="period" xOffset="-11" yOffset="441"/>
   </outline>
   <lib>
     <dict>

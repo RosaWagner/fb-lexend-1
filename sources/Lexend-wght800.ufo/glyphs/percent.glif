@@ -62,6 +62,13 @@ percent
       <point x="814" y="266"/>
       <point x="792" y="224"/>
     </contour>
-    <component base="fraction" xOffset="222"/>
+    <contour>
+      <point x="380" y="0" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="465" y="393" type="line"/>
+      <point x="665" y="700" type="line"/>
+      <point x="848" y="700" type="line"/>
+      <point x="585" y="307" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -90,7 +90,14 @@ perthousand
       <point x="1228" y="267"/>
       <point x="1206" y="225"/>
     </contour>
-    <component base="fraction" xOffset="227"/>
+    <contour>
+      <point x="385" y="0" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="470" y="393" type="line"/>
+      <point x="670" y="700" type="line"/>
+      <point x="853" y="700" type="line"/>
+      <point x="590" y="307" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
