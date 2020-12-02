@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb_dotaccentcomb" format="2">
+  <advance width="296"/>
+  <guideline x="148.0" y="0" angle="270.0" identifier="EIRy0RoO1x"/>
+  <outline>
+    <contour>
+      <point x="194.0" y="841.0" type="qcurve" smooth="yes"/>
+      <point x="194.0" y="821.0"/>
+      <point x="170" y="796.0"/>
+      <point x="148.0" y="796.0" type="qcurve" smooth="yes"/>
+      <point x="126" y="796.0"/>
+      <point x="102.0" y="820.0"/>
+      <point x="102.0" y="841.0" type="qcurve" smooth="yes"/>
+      <point x="102.0" y="861.0"/>
+      <point x="126" y="886.0"/>
+      <point x="148.0" y="886.0" type="qcurve" smooth="yes"/>
+      <point x="170" y="886.0"/>
+      <point x="194.0" y="862.0"/>
+    </contour>
+    <component base="caroncomb" xOffset="-33"/>
+    <component base="dotaccentcomb" xOffset="43" yOffset="166"/>
+  </outline>
+</glyph>

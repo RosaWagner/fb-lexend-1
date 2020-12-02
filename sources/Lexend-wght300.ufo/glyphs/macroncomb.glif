@@ -3,14 +3,14 @@
   <advance width="424"/>
   <unicode hex="0304"/>
   <outline>
-    <component base="macron" yOffset="20"/>
+    <component base="macron"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>424</integer>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

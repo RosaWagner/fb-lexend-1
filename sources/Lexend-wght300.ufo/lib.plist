@@ -1117,7 +1117,7 @@
     <key>com.schriftgestaltung.widthValue</key>
     <integer>5</integer>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>Lexend-wght300-261020</string>
+    <string>FBLexend-wght300</string>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -1134,6 +1134,8 @@
     <real>8.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.D8SgqXP3zk</key>
     <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.E5bmYHphyr</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.JYIw1OC4tO</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.TE3wBqeRJJ</key>
@@ -1149,6 +1151,8 @@
     <key>com.typemytype.robofont.guideline.showMeasurements.6Aoj7c5Mn5</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.D8SgqXP3zk</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.E5bmYHphyr</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.JYIw1OC4tO</key>
     <false/>
@@ -2224,6 +2228,17 @@
       <string>Iacute_J.loclNLD</string>
       <string>iacute_j.loclNLD</string>
       <string>aabreve.ss01</string>
+      <string>dieresiscomb_macroncomb</string>
+      <string>dieresiscomb_acutecomb</string>
+      <string>tildecomb_macroncomb</string>
+      <string>tildecomb_acutecomb</string>
+      <string>tildecomb_dieresiscomb</string>
+      <string>dotaccentcomb_macroncomb</string>
+      <string>macroncomb_gravecomb</string>
+      <string>macroncomb_acutecomb</string>
+      <string>macroncomb_dieresiscomb</string>
+      <string>acutecomb_dotaccentcomb</string>
+      <string>caroncomb_dotaccentcomb</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

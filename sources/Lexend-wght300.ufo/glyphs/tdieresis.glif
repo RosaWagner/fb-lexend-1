@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tdieresis" format="2">
   <advance width="383"/>
+  <unicode hex="1E97"/>
   <outline>
     <component base="t"/>
     <component base="dieresiscomb" xOffset="1" yOffset="70"/>
@@ -8,7 +9,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

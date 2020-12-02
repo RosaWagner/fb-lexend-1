@@ -5,13 +5,12 @@
   <unicode hex="0231"/>
   <outline>
     <component base="o"/>
-    <component base="dotaccentcomb" xOffset="193" yOffset="-14"/>
-    <component base="macroncomb" xOffset="86" yOffset="125"/>
+    <component base="dotaccent_macron" xOffset="298" yOffset="620"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

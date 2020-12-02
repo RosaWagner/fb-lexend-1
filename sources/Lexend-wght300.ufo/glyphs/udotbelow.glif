@@ -2,14 +2,15 @@
 <glyph name="udotbelow" format="2">
   <advance width="560"/>
   <unicode hex="1EE5"/>
+  <guideline x="259" y="-11" angle="270" identifier="i56BOpp7rr"/>
   <outline>
     <component base="u"/>
-    <component base="dotbelowcomb" xOffset="175" yOffset="6"/>
+    <component base="dotbelowcomb" xOffset="164" yOffset="-4"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

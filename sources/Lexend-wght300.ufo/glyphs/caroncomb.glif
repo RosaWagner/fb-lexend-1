@@ -3,23 +3,14 @@
   <advance width="362"/>
   <unicode hex="030C"/>
   <outline>
-    <contour>
-      <point x="196" y="643" type="line"/>
-      <point x="166" y="643" type="line"/>
-      <point x="299" y="748" type="line"/>
-      <point x="329" y="723" type="line"/>
-      <point x="214" y="610" type="line"/>
-      <point x="148" y="610" type="line"/>
-      <point x="33" y="723" type="line"/>
-      <point x="63" y="748" type="line"/>
-    </contour>
+    <component base="caron"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>359</integer>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

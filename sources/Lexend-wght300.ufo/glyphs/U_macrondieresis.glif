@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Umacrondieresis" format="2">
   <advance width="753"/>
+  <unicode hex="1E7A"/>
   <outline>
-    <component base="dieresiscomb.case" xOffset="200.5" yOffset="268"/>
     <component base="U"/>
-    <component base="macroncomb.case" xOffset="162" yOffset="158"/>
+    <component base="macroncomb_dieresiscomb" xOffset="235.5" yOffset="117"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omacrongrave" format="2">
   <advance width="599"/>
+  <unicode hex="1E51"/>
   <outline>
-    <component base="gravecomb" xOffset="157.8399999999965" yOffset="84"/>
     <component base="o"/>
-    <component base="macroncomb" xOffset="86" yOffset="-35"/>
+    <component base="macroncomb_gravecomb" xOffset="161" yOffset="-43"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -3,17 +3,12 @@
   <advance width="424"/>
   <unicode hex="02C9"/>
   <outline>
-    <contour>
-      <point x="349" y="610" type="line"/>
-      <point x="75" y="610" type="line"/>
-      <point x="75" y="658" type="line"/>
-      <point x="349" y="658" type="line"/>
-    </contour>
+    <component base="macron"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

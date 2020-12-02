@@ -1,16 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scarondotaccent" format="2">
   <advance width="479"/>
-  <guideline x="249" y="721" angle="270.0" identifier="Lx8WLxlLJ1"/>
   <outline>
-    <component base="dotaccentcomb" xOffset="144" yOffset="134"/>
     <component base="s"/>
-    <component base="caroncomb" xOffset="68" yOffset="5"/>
+    <component base="caroncomb_dotaccentcomb" xOffset="91.5"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

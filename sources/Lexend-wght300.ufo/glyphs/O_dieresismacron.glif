@@ -4,13 +4,12 @@
   <unicode hex="022A"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb.case" xOffset="218" yOffset="141"/>
-    <component base="macroncomb.case" xOffset="179" yOffset="345"/>
+    <component base="dieresis_macron" xOffset="394" yOffset="780"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

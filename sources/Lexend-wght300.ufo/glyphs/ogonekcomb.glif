@@ -3,36 +3,14 @@
   <advance width="295"/>
   <unicode hex="0328"/>
   <outline>
-    <contour>
-      <point x="149.0" y="-221.0" type="qcurve" smooth="yes"/>
-      <point x="105" y="-221.0"/>
-      <point x="47" y="-169"/>
-      <point x="47.0" y="-127.0" type="qcurve" smooth="yes"/>
-      <point x="47.0" y="-80.0"/>
-      <point x="117.30355727810942" y="-9.995988156803492"/>
-      <point x="202.0" y="26.0" type="qcurve"/>
-      <point x="214.0" y="17.0" type="line"/>
-      <point x="214.0" y="0.0" type="line"/>
-      <point x="148.0" y="-32.0"/>
-      <point x="93.0" y="-91.0"/>
-      <point x="93.0" y="-120.0" type="qcurve" smooth="yes"/>
-      <point x="93.0" y="-145.0"/>
-      <point x="124" y="-178.0"/>
-      <point x="154.0" y="-178.0" type="qcurve" smooth="yes"/>
-      <point x="172" y="-178.0"/>
-      <point x="201" y="-163"/>
-      <point x="219.0" y="-143.0" type="qcurve"/>
-      <point x="252.0" y="-167.0" type="line"/>
-      <point x="233" y="-192"/>
-      <point x="185" y="-221.0"/>
-    </contour>
+    <component base="ogonek"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>295</integer>
       <key>public.markColor</key>
-      <string>0.5917,1,0.4781,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

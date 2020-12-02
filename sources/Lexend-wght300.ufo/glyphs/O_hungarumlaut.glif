@@ -4,12 +4,12 @@
   <unicode hex="0150"/>
   <outline>
     <component base="O"/>
-    <component base="hungarumlautcomb.case" xOffset="208.55999999999767" yOffset="168"/>
+    <component base="hungarumlautcomb.case" xOffset="219.0799999999872" yOffset="180"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

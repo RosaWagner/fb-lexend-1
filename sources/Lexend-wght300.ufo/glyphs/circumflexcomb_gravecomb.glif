@@ -4,8 +4,8 @@
   <anchor x="191.0" y="515.0" name="_top"/>
   <anchor x="191.0" y="751.0" name="top"/>
   <outline>
-    <component base="circumflexcomb" xOffset="3" yOffset="5"/>
-    <component base="gravecomb" xOffset="127" yOffset="127"/>
+    <component base="circumflexcomb" xOffset="3"/>
+    <component base="gravecomb" xOffset="127" yOffset="123"/>
   </outline>
   <lib>
     <dict>

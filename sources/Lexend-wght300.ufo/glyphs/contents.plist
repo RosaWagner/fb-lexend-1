@@ -618,6 +618,8 @@
     <string>acutecomb.glif</string>
     <key>acutecomb.case</key>
     <string>acutecomb.case.glif</string>
+    <key>acutecomb_dotaccentcomb</key>
+    <string>acutecomb_dotaccentcomb.glif</string>
     <key>adblgrave</key>
     <string>adblgrave.glif</string>
     <key>adblgrave.ss01</key>
@@ -810,6 +812,8 @@
     <string>caroncomb.glif</string>
     <key>caroncomb.case</key>
     <string>caroncomb.case.glif</string>
+    <key>caroncomb_dotaccentcomb</key>
+    <string>caroncomb_dotaccentcomb.glif</string>
     <key>ccaron</key>
     <string>ccaron.glif</string>
     <key>ccedilla</key>
@@ -914,6 +918,10 @@
     <string>dieresiscomb.glif</string>
     <key>dieresiscomb.case</key>
     <string>dieresiscomb.case.glif</string>
+    <key>dieresiscomb_acutecomb</key>
+    <string>dieresiscomb_acutecomb.glif</string>
+    <key>dieresiscomb_macroncomb</key>
+    <string>dieresiscomb_macroncomb.glif</string>
     <key>divide</key>
     <string>divide.glif</string>
     <key>divisionslash</key>
@@ -934,6 +942,8 @@
     <string>dotaccentcomb.glif</string>
     <key>dotaccentcomb.case</key>
     <string>dotaccentcomb.case.glif</string>
+    <key>dotaccentcomb_macroncomb</key>
+    <string>dotaccentcomb_macroncomb.glif</string>
     <key>dotbelow-ar</key>
     <string>dotbelow-ar.glif</string>
     <key>dotbelowcomb</key>
@@ -1394,6 +1404,12 @@
     <string>macroncomb.glif</string>
     <key>macroncomb.case</key>
     <string>macroncomb.case.glif</string>
+    <key>macroncomb_acutecomb</key>
+    <string>macroncomb_acutecomb.glif</string>
+    <key>macroncomb_dieresiscomb</key>
+    <string>macroncomb_dieresiscomb.glif</string>
+    <key>macroncomb_gravecomb</key>
+    <string>macroncomb_gravecomb.glif</string>
     <key>madda-ar</key>
     <string>madda-ar.glif</string>
     <key>manat</key>
@@ -1900,6 +1916,12 @@
     <string>tildecomb.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
+    <key>tildecomb_acutecomb</key>
+    <string>tildecomb_acutecomb.glif</string>
+    <key>tildecomb_dieresiscomb</key>
+    <string>tildecomb_dieresiscomb.glif</string>
+    <key>tildecomb_macroncomb</key>
+    <string>tildecomb_macroncomb.glif</string>
     <key>tlinebelow</key>
     <string>tlinebelow.glif</string>
     <key>trademark</key>

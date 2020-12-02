@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_dieresiscomb" format="2">
+  <advance width="299"/>
+  <guideline x="49" y="840" angle="270.0" identifier="z6YyshmITw"/>
+  <outline>
+    <component base="tildecomb" xOffset="-60"/>
+    <component base="dieresiscomb" xOffset="-32" yOffset="167"/>
+  </outline>
+</glyph>

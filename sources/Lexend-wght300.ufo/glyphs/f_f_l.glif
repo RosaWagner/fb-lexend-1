@@ -3,8 +3,9 @@
   <advance width="928"/>
   <unicode hex="FB04"/>
   <outline>
+    <component base="f"/>
+    <component base="f" xOffset="364"/>
     <component base="l" xOffset="728"/>
-    <component base="f_f"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +14,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>l</string>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

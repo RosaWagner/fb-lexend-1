@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gmacron" format="2">
   <advance width="611"/>
+  <unicode hex="1E21"/>
   <outline>
     <component base="g"/>
-    <component base="macroncomb" xOffset="89" yOffset="-35"/>
+    <component base="macroncomb" xOffset="89.07999999999447" yOffset="-3"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

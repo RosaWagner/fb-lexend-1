@@ -5,7 +5,7 @@
   <anchor x="155.0" y="740" name="top"/>
   <outline>
     <contour>
-      <point x="78" y="682" type="qcurve"/>
+      <point x="80" y="682" type="qcurve"/>
       <point x="56" y="713" type="line"/>
       <point x="80" y="738"/>
       <point x="129" y="759"/>
@@ -13,24 +13,24 @@
       <point x="194.0" y="759.0"/>
       <point x="237.0" y="720.6438356164383"/>
       <point x="237" y="689" type="qcurve"/>
-      <point x="237.0" y="673.1176470588235"/>
-      <point x="226.12605715833254" y="646.1980898202369"/>
-      <point x="219" y="635" type="qcurve" smooth="yes"/>
-      <point x="210" y="621"/>
-      <point x="193" y="595"/>
-      <point x="190" y="578" type="qcurve"/>
-      <point x="149" y="578" type="line"/>
-      <point x="149" y="590"/>
-      <point x="159" y="617"/>
-      <point x="165" y="625" type="qcurve" smooth="yes"/>
-      <point x="175" y="640"/>
-      <point x="196" y="669"/>
-      <point x="196" y="685" type="qcurve"/>
-      <point x="196" y="702"/>
-      <point x="173" y="720"/>
-      <point x="152" y="720" type="qcurve"/>
-      <point x="135" y="720"/>
-      <point x="100" y="704"/>
+      <point x="237.0" y="671.3529411764706"/>
+      <point x="221.20791689448265" y="644.3008335786736"/>
+      <point x="207" y="629" type="qcurve" smooth="yes"/>
+      <point x="195.75636858635474" y="616.8914738622283"/>
+      <point x="183.0" y="593.0"/>
+      <point x="183" y="578" type="qcurve"/>
+      <point x="139" y="578" type="line"/>
+      <point x="139.0" y="592.5531914893617"/>
+      <point x="153" y="624"/>
+      <point x="163" y="635" type="qcurve" smooth="yes"/>
+      <point x="175.66805485695969" y="649.616986373415"/>
+      <point x="194.0" y="672.0"/>
+      <point x="194" y="685" type="qcurve"/>
+      <point x="194.0" y="701.0"/>
+      <point x="172.04545454545456" y="718.0"/>
+      <point x="152" y="718" type="qcurve"/>
+      <point x="135.45945945945945" y="718.0"/>
+      <point x="100.71815984958505" y="702.718159849585"/>
     </contour>
   </outline>
   <lib>
