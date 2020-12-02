@@ -3,41 +3,13 @@
   <advance width="443"/>
   <unicode hex="0303"/>
   <outline>
-    <contour>
-      <point x="127" y="601" type="qcurve"/>
-      <point x="26" y="621" type="line"/>
-      <point x="26.0" y="682.9104477611941"/>
-      <point x="90.0" y="757.0"/>
-      <point x="145" y="757" type="qcurve"/>
-      <point x="160.0" y="757.0"/>
-      <point x="199.40272543785045" y="749.0809729889945"/>
-      <point x="227" y="731" type="qcurve"/>
-      <point x="249.36511628025906" y="717.1549280169825"/>
-      <point x="267.2888888888889" y="709.0"/>
-      <point x="276" y="709" type="qcurve"/>
-      <point x="292.4" y="709.0"/>
-      <point x="315.9993980514659" y="733.987961029319"/>
-      <point x="317" y="754" type="qcurve"/>
-      <point x="418" y="734" type="line"/>
-      <point x="418.0" y="676.4233576642335"/>
-      <point x="354.4761904761905" y="598.0"/>
-      <point x="303" y="598" type="qcurve"/>
-      <point x="287.7894736842105" y="598.0"/>
-      <point x="247.4781466773087" y="607.2411793871671"/>
-      <point x="218" y="626" type="qcurve"/>
-      <point x="201.25147867251658" y="637.5146084126449"/>
-      <point x="178.47727272727272" y="647.0"/>
-      <point x="171" y="647" type="qcurve"/>
-      <point x="154.14893617021278" y="647.0"/>
-      <point x="129.0043935526559" y="622.0461323028869"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>401</integer>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

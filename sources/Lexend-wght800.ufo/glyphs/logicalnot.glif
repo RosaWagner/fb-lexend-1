@@ -7,9 +7,9 @@ logicalnot
 </note>
   <outline>
     <contour>
-      <point x="635" y="102" type="line"/>
-      <point x="440" y="102" type="line"/>
-      <point x="440" y="319" type="line"/>
+      <point x="635" y="97" type="line"/>
+      <point x="450" y="97" type="line"/>
+      <point x="450" y="319" type="line"/>
       <point x="549" y="254" type="line"/>
       <point x="35" y="254" type="line"/>
       <point x="35" y="424" type="line"/>

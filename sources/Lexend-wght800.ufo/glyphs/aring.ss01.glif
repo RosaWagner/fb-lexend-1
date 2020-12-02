@@ -3,7 +3,7 @@
   <advance width="591"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="ringcomb" xOffset="138" yOffset="57"/>
+    <component base="ring" xOffset="138.2800000000134" yOffset="61"/>
   </outline>
   <lib>
     <dict>
@@ -12,7 +12,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

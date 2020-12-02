@@ -4,7 +4,7 @@
   <unicode hex="010F"/>
   <outline>
     <component base="d" xOffset="40"/>
-    <component base="caronalt" xOffset="706" yOffset="120"/>
+    <component base="caronalt" xOffset="706" yOffset="139.18000000001484"/>
   </outline>
   <lib>
     <dict>
@@ -22,7 +22,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>d</string>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

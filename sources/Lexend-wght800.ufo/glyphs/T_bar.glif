@@ -4,7 +4,7 @@
   <unicode hex="0166"/>
   <outline>
     <component base="T"/>
-    <component base="strokeshortcomb" xOffset="153" yOffset="54"/>
+    <component base="strokeshortcomb" xOffset="153" yOffset="49"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>T</string>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

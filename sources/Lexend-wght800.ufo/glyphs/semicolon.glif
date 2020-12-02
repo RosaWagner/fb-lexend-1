@@ -5,10 +5,10 @@
   <note>
 semicolon
 </note>
-  <guideline x="163" y="254" angle="90" identifier="trmYSbrRrK"/>
+  <guideline x="152.5" y="0" angle="90.0" identifier="bkvyMuuyhc"/>
   <outline>
-    <component base="comma" xOffset="24"/>
-    <component base="period" xOffset="27" yOffset="357"/>
+    <component base="comma" xOffset="11"/>
+    <component base="period" xOffset="14" yOffset="357"/>
   </outline>
   <lib>
     <dict>

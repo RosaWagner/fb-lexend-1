@@ -2,14 +2,13 @@
 <glyph name="Scarondotaccent" format="2">
   <advance width="641"/>
   <outline>
-    <component base="dotaccentcomb.case" xOffset="201.32000000000698" yOffset="381"/>
     <component base="S"/>
-    <component base="caroncomb.case" xOffset="117" yOffset="58"/>
+    <component base="caroncomb_dotaccentcomb" xOffset="122.5" yOffset="193"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

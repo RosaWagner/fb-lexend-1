@@ -1155,6 +1155,17 @@
       <string>Iacute_J.loclNLD</string>
       <string>iacute_j.loclNLD</string>
       <string>aabreve.ss01</string>
+      <string>dieresiscomb_macroncomb</string>
+      <string>dieresiscomb_acutecomb</string>
+      <string>tildecomb_macroncomb</string>
+      <string>tildecomb_acutecomb</string>
+      <string>tildecomb_dieresiscomb</string>
+      <string>dotaccentcomb_macroncomb</string>
+      <string>macroncomb_gravecomb</string>
+      <string>macroncomb_acutecomb</string>
+      <string>macroncomb_dieresiscomb</string>
+      <string>acutecomb_dotaccentcomb</string>
+      <string>caroncomb_dotaccentcomb</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

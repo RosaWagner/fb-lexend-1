@@ -10,7 +10,7 @@ exclam
       <point x="247" y="266" type="qcurve"/>
       <point x="117" y="266" type="line"/>
       <point x="103" y="355"/>
-      <point x="75" y="552"/>
+      <point x="75.0" y="546"/>
       <point x="75" y="635" type="qcurve" smooth="yes"/>
       <point x="75" y="720" type="line"/>
       <point x="289" y="720" type="line"/>

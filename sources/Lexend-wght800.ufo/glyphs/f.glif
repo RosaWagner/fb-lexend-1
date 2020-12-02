@@ -5,14 +5,15 @@
   <note>
 f
 </note>
+  <guideline x="370" y="365" angle="0" identifier="PskbrvrhL5"/>
   <anchor x="197" y="0" name="bottom"/>
   <anchor x="187" y="535" name="top"/>
   <outline>
     <contour>
-      <point x="387" y="515" type="line"/>
-      <point x="387" y="355" type="line"/>
-      <point x="13" y="355" type="line"/>
-      <point x="13" y="515" type="line"/>
+      <point x="387" y="525" type="line"/>
+      <point x="387" y="365" type="line"/>
+      <point x="13" y="365" type="line"/>
+      <point x="13" y="525" type="line"/>
     </contour>
     <contour>
       <point x="426" y="704" type="qcurve"/>
@@ -28,10 +29,10 @@ f
       <point x="112" y="0"/>
       <point x="86" y="0" type="qcurve"/>
       <point x="86" y="557" type="line"/>
-      <point x="86.0" y="634.4864864864865"/>
+      <point x="86.0" y="634"/>
       <point x="182.0" y="745.0"/>
       <point x="262" y="745" type="qcurve"/>
-      <point x="308.5679012345679" y="745.0"/>
+      <point x="309" y="745.0"/>
       <point x="392" y="725"/>
     </contour>
   </outline>

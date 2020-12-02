@@ -4,12 +4,12 @@
   <outline>
     <component base="a.ss01"/>
     <component base="brevecomb" xOffset="99.80000000001746" yOffset="33"/>
-    <component base="dotbelowcomb" xOffset="199" yOffset="-9"/>
+    <component base="dotbelowcomb" xOffset="199.80000000001746" yOffset="-23"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

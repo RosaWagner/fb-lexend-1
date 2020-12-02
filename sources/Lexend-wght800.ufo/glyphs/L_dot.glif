@@ -4,14 +4,14 @@
   <unicode hex="013F"/>
   <outline>
     <component base="L"/>
-    <component base="periodcentered.case" xOffset="348"/>
+    <component base="dotaccentcomb.case" xOffset="358.19999999998254" yOffset="-283.3999999999942"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>L</string>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

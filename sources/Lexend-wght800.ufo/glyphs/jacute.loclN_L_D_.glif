@@ -2,11 +2,13 @@
 <glyph name="jacute.loclNLD" format="2">
   <advance width="263"/>
   <outline>
+    <component base="jdotless"/>
+    <component base="acutecomb" xOffset="-12.799999999991996" yOffset="61"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

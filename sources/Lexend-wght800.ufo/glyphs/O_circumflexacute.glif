@@ -2,11 +2,9 @@
 <glyph name="Ocircumflexacute" format="2">
   <advance width="834"/>
   <unicode hex="1ED0"/>
-  <guideline x="473" y="966" angle="0" identifier="fzCUkWJsnS"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb.case" xOffset="206" yOffset="203"/>
-    <component base="acutecomb.case" xOffset="524" yOffset="329"/>
+    <component base="circumflexcomb_acutecomb" xOffset="221.2499999999709" yOffset="211"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +36,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

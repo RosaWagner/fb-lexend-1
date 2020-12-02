@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Sacutedotaccent" format="2">
   <advance width="641"/>
+  <unicode hex="1E64"/>
   <outline>
     <component base="S"/>
-    <component base="acutecomb.case" xOffset="183.75999999999476" yOffset="175"/>
-    <component base="dotaccentcomb.case" xOffset="177.36000000000058" yOffset="383"/>
+    <component base="acutecomb_dotaccentcomb" xOffset="152.5" yOffset="216"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

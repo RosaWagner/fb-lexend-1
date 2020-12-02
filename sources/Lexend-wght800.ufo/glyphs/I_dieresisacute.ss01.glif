@@ -2,14 +2,13 @@
 <glyph name="Idieresisacute.ss01" format="2">
   <advance width="376"/>
   <outline>
-    <component base="acutecomb.case" xOffset="62.470000000001164" yOffset="415"/>
-    <component base="I.ss01"/>
-    <component base="dieresiscomb.case" xOffset="-65" yOffset="214"/>
+    <component base="Idieresis.ss01"/>
+    <component base="acutecomb.case" xOffset="67.77000000000407" yOffset="415"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>
