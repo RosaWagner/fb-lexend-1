@@ -3,7 +3,7 @@
   <anchor x="187" y="512" name="_top"/>
   <anchor x="187" y="762" name="top"/>
   <outline>
-    <component base="circumflexcomb" xOffset="7" yOffset="-21"/>
+    <component base="circumflexcomb" xOffset="7"/>
     <component base="hookabovecomb" xOffset="312" yOffset="98"/>
   </outline>
   <lib>

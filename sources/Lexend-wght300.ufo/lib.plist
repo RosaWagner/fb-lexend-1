@@ -1132,6 +1132,8 @@
     <false/>
     <key>com.typemytype.robofont.guideline.magnetic.6Aoj7c5Mn5</key>
     <real>8.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.Cg98gsR2xS</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.D8SgqXP3zk</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.E5bmYHphyr</key>
@@ -1142,6 +1144,8 @@
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.d4f2b5TFmw</key>
     <real>16.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.mKPZECXa3Q</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.pyyVABQePs</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.vnRTRUYAhU</key>
@@ -1149,6 +1153,8 @@
     <key>com.typemytype.robofont.guideline.magnetic.wkEEQaGfdl</key>
     <real>10.0</real>
     <key>com.typemytype.robofont.guideline.showMeasurements.6Aoj7c5Mn5</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.Cg98gsR2xS</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.D8SgqXP3zk</key>
     <false/>
@@ -1159,6 +1165,8 @@
     <key>com.typemytype.robofont.guideline.showMeasurements.TE3wBqeRJJ</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.d4f2b5TFmw</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.mKPZECXa3Q</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.pyyVABQePs</key>
     <false/>

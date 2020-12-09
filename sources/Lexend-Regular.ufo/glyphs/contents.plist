@@ -1394,6 +1394,8 @@
     <string>macroncomb.glif</string>
     <key>macroncomb.case</key>
     <string>macroncomb.case.glif</string>
+    <key>macroncomb_acutecomb</key>
+    <string>macroncomb_acutecomb.glif</string>
     <key>madda-ar</key>
     <string>madda-ar.glif</string>
     <key>manat</key>
@@ -1900,6 +1902,10 @@
     <string>tildecomb.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
+    <key>tildecomb_acutecomb</key>
+    <string>tildecomb_acutecomb.glif</string>
+    <key>tildecomb_dieresiscomb</key>
+    <string>tildecomb_dieresiscomb.glif</string>
     <key>tlinebelow</key>
     <string>tlinebelow.glif</string>
     <key>trademark</key>

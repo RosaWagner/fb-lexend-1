@@ -2,9 +2,11 @@
 <glyph name="Utilde" format="2">
   <advance width="784"/>
   <unicode hex="0168"/>
+  <guideline x="490" y="661" angle="90" identifier="cIbou8UD9x"/>
+  <guideline x="296" y="612" angle="90" identifier="4RhvEctBkt"/>
   <outline>
     <component base="U"/>
-    <component base="tildecomb.case" xOffset="180.5" yOffset="214"/>
+    <component base="tildecomb.case" xOffset="182" yOffset="214"/>
   </outline>
   <lib>
     <dict>

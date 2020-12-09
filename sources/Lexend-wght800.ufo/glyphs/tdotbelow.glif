@@ -2,9 +2,10 @@
 <glyph name="tdotbelow" format="2">
   <advance width="409"/>
   <unicode hex="1E6D"/>
+  <guideline x="196" y="-27" angle="90.0" identifier="YeUllhtnoa"/>
   <outline>
     <component base="t"/>
-    <component base="dotbelowcomb" xOffset="123" yOffset="-23"/>
+    <component base="dotbelowcomb" xOffset="95" yOffset="-23"/>
   </outline>
   <lib>
     <dict>

@@ -11,7 +11,7 @@ lcommaaccent
   <anchor x="229" y="580" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="commaaccentcomb.case" xOffset="-22"/>
+    <component base="commaaccentcomb" xOffset="-12"/>
   </outline>
   <lib>
     <dict>

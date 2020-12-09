@@ -2,6 +2,7 @@
 <glyph name="tdotbelow" format="2">
   <advance width="383"/>
   <unicode hex="1E6D"/>
+  <guideline x="182" y="-24" angle="270.0" identifier="YDhztnwmik"/>
   <outline>
     <component base="t"/>
     <component base="dotbelowcomb" xOffset="77" yOffset="-4"/>

@@ -2,6 +2,7 @@
 <glyph name="Icircumflex" format="2">
   <advance width="412"/>
   <unicode hex="00CE"/>
+  <guideline x="206.0" y="0" angle="270.0" identifier="atG59kIkIQ"/>
   <outline>
     <component base="I"/>
     <component base="circumflexcomb.case" xOffset="25" yOffset="159"/>

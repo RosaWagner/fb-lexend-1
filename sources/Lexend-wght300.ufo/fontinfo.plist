@@ -104,6 +104,18 @@
         <key>y</key>
         <integer>-221</integer>
       </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>Cg98gsR2xS</string>
+        <key>name</key>
+        <string>circumflex</string>
+        <key>x</key>
+        <integer>184</integer>
+        <key>y</key>
+        <integer>616</integer>
+      </dict>
     </array>
     <key>italicAngle</key>
     <integer>-180</integer>

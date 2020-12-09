@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iacute_j.loclNLD" format="2">
-  <advance width="323"/>
+  <advance width="606"/>
   <outline>
-    <component base="iacute"/>
-    <component base="jacute.loclNLD"/>
+    <component base="iacute" xOffset="-21"/>
+    <component base="jacute.loclNLD" xOffset="310"/>
   </outline>
   <lib>
     <dict>

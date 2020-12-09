@@ -2,9 +2,10 @@
 <glyph name="acircumflexdotbelow" format="2">
   <advance width="607"/>
   <unicode hex="1EAD"/>
+  <guideline x="303.5" y="0" angle="270.0" identifier="Y8FAXlezYp"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb" xOffset="117.55999999999767" yOffset="6"/>
+    <component base="circumflexcomb" xOffset="114"/>
     <component base="dotbelowcomb" xOffset="193.55999999999767" yOffset="-4"/>
   </outline>
   <lib>

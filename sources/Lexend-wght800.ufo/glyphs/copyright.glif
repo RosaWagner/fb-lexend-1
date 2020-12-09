@@ -15,9 +15,9 @@ copyright
       <point x="19.0" y="192.0"/>
       <point x="19" y="350" type="qcurve" smooth="yes"/>
       <point x="19.0" y="508.0"/>
-      <point x="238.36272040302268" y="727.0"/>
+      <point x="238" y="727.0"/>
       <point x="396" y="727" type="qcurve" smooth="yes"/>
-      <point x="552.6876574307305" y="727.0"/>
+      <point x="553" y="727.0"/>
       <point x="773.0" y="508.0"/>
     </contour>
     <contour>
@@ -29,9 +29,9 @@ copyright
       <point x="699.0" y="224.0"/>
       <point x="699" y="350" type="qcurve" smooth="yes"/>
       <point x="699.0" y="477.0"/>
-      <point x="522.1638225255973" y="653.0"/>
+      <point x="522" y="653.0"/>
       <point x="396" y="653" type="qcurve" smooth="yes"/>
-      <point x="269.83617747440275" y="653.0"/>
+      <point x="270" y="653.0"/>
       <point x="93.0" y="477.0"/>
     </contour>
     <contour>

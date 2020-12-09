@@ -6,18 +6,8 @@
   <anchor x="279" y="535" name="_top"/>
   <anchor x="278" y="810" name="top"/>
   <outline>
-    <contour>
-      <point x="246" y="669" type="line"/>
-      <point x="325" y="785" type="line"/>
-      <point x="511" y="646" type="line"/>
-      <point x="453" y="557" type="line"/>
-    </contour>
-    <contour>
-      <point x="-13" y="669" type="line"/>
-      <point x="66" y="785" type="line"/>
-      <point x="252" y="646" type="line"/>
-      <point x="194" y="557" type="line"/>
-    </contour>
+    <component base="gravecomb" xOffset="-49"/>
+    <component base="gravecomb" xOffset="221"/>
   </outline>
   <lib>
     <dict>

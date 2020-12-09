@@ -21,6 +21,7 @@ dollar
       <point x="426" y="792" type="line"/>
     </contour>
     <contour>
+      <point x="12" y="96" type="qcurve"/>
       <point x="97" y="259" type="line"/>
       <point x="157" y="210"/>
       <point x="275.9710144927536" y="167.0"/>
@@ -58,7 +59,6 @@ dollar
       <point x="325" y="-10" type="qcurve" smooth="yes"/>
       <point x="216.736301369863" y="-10.0"/>
       <point x="65" y="46"/>
-      <point x="12" y="96" type="qcurve"/>
     </contour>
   </outline>
   <lib>

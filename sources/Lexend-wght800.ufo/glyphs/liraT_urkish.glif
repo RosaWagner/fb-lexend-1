@@ -5,20 +5,20 @@
   <guideline x="776" y="813" angle="0" identifier="wdujNUjn2x"/>
   <outline>
     <contour>
-      <point x="282" y="-10" type="qcurve"/>
-      <point x="215" y="-10.0"/>
-      <point x="139" y="4"/>
+      <point x="300" y="-10" type="qcurve"/>
+      <point x="243" y="-10"/>
+      <point x="146" y="8"/>
       <point x="106" y="20" type="qcurve"/>
       <point x="106" y="700" type="line"/>
       <point x="306" y="700" type="line"/>
-      <point x="306" y="52" type="line"/>
-      <point x="268" y="150" type="line"/>
-      <point x="341" y="150.0"/>
-      <point x="429" y="192"/>
-      <point x="457" y="262" type="qcurve"/>
-      <point x="626" y="210" type="line"/>
-      <point x="568" y="84"/>
-      <point x="387" y="-10.0"/>
+      <point x="306" y="132" type="line"/>
+      <point x="287" y="150" type="line"/>
+      <point x="360" y="150.0"/>
+      <point x="444.52487883409276" y="203.11337934504522"/>
+      <point x="477" y="272" type="qcurve"/>
+      <point x="646" y="220" type="line"/>
+      <point x="585.741221250881" y="89.09299788984478"/>
+      <point x="406" y="-10.0"/>
     </contour>
     <contour>
       <point x="41" y="317" type="line"/>

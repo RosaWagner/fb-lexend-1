@@ -10,6 +10,6 @@ j
   <anchor x="179" y="770" name="top"/>
   <outline>
     <component base="jdotless" xOffset="41"/>
-    <component base="dotaccentcomb" xOffset="74" yOffset="20"/>
+    <component base="dotaccentcomb" xOffset="60" yOffset="14"/>
   </outline>
 </glyph>

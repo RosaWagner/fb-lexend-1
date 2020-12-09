@@ -1137,6 +1137,9 @@
       <string>jacute.loclNLD</string>
       <string>Iacute_J.loclNLD</string>
       <string>aabreve.ss01</string>
+      <string>tildecomb_acutecomb</string>
+      <string>macroncomb_acutecomb</string>
+      <string>tildecomb_dieresiscomb</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

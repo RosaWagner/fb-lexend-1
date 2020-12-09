@@ -3,9 +3,10 @@
   <advance width="660"/>
   <unicode hex="0023"/>
   <unicode hex="0231"/>
+  <guideline x="330.0" y="0" angle="90.0" identifier="MGSzTXG3Bh"/>
   <outline>
     <component base="o"/>
-    <component base="dotaccent_macron" xOffset="330" yOffset="625"/>
+    <component base="dotaccentcomb_macroncomb" xOffset="211"/>
   </outline>
   <lib>
     <dict>

@@ -35,7 +35,7 @@ OE
     <contour>
       <point x="550" y="184" type="line"/>
       <point x="530" y="137" type="line"/>
-      <point x="530" y="641" type="line"/>
+      <point x="530" y="560" type="line"/>
       <point x="550" y="516" type="line"/>
       <point x="407" y="516" type="line" smooth="yes"/>
       <point x="336" y="516"/>

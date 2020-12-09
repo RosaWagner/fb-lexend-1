@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Sdotbelowdotaccent" format="2">
   <advance width="641"/>
+  <guideline x="320.5" y="0" angle="90.0" identifier="16E2qoo7dE"/>
   <outline>
     <component base="S"/>
     <component base="dotbelowcomb.case" xOffset="175.5" yOffset="-31"/>

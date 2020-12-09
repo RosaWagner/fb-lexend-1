@@ -2,9 +2,10 @@
 <glyph name="acircumflex" format="2">
   <advance width="607"/>
   <unicode hex="00E2"/>
+  <guideline x="303.5" y="0" angle="270.0" identifier="3rnpJwUfqu"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb" xOffset="119" yOffset="6"/>
+    <component base="circumflexcomb" xOffset="114"/>
   </outline>
   <lib>
     <dict>

@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflexgrave.ss01" format="2">
   <advance width="538"/>
+  <guideline x="269.0" y="0" angle="270.0" identifier="0eptmIijpw"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="circumflexcomb_gravecomb" xOffset="113.39999999997963" yOffset="1"/>
+    <component base="circumflexcomb_gravecomb" xOffset="82"/>
   </outline>
   <lib>
     <dict>

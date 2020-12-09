@@ -4,7 +4,7 @@
   <unicode hex="1EC3"/>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="102.92999999997846" yOffset="2"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="103"/>
   </outline>
   <lib>
     <dict>
