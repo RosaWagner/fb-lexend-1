@@ -5,7 +5,7 @@
   <guideline x="323.5" y="0" angle="270.0" identifier="TKzKgAUPID"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb_gravecomb" xOffset="131" yOffset="159"/>
+    <component base="circumflexcomb_gravecomb" xOffset="134" yOffset="159"/>
   </outline>
   <lib>
     <dict>

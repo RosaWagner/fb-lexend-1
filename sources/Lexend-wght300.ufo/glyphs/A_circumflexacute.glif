@@ -5,7 +5,7 @@
   <guideline x="323.5" y="0" angle="270.0" identifier="Ws41FtWbl7"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb_acutecomb" xOffset="129" yOffset="159"/>
+    <component base="circumflexcomb_acutecomb" xOffset="155" yOffset="159"/>
   </outline>
   <lib>
     <dict>
