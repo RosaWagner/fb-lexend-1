@@ -8,19 +8,19 @@ summation
   <outline>
     <contour>
       <point x="479.0" y="0.0" type="line"/>
-      <point x="104.0" y="0.0" type="line"/>
-      <point x="73.0" y="79.0" type="line"/>
-      <point x="321.0" y="367.0" type="line"/>
-      <point x="326.0" y="308.0" type="line"/>
-      <point x="76.0" y="605.0" type="line"/>
-      <point x="108.0" y="676.0" type="line"/>
+      <point x="60.0" y="0.0" type="line"/>
+      <point x="43.0" y="43.0" type="line"/>
+      <point x="327.0" y="367.0" type="line"/>
+      <point x="322.0" y="316.0" type="line"/>
+      <point x="54.0" y="634.0" type="line"/>
+      <point x="71.0" y="676.0" type="line"/>
       <point x="479.0" y="676.0" type="line"/>
       <point x="479.0" y="626.0" type="line"/>
       <point x="111.0" y="626.0" type="line"/>
-      <point x="120.0" y="633.0" type="line"/>
-      <point x="360.0" y="346.0" type="line"/>
-      <point x="360.0" y="331.0" type="line"/>
-      <point x="100.0" y="34.0" type="line"/>
+      <point x="125.0" y="633.0" type="line"/>
+      <point x="368.0" y="346.0" type="line"/>
+      <point x="368.0" y="331.0" type="line"/>
+      <point x="106.0" y="34.0" type="line"/>
       <point x="104.0" y="50.0" type="line"/>
       <point x="479.0" y="50.0" type="line"/>
     </contour>

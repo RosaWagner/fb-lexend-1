@@ -7,10 +7,10 @@ notequal
 </note>
   <outline>
     <contour>
-      <point x="119" y="43" type="line"/>
-      <point x="381" y="525" type="line"/>
-      <point x="434" y="525" type="line"/>
-      <point x="174" y="43" type="line"/>
+      <point x="117" y="43" type="line"/>
+      <point x="379" y="525" type="line"/>
+      <point x="435" y="525" type="line"/>
+      <point x="173" y="43" type="line"/>
     </contour>
     <contour>
       <point x="506" y="345" type="line"/>

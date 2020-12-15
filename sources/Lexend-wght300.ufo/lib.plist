@@ -2247,6 +2247,7 @@
       <string>macroncomb_dieresiscomb</string>
       <string>acutecomb_dotaccentcomb</string>
       <string>caroncomb_dotaccentcomb</string>
+      <string>g.ss01</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
