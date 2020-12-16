@@ -5,8 +5,9 @@
   <note>
 guillemotleft
 </note>
+  <guideline x="446" y="430" angle="0" identifier="lGuDwrXAc9"/>
   <outline>
     <component base="guilsinglleft" xOffset="268"/>
-    <component base="guilsinglleft" xOffset="15"/>
+    <component base="guilsinglleft" xOffset="-5"/>
   </outline>
 </glyph>

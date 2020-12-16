@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="gcaron" format="2">
-  <advance width="638"/>
-  <unicode hex="01E7"/>
+<glyph name="gcommaaccent.ss01" format="2">
+  <advance width="618"/>
+  <unicode hex="0123"/>
   <outline>
-    <component base="caroncomb" xOffset="125" yOffset="38"/>
     <component base="g.ss01"/>
+    <component base="commaaccentcomb" xScale="-1" yScale="-1" xOffset="469.9999999999927" yOffset="601"/>
   </outline>
   <lib>
     <dict>

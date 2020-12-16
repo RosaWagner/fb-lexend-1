@@ -15,15 +15,15 @@ K
       <point x="296" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="230" y="209" type="line"/>
-      <point x="161" y="369" type="line"/>
-      <point x="494" y="700" type="line"/>
+      <point x="230" y="199" type="line"/>
+      <point x="157" y="359" type="line"/>
+      <point x="490" y="700" type="line"/>
       <point x="735" y="700" type="line"/>
     </contour>
     <contour>
       <point x="519" y="0" type="line"/>
-      <point x="265" y="341" type="line"/>
-      <point x="405" y="462" type="line"/>
+      <point x="265" y="331" type="line"/>
+      <point x="405" y="452" type="line"/>
       <point x="764" y="0" type="line"/>
     </contour>
   </outline>

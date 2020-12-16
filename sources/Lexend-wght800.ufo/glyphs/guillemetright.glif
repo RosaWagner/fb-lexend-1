@@ -6,7 +6,7 @@
 guillemotright
 </note>
   <outline>
-    <component base="guilsinglright" xOffset="304"/>
-    <component base="guilsinglright" xOffset="68"/>
+    <component base="guilsinglright" xOffset="334"/>
+    <component base="guilsinglright" xOffset="60"/>
   </outline>
 </glyph>

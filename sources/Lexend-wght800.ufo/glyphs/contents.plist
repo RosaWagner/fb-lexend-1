@@ -1116,16 +1116,28 @@
     <string>franc.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>g.ss01</key>
+    <string>g.ss01.glif</string>
     <key>gbreve</key>
     <string>gbreve.glif</string>
+    <key>gbreve.ss01</key>
+    <string>gbreve.ss01.glif</string>
     <key>gcaron</key>
     <string>gcaron.glif</string>
+    <key>gcaron.ss01</key>
+    <string>gcaron.ss01.glif</string>
     <key>gcircumflex</key>
     <string>gcircumflex.glif</string>
+    <key>gcircumflex.ss01</key>
+    <string>gcircumflex.ss01.glif</string>
     <key>gcommaaccent</key>
     <string>gcommaaccent.glif</string>
+    <key>gcommaaccent.ss01</key>
+    <string>gcommaaccent.ss01.glif</string>
     <key>gdotaccent</key>
     <string>gdotaccent.glif</string>
+    <key>gdotaccent.ss01</key>
+    <string>gdotaccent.ss01.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
     <key>ghain-ar</key>
@@ -1138,6 +1150,8 @@
     <string>ghain-ar.medi.glif</string>
     <key>gmacron</key>
     <string>gmacron.glif</string>
+    <key>gmacron.ss01</key>
+    <string>gmacron.ss01.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
     <key>grave.case</key>
