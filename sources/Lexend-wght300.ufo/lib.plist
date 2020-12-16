@@ -2248,6 +2248,12 @@
       <string>acutecomb_dotaccentcomb</string>
       <string>caroncomb_dotaccentcomb</string>
       <string>g.ss01</string>
+      <string>gcircumflex.ss01</string>
+      <string>gbreve.ss01</string>
+      <string>gdotaccent.ss01</string>
+      <string>gcommaaccent.ss01</string>
+      <string>gcaron.ss01</string>
+      <string>gmacron.ss01</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
