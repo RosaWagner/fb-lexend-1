@@ -3,7 +3,8 @@
   <advance width="739"/>
   <unicode hex="0110"/>
   <outline>
-    <component base="Eth"/>
+    <component base="D"/>
+    <component base="strokeshortcomb" xOffset="-38.5357228053399" yOffset="56"/>
   </outline>
   <lib>
     <dict>

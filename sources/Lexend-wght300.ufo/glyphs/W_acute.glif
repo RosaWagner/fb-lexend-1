@@ -2,10 +2,9 @@
 <glyph name="Wacute" format="2">
   <advance width="917"/>
   <unicode hex="1E82"/>
-  <guideline x="458.5" y="0" angle="270.0" identifier="zo93bk0MWN"/>
   <outline>
     <component base="W"/>
-    <component base="acutecomb.case" xOffset="354" yOffset="182"/>
+    <component base="acutecomb.case" xOffset="329" yOffset="180"/>
   </outline>
   <lib>
     <dict>

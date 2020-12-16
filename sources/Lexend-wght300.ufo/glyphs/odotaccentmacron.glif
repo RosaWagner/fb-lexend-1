@@ -3,10 +3,9 @@
   <advance width="599"/>
   <unicode hex="0023"/>
   <unicode hex="0231"/>
-  <guideline x="299.5" y="0" angle="270.0" identifier="EOprnar995"/>
   <outline>
     <component base="o"/>
-    <component base="dotaccentcomb_macroncomb" xOffset="163"/>
+    <component base="dotaccentcomb_macroncomb" xOffset="161" yOffset="-19"/>
   </outline>
   <lib>
     <dict>

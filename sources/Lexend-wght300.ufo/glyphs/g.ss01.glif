@@ -2,7 +2,8 @@
 <glyph name="g.ss01" format="2">
   <advance width="580"/>
   <guideline x="940" y="531" angle="0" identifier="kFtR80qHX2"/>
-  <guideline x="522" y="64" angle="270" identifier="opgAZz5nif"/>
+  <guideline x="289" y="268" angle="270" name="center" identifier="opgAZz5nif"/>
+  <anchor x="300" y="520" name="top"/>
   <outline>
     <contour>
       <point x="280" y="481" type="qcurve"/>

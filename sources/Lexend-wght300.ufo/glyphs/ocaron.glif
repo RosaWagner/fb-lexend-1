@@ -6,7 +6,7 @@
   <unicode hex="01D2"/>
   <outline>
     <component base="o"/>
-    <component base="caroncomb" xOffset="118.5"/>
+    <component base="caroncomb" xOffset="118.5" yOffset="-15"/>
   </outline>
   <lib>
     <dict>

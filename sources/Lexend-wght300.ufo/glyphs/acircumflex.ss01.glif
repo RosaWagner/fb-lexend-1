@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflex.ss01" format="2">
   <advance width="538"/>
-  <guideline x="269.0" y="0" angle="270.0" identifier="s6prLkXNod"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="circumflexcomb" xOffset="85"/>
+    <component base="circumflexcomb" xOffset="85.16000000000349" yOffset="-21"/>
   </outline>
   <lib>
     <dict>

@@ -2,10 +2,9 @@
 <glyph name="Acircumflexgrave" format="2">
   <advance width="647"/>
   <unicode hex="1EA6"/>
-  <guideline x="323.5" y="0" angle="270.0" identifier="TKzKgAUPID"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb_gravecomb" xOffset="134" yOffset="159"/>
+    <component base="circumflexcomb_gravecomb" xOffset="134.2399999999907" yOffset="154"/>
   </outline>
   <lib>
     <dict>

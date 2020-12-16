@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorndotbelow" format="2">
-  <advance width="590"/>
+  <advance width="594"/>
   <unicode hex="1EF1"/>
-  <guideline x="259" y="-38" angle="270" identifier="t7cv5jgFt9"/>
   <outline>
     <component base="uhorn"/>
-    <component base="dotbelowcomb" xOffset="164" yOffset="-4"/>
+    <component base="dotbelowcomb" xOffset="222.75999999999476" yOffset="-4"/>
   </outline>
   <lib>
     <dict>

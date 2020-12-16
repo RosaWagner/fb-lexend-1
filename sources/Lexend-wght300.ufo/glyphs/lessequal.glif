@@ -14,14 +14,14 @@ lessequal
       <point x="524" y="48" type="line"/>
     </contour>
     <contour>
-      <point x="98" y="316" type="line"/>
-      <point x="98" y="346" type="line"/>
       <point x="516" y="205" type="line"/>
       <point x="501" y="156" type="line"/>
       <point x="73" y="303" type="line"/>
       <point x="73" y="356" type="line"/>
       <point x="501" y="503" type="line"/>
       <point x="516" y="454" type="line"/>
+      <point x="98" y="316" type="line"/>
+      <point x="98" y="346" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -29,8 +29,8 @@ Eng
       <point x="623" y="700" type="line"/>
       <point x="673" y="700" type="line"/>
       <point x="673" y="3" type="line"/>
-      <point x="673" y="-48" type="line" smooth="yes"/>
-      <point x="673" y="-114"/>
+      <point x="673" y="-42" type="line" smooth="yes"/>
+      <point x="673.0" y="-108.0"/>
       <point x="594" y="-195"/>
       <point x="529" y="-195" type="qcurve"/>
       <point x="508" y="-152" type="line"/>

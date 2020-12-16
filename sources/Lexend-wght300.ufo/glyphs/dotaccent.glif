@@ -4,6 +4,7 @@
   <unicode hex="02D9"/>
   <outline>
     <component base="dotaccentcomb"/>
+    <component base="dotaccentcomb"/>
   </outline>
   <lib>
     <dict>

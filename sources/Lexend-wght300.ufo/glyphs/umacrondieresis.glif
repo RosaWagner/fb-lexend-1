@@ -2,11 +2,9 @@
 <glyph name="umacrondieresis" format="2">
   <advance width="560"/>
   <unicode hex="1E7B"/>
-  <guideline x="122" y="524" angle="270" identifier="cJ8wijJ6Mt"/>
-  <guideline x="437" y="554" angle="270" identifier="DU9Oa8T6tG"/>
   <outline>
     <component base="u"/>
-    <component base="macroncomb_dieresiscomb" xOffset="139" yOffset="-13"/>
+    <component base="macroncomb_dieresiscomb" xOffset="138.5" yOffset="-38"/>
   </outline>
   <lib>
     <dict>

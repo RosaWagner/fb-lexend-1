@@ -9,18 +9,18 @@ cent
   <anchor x="317" y="618.0" name="top"/>
   <outline>
     <contour>
-      <point x="317" y="87" type="line"/>
-      <point x="317" y="0" type="line"/>
-      <point x="267" y="0" type="line"/>
-      <point x="267" y="88" type="line"/>
-      <point x="268" y="122" type="line"/>
-      <point x="268" y="577" type="line"/>
-      <point x="267" y="606" type="line"/>
-      <point x="267" y="700" type="line"/>
-      <point x="317" y="700" type="line"/>
-      <point x="317" y="605" type="line"/>
-      <point x="316" y="577" type="line"/>
-      <point x="316" y="121" type="line"/>
+      <point x="327" y="87" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="277" y="88" type="line"/>
+      <point x="278" y="122" type="line"/>
+      <point x="278" y="577" type="line"/>
+      <point x="277" y="606" type="line"/>
+      <point x="277" y="700" type="line"/>
+      <point x="327" y="700" type="line"/>
+      <point x="327" y="605" type="line"/>
+      <point x="326" y="577" type="line"/>
+      <point x="326" y="121" type="line"/>
     </contour>
     <contour>
       <point x="308" y="569" type="qcurve"/>
@@ -29,12 +29,12 @@ cent
       <point x="103" y="349" type="qcurve"/>
       <point x="103" y="253"/>
       <point x="219" y="128"/>
-      <point x="305" y="128" type="qcurve"/>
+      <point x="301" y="128" type="qcurve"/>
       <point x="355" y="128"/>
-      <point x="447" y="172"/>
-      <point x="481" y="212" type="qcurve"/>
-      <point x="513" y="173" type="line"/>
-      <point x="477" y="128"/>
+      <point x="444" y="168"/>
+      <point x="481" y="210" type="qcurve"/>
+      <point x="514" y="173" type="line"/>
+      <point x="478" y="128"/>
       <point x="372" y="78"/>
       <point x="309" y="78" type="qcurve"/>
       <point x="196" y="78"/>

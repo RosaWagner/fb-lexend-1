@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb_macroncomb" format="2">
-  <advance width="274"/>
   <guideline x="137.0" y="0" angle="270.0" identifier="7mpsjCCO7B"/>
   <outline>
     <component base="dotaccentcomb" xOffset="32"/>

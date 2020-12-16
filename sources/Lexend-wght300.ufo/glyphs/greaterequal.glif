@@ -13,7 +13,6 @@ greaterequal
       <point x="554" y="48" type="line"/>
     </contour>
     <contour>
-      <point x="529" y="316" type="line"/>
       <point x="111" y="454" type="line"/>
       <point x="126" y="503" type="line"/>
       <point x="554" y="356" type="line"/>
@@ -21,6 +20,7 @@ greaterequal
       <point x="126" y="156" type="line"/>
       <point x="111" y="205" type="line"/>
       <point x="529" y="346" type="line"/>
+      <point x="529" y="316" type="line"/>
     </contour>
   </outline>
 </glyph>

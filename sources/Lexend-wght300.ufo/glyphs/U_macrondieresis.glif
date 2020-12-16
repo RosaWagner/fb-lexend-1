@@ -4,7 +4,7 @@
   <unicode hex="1E7A"/>
   <outline>
     <component base="U"/>
-    <component base="macroncomb_dieresiscomb" xOffset="235.5" yOffset="117"/>
+    <component base="macroncomb_dieresiscomb" xOffset="235.5" yOffset="137"/>
   </outline>
   <lib>
     <dict>
