@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb_macroncomb" format="2">
-  <advance width="511"/>
   <outline>
-    <component base="dieresiscomb"/>
-    <component base="macroncomb" xOffset="44" yOffset="266"/>
+    <component base="dieresiscomb" xOffset="-20"/>
+    <component base="macroncomb" xOffset="24" yOffset="266"/>
   </outline>
 </glyph>

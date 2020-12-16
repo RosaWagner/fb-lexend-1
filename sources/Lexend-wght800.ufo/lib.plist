@@ -1133,7 +1133,7 @@
     <key>com.schriftgestaltung.widthValue</key>
     <integer>5</integer>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>Lexend-wght800-14-10-20</string>
+    <string>FBLexend-wght800</string>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -1154,6 +1154,8 @@
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.jQl5Mkell2</key>
     <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.pmhmDl4lzk</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.showMeasurements.2sVw57Kb1n</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.KVm5Sq1Zb0</key>
@@ -1161,6 +1163,8 @@
     <key>com.typemytype.robofont.guideline.showMeasurements.P9jSkoa1g3</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.jQl5Mkell2</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.pmhmDl4lzk</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
@@ -2229,12 +2233,12 @@
       <string>acutecomb_dotaccentcomb</string>
       <string>caroncomb_dotaccentcomb</string>
       <string>g.ss01</string>
+      <string>gcircumflex.ss01</string>
       <string>gbreve.ss01</string>
       <string>gdotaccent.ss01</string>
-      <string>gcircumflex.ss01</string>
-      <string>gmacron.ss01</string>
-      <string>gcaron.ss01</string>
       <string>gcommaaccent.ss01</string>
+      <string>gcaron.ss01</string>
+      <string>gmacron.ss01</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

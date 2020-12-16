@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb_acutecomb" format="2">
-  <advance width="443"/>
   <outline>
-    <component base="tildecomb"/>
-    <component base="acutecomb" xOffset="67" yOffset="247"/>
+    <component base="tildecomb" xOffset="-26"/>
+    <component base="acutecomb" xOffset="41" yOffset="247"/>
   </outline>
 </glyph>

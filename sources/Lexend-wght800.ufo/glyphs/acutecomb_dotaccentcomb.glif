@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb_dotaccentcomb" format="2">
-  <advance width="336"/>
   <guideline x="168.0" y="0" angle="90.0" identifier="8qsBZf96nL"/>
   <outline>
-    <component base="acutecomb" xOffset="15"/>
-    <component base="dotaccentcomb" xOffset="25" yOffset="231"/>
+    <component base="acutecomb" xOffset="-10"/>
+    <component base="dotaccentcomb" yOffset="231"/>
   </outline>
 </glyph>
