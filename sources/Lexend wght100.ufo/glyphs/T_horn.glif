@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="567"/>
+  <unicode hex="00DE"/>
+  <note>
+Thorn
+</note>
+  <anchor x="265.0006082441126" y="0" name="bottom"/>
+  <anchor x="265.0006082441126" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="112.99969587794371" y="700.0" type="line"/>
+      <point x="134.00145978587017" y="700.0" type="line"/>
+      <point x="134.00145978587017" y="0.0" type="line"/>
+      <point x="112.99969587794371" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="105.00188555674897" y="170.99939175588742" type="line"/>
+      <point x="104.00188555674897" y="200.00091236616885" type="line"/>
+      <point x="330.0010340149914" y="200.00091236616885" type="line" smooth="yes"/>
+      <point x="409.00024329764506" y="200.00091236616885"/>
+      <point x="489.4997871145606" y="294.0003649464675"/>
+      <point x="489.4997871145606" y="358.0" type="qcurve" smooth="yes"/>
+      <point x="489.4997871145606" y="423.4996046413268"/>
+      <point x="406.00030412205626" y="513.9990876338311"/>
+      <point x="330.0010340149914" y="513.9990876338311" type="qcurve"/>
+      <point x="132.0003041220563" y="513.9990876338311" type="line"/>
+      <point x="146.49942216809305" y="543.0006082441125" type="line"/>
+      <point x="332.0010340149914" y="543.0006082441125" type="line"/>
+      <point x="411.0011556638139" y="543.0006082441125"/>
+      <point x="514.0015206102814" y="436.00024329764506"/>
+      <point x="514.0015206102814" y="358.0" type="qcurve" smooth="yes"/>
+      <point x="514.0015206102814" y="279.99975670235494"/>
+      <point x="411.0011556638139" y="170.99939175588742"/>
+      <point x="330.501064427197" y="170.99939175588742" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>P</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
+</glyph>

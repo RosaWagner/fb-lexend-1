@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb.case" format="2">
+  <anchor x="105.0" y="0" name="_bottom"/>
+  <anchor x="105.0" y="96.99410003210801" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="140.50069948072945" y="-52.501490198075814" type="qcurve" smooth="yes"/>
+      <point x="140.50069948072945" y="-68.00176390792646"/>
+      <point x="123.00030412205629" y="-87.50209844218838"/>
+      <point x="106.0" y="-87.50209844218838" type="qcurve" smooth="yes"/>
+      <point x="89.49966546573808" y="-87.50209844218838"/>
+      <point x="71.49930051927055" y="-68.50179432013209"/>
+      <point x="71.49930051927055" y="-52.501490198075814" type="qcurve" smooth="yes"/>
+      <point x="71.49930051927055" y="-37.00121648822515"/>
+      <point x="88.99969587794371" y="-17.50088195396323"/>
+      <point x="106.0" y="-17.50088195396323" type="qcurve" smooth="yes"/>
+      <point x="122.50033453426192" y="-17.50088195396323"/>
+      <point x="140.50069948072945" y="-36.50118607601952"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>210</integer>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
+</glyph>

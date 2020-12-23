@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <anchor x="170.00060824411258" y="517.5001520610282" name="_top"/>
+  <anchor x="166.50088195396324" y="768.9982360920735" name="top"/>
+  <outline>
+    <contour>
+      <point x="99.00139896145892" y="691.498935572803" type="qcurve" smooth="yes"/>
+      <point x="99.00139896145892" y="675.9986618629523"/>
+      <point x="81.50100360278574" y="656.4983273286904"/>
+      <point x="64.50069948072945" y="656.4983273286904" type="qcurve" smooth="yes"/>
+      <point x="48.00036494646754" y="656.4983273286904"/>
+      <point x="30.0" y="675.4986314507468"/>
+      <point x="30.0" y="691.498935572803" type="qcurve" smooth="yes"/>
+      <point x="30.0" y="706.9992092826536"/>
+      <point x="47.500395358673174" y="726.4995438169155"/>
+      <point x="64.50069948072945" y="726.4995438169155" type="qcurve" smooth="yes"/>
+      <point x="81.00103401499138" y="726.4995438169155"/>
+      <point x="99.00139896145892" y="707.4992396948593"/>
+    </contour>
+    <contour>
+      <point x="296.0015814346927" y="691.498935572803" type="qcurve" smooth="yes"/>
+      <point x="296.0015814346927" y="675.9986618629523"/>
+      <point x="278.5011860760195" y="656.4983273286904"/>
+      <point x="261.50088195396324" y="656.4983273286904" type="qcurve" smooth="yes"/>
+      <point x="245.00054741970132" y="656.4983273286904"/>
+      <point x="227.00018247323376" y="675.4986314507468"/>
+      <point x="227.00018247323376" y="691.498935572803" type="qcurve" smooth="yes"/>
+      <point x="227.00018247323376" y="706.9992092826536"/>
+      <point x="244.50057783190695" y="726.4995438169155"/>
+      <point x="261.50088195396324" y="726.4995438169155" type="qcurve" smooth="yes"/>
+      <point x="278.00121648822517" y="726.4995438169155"/>
+      <point x="296.0015814346927" y="707.4992396948593"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>404</integer>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
+</glyph>

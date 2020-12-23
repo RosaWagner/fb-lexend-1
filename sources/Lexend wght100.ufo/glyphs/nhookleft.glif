@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nhookleft" format="2">
+  <advance width="610"/>
+  <unicode hex="0272"/>
+  <anchor x="318.0" y="0" name="bottom"/>
+  <anchor x="318.0" y="510.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="314.0009731905801" y="528.5001520610282" type="qcurve"/>
+      <point x="393.5011860760195" y="528.5001520610282"/>
+      <point x="480.5012469004308" y="424.50009123661687"/>
+      <point x="480.5012469004308" y="312.50015206102813" type="qcurve"/>
+      <point x="480.5012469004308" y="0.0" type="line"/>
+      <point x="456.9996350535325" y="0.0" type="line"/>
+      <point x="456.9996350535325" y="313.0" type="line"/>
+      <point x="456.9996350535325" y="409.4994221680931"/>
+      <point x="381.00006082441126" y="501.9988443361861"/>
+      <point x="308.5003953586732" y="503.4987530995692" type="qcurve"/>
+      <point x="222.50094277837448" y="503.4987530995692"/>
+      <point x="112.0015814346927" y="389.4996046413268"/>
+      <point x="112.0015814346927" y="318.0" type="qcurve"/>
+      <point x="112.0015814346927" y="0.0" type="line"/>
+      <point x="86.0015814346927" y="0.0"/>
+      <point x="114.49996958779437" y="0.0"/>
+      <point x="88.49996958779437" y="0.0" type="qcurve"/>
+      <point x="88.49996958779437" y="517.5001520610282" type="line"/>
+      <point x="109.00164225910395" y="517.5001520610282" type="line"/>
+      <point x="116.50149019807581" y="406.5002128854394" type="line"/>
+      <point x="116.50112525160827" y="412.49984793897187" type="line"/>
+      <point x="133.00109483940264" y="459.99993917558874"/>
+      <point x="245.00109483940264" y="528.5001520610282"/>
+    </contour>
+    <contour>
+      <point x="88.49996958779437" y="-0.4999695877943713" type="qcurve"/>
+      <point x="112.0015814346927" y="5.500395358673174" type="line"/>
+      <point x="112.0015814346927" y="-65.99914845824239" type="line" smooth="yes"/>
+      <point x="112.0015814346927" y="-123.49954381691558"/>
+      <point x="58.5006386563182" y="-194.00006082441126"/>
+      <point x="-1.9997567023549703" y="-194.00006082441126" type="qcurve"/>
+      <point x="-14.000304122056287" y="-168.99896598500862" type="line"/>
+      <point x="60.4993613436818" y="-168.99896598500862"/>
+      <point x="88.49996958779437" y="-96.99920928265365"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>j</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

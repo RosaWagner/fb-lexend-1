@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="613"/>
+  <unicode hex="0056"/>
+  <note>
+V
+</note>
+  <anchor x="301.50112525160824" y="0" name="bottom"/>
+  <anchor x="301.50112525160824" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="280.00048659529006" y="0.0" type="line"/>
+      <point x="25.49996958779437" y="700.0" type="line"/>
+      <point x="48.0020072055715" y="700.0" type="line"/>
+      <point x="236.0015814346927" y="186.5017943201321" type="line" smooth="yes"/>
+      <point x="258.5016118468983" y="124.50179432013209"/>
+      <point x="286.5016118468983" y="47.00176390792646"/>
+      <point x="311.0013381370477" y="-29.997384550315928" type="qcurve"/>
+      <point x="283.5013685492533" y="-29.49741496252156" type="line"/>
+      <point x="310.0010340149914" y="50.00170308351521"/>
+      <point x="338.5010036027858" y="130.50173349572083"/>
+      <point x="365.00091236616885" y="195.50161184689833" type="qcurve" smooth="yes"/>
+      <point x="569.4999087633831" y="700.0" type="line"/>
+      <point x="587.5020984421884" y="700.0" type="line"/>
+      <point x="314.5019159689546" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

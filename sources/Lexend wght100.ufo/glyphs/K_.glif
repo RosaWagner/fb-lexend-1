@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="638"/>
+  <unicode hex="004B"/>
+  <note>
+K
+</note>
+  <anchor x="327.0001824732338" y="0" name="bottom"/>
+  <anchor x="339.0001824732338" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="112.99969587794371" y="0.0" type="line"/>
+      <point x="112.99969587794371" y="700.0" type="line"/>
+      <point x="134.00145978587017" y="700.0" type="line"/>
+      <point x="134.00145978587017" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="111.50155102248706" y="219.49984793897187" type="line"/>
+      <point x="114.50136854925329" y="259.5014901980758" type="line"/>
+      <point x="566.9996350535324" y="700.0" type="line"/>
+      <point x="601.0018247323377" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="590.499422168093" y="0.0" type="line"/>
+      <point x="285.0001824732338" y="402.99908763383115" type="line"/>
+      <point x="299.00152061028143" y="419.50015206102813" type="line"/>
+      <point x="617.5016118468983" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

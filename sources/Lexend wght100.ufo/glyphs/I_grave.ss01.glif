@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Igrave.ss01" format="2">
+  <advance width="308"/>
+  <outline>
+    <component base="I.ss01"/>
+    <component base="gravecomb.case" xOffset="36.24898119111144" yOffset="179.50003041220563"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

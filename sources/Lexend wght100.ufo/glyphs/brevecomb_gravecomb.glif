@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb" format="2">
+  <anchor x="173.00024329764503" y="523.999756702355" name="_top"/>
+  <anchor x="171.00054741970132" y="740.0" name="top"/>
+  <outline>
+    <component base="brevecomb" xOffset="1.4999087633831136" yOffset="-7.999330931476166"/>
+    <component base="gravecomb" xOffset="52.999878351177486" yOffset="152.50191596895462"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>brevecomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>gravecomb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>402</integer>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
+</glyph>

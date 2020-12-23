@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="929"/>
+  <unicode hex="00C6"/>
+  <note>
+AE
+</note>
+  <anchor x="464.00066906852385" y="0" name="bottom"/>
+  <anchor x="613.0006690685238" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="162.00024329764503" y="209.9988443361861" type="line"/>
+      <point x="189.00079071734635" y="239.00012164882253" type="line"/>
+      <point x="500.9996350535325" y="239.00012164882253" type="line"/>
+      <point x="465.0" y="224.99975670235497" type="line"/>
+      <point x="465.0" y="662.9977494967835" type="line"/>
+      <point x="473.5002128854394" y="629.4982056798679" type="line"/>
+      <point x="33.001642259103946" y="0.0" type="line"/>
+      <point x="-2.4998479389718566" y="0.0" type="line"/>
+      <point x="482.5002128854394" y="700.0" type="line"/>
+      <point x="861.0006690685238" y="700.0" type="line"/>
+      <point x="861.0006690685238" y="671.498692275158" type="line"/>
+      <point x="449.0021896788053" y="671.498692275158" type="line"/>
+      <point x="489.5015510224871" y="711.9980536188398" type="line"/>
+      <point x="489.5015510224871" y="356.5005778319069" type="line"/>
+      <point x="448.5022200910109" y="378.00048659529006" type="line"/>
+      <point x="798.0010340149913" y="378.00048659529006" type="line"/>
+      <point x="798.0010340149913" y="349.9991484582424" type="line"/>
+      <point x="449.5021592665996" y="349.9991484582424" type="line"/>
+      <point x="489.5015510224871" y="372.9989659850086" type="line"/>
+      <point x="489.5015510224871" y="-5.998418565307304" type="line"/>
+      <point x="449.0021896788053" y="28.501307724842036" type="line"/>
+      <point x="855.0007907173464" y="28.501307724842036" type="line"/>
+      <point x="855.0007907173464" y="0.0" type="line"/>
+      <point x="465.0" y="0.0" type="line"/>
+      <point x="465.0" y="233.4986314507467" type="line"/>
+      <point x="498.4997871145606" y="209.9988443361861" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcedilla" format="2">
+  <advance width="347"/>
+  <unicode hex="0163"/>
+  <outline>
+    <component base="t"/>
+    <component base="cedillacomb" xOffset="41.54041482248019" yOffset="-1.4999695877943713"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

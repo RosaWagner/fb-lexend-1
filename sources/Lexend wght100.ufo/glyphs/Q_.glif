@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="789"/>
+  <unicode hex="0051"/>
+  <note>
+Q
+</note>
+  <anchor x="387.0" y="0" name="bottom"/>
+  <anchor x="387.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="393.99993917558874" y="702.5001520610282" type="qcurve"/>
+      <point x="544.9998783511775" y="702.5001520610282"/>
+      <point x="738.4999087633831" y="502.5000304122056"/>
+      <point x="738.4999087633831" y="345.50009123661687" type="qcurve"/>
+      <point x="738.4999087633831" y="188.50015206102813"/>
+      <point x="544.9998783511775" y="-10.0"/>
+      <point x="393.99993917558874" y="-10.0" type="qcurve"/>
+      <point x="243.0" y="-10.0"/>
+      <point x="50.99993917558874" y="189.00012164882253"/>
+      <point x="50.99993917558874" y="345.50009123661687" type="qcurve"/>
+      <point x="50.99993917558874" y="502.00006082441126"/>
+      <point x="243.0" y="702.5001520610282"/>
+    </contour>
+    <contour>
+      <point x="393.99993917558874" y="12.501672671309578" type="qcurve" smooth="yes"/>
+      <point x="533.9991484582424" y="12.501672671309578"/>
+      <point x="713.9981752676623" y="199.50082112955198"/>
+      <point x="713.9981752676623" y="345.50009123661687" type="qcurve"/>
+      <point x="713.9981752676623" y="491.4993613436818"/>
+      <point x="533.9991484582424" y="679.9984793897186"/>
+      <point x="393.99993917558874" y="679.9984793897186" type="qcurve" smooth="yes"/>
+      <point x="254.50069948072945" y="679.9984793897186"/>
+      <point x="75.50167267130958" y="490.9993917558874"/>
+      <point x="75.50167267130958" y="345.50009123661687" type="qcurve"/>
+      <point x="75.50167267130958" y="200.00079071734635"/>
+      <point x="254.50069948072945" y="12.501672671309578"/>
+    </contour>
+    <contour>
+      <point x="456.4996046413268" y="239.0011556638139" type="line"/>
+      <point x="699.0" y="-76.49942216809305" type="line"/>
+      <point x="681.9986010385411" y="-89.0004257708788" type="line"/>
+      <point x="442.4980840310454" y="228.00018247323376" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

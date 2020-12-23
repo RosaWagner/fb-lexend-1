@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.case" format="2">
+  <anchor x="171.00066906852385" y="470.00304122056286" name="_top"/>
+  <anchor x="171.00066906852385" y="730.500577831907" name="top"/>
+  <outline>
+    <component base="brevecomb" yOffset="-28.498084031045394"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>408</integer>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
+</glyph>

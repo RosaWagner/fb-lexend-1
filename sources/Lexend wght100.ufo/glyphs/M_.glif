@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="846"/>
+  <unicode hex="004D"/>
+  <note>
+M
+</note>
+  <anchor x="423.39750653660644" y="0" name="bottom"/>
+  <anchor x="423.39750653660644" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="112.99969587794371" y="700.0" type="line"/>
+      <point x="132.00145978587017" y="700.0" type="line"/>
+      <point x="426.00066906852385" y="222.0012773126364" type="line"/>
+      <point x="419.99975670235494" y="221.50130772484204" type="line"/>
+      <point x="718.498935572803" y="700.0" type="line"/>
+      <point x="733.0006690685238" y="700.0" type="line"/>
+      <point x="733.0006690685238" y="0.0" type="line"/>
+      <point x="711.9989051605974" y="0.0" type="line"/>
+      <point x="711.9989051605974" y="382.9980536188398" type="line" smooth="yes"/>
+      <point x="711.9989051605974" y="472.9980536188398"/>
+      <point x="711.9990876338311" y="616.9980536188398"/>
+      <point x="715.4992396948593" y="687.9980536188398" type="qcurve"/>
+      <point x="730.9992092826536" y="677.9975061991385" type="line"/>
+      <point x="436.0005474197013" y="206.99987835117747" type="line"/>
+      <point x="405.9998175267662" y="206.99987835117747" type="line"/>
+      <point x="121.00109483940264" y="670.9975670235497" type="line"/>
+      <point x="130.50112525160827" y="687.9980536188398" type="line"/>
+      <point x="134.0012773126364" y="620.9980536188398"/>
+      <point x="134.00145978587017" y="479.9980536188398"/>
+      <point x="134.00145978587017" y="382.9980536188398" type="qcurve"/>
+      <point x="134.00145978587017" y="0.0" type="line"/>
+      <point x="107.00145978587018" y="0.0"/>
+      <point x="139.9996958779437" y="0.0"/>
+      <point x="112.99969587794371" y="0.0" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

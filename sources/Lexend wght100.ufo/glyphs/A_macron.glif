@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Amacron" format="2">
+  <advance width="621"/>
+  <unicode hex="0100"/>
+  <outline>
+    <component base="A"/>
+    <component base="macroncomb.case" xOffset="93.75089716006605" yOffset="153.5002128854394"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

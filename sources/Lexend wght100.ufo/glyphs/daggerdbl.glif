@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="434"/>
+  <unicode hex="2021"/>
+  <note>
+daggerdbl
+</note>
+  <outline>
+    <contour>
+      <point x="205.49899639721426" y="196.99993917558874" type="line"/>
+      <point x="205.49899639721426" y="719.5000912366169" type="line"/>
+      <point x="229.00048659529006" y="719.5000912366169" type="line"/>
+      <point x="229.00048659529006" y="196.99993917558874" type="line"/>
+    </contour>
+    <contour>
+      <point x="372.99969587794374" y="552.4991788704481" type="line"/>
+      <point x="60.999695877943715" y="552.4991788704481" type="line"/>
+      <point x="60.999695877943715" y="577.0003649464676" type="line"/>
+      <point x="372.99969587794374" y="577.0003649464676" type="line"/>
+    </contour>
+    <contour>
+      <point x="372.99969587794374" y="389.9995742291212" type="line"/>
+      <point x="60.999695877943715" y="389.9995742291212" type="line"/>
+      <point x="60.999695877943715" y="414.5007603051407" type="line"/>
+      <point x="372.99969587794374" y="414.5007603051407" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
+</glyph>

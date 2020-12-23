@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="775"/>
+  <unicode hex="004E"/>
+  <note>
+N
+</note>
+  <anchor x="384.0001824732338" y="0" name="bottom"/>
+  <anchor x="384.0001824732338" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="640.9989051605974" y="390.5016118468983" type="qcurve"/>
+      <point x="640.9989051605974" y="700.0" type="line"/>
+      <point x="667.9989051605974" y="700.0"/>
+      <point x="635.0006690685238" y="700.0"/>
+      <point x="662.0006690685238" y="700.0" type="qcurve"/>
+      <point x="662.0006690685238" y="0.0" type="line"/>
+      <point x="639.4991180460368" y="0.0" type="line"/>
+      <point x="116.50118607601952" y="685.4972933136991" type="line"/>
+      <point x="132.00109483940264" y="720.4968675428203" type="line"/>
+      <point x="132.2168645812988" y="679.0163062283607"/>
+      <point x="134.00145978587017" y="379.3728662475909"/>
+      <point x="134.00145978587017" y="370.4983881531017" type="qcurve" smooth="yes"/>
+      <point x="134.00145978587017" y="0.0" type="line"/>
+      <point x="112.99969587794371" y="0.0" type="line"/>
+      <point x="112.99969587794371" y="700.0" type="line"/>
+      <point x="133.50124690043077" y="700.0" type="line"/>
+      <point x="648.4994829925043" y="31.001946381160238" type="line"/>
+      <point x="638.4993613436818" y="-3.4975366113440742" type="line"/>
+      <point x="637.4991788704481" y="28.503071632768496"/>
+      <point x="642.4988747483917" y="271.5017943201321"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

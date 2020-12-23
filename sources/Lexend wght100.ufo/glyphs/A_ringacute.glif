@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute" format="2">
+  <advance width="621"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <component base="Aring"/>
+    <component base="acutecomb.case" xOffset="176.50203761777712" yOffset="314.00048659529006"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

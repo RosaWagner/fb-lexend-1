@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.case" format="2">
+  <anchor x="159.0" y="700.0" name="_top"/>
+  <anchor x="159.0" y="991.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="269.0" y="753.0020072055715" type="qcurve"/>
+      <point x="269.0" y="711.0020072055715"/>
+      <point x="203.0" y="648.0020072055715"/>
+      <point x="159.0" y="648.0020072055715" type="qcurve"/>
+      <point x="116.0" y="648.0020072055715"/>
+      <point x="50.0" y="711.0020072055715"/>
+      <point x="50.0" y="753.0020072055715" type="qcurve"/>
+      <point x="50.0" y="796.0020072055715"/>
+      <point x="115.0" y="859.0020072055715"/>
+      <point x="159.0" y="859.0020072055715" type="qcurve"/>
+      <point x="203.0" y="859.0020072055715"/>
+      <point x="269.0" y="796.0020072055715"/>
+    </contour>
+    <contour>
+      <point x="80.00060824411257" y="753.0020072055715" type="qcurve"/>
+      <point x="80.00060824411257" y="722.0022505032165"/>
+      <point x="127.00024329764503" y="677.0026154496841"/>
+      <point x="159.0" y="677.0026154496841" type="qcurve"/>
+      <point x="191.99975670235497" y="677.0026154496841"/>
+      <point x="238.99939175588742" y="722.0022505032165"/>
+      <point x="238.99939175588742" y="753.0020072055715" type="qcurve"/>
+      <point x="238.99939175588742" y="787.5017334957208"/>
+      <point x="191.99975670235497" y="830.0013989614589"/>
+      <point x="159.0" y="830.0013989614589" type="qcurve"/>
+      <point x="124.50027370985066" y="830.0013989614589"/>
+      <point x="80.00060824411257" y="786.5017334957208"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>319</integer>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
+</glyph>

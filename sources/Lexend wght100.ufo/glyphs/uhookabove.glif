@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhookabove" format="2">
+  <advance width="538"/>
+  <unicode hex="1EE7"/>
+  <outline>
+    <component base="u"/>
+    <component base="hookabovecomb" xOffset="127.50033453426192" yOffset="1.500334534261917"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

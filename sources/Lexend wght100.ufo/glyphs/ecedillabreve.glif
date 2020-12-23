@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecedillabreve" format="2">
+  <advance width="517"/>
+  <unicode hex="1E1D"/>
+  <outline>
+    <component base="e"/>
+    <component base="cedillacomb" xOffset="190.47962532163166" yOffset="0.9995742291211975"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

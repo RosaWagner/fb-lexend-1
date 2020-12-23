@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="775"/>
+  <unicode hex="014A"/>
+  <note>
+Eng
+</note>
+  <outline>
+    <contour>
+      <point x="640.9989051605974" y="11.501307724842036" type="line"/>
+      <point x="663.4986314507468" y="-31.499361343681798" type="line"/>
+      <point x="113.50124690043077" y="691.4971716648765" type="line"/>
+      <point x="133.501064427197" y="693.4974149625216" type="line"/>
+      <point x="135.501064427197" y="622.4983881531017"/>
+      <point x="134.0012773126364" y="498.9990268094199"/>
+      <point x="134.50130772484204" y="444.4996654657381" type="qcurve" smooth="yes"/>
+      <point x="134.0013989614589" y="410.99951340470994"/>
+      <point x="134.00145978587017" y="367.9990268094199"/>
+      <point x="134.00145978587017" y="370.4983881531017" type="qcurve"/>
+      <point x="134.00145978587017" y="0.0" type="line"/>
+      <point x="112.99969587794371" y="0.0" type="line"/>
+      <point x="112.99969587794371" y="700.0" type="line"/>
+      <point x="133.50124690043077" y="700.0" type="line"/>
+      <point x="654.4993613436818" y="23.502098442188384" type="line"/>
+      <point x="636.9993917558875" y="19.002007205571502" type="line"/>
+      <point x="637.4991788704481" y="118.50124690043077"/>
+      <point x="642.4988747483917" y="306.00109483940264"/>
+      <point x="640.9989051605974" y="390.5016118468983" type="qcurve"/>
+      <point x="640.9989051605974" y="700.0" type="line"/>
+      <point x="662.0006690685238" y="700.0" type="line"/>
+      <point x="662.0006690685238" y="-24.498327328690422" type="line"/>
+      <point x="662.0006690685238" y="-50.99945258029868" type="line" smooth="yes"/>
+      <point x="662.0006690685238" y="-110.99981752676622"/>
+      <point x="594.4999695877943" y="-194.00006082441126"/>
+      <point x="538.499422168093" y="-194.00006082441126" type="qcurve"/>
+      <point x="526.4988747483917" y="-168.99896598500862" type="line"/>
+      <point x="593.498692275158" y="-168.99896598500862"/>
+      <point x="640.9989051605974" y="-105.99902680941989"/>
+      <point x="640.9989051605974" y="-42.49911804603677" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N</string>
+      <key>public.markColor</key>
+      <string>0.5917,1,0.4781,1</string>
+    </dict>
+  </lib>
+</glyph>

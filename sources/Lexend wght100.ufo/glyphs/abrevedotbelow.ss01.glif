@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevedotbelow.ss01" format="2">
+  <advance width="540"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="brevecomb" xOffset="88.85971899122785" yOffset="-21.998965985008624"/>
+    <component base="dotbelowcomb" xOffset="155.86032723534043" yOffset="-1.0001824732337727"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
