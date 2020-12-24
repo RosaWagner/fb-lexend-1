@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="789"/>
+  <unicode hex="0051"/>
+  <note>
+Q
+</note>
+  <anchor x="387.0" y="0" name="bottom"/>
+  <anchor x="387.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="413" y="273" type="line"/>
+      <point x="666.0" y="-64" type="line"/>
+      <point x="648" y="-78" type="line"/>
+      <point x="394" y="260" type="line"/>
+    </contour>
+    <contour>
+      <point x="394" y="703" type="qcurve"/>
+      <point x="545" y="703"/>
+      <point x="738" y="503"/>
+      <point x="738" y="346" type="qcurve"/>
+      <point x="738" y="189"/>
+      <point x="545" y="-10.0"/>
+      <point x="394" y="-10.0" type="qcurve"/>
+      <point x="243.0" y="-10.0"/>
+      <point x="50" y="189"/>
+      <point x="50" y="346" type="qcurve"/>
+      <point x="50" y="502"/>
+      <point x="243.0" y="703"/>
+    </contour>
+    <contour>
+      <point x="394" y="12" type="qcurve" smooth="yes"/>
+      <point x="534" y="12"/>
+      <point x="715" y="200"/>
+      <point x="715" y="346" type="qcurve"/>
+      <point x="715" y="491"/>
+      <point x="534" y="681"/>
+      <point x="394" y="681" type="qcurve" smooth="yes"/>
+      <point x="255" y="681"/>
+      <point x="73" y="491"/>
+      <point x="73" y="346" type="qcurve"/>
+      <point x="73" y="200"/>
+      <point x="255" y="12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
+</glyph>

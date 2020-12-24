@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h" format="2">
+  <advance width="543"/>
+  <unicode hex="0068"/>
+  <note>
+h
+</note>
+  <anchor x="271.0004257708788" y="0" name="bottom"/>
+  <anchor x="92.00060824411257" y="593.0" name="center"/>
+  <anchor x="88.00066906852383" y="745.4996654657381" name="top"/>
+  <outline>
+    <contour>
+      <point x="282" y="529" type="qcurve"/>
+      <point x="376.5081081081081" y="529.0"/>
+      <point x="468.0" y="428"/>
+      <point x="468" y="319" type="qcurve"/>
+      <point x="468" y="0.0" type="line"/>
+      <point x="446" y="0.0" type="line"/>
+      <point x="446" y="313.0" type="line"/>
+      <point x="446.0" y="411"/>
+      <point x="366.06496157103487" y="505.93422127829825"/>
+      <point x="284" y="507" type="qcurve" smooth="yes"/>
+      <point x="206.2051282051282" y="507.0"/>
+      <point x="99.0" y="391"/>
+      <point x="99" y="318.0" type="qcurve"/>
+      <point x="99" y="0.0" type="line"/>
+      <point x="75" y="0.0"/>
+      <point x="101" y="0.0"/>
+      <point x="77" y="0.0" type="qcurve"/>
+      <point x="77" y="740.0" type="line"/>
+      <point x="99" y="740.0" type="line"/>
+      <point x="100.00152061028143" y="391.50051700749566" type="line"/>
+      <point x="91.00133813704767" y="369.0007298929351" type="line"/>
+      <point x="107.4646116181865" y="447.82448685620915"/>
+      <point x="222.3125021779726" y="529.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
+</glyph>
