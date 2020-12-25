@@ -9,25 +9,29 @@ y
   <anchor x="246.00079071734635" y="524.9996958779437" name="top"/>
   <outline>
     <contour>
-      <point x="263.0011556638139" y="36.00018247323377" type="qcurve"/>
-      <point x="265.0" y="-16.500942778374487" type="line"/>
-      <point x="9.499908763383115" y="517.5001520610282" type="line"/>
-      <point x="29.001946381160238" y="517.5001520610282" type="line"/>
-      <point x="236.501064427197" y="89.50100360278574" type="line" smooth="yes"/>
-      <point x="248.50094277837448" y="63.001277312636404"/>
-      <point x="252.0012773126364" y="59.50009123661689"/>
+      <point x="262" y="22" type="qcurve"/>
+      <point x="251.0" y="-8" type="line"/>
+      <point x="9" y="525" type="line"/>
+      <point x="34" y="525" type="line"/>
+      <point x="231" y="90" type="line" smooth="yes"/>
+      <point x="235" y="82"/>
+      <point x="257" y="32"/>
     </contour>
     <contour>
-      <point x="185.50173349572083" y="-230.0" type="line"/>
-      <point x="162.99993917558874" y="-230.0" type="line"/>
-      <point x="238.50015206102813" y="-28.500091236616885" type="line"/>
-      <point x="252.00066906852385" y="16.000851541757605" type="line"/>
-      <point x="252.50076030514072" y="18.501064427197008"/>
-      <point x="251.00103401499138" y="11.001885556748974"/>
-      <point x="246.50142937366456" y="-0.9970196038483721" type="qcurve"/>
-      <point x="461.49984793897187" y="517.5001520610282" type="line"/>
-      <point x="480.0019463811602" y="517.5001520610282" type="line"/>
-      <point x="273.0017639079265" y="-13.499726290149342" type="line"/>
+      <point x="176" y="-230.0" type="line"/>
+      <point x="151" y="-230.0" type="line"/>
+      <point x="231" y="-29" type="line"/>
+      <point x="249" y="16" type="line"/>
+      <point x="255" y="28" type="line"/>
+      <point x="455" y="525" type="line"/>
+      <point x="480" y="525" type="line"/>
+      <point x="263" y="-13" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

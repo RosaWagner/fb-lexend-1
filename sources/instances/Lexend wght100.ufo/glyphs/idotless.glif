@@ -10,10 +10,16 @@ dotlessi
   <anchor x="91" y="518" name="top"/>
   <outline>
     <contour>
-      <point x="102" y="518" type="line"/>
+      <point x="102" y="525" type="line"/>
       <point x="102" y="0" type="line"/>
       <point x="80" y="0" type="line"/>
-      <point x="80" y="518" type="line"/>
+      <point x="80" y="525" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

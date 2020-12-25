@@ -11,4 +11,10 @@ j
     <component base="jdotless" xOffset="-20"/>
     <component base="dotaccentcomb" xOffset="13" yOffset="11"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

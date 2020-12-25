@@ -9,28 +9,30 @@ k
   <anchor x="240.00079071734635" y="524.9996958779437" name="top"/>
   <outline>
     <contour>
-      <point x="99.0015814346927" y="0.0" type="line"/>
-      <point x="75.49996958779437" y="0.0" type="line"/>
-      <point x="75.49996958779437" y="740.0" type="line"/>
-      <point x="99.0015814346927" y="740.0" type="line"/>
+      <point x="99" y="0.0" type="line"/>
+      <point x="77" y="0.0" type="line"/>
+      <point x="77" y="740.0" type="line"/>
+      <point x="99" y="740.0" type="line"/>
     </contour>
     <contour>
-      <point x="408.0001216488225" y="517.5001520610282" type="line"/>
-      <point x="437.5023417398334" y="517.5001520610282" type="line"/>
-      <point x="91.50155102248706" y="175.99975670235497" type="line"/>
-      <point x="94.00139896145892" y="214.50124690043077" type="line"/>
+      <point x="408" y="525" type="line"/>
+      <point x="440" y="525" type="line"/>
+      <point x="91" y="179" type="line"/>
+      <point x="91" y="211" type="line"/>
     </contour>
     <contour>
-      <point x="476.0017030835152" y="0.0" type="line"/>
+      <point x="474" y="0.0" type="line"/>
       <point x="442.99969587794374" y="0.0" type="line"/>
-      <point x="182.0009731905801" y="301.49857062633544" type="line"/>
-      <point x="196.50215926659962" y="323.49948299250434" type="line"/>
+      <point x="190" y="291" type="line"/>
+      <point x="207" y="307" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>l</string>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

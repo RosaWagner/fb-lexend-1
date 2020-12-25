@@ -9,18 +9,24 @@ z
   <anchor x="209.00079071734635" y="524.9996958779437" name="top"/>
   <outline>
     <contour>
-      <point x="24.002797922917836" y="27.50124690043078" type="line"/>
-      <point x="391.0009731905801" y="27.50124690043078" type="line"/>
-      <point x="391.0009731905801" y="0.0" type="line"/>
+      <point x="44" y="22" type="line"/>
+      <point x="391" y="22" type="line"/>
+      <point x="391" y="0.0" type="line"/>
       <point x="32.00036494646754" y="0.0" type="line"/>
       <point x="32.00036494646754" y="26.001216488225147" type="line"/>
-      <point x="352.4993613436818" y="513.9986618629523" type="line"/>
-      <point x="377.9988443361861" y="489.99890516059736" type="line"/>
-      <point x="32.00036494646754" y="489.99890516059736" type="line"/>
-      <point x="32.00036494646754" y="517.5001520610282" type="line"/>
-      <point x="370.0012773126364" y="517.5001520610282" type="line"/>
-      <point x="370.0012773126364" y="490.4989963972142" type="line"/>
-      <point x="43.00249380086156" y="-5.998175267662276" type="line"/>
+      <point x="358" y="521" type="line"/>
+      <point x="356" y="503" type="line"/>
+      <point x="32" y="503" type="line"/>
+      <point x="32" y="525" type="line"/>
+      <point x="370" y="525" type="line"/>
+      <point x="370" y="497" type="line"/>
+      <point x="48" y="10" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

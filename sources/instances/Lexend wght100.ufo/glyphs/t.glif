@@ -17,10 +17,10 @@ t
       <point x="163" y="659" type="line"/>
     </contour>
     <contour>
-      <point x="325" y="518" type="line"/>
-      <point x="325" y="496" type="line"/>
-      <point x="20" y="496" type="line"/>
-      <point x="20" y="518" type="line"/>
+      <point x="325" y="525" type="line"/>
+      <point x="325" y="503" type="line"/>
+      <point x="20" y="503" type="line"/>
+      <point x="20" y="525" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -9,31 +9,33 @@ r
   <anchor x="176.50082112955198" y="524.9996958779437" name="top"/>
   <outline>
     <contour>
-      <point x="321.00145978587017" y="521.5000912366169" type="qcurve"/>
-      <point x="312.00109483940264" y="490.4984489775129" type="line"/>
-      <point x="297.0011556638139" y="496.9984185653073"/>
-      <point x="272.501064427197" y="499.4985098019242"/>
-      <point x="264.5009427783745" y="499.4985098019242" type="qcurve"/>
-      <point x="171.50173349572083" y="499.4985098019242"/>
-      <point x="96.50161184689833" y="381.49930051927055"/>
-      <point x="96.50161184689833" y="307.9996350535325" type="qcurve"/>
-      <point x="96.50161184689833" y="0.0" type="line"/>
-      <point x="73.49996958779437" y="0.0" type="line"/>
-      <point x="73.49996958779437" y="517.5001520610282" type="line"/>
-      <point x="93.50167267130958" y="517.5001520610282" type="line"/>
-      <point x="101.00152061028143" y="425.9986618629523" type="line"/>
-      <point x="95.50142937366455" y="405.9998783511775" type="line"/>
-      <point x="112.50142937366455" y="452.50009123661687"/>
-      <point x="191.00182473233772" y="528.5001520610282"/>
-      <point x="262.5014901980758" y="528.5001520610282" type="qcurve"/>
-      <point x="279.5014901980758" y="528.5001520610282"/>
-      <point x="307.5015510224871" y="524.0001216488225"/>
+      <point x="321" y="522" type="qcurve"/>
+      <point x="314" y="499" type="line"/>
+      <point x="298" y="504"/>
+      <point x="269" y="508"/>
+      <point x="258" y="508" type="qcurve"/>
+      <point x="177" y="508"/>
+      <point x="97.0" y="392"/>
+      <point x="97" y="338" type="qcurve"/>
+      <point x="97" y="0.0" type="line"/>
+      <point x="75" y="0.0" type="line"/>
+      <point x="75" y="525" type="line"/>
+      <point x="95" y="525" type="line"/>
+      <point x="96" y="398" type="line"/>
+      <point x="90" y="396" type="line"/>
+      <point x="100" y="445"/>
+      <point x="188.2721893491124" y="530.0"/>
+      <point x="263" y="530" type="qcurve"/>
+      <point x="280.0" y="530.0"/>
+      <point x="309" y="526"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>n</string>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>
