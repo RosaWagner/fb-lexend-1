@@ -7,22 +7,22 @@ plusminus
 </note>
   <outline>
     <contour>
-      <point x="529.0000608244112" y="346.4987530995692" type="line"/>
-      <point x="52.99993917558874" y="346.4987530995692" type="line"/>
-      <point x="52.99993917558874" y="373.5000304122056" type="line"/>
-      <point x="529.0000608244112" y="373.5000304122056" type="line"/>
+      <point x="529" y="346" type="line"/>
+      <point x="53" y="346" type="line"/>
+      <point x="53" y="368" type="line"/>
+      <point x="529" y="368" type="line"/>
     </contour>
     <contour>
-      <point x="302.0008515417576" y="178.99927010706492" type="line"/>
-      <point x="278.9992092826536" y="178.99927010706492" type="line"/>
-      <point x="278.9992092826536" y="520.5002737098506" type="line"/>
-      <point x="302.0008515417576" y="520.5002737098506" type="line"/>
+      <point x="302" y="183" type="line"/>
+      <point x="279" y="183" type="line"/>
+      <point x="279" y="525" type="line"/>
+      <point x="302" y="525" type="line"/>
     </contour>
     <contour>
-      <point x="529.0000608244112" y="63.498692275157964" type="line"/>
-      <point x="52.99993917558874" y="63.498692275157964" type="line"/>
-      <point x="52.99993917558874" y="89.50003041220563" type="line"/>
-      <point x="529.0000608244112" y="89.50003041220563" type="line"/>
+      <point x="529" y="68" type="line"/>
+      <point x="53" y="68" type="line"/>
+      <point x="53" y="90" type="line"/>
+      <point x="529" y="90" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ plusminus
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>equal</string>
       <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

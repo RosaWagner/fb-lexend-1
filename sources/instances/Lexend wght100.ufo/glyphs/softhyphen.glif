@@ -13,7 +13,7 @@ softhyphen
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>hyphen</string>
       <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>
