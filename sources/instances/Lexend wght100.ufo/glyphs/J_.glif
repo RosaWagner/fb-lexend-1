@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="J" format="2">
-  <advance width="614"/>
+  <advance width="589"/>
   <unicode hex="004A"/>
   <note>
 J
 </note>
-  <anchor x="284.50051700749566" y="0" name="bottom"/>
-  <anchor x="451.0001216488225" y="700.0" name="top"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="417" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="265" y="-10.0" type="qcurve"/>
-      <point x="201.04545454545456" y="-10.0"/>
-      <point x="100" y="58"/>
-      <point x="64" y="120.0" type="qcurve"/>
-      <point x="80" y="138" type="line"/>
-      <point x="114" y="76"/>
-      <point x="212.97777777777776" y="12.0"/>
-      <point x="267" y="12" type="qcurve" smooth="yes"/>
-      <point x="345.0" y="12.0"/>
-      <point x="445" y="107"/>
-      <point x="445" y="213" type="qcurve"/>
-      <point x="445" y="700.0" type="line"/>
-      <point x="467" y="700.0" type="line"/>
-      <point x="467" y="213.0" type="line"/>
-      <point x="467" y="97"/>
-      <point x="353" y="-10.0"/>
+      <point x="231" y="-10" type="qcurve"/>
+      <point x="167" y="-10"/>
+      <point x="66" y="58"/>
+      <point x="30" y="120" type="qcurve"/>
+      <point x="46" y="138" type="line"/>
+      <point x="80" y="76"/>
+      <point x="179" y="12"/>
+      <point x="233" y="12" type="qcurve" smooth="yes"/>
+      <point x="311" y="12"/>
+      <point x="411" y="107"/>
+      <point x="411" y="213" type="qcurve"/>
+      <point x="411" y="700" type="line"/>
+      <point x="433" y="700" type="line"/>
+      <point x="433" y="213" type="line"/>
+      <point x="433" y="97"/>
+      <point x="319" y="-10"/>
     </contour>
     <contour>
-      <point x="573" y="700.0" type="line"/>
-      <point x="573" y="678" type="line"/>
-      <point x="316" y="678" type="line"/>
-      <point x="316" y="700.0" type="line"/>
+      <point x="539" y="700" type="line"/>
+      <point x="539" y="678" type="line"/>
+      <point x="282" y="678" type="line"/>
+      <point x="282" y="700" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-  <advance width="505"/>
+  <advance width="523"/>
   <unicode hex="004C"/>
   <note>
 L
 </note>
-  <anchor x="288.39750653660644" y="0" name="bottom"/>
-  <anchor x="316.49948299250434" y="350.0" name="center"/>
-  <anchor x="131.39750653660641" y="700.0" name="top"/>
-  <anchor x="190.00723810493963" y="700.0" name="topright"/>
+  <anchor x="306" y="0" name="bottom"/>
+  <anchor x="334" y="350.0" name="center"/>
+  <anchor x="149" y="700.0" name="top"/>
+  <anchor x="208" y="700.0" name="topright"/>
   <outline>
     <contour>
-      <point x="104" y="22" type="line"/>
-      <point x="465" y="22" type="line"/>
-      <point x="465" y="0.0" type="line"/>
-      <point x="92" y="0.0" type="line"/>
-      <point x="92" y="700.0" type="line"/>
-      <point x="114" y="700.0" type="line"/>
-      <point x="114" y="13" type="line"/>
+      <point x="122" y="22" type="line"/>
+      <point x="483" y="22" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="700" type="line"/>
+      <point x="132" y="700" type="line"/>
+      <point x="132" y="13" type="line"/>
     </contour>
   </outline>
   <lib>
