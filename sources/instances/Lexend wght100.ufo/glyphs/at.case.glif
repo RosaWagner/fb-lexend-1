@@ -10,6 +10,8 @@
       <string>at</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>at</string>
+      <key>public.markColor</key>
+      <string>1,0.6921,0.6392,1</string>
     </dict>
   </lib>
 </glyph>

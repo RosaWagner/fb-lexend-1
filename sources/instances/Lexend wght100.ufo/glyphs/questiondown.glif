@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="questiondown" format="2">
-  <advance width="492"/>
+  <advance width="438"/>
   <unicode hex="00BF"/>
   <note>
 questiondown
 </note>
   <outline>
-    <component base="question" xScale="-1" yScale="-1" xOffset="500.49984793897187" yOffset="534"/>
+    <component base="question" xScale="-1" yScale="-1" xOffset="438" yOffset="534"/>
   </outline>
   <lib>
     <dict>
@@ -14,6 +14,8 @@ questiondown
       <string>question</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>question</string>
+      <key>public.markColor</key>
+      <string>1,0.6921,0.6392,1</string>
     </dict>
   </lib>
 </glyph>

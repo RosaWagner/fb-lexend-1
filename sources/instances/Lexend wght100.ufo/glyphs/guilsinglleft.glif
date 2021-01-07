@@ -1,20 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglleft" format="2">
-  <advance width="273"/>
+  <advance width="268"/>
   <unicode hex="2039"/>
   <note>
 guilsinglleft
 </note>
   <outline>
     <contour>
-      <point x="89.00048659529006" y="250.5000912366169" type="line"/>
-      <point x="88.50051700749569" y="268.99993917558874" type="line"/>
-      <point x="240.49984793897187" y="69.50051700749569" type="line"/>
-      <point x="213.49911804603676" y="52.99993917558874" type="line"/>
-      <point x="54.99902680941988" y="257.50009123661687" type="line"/>
-      <point x="54.99902680941988" y="264.4997871145606" type="line"/>
-      <point x="213.99908763383115" y="466.50009123661687" type="line"/>
-      <point x="242.4997871145606" y="451.49948299250434" type="line"/>
+      <point x="57" y="261" type="line"/>
+      <point x="57" y="281" type="line"/>
+      <point x="228" y="86" type="line"/>
+      <point x="209" y="73" type="line"/>
+      <point x="40" y="268" type="line"/>
+      <point x="40" y="274" type="line"/>
+      <point x="209" y="457" type="line"/>
+      <point x="228" y="444" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6921,0.6392,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.zero" format="2">
-  <advance width="607"/>
+  <advance width="626"/>
   <outline>
-    <component base="zero"/>
-    <component base="periodcentered" xOffset="203.49972629014934" yOffset="48.499604641326826"/>
+    <component base="zero" xOffset="3"/>
+    <component base="periodcentered" xOffset="199" yOffset="48"/>
   </outline>
   <lib>
     <dict>
@@ -22,6 +22,8 @@
       <string>zero</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

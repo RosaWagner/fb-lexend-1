@@ -7,50 +7,50 @@ eth
 </note>
   <outline>
     <contour>
-      <point x="535.4999695877943" y="258.50045618308445" type="qcurve"/>
-      <point x="535.4999695877943" y="142.5002128854394"/>
-      <point x="396.4999695877944" y="-11.499908763383115"/>
-      <point x="288.4999695877944" y="-11.499908763383115" type="qcurve"/>
-      <point x="178.00012164882253" y="-11.499908763383115"/>
-      <point x="40.0" y="141.50015206102813"/>
-      <point x="40.0" y="263.4999695877944" type="qcurve"/>
-      <point x="40.0" y="381.99975670235494"/>
-      <point x="186.4999087633831" y="526.5000304122057"/>
-      <point x="306.4993613436818" y="526.5000304122057" type="qcurve"/>
-      <point x="379.9993917558874" y="526.5000304122057"/>
-      <point x="495.49911804603676" y="438.49984793897187"/>
-      <point x="520.498935572803" y="392.99908763383115" type="qcurve"/>
-      <point x="512.4980840310454" y="381.99993917558874" type="line"/>
-      <point x="503.49814485545664" y="475.5003953586732"/>
-      <point x="322.534498750187" y="701.4874967062025"/>
-      <point x="200.4993613436818" y="718.9988443361862" type="qcurve"/>
-      <point x="211.0" y="738.5000304122057" type="line"/>
-      <point x="360.4999695877944" y="702.5000304122057"/>
-      <point x="535.4999695877943" y="455.0001824732338"/>
+      <point x="536" y="259" type="qcurve"/>
+      <point x="536.0" y="143.0"/>
+      <point x="396" y="-10.0"/>
+      <point x="288" y="-10" type="qcurve"/>
+      <point x="178.0" y="-10.0"/>
+      <point x="40.0" y="142"/>
+      <point x="40.0" y="263" type="qcurve"/>
+      <point x="40.0" y="382.0"/>
+      <point x="182" y="527.0"/>
+      <point x="292" y="527" type="qcurve"/>
+      <point x="375" y="527.0"/>
+      <point x="504" y="423"/>
+      <point x="511" y="369" type="qcurve"/>
+      <point x="501" y="371" type="line"/>
+      <point x="501.0" y="492.0"/>
+      <point x="320" y="697"/>
+      <point x="201" y="718" type="qcurve"/>
+      <point x="211.0" y="739" type="line"/>
+      <point x="361" y="707.0"/>
+      <point x="536.0" y="465.0"/>
     </contour>
     <contour>
-      <point x="71.00133813704767" y="263.4999695877944" type="qcurve" smooth="yes"/>
-      <point x="71.00133813704767" y="154.50069948072945"/>
-      <point x="192.5006386563182" y="15.501490198075814"/>
-      <point x="288.4999695877944" y="15.501490198075814" type="qcurve"/>
-      <point x="382.99933093147615" y="15.501490198075814"/>
-      <point x="504.4986314507467" y="154.50069948072945"/>
-      <point x="504.4986314507467" y="263.4999695877944" type="qcurve" smooth="yes"/>
-      <point x="504.4986314507467" y="370.4992396948593"/>
-      <point x="382.99933093147615" y="505.4985098019242"/>
-      <point x="288.4999695877944" y="505.4985098019242" type="qcurve"/>
-      <point x="192.5006386563182" y="505.4985098019242"/>
-      <point x="71.00133813704767" y="369.9992701070649"/>
+      <point x="63" y="263" type="qcurve" smooth="yes"/>
+      <point x="63.0" y="153.0"/>
+      <point x="189" y="12.0"/>
+      <point x="288" y="12" type="qcurve"/>
+      <point x="387" y="12.0"/>
+      <point x="513.0" y="153.0"/>
+      <point x="513" y="263" type="qcurve" smooth="yes"/>
+      <point x="513.0" y="370.0"/>
+      <point x="387" y="505.0"/>
+      <point x="288" y="505" type="qcurve"/>
+      <point x="189" y="505.0"/>
+      <point x="63.0" y="370.0"/>
     </contour>
     <contour>
-      <point x="399.4990572216255" y="623.4989963972142" type="line"/>
-      <point x="161.99987835117747" y="562.4993005192705" type="line"/>
-      <point x="156.49972629014934" y="591.5000304122057" type="line"/>
-      <point x="371.9982969164848" y="647.9996350535324" type="line"/>
-      <point x="389.4990572216255" y="650.0" type="line"/>
-      <point x="483.0001216488225" y="677.0001216488225" type="line"/>
-      <point x="490.5003345342619" y="648.4993613436818" type="line"/>
-      <point x="414.9995742291212" y="625.4993005192705" type="line"/>
+      <point x="380" y="632" type="line"/>
+      <point x="164" y="574" type="line"/>
+      <point x="160" y="596" type="line"/>
+      <point x="362" y="650" type="line"/>
+      <point x="375" y="653" type="line"/>
+      <point x="487" y="684" type="line"/>
+      <point x="493" y="663" type="line"/>
+      <point x="395" y="636" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -60,7 +60,7 @@ eth
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>o</string>
       <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

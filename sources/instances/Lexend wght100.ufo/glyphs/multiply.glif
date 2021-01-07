@@ -7,22 +7,22 @@ multiply
 </note>
   <outline>
     <contour>
-      <point x="401.0009731905801" y="125.00024329764503" type="line"/>
-      <point x="379.0001216488225" y="101.99951340470994" type="line"/>
-      <point x="42.499847938971854" y="439.49972629014934" type="line"/>
-      <point x="63.00072989293509" y="462.00048659529006" type="line"/>
+      <point x="404" y="123" type="line"/>
+      <point x="387" y="108" type="line"/>
+      <point x="49" y="445" type="line"/>
+      <point x="66" y="460" type="line"/>
     </contour>
     <contour>
-      <point x="62.00072989293509" y="109.99920928265365" type="line"/>
-      <point x="40.49996958779437" y="128.50015206102813" type="line"/>
-      <point x="376.5002128854394" y="463.50045618308445" type="line"/>
-      <point x="397.5010036027858" y="444.49954381691555" type="line"/>
+      <point x="57" y="108" type="line"/>
+      <point x="40" y="123" type="line"/>
+      <point x="378" y="460" type="line"/>
+      <point x="395" y="445" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

@@ -29,9 +29,9 @@ n
       <point x="70" y="525" type="line"/>
       <point x="90" y="525" type="line"/>
       <point x="92" y="404" type="line"/>
-      <point x="83" y="403" type="line"/>
-      <point x="99.0" y="454.0"/>
-      <point x="216.0" y="530.0"/>
+      <point x="83" y="401" type="line"/>
+      <point x="98.8876052317522" y="452.6347170031947"/>
+      <point x="215.0" y="530.0"/>
     </contour>
   </outline>
   <lib>

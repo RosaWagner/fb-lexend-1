@@ -5,14 +5,14 @@
   <note>
 k
 </note>
-  <anchor x="264.00030412205626" y="0" name="bottom"/>
-  <anchor x="240.00079071734635" y="524.9996958779437" name="top"/>
+  <anchor x="264" y="0" name="bottom"/>
+  <anchor x="240" y="525" name="top"/>
   <outline>
     <contour>
-      <point x="99" y="0.0" type="line"/>
-      <point x="77" y="0.0" type="line"/>
-      <point x="77" y="740.0" type="line"/>
-      <point x="99" y="740.0" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="77" y="740" type="line"/>
+      <point x="99" y="740" type="line"/>
     </contour>
     <contour>
       <point x="408" y="525" type="line"/>
@@ -21,8 +21,8 @@ k
       <point x="91" y="211" type="line"/>
     </contour>
     <contour>
-      <point x="474" y="0.0" type="line"/>
-      <point x="442.99969587794374" y="0.0" type="line"/>
+      <point x="474" y="0" type="line"/>
+      <point x="443" y="0" type="line"/>
       <point x="190" y="291" type="line"/>
       <point x="207" y="307" type="line"/>
     </contour>

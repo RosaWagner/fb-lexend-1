@@ -1,36 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nhookleft" format="2">
-  <advance width="783"/>
+  <advance width="730"/>
   <unicode hex="019D"/>
   <outline>
     <contour>
-      <point x="142.0009731905801" y="370.4983881531017" type="qcurve"/>
-      <point x="142.0009731905801" y="-59.99927010706491" type="line" smooth="yes"/>
-      <point x="142.0009731905801" y="-119.99963505353246"/>
-      <point x="74.50027370985066" y="-194.00006082441126"/>
-      <point x="18.49972629014934" y="-194.00006082441126" type="qcurve"/>
-      <point x="6.499178870448027" y="-168.99896598500862" type="line"/>
-      <point x="73.49899639721426" y="-168.99896598500862"/>
-      <point x="120.99920928265365" y="-105.99902680941989"/>
-      <point x="120.99920928265365" y="-42.49911804603677" type="qcurve"/>
-      <point x="120.99920928265365" y="700.0" type="line"/>
-      <point x="141.50076030514072" y="700.0" type="line"/>
-      <point x="656.4989963972142" y="31.001946381160238" type="line"/>
-      <point x="646.4988747483917" y="-3.4975366113440742" type="line"/>
-      <point x="645.498692275158" y="28.503071632768496"/>
-      <point x="650.4983881531017" y="271.5017943201321"/>
-      <point x="648.9984185653072" y="390.5016118468983" type="qcurve"/>
-      <point x="648.9984185653072" y="700.0" type="line"/>
-      <point x="670.0001824732337" y="700.0" type="line"/>
-      <point x="670.0001824732337" y="0.0" type="line"/>
-      <point x="647.4986314507468" y="0.0" type="line"/>
-      <point x="124.50069948072945" y="685.4972933136991" type="line"/>
-      <point x="140.00060824411258" y="720.4968675428203" type="line"/>
-      <point x="140.5006386563182" y="700.496806718409"/>
-      <point x="139.0008515417576" y="621.9965330085583"/>
-      <point x="139.50088195396324" y="565.9972020770822" type="qcurve" smooth="yes"/>
-      <point x="140.50094277837448" y="497.99774949678346"/>
-      <point x="142.0009731905801" y="373.99890516059736"/>
+      <point x="110" y="700" type="line"/>
+      <point x="132" y="700" type="line"/>
+      <point x="605" y="31" type="line"/>
+      <point x="601" y="31" type="line"/>
+      <point x="601" y="75"/>
+      <point x="599" y="177"/>
+      <point x="598" y="241" type="qcurve"/>
+      <point x="598" y="700" type="line"/>
+      <point x="620" y="700" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="600" y="0" type="line"/>
+      <point x="115" y="686" type="line"/>
+      <point x="130" y="686" type="line"/>
+      <point x="131" y="661"/>
+      <point x="133" y="525"/>
+      <point x="132" y="470" type="qcurve" smooth="yes"/>
+      <point x="132" y="-60" type="line" smooth="yes"/>
+      <point x="132" y="-125"/>
+      <point x="66" y="-194"/>
+      <point x="6" y="-194" type="qcurve"/>
+      <point x="-2" y="-173" type="line"/>
+      <point x="60" y="-173"/>
+      <point x="110" y="-108"/>
+      <point x="110" y="-56" type="qcurve"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +35,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>N</string>
       <key>public.markColor</key>
-      <string>0.5917,1,0.4781,1</string>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>
