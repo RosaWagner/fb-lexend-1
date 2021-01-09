@@ -5,24 +5,31 @@
   <note>
 summation
 </note>
+  <guideline x="70" y="669" angle="270" identifier="sY6RFlbpFf"/>
   <outline>
     <contour>
-      <point x="478.5000304122056" y="0.0" type="line"/>
-      <point x="37.501368549253286" y="0.0" type="line"/>
-      <point x="34.00054741970132" y="14.501733495720842" type="line"/>
-      <point x="346.4988139239805" y="367.0" type="line"/>
-      <point x="337.4990572216255" y="319.99975670235494" type="line"/>
-      <point x="50.5002128854394" y="662.9982360920735" type="line"/>
-      <point x="54.001034014991376" y="676.0" type="line"/>
-      <point x="478.5000304122056" y="676.0" type="line"/>
-      <point x="478.5000304122056" y="641.9990268094199" type="line"/>
-      <point x="98.00079071734635" y="641.9990268094199" type="line"/>
-      <point x="114.00066906852383" y="645.9992092826536" type="line"/>
+      <point x="489" y="0.0" type="line"/>
+      <point x="64" y="0.0" type="line"/>
+      <point x="59" y="15" type="line"/>
+      <point x="351" y="347.0" type="line"/>
+      <point x="352" y="330" type="line"/>
+      <point x="69" y="663" type="line"/>
+      <point x="72" y="676.0" type="line"/>
+      <point x="479" y="676.0" type="line"/>
+      <point x="479" y="654" type="line"/>
+      <point x="98" y="654" type="line"/>
+      <point x="96" y="667" type="line"/>
       <point x="370.49984793897187" y="346.0" type="line"/>
       <point x="370.49984793897187" y="331.0" type="line"/>
-      <point x="86.00121648822514" y="16.001094839402633" type="line"/>
-      <point x="84.50118607601952" y="34.50094277837449" type="line"/>
-      <point x="478.5000304122056" y="34.50094277837449" type="line"/>
+      <point x="91" y="16" type="line"/>
+      <point x="91" y="22" type="line"/>
+      <point x="489" y="22" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

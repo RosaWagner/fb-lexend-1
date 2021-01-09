@@ -5,26 +5,34 @@
   <note>
 lozenge
 </note>
+  <guideline x="299" y="669" angle="270" identifier="o7JisqeFAG"/>
+  <guideline x="79" y="328" angle="0" identifier="wizVCiE95x"/>
   <outline>
     <contour>
-      <point x="321.4986314507467" y="-8.50197679336587" type="line"/>
-      <point x="-118.99057221625509" y="544.9868011027571" type="line"/>
-      <point x="56.998722687363596" y="299.5017334957208" type="line"/>
-      <point x="446.49102839933954" y="892.4876222323091" type="line"/>
-      <point x="290.50051700749566" y="675.5008211295519" type="line"/>
-      <point x="705.9911196359565" y="128.01216488225145" type="line"/>
-      <point x="544.0009731905801" y="349.9986618629523" type="line"/>
-      <point x="150.50903242507172" y="-250.9872268736359" type="line"/>
+      <point x="299" y="-37" type="line"/>
+      <point x="36" y="328" type="line"/>
+      <point x="36" y="328" type="line"/>
+      <point x="299" y="689" type="line"/>
+      <point x="299" y="689" type="line"/>
+      <point x="560" y="328" type="line"/>
+      <point x="560" y="328" type="line"/>
+      <point x="299" y="-37" type="line"/>
     </contour>
     <contour>
-      <point x="81.00103401499138" y="335.0" type="line"/>
-      <point x="323.4996654657381" y="-15.49802320663413" type="line"/>
-      <point x="275.00030412205626" y="-14.997992794428498" type="line"/>
-      <point x="523.9989051605974" y="343.0" type="line"/>
-      <point x="526.9988443361862" y="310.0" type="line"/>
-      <point x="279.0001824732338" y="657.998114443251" type="line"/>
-      <point x="318.4997871145606" y="657.998114443251" type="line"/>
-      <point x="72.00115566381389" y="316.0" type="line"/>
+      <point x="55" y="343" type="line"/>
+      <point x="308" y="-9" type="line"/>
+      <point x="290" y="-9" type="line"/>
+      <point x="543" y="346" type="line"/>
+      <point x="543" y="310" type="line"/>
+      <point x="286" y="667" type="line"/>
+      <point x="312" y="667" type="line"/>
+      <point x="55" y="313" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

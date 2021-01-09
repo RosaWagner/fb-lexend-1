@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="manat" format="2">
-  <advance width="756"/>
+  <advance width="744"/>
   <unicode hex="20BC"/>
   <anchor x="387.49984793897187" y="694.0" name="bottom"/>
   <anchor x="104.49984793897185" y="684.0" name="ogonek"/>
@@ -8,30 +8,30 @@
   <anchor x="245.49984793897187" y="-14.0" name="topright"/>
   <outline>
     <contour>
-      <point x="396.5003953586732" y="801.0" type="line"/>
-      <point x="396.5003953586732" y="254.0" type="line"/>
-      <point x="369.9989659850086" y="254.0" type="line"/>
-      <point x="369.9989659850086" y="801.0" type="line"/>
+      <point x="379" y="801" type="line"/>
+      <point x="379" y="254" type="line"/>
+      <point x="357" y="254" type="line"/>
+      <point x="357" y="801" type="line"/>
     </contour>
     <contour>
-      <point x="138.0012773126364" y="-7.0" type="line"/>
-      <point x="115.99963505353246" y="-7.0" type="line"/>
-      <point x="115.99963505353246" y="425.0" type="line"/>
-      <point x="115.99963505353246" y="545.4999695877943"/>
-      <point x="265.49984793897187" y="700.0"/>
-      <point x="381.4999695877944" y="700.0" type="qcurve"/>
-      <point x="494.50015206102813" y="700.0"/>
-      <point x="639.5004561830845" y="545.4999695877943"/>
-      <point x="639.5004561830845" y="425.0" type="qcurve"/>
-      <point x="639.5004561830845" y="-7.0" type="line"/>
-      <point x="618.498692275158" y="-7.0" type="line"/>
-      <point x="618.498692275158" y="416.0" type="line"/>
-      <point x="618.498692275158" y="530.9992092826536"/>
-      <point x="486.9992701070649" y="676.998357740896"/>
-      <point x="381.4999695877944" y="676.998357740896" type="qcurve"/>
-      <point x="273.5006386563182" y="676.998357740896"/>
-      <point x="138.0012773126364" y="530.9992092826536"/>
-      <point x="138.0012773126364" y="416.0" type="qcurve"/>
+      <point x="612" y="0" type="line"/>
+      <point x="612" y="422" type="line"/>
+      <point x="612" y="537"/>
+      <point x="476" y="684"/>
+      <point x="368" y="684" type="qcurve"/>
+      <point x="263" y="684"/>
+      <point x="132" y="537"/>
+      <point x="132" y="422" type="qcurve"/>
+      <point x="132" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="431" type="line"/>
+      <point x="111" y="551"/>
+      <point x="255" y="706"/>
+      <point x="368" y="706" type="qcurve"/>
+      <point x="484" y="706"/>
+      <point x="634" y="551"/>
+      <point x="634" y="431" type="qcurve"/>
+      <point x="634" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,6 +40,8 @@
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>H</string>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

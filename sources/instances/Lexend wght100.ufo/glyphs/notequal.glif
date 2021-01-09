@@ -7,22 +7,22 @@ notequal
 </note>
   <outline>
     <contour>
-      <point x="125.99945258029868" y="50.49954381691557" type="line"/>
-      <point x="384.4996654657381" y="519.5003345342619" type="line"/>
-      <point x="425.5005778319069" y="519.0003649464676" type="line"/>
-      <point x="169.00024329764503" y="50.49954381691557" type="line"/>
+      <point x="142" y="50" type="line"/>
+      <point x="400" y="520" type="line"/>
+      <point x="426" y="519" type="line"/>
+      <point x="168" y="50" type="line"/>
     </contour>
     <contour>
-      <point x="501.00030412205626" y="351.9995742291212" type="line"/>
-      <point x="64.99969587794371" y="351.9995742291212" type="line"/>
-      <point x="64.99969587794371" y="379.0008515417576" type="line"/>
-      <point x="501.00030412205626" y="379.0008515417576" type="line"/>
+      <point x="501" y="357" type="line"/>
+      <point x="65" y="357" type="line"/>
+      <point x="65" y="379" type="line"/>
+      <point x="501" y="379" type="line"/>
     </contour>
     <contour>
-      <point x="64.99969587794371" y="191.49899639721426" type="line"/>
-      <point x="64.99969587794371" y="219.00024329764503" type="line"/>
-      <point x="501.00030412205626" y="219.00024329764503" type="line"/>
-      <point x="501.00030412205626" y="191.49899639721426" type="line"/>
+      <point x="501" y="191" type="line"/>
+      <point x="65" y="191" type="line"/>
+      <point x="65" y="213" type="line"/>
+      <point x="501" y="213" type="line"/>
     </contour>
   </outline>
 </glyph>
