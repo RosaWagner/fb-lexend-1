@@ -7,18 +7,24 @@ bulletoperator
 </note>
   <outline>
     <contour>
-      <point x="149.00091236616885" y="301.0" type="qcurve" smooth="yes"/>
-      <point x="149.00091236616885" y="290.4996046413268"/>
+      <point x="149" y="301.0" type="qcurve" smooth="yes"/>
+      <point x="149" y="290"/>
       <point x="133.62009096646332" y="273.99908763383115"/>
       <point x="123.0" y="273.99908763383115" type="qcurve" smooth="yes"/>
       <point x="111.49277573993061" y="273.99908763383115"/>
-      <point x="94.99908763383114" y="290.4996046413268"/>
-      <point x="94.99908763383114" y="301.0" type="qcurve" smooth="yes"/>
-      <point x="94.99908763383114" y="312.0003649464675"/>
+      <point x="95" y="290"/>
+      <point x="95" y="301.0" type="qcurve" smooth="yes"/>
+      <point x="95" y="312"/>
       <point x="111.49277573993061" y="328.00091236616885"/>
       <point x="123.0" y="328.00091236616885" type="qcurve" smooth="yes"/>
       <point x="133.62009096646332" y="328.00091236616885"/>
-      <point x="149.00091236616885" y="312.0003649464675"/>
+      <point x="149" y="312"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

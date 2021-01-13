@@ -5,18 +5,19 @@
   <note>
 notequal
 </note>
+  <guideline x="334" y="509" angle="0" identifier="lApVgvxS7J"/>
   <outline>
     <contour>
-      <point x="142" y="50" type="line"/>
-      <point x="400" y="520" type="line"/>
-      <point x="426" y="519" type="line"/>
-      <point x="168" y="50" type="line"/>
+      <point x="142" y="46" type="line"/>
+      <point x="400" y="516" type="line"/>
+      <point x="426" y="516" type="line"/>
+      <point x="168" y="46" type="line"/>
     </contour>
     <contour>
-      <point x="501" y="357" type="line"/>
-      <point x="65" y="357" type="line"/>
-      <point x="65" y="379" type="line"/>
-      <point x="501" y="379" type="line"/>
+      <point x="501" y="349" type="line"/>
+      <point x="65" y="349" type="line"/>
+      <point x="65" y="371" type="line"/>
+      <point x="501" y="371" type="line"/>
     </contour>
     <contour>
       <point x="501" y="191" type="line"/>
@@ -25,4 +26,10 @@ notequal
       <point x="501" y="213" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -7,17 +7,37 @@ radical
 </note>
   <outline>
     <contour>
-      <point x="209.00145978587017" y="-130.0" type="line"/>
-      <point x="220.99939175588742" y="-130.0" type="line"/>
-      <point x="44.99939175588743" y="309.0" type="line"/>
-      <point x="74.50100360278574" y="309.0" type="line"/>
-      <point x="226.00066906852385" y="-76.00024329764503" type="line"/>
-      <point x="208.4999087633831" y="-78.99975670235497" type="line"/>
-      <point x="480.49984793897187" y="700.0" type="line"/>
+      <point x="219" y="-112.0" type="line"/>
+      <point x="216" y="-112.0" type="line"/>
+      <point x="47" y="309.0" type="line"/>
+      <point x="73" y="309.0" type="line"/>
+      <point x="224" y="-67" type="line"/>
+      <point x="209" y="-67" type="line"/>
+      <point x="480" y="700.0" type="line"/>
       <point x="664.0" y="700.0" type="line"/>
-      <point x="664.0" y="673.4985706263354" type="line"/>
-      <point x="480.00024329764506" y="673.4985706263354" type="line"/>
-      <point x="512.0008515417576" y="703.9982969164848" type="line"/>
+      <point x="664.0" y="678" type="line"/>
+      <point x="480" y="678" type="line"/>
+      <point x="503" y="691" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="283" type="qcurve" smooth="yes"/>
+      <point x="61" y="283"/>
+      <point x="55" y="289"/>
+      <point x="55" y="294" type="qcurve" smooth="yes"/>
+      <point x="55" y="299"/>
+      <point x="61" y="305"/>
+      <point x="66" y="305" type="qcurve" smooth="yes"/>
+      <point x="71" y="305"/>
+      <point x="77" y="299"/>
+      <point x="77" y="294" type="qcurve" smooth="yes"/>
+      <point x="77" y="289"/>
+      <point x="71" y="283"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

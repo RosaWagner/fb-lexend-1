@@ -7,10 +7,16 @@ divisionslash
 </note>
   <outline>
     <contour>
-      <point x="84.0004257708788" y="-107.0" type="line"/>
-      <point x="40.99963505353246" y="-107.0" type="line"/>
-      <point x="464.9996350535325" y="756.0" type="line"/>
-      <point x="508.0004257708788" y="756.0" type="line"/>
+      <point x="84" y="-107.0" type="line"/>
+      <point x="58" y="-107.0" type="line"/>
+      <point x="482" y="756.0" type="line"/>
+      <point x="508" y="756.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>
