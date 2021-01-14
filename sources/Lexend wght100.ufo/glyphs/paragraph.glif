@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paragraph" format="2">
+  <advance width="594"/>
+  <unicode hex="00B6"/>
+  <note>
+paragraph
+</note>
+  <outline>
+    <contour>
+      <point x="482" y="0.0" type="line"/>
+      <point x="460" y="0.0" type="line"/>
+      <point x="460" y="690" type="line"/>
+      <point x="471" y="678" type="line"/>
+      <point x="331" y="678" type="line"/>
+      <point x="342" y="690" type="line"/>
+      <point x="342" y="0.0" type="line"/>
+      <point x="320" y="0.0" type="line"/>
+      <point x="320" y="291.0" type="line"/>
+      <point x="331" y="279.0" type="line"/>
+      <point x="265.9993917558874" y="279.0" type="line" smooth="yes"/>
+      <point x="185" y="279"/>
+      <point x="77.99939175588743" y="396.0"/>
+      <point x="77.99939175588743" y="486.0" type="qcurve" smooth="yes"/>
+      <point x="77.99939175588743" y="583.0"/>
+      <point x="200.99939175588742" y="700.0"/>
+      <point x="302.9993917558874" y="700.0" type="qcurve"/>
+      <point x="482" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
+</glyph>

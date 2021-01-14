@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring.case" format="2">
+  <advance width="336"/>
+  <anchor x="164.0" y="628.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="266" y="835.0" type="qcurve"/>
+      <point x="266.0" y="797.0"/>
+      <point x="207.2" y="740.0"/>
+      <point x="168.0" y="740" type="qcurve"/>
+      <point x="129.78787878787878" y="740.0"/>
+      <point x="71.0" y="797.0"/>
+      <point x="71.0" y="835.0" type="qcurve"/>
+      <point x="71.0" y="874.0"/>
+      <point x="128.8080808080808" y="931.0"/>
+      <point x="168.0" y="931.0" type="qcurve"/>
+      <point x="207.2" y="931.0"/>
+      <point x="266.0" y="874.0"/>
+    </contour>
+    <contour>
+      <point x="93" y="835.0" type="qcurve"/>
+      <point x="93.0" y="806.0"/>
+      <point x="137.8051948051948" y="762.0"/>
+      <point x="168.0" y="762" type="qcurve"/>
+      <point x="199.17948717948718" y="762.0"/>
+      <point x="244.0" y="806.0"/>
+      <point x="244" y="835.0" type="qcurve"/>
+      <point x="244.0" y="868.0"/>
+      <point x="199.17948717948718" y="909.0"/>
+      <point x="168.0" y="909" type="qcurve"/>
+      <point x="135.85714285714286" y="909.0"/>
+      <point x="93.0" y="867.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
+</glyph>

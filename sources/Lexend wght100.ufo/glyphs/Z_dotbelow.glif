@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zdotbelow" format="2">
+  <advance width="626"/>
+  <unicode hex="1E92"/>
+  <outline>
+    <component base="Z"/>
+    <component base="dotbelowcomb.case" xOffset="211.50027370985066" yOffset="-71.99854021412982"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

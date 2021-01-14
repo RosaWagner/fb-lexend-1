@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ahookabove" format="2">
+  <advance width="621"/>
+  <unicode hex="1EA2"/>
+  <outline>
+    <component base="A"/>
+    <component base="hookabovecomb.case" xOffset="172.0003041220563" yOffset="204.99920928265365"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

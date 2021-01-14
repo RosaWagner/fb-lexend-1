@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alef-ar.fina" format="2">
+  <advance width="310"/>
+  <unicode hex="FE8E"/>
+  <anchor x="132.0" y="0" name="bottom"/>
+  <anchor x="132.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="109" y="152" type="qcurve" smooth="yes"/>
+      <point x="109" y="740" type="line"/>
+      <point x="147" y="740" type="line"/>
+      <point x="147" y="152" type="line" smooth="yes"/>
+      <point x="147" y="88"/>
+      <point x="196" y="38"/>
+      <point x="261" y="38" type="qcurve" smooth="yes"/>
+      <point x="310" y="38" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="261" y="0" type="line" smooth="yes"/>
+      <point x="185" y="0"/>
+      <point x="109" y="76"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>alef-ar</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb" format="2">
+  <advance width="362"/>
+  <unicode hex="0302"/>
+  <outline>
+    <component base="circumflex" yOffset="-24.998479389718568"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>368</integer>
+      <key>public.markColor</key>
+      <string>1,0.6921,0.6392,1</string>
+    </dict>
+  </lib>
+</glyph>

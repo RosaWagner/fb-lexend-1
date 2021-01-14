@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dlinebelow" format="2">
+  <advance width="597"/>
+  <unicode hex="1E0F"/>
+  <outline>
+    <component base="d"/>
+    <component base="macronbelowcomb" xOffset="55.50106442719701" yOffset="-46.99945258029868"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

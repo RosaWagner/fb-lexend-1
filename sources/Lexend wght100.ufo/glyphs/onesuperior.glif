@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
+  <advance width="281"/>
+  <unicode hex="00B9"/>
+  <note>
+onesuperior
+</note>
+  <outline>
+    <component base="one.numr" yOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6921,0.6392,1</string>
+    </dict>
+  </lib>
+</glyph>
