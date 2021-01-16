@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ndotaccent" format="2">
-  <advance width="775"/>
-  <unicode hex="1E44"/>
+  <advance width="730"/>
   <outline>
     <component base="N"/>
-    <component base="dotaccentcomb.case" xOffset="284.2500760305141" yOffset="126.50088195396323"/>
+    <component base="dotaccentcomb.case" xOffset="260" yOffset="121"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

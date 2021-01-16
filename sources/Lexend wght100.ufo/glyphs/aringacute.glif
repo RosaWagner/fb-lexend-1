@@ -2,10 +2,11 @@
 <glyph name="aringacute" format="2">
   <advance width="603"/>
   <unicode hex="01FB"/>
+  <guideline x="301.5" y="0" angle="270.0" identifier="xiYJXn7ylG"/>
   <outline>
     <component base="a"/>
-    <component base="ringcomb" xOffset="160.49972629014934" yOffset="14.999695877943713"/>
-    <component base="acutecomb.case" xOffset="152.00152061028143" yOffset="206.5003953586732"/>
+    <component base="ringcomb" xOffset="160" yOffset="15"/>
+    <component base="acutecomb.case" xOffset="162" yOffset="207"/>
   </outline>
   <lib>
     <dict>

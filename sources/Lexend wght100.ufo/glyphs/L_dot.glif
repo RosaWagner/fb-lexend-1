@@ -1,16 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ldot" format="2">
-  <advance width="342"/>
+  <advance width="493"/>
   <unicode hex="013F"/>
   <outline>
     <component base="L"/>
+    <component base="dotaccentcomb.case" xOffset="277.3000000000102" yOffset="-290.1000000000058"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>L</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

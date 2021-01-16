@@ -9,6 +9,16 @@ c
   <anchor x="299.0" y="515" name="top"/>
   <outline>
     <contour>
+      <point x="308" y="507" type="qcurve"/>
+      <point x="201" y="507"/>
+      <point x="63" y="370"/>
+      <point x="62" y="263" type="qcurve" smooth="yes"/>
+      <point x="63" y="153"/>
+      <point x="201" y="12"/>
+      <point x="308" y="12" type="qcurve"/>
+      <point x="363" y="12"/>
+      <point x="455" y="55"/>
+      <point x="488" y="93" type="qcurve"/>
       <point x="504" y="77" type="line"/>
       <point x="468" y="37"/>
       <point x="369" y="-10"/>
@@ -25,20 +35,6 @@ c
       <point x="490" y="426" type="line"/>
       <point x="457" y="464"/>
       <point x="364" y="507"/>
-      <point x="308" y="507" type="qcurve"/>
-      <point x="201" y="507"/>
-      <point x="63" y="370"/>
-      <point x="62" y="263" type="qcurve" smooth="yes"/>
-      <point x="63" y="153"/>
-      <point x="201" y="12"/>
-      <point x="308" y="12" type="qcurve"/>
-      <point x="363" y="12"/>
-      <point x="455" y="55"/>
-      <point x="488" y="93" type="qcurve"/>
-    </contour>
-    <contour>
-      <point x="490" y="426" type="line"/>
-      <point x="506" y="443" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acircumflextilde" format="2">
-  <advance width="621"/>
+  <advance width="611"/>
   <unicode hex="1EAA"/>
   <outline>
     <component base="A"/>
+    <component base="circumflexcomb_tildecomb" xOffset="88.5" yOffset="157.49923969485928"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +40,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

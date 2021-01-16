@@ -7,10 +7,10 @@ backslash
 </note>
   <outline>
     <contour>
+      <point x="457" y="-95" type="line"/>
       <point x="431" y="-95" type="line"/>
       <point x="37.0" y="700.0" type="line"/>
       <point x="63.0" y="700.0" type="line"/>
-      <point x="457" y="-95" type="line"/>
     </contour>
   </outline>
   <lib>

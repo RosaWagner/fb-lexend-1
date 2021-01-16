@@ -47,12 +47,8 @@ cent
       <point x="475" y="571"/>
       <point x="510" y="531" type="qcurve"/>
       <point x="494" y="514" type="line"/>
-      <point x="461" y="552"/>
-      <point x="368" y="595"/>
-    </contour>
-    <contour>
-      <point x="494" y="514" type="line"/>
-      <point x="510" y="531" type="line"/>
+      <point x="460.92149273977066" y="552.0904022996581"/>
+      <point x="368.0" y="595.0"/>
     </contour>
   </outline>
   <lib>

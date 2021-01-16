@@ -9,9 +9,10 @@ S
   <anchor x="300.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="61" y="128" type="line" smooth="yes"/>
-      <point x="98" y="72"/>
-      <point x="211" y="12"/>
+      <point x="44" y="113" type="qcurve"/>
+      <point x="61" y="131" type="line"/>
+      <point x="99" y="74"/>
+      <point x="211.0" y="12.0"/>
       <point x="303" y="12" type="qcurve" smooth="yes"/>
       <point x="387" y="12"/>
       <point x="504" y="102"/>
@@ -44,11 +45,8 @@ S
       <point x="527" y="94"/>
       <point x="398" y="-10"/>
       <point x="303" y="-10" type="qcurve" smooth="yes"/>
-      <point x="204" y="-10"/>
-      <point x="85" y="53"/>
-      <point x="46" y="111" type="qcurve" smooth="yes"/>
-      <point x="40" y="120" type="line"/>
-      <point x="55" y="137" type="line"/>
+      <point x="203.22957198443578" y="-10.0"/>
+      <point x="84" y="54"/>
     </contour>
   </outline>
   <lib>

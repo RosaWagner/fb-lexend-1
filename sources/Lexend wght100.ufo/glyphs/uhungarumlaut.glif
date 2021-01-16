@@ -4,7 +4,7 @@
   <unicode hex="0171"/>
   <outline>
     <component base="u"/>
-    <component base="hungarumlautcomb" xOffset="154.9594331164862" yOffset="9.99975670235497"/>
+    <component base="hungarumlautcomb" xOffset="122.18999999998778" yOffset="7"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

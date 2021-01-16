@@ -4,7 +4,7 @@
   <unicode hex="021A"/>
   <outline>
     <component base="T"/>
-    <component base="commaaccentcomb.case" xOffset="121.27546074489672" yOffset="-59.99878351177485"/>
+    <component base="commaaccentcomb.case" xOffset="136.39000000000306" yOffset="-40"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

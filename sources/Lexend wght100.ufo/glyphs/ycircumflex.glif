@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ycircumflex" format="2">
-  <advance width="490"/>
+  <advance width="501"/>
   <unicode hex="0177"/>
   <outline>
     <component base="y"/>
-    <component base="circumflexcomb" xOffset="65.00085154175761" yOffset="-19.500091236616885"/>
+    <component base="circumflexcomb" xOffset="69.5" yOffset="-5.001520610281432"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

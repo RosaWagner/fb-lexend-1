@@ -1,15 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb" format="2">
-  <advance width="628"/>
+  <advance width="332"/>
   <unicode hex="0303"/>
   <outline>
+    <component base="tilde"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>401</integer>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohungarumlaut" format="2">
-  <advance width="591"/>
+  <advance width="615"/>
   <unicode hex="0151"/>
   <outline>
     <component base="o"/>
-    <component base="hungarumlautcomb" xOffset="129.1600778552499" yOffset="8.499847938971858"/>
+    <component base="hungarumlautcomb" xOffset="129.67999999999302" yOffset="7"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

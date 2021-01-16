@@ -70,6 +70,8 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>5</integer>
+    <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
+    <string>FBLexend-wght100</string>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -1147,6 +1149,22 @@
       <string>tildecomb_acutecomb</string>
       <string>macroncomb_acutecomb</string>
       <string>tildecomb_dieresiscomb</string>
+      <string>dieresiscomb_acutecomb</string>
+      <string>tildecomb_macroncomb</string>
+      <string>tildecomb_acutecomb.copy_1</string>
+      <string>tildecomb_dieresiscomb.copy_1</string>
+      <string>dotaccentcomb_macroncomb</string>
+      <string>macroncomb_gravecomb</string>
+      <string>macroncomb_acutecomb.copy_1</string>
+      <string>macroncomb_dieresiscomb</string>
+      <string>acutecomb_dotaccentcomb</string>
+      <string>caroncomb_dotaccentcomb</string>
+      <string>gcircumflex.ss01</string>
+      <string>gbreve.ss01</string>
+      <string>gdotaccent.ss01</string>
+      <string>gcommaaccent.ss01</string>
+      <string>gcaron.ss01</string>
+      <string>gmacron.ss01</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

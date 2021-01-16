@@ -3,27 +3,14 @@
   <advance width="232"/>
   <unicode hex="0307"/>
   <outline>
-    <contour>
-      <point x="144" y="644" type="qcurve" smooth="yes"/>
-      <point x="144" y="631"/>
-      <point x="130" y="615"/>
-      <point x="116" y="615" type="qcurve" smooth="yes"/>
-      <point x="102" y="615"/>
-      <point x="88" y="631"/>
-      <point x="88" y="644" type="qcurve" smooth="yes"/>
-      <point x="88" y="656"/>
-      <point x="102" y="673"/>
-      <point x="116" y="673" type="qcurve" smooth="yes"/>
-      <point x="129" y="673"/>
-      <point x="144" y="657"/>
-    </contour>
+    <component base="dotaccent"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>210</integer>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

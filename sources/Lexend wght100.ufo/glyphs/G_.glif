@@ -9,12 +9,6 @@ G
   <anchor x="413" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="722" y="339" type="line"/>
-      <point x="722" y="168"/>
-      <point x="549" y="-10"/>
-      <point x="400" y="-10" type="qcurve"/>
-      <point x="249" y="-10"/>
-      <point x="55" y="189"/>
       <point x="55" y="346" type="qcurve"/>
       <point x="55" y="505"/>
       <point x="248" y="710"/>
@@ -40,6 +34,14 @@ G
       <point x="409" y="336" type="line"/>
       <point x="409" y="358" type="line"/>
       <point x="722" y="358" type="line"/>
+      <point x="722.0" y="352"/>
+      <point x="722.0" y="345"/>
+      <point x="722" y="339" type="qcurve"/>
+      <point x="722" y="168"/>
+      <point x="549" y="-10"/>
+      <point x="400" y="-10" type="qcurve"/>
+      <point x="249" y="-10"/>
+      <point x="55" y="189"/>
     </contour>
   </outline>
   <lib>

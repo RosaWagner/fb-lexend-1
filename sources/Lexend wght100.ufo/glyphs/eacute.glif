@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eacute" format="2">
-  <advance width="535"/>
+  <advance width="545"/>
   <unicode hex="00E9"/>
   <outline>
     <component base="e"/>
-    <component base="acutecomb" xOffset="135.72636398741372" yOffset="9.99975670235497"/>
+    <component base="acutecomb" xOffset="162.21996958779346" yOffset="27.998175267662305"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

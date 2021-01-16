@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ytilde" format="2">
-  <advance width="490"/>
+  <advance width="501"/>
   <unicode hex="1EF9"/>
   <outline>
     <component base="y"/>
-    <component base="tildecomb" xOffset="58.84046956447324" yOffset="-38.99927010706491"/>
+    <component base="tildecomb" xOffset="98.95999999999185" yOffset="-46"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

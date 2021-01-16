@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb_gravecomb" format="2">
+  <guideline x="137.0" y="0" angle="270.0" identifier="mzMV28mqkC"/>
+  <guideline x="77.31135050455487" y="870.0667842481453" angle="0" identifier="2fveS0ACTz"/>
+  <guideline x="234" y="772" angle="0" identifier="LxyvJjhpd8"/>
+  <outline>
+    <component base="macroncomb" xOffset="-75" yOffset="20"/>
+    <component base="gravecomb" xOffset="47" yOffset="164"/>
+  </outline>
+</glyph>

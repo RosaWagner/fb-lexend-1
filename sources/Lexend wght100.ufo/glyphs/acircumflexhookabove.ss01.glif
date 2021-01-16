@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflexhookabove.ss01" format="2">
-  <advance width="540"/>
+  <advance width="537"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="77.63029134890547" yOffset="-40.49881392398048"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="85.14934857057233" yOffset="-15.500881953963244"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

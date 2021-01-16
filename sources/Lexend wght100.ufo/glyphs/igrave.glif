@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="igrave" format="2">
-  <advance width="179"/>
+  <advance width="182"/>
   <unicode hex="00EC"/>
   <outline>
     <component base="idotless"/>
-    <component base="gravecomb" xOffset="16.874049618574105" yOffset="6"/>
+    <component base="gravecomb" xOffset="14.19878351177249" yOffset="22.49850980192423"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

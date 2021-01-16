@@ -1,15 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb" format="2">
-  <advance width="543"/>
+  <advance width="362"/>
   <unicode hex="030C"/>
   <outline>
+    <component base="caron"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>359</integer>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

@@ -3,16 +3,7 @@
   <anchor x="0" y="510.0" name="_topright"/>
   <anchor x="0" y="510.0" name="topright"/>
   <outline>
-    <contour>
-      <point x="74.0" y="514.4980840310454" type="qcurve"/>
-      <point x="74.0" y="528.9994525802987" type="line"/>
-      <point x="144.4994829925043" y="528.9994525802987"/>
-      <point x="213.99896598500862" y="582.9995134047099"/>
-      <point x="213.99896598500862" y="635.4996046413269" type="qcurve"/>
-      <point x="240.0003041220563" y="635.4996046413269" type="line"/>
-      <point x="240.0003041220563" y="580.6238722140413"/>
-      <point x="152.50015206102813" y="514.4980840310454"/>
-    </contour>
+    <component base="horncomb" xOffset="70"/>
   </outline>
   <lib>
     <dict>

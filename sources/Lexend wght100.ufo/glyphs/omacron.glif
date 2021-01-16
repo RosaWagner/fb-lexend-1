@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omacron" format="2">
-  <advance width="591"/>
+  <advance width="615"/>
   <unicode hex="014D"/>
   <outline>
     <component base="o"/>
-    <component base="macroncomb" xOffset="83.00018247323378" yOffset="-18.999939175588743"/>
+    <component base="macroncomb" xOffset="95" yOffset="-11.001398961458904"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

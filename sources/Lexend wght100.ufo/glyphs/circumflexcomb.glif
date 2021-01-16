@@ -3,14 +3,14 @@
   <advance width="362"/>
   <unicode hex="0302"/>
   <outline>
-    <component base="circumflex" yOffset="-24.998479389718568"/>
+    <component base="circumflex"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>368</integer>
       <key>public.markColor</key>
-      <string>1,0.6921,0.6392,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

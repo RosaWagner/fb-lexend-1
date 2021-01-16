@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcaron" format="2">
-  <advance width="591"/>
+  <advance width="603"/>
   <unicode hex="01E7"/>
   <outline>
     <component base="g"/>
-    <component base="caroncomb" xOffset="105.78083572740587" yOffset="-29.999087633831138"/>
+    <component base="caroncomb" xOffset="119.67999999999302" yOffset="-41"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

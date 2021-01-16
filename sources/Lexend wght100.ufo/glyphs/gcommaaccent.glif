@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcommaaccent" format="2">
-  <advance width="591"/>
+  <advance width="603"/>
   <unicode hex="0123"/>
   <outline>
     <component base="g"/>
-    <component base="commaaccentcomb" xScale="-1" yScale="-1" xOffset="388.43207958662754" yOffset="574.999756702355"/>
+    <component base="commaaccentcomb" xScale="-1" yScale="-1" xOffset="410.7000000000007" yOffset="579"/>
   </outline>
   <lib>
     <dict>
@@ -24,7 +24,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>g</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

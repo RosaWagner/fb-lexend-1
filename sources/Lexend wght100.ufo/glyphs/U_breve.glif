@@ -1,15 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ubreve" format="2">
-  <advance width="759"/>
+  <advance width="744"/>
   <unicode hex="016C"/>
+  <guideline x="372.0" y="0" angle="270.0" identifier="nBqvUcdBow"/>
   <outline>
     <component base="U"/>
-    <component base="brevecomb.case" xOffset="208.7491332521396" yOffset="210.4973541381103"/>
+    <component base="brevecomb.case" xOffset="200" yOffset="200"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

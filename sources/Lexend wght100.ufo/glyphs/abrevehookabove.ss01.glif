@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abrevehookabove.ss01" format="2">
-  <advance width="540"/>
+  <advance width="537"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="brevecomb_hookabovecomb" xOffset="83.86002311328413" yOffset="-20.999209282653652"/>
+    <component base="brevecomb_hookabovecomb" xOffset="132.26009123663243" yOffset="4.999330931476152"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

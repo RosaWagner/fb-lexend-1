@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="racute" format="2">
-  <advance width="316"/>
+  <advance width="311"/>
   <unicode hex="0155"/>
   <outline>
     <component base="r"/>
-    <component base="acutecomb" xOffset="49.75156622858988" yOffset="19.999148458242395"/>
+    <component base="acutecomb" xOffset="61.49996958779229" yOffset="27.998175267662305"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

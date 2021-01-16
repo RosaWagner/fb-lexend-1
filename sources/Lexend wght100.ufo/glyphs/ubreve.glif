@@ -2,14 +2,15 @@
 <glyph name="ubreve" format="2">
   <advance width="538"/>
   <unicode hex="016D"/>
+  <guideline x="269.0" y="0" angle="270.0" identifier="sbngpt1pu6"/>
   <outline>
     <component base="u"/>
-    <component base="brevecomb" xOffset="98.74992396948593" yOffset="-11.999574229121198"/>
+    <component base="brevecomb" xOffset="97" yOffset="-3"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

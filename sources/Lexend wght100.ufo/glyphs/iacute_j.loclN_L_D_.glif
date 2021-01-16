@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iacute_j.loclNLD" format="2">
-  <advance width="300"/>
+  <advance width="182"/>
   <outline>
+    <component base="iacute"/>
+    <component base="jacute.loclNLD"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

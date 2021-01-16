@@ -31,9 +31,7 @@ M
       <point x="158" y="448"/>
       <point x="158" y="351" type="qcurve"/>
       <point x="158" y="0.0" type="line"/>
-      <point x="131" y="0.0"/>
-      <point x="135" y="0.0"/>
-      <point x="108" y="0.0" type="qcurve"/>
+      <point x="108" y="0.0" type="line"/>
     </contour>
   </outline>
   <lib>

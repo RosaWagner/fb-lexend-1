@@ -10,9 +10,9 @@
       <point x="76.0" y="722.0"/>
       <point x="98" y="722" type="qcurve"/>
       <point x="121.0" y="722.0"/>
-      <point x="160.14573306264907" y="698.8947483436424"/>
+      <point x="160" y="699"/>
       <point x="178" y="686" type="qcurve" smooth="yes"/>
-      <point x="185.08773066850517" y="680.937335236782"/>
+      <point x="185" y="681"/>
       <point x="218.0" y="661.0"/>
       <point x="232" y="661" type="qcurve"/>
       <point x="247" y="661"/>
@@ -23,10 +23,10 @@
       <point x="256.0" y="641.0"/>
       <point x="234" y="641" type="qcurve"/>
       <point x="211" y="641.0"/>
-      <point x="172.14577440233728" y="664.8971004218796"/>
+      <point x="172" y="665"/>
       <point x="155" y="677" type="qcurve" smooth="yes"/>
-      <point x="147.10246773846038" y="681.9359576634623"/>
-      <point x="115.71428571428571" y="702.0"/>
+      <point x="147" y="682"/>
+      <point x="116" y="702.0"/>
       <point x="100" y="702" type="qcurve"/>
       <point x="85" y="702"/>
       <point x="61" y="673"/>

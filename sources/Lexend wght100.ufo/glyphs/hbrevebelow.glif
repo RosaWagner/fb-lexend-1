@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbrevebelow" format="2">
-  <advance width="543"/>
+  <advance width="531"/>
   <unicode hex="1E2B"/>
   <outline>
     <component base="h"/>
+    <component base="brevebelowcomb.case" xOffset="141.17000000000007" yOffset="-35"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

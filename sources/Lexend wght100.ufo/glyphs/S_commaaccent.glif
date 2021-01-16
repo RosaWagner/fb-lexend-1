@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Scommaaccent" format="2">
-  <advance width="578"/>
+  <advance width="567"/>
   <unicode hex="0218"/>
   <outline>
     <component base="S"/>
+    <component base="commaaccentcomb" xOffset="193.9200000000037" yOffset="-40"/>
   </outline>
   <lib>
     <dict>
@@ -12,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

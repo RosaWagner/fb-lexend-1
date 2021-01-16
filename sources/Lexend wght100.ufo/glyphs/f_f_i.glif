@@ -1,8 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_i" format="2">
-  <advance width="871"/>
+  <advance width="839"/>
+  <unicode hex="FB03"/>
   <outline>
-    <component base="i" xOffset="709.5011252516083" yOffset="7.499543816915569"/>
+    <component base="f"/>
+    <component base="f" xOffset="340"/>
+    <component base="i" xOffset="680"/>
   </outline>
   <lib>
     <dict>
@@ -22,7 +25,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>i</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

@@ -4,7 +4,8 @@
   <unicode hex="1E65"/>
   <outline>
     <component base="s"/>
-    <component base="acutecomb" xOffset="212.3448713563859" yOffset="9.99975670235497"/>
+    <component base="acutecomb" xOffset="204.45999999999913" yOffset="-2"/>
+    <component base="dotaccentcomb.case" xOffset="-38.54000000000087" yOffset="-65.00030412206252"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +29,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ecircumflexhookabove" format="2">
-  <advance width="571"/>
+  <advance width="566"/>
   <unicode hex="1EC2"/>
   <outline>
     <component base="E"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="128.9143330603547" yOffset="159.49911804603676"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>
