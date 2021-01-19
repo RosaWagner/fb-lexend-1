@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbrevebelow" format="2">
+  <advance width="731"/>
+  <unicode hex="1E2A"/>
+  <guideline x="365.5" y="0" angle="270.0" identifier="ooVxT4CPJA"/>
+  <outline>
+    <component base="H"/>
+    <component base="brevebelowcomb.case" xOffset="194" yOffset="-35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.749,0.4863,0.8784,1</string>
+    </dict>
+  </lib>
+</glyph>

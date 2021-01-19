@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uogonek" format="2">
+  <advance width="538"/>
+  <unicode hex="0173"/>
+  <note>
+uogonek
+</note>
+  <anchor x="299.0" y="0" name="bottom"/>
+  <anchor x="530.0" y="0" name="ogonek"/>
+  <anchor x="299.0" y="510.0" name="top"/>
+  <anchor x="386.0" y="532.0" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="u"/>
+    <component base="ogonekcomb" xOffset="255"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u</string>
+      <key>public.markColor</key>
+      <string>0.5917,1,0.4781,1</string>
+    </dict>
+  </lib>
+</glyph>
