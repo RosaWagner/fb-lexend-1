@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn" format="2">
+  <advance width="771"/>
+  <unicode hex="00FE"/>
+  <note>
+thorn
+</note>
+  <anchor x="357" y="0" name="bottom"/>
+  <anchor x="357" y="525" name="top"/>
+  <outline>
+    <contour>
+      <point x="416" y="534" type="qcurve"/>
+      <point x="550" y="534"/>
+      <point x="731" y="382"/>
+      <point x="731" y="263" type="qcurve"/>
+      <point x="731" y="144"/>
+      <point x="550" y="-9"/>
+      <point x="419" y="-9" type="qcurve"/>
+      <point x="314" y="-9"/>
+      <point x="162" y="78"/>
+      <point x="150" y="117" type="qcurve"/>
+      <point x="176" y="131" type="line"/>
+      <point x="176" y="-220" type="line"/>
+      <point x="72" y="-220" type="line"/>
+      <point x="72" y="740" type="line"/>
+      <point x="176" y="740" type="line"/>
+      <point x="176" y="405" type="line"/>
+      <point x="160" y="414" type="line"/>
+      <point x="171" y="454"/>
+      <point x="320" y="534"/>
+    </contour>
+    <contour>
+      <point x="632" y="263" type="qcurve"/>
+      <point x="632" y="338"/>
+      <point x="503" y="439"/>
+      <point x="402" y="439" type="qcurve"/>
+      <point x="301" y="439"/>
+      <point x="171" y="338"/>
+      <point x="171" y="263" type="qcurve"/>
+      <point x="171" y="188"/>
+      <point x="301" y="86"/>
+      <point x="402" y="86" type="qcurve"/>
+      <point x="503" y="86"/>
+      <point x="632" y="188"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>p</string>
+    </dict>
+  </lib>
+</glyph>

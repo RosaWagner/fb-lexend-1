@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zcaron" format="2">
+  <advance width="624"/>
+  <unicode hex="017E"/>
+  <note>
+zcaron
+</note>
+  <anchor x="365" y="0" name="bottom"/>
+  <anchor x="365" y="773" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="caroncomb" xOffset="167"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

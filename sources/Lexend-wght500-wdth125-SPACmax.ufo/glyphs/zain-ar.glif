@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zain-ar" format="2">
+  <advance width="830"/>
+  <unicode hex="0632"/>
+  <anchor x="297" y="-230" name="bottom"/>
+  <anchor x="480" y="649" name="top"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="dotabove-ar" xOffset="351" yOffset="-60"/>
+  </outline>
+</glyph>

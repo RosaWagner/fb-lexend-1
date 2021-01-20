@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh-ar.fina" format="2">
+  <advance width="1739"/>
+  <unicode hex="FE96"/>
+  <anchor x="781" y="0" name="bottom"/>
+  <anchor x="781" y="642" name="top"/>
+  <outline>
+    <component base="behDotless-ar.fina"/>
+    <component base="twodotshorizontalabove-ar" xOffset="546" yOffset="-67"/>
+  </outline>
+</glyph>

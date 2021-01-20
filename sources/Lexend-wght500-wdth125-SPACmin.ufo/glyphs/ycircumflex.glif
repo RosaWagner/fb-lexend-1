@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ycircumflex" format="2">
+  <advance width="733"/>
+  <unicode hex="0177"/>
+  <note>
+ycircumflex
+</note>
+  <anchor x="733" y="0" name="bottom"/>
+  <anchor x="478" y="784" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="circumflexcomb" xOffset="267" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

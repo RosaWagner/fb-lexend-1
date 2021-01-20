@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf-ar.fina" format="2">
+  <advance width="1072"/>
+  <unicode hex="FED6"/>
+  <anchor x="420" y="-230" name="bottom"/>
+  <anchor x="612" y="658" name="top"/>
+  <outline>
+    <component base="qafDotless-ar.fina" xOffset="-57"/>
+    <component base="twodotshorizontalabove-ar" xOffset="377" yOffset="-51"/>
+  </outline>
+</glyph>

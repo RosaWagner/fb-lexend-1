@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="539"/>
+  <unicode hex="012F"/>
+  <note>
+iogonek
+</note>
+  <outline>
+    <contour>
+      <point x="269" y="52" type="qcurve"/>
+      <point x="219" y="7" type="line"/>
+      <point x="219" y="525" type="line"/>
+      <point x="322" y="525" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="272" y="-21"/>
+      <point x="217" y="-75"/>
+      <point x="217" y="-102" type="qcurve" smooth="yes"/>
+      <point x="217" y="-120"/>
+      <point x="244" y="-144"/>
+      <point x="264" y="-144" type="qcurve" smooth="yes"/>
+      <point x="276" y="-144"/>
+      <point x="304" y="-131"/>
+      <point x="319" y="-118" type="qcurve"/>
+      <point x="358" y="-177" type="line"/>
+      <point x="328" y="-199"/>
+      <point x="271" y="-221"/>
+      <point x="244" y="-221" type="qcurve" smooth="yes"/>
+      <point x="192" y="-221"/>
+      <point x="124" y="-161"/>
+      <point x="124" y="-114" type="qcurve" smooth="yes"/>
+      <point x="124" y="-70"/>
+      <point x="194" y="11"/>
+    </contour>
+    <contour>
+      <point x="344" y="690" type="qcurve" smooth="yes"/>
+      <point x="344" y="661"/>
+      <point x="307" y="625"/>
+      <point x="275" y="625" type="qcurve" smooth="yes"/>
+      <point x="242" y="625"/>
+      <point x="206" y="659"/>
+      <point x="206" y="690" type="qcurve" smooth="yes"/>
+      <point x="206" y="719"/>
+      <point x="243" y="755"/>
+      <point x="275" y="755" type="qcurve" smooth="yes"/>
+      <point x="308" y="755"/>
+      <point x="344" y="721"/>
+    </contour>
+  </outline>
+</glyph>

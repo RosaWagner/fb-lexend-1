@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen-ar" format="2">
+  <advance width="1477"/>
+  <unicode hex="0634"/>
+  <anchor x="848" y="0" name="bottom"/>
+  <anchor x="872" y="741" name="top"/>
+  <outline>
+    <component base="seen-ar"/>
+    <component base="threedotsupabove-ar" xOffset="659" yOffset="-105"/>
+  </outline>
+</glyph>

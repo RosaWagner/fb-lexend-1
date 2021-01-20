@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sad-ar.medi" format="2">
+  <advance width="1035"/>
+  <unicode hex="FEBC"/>
+  <anchor x="915" y="0" name="#entry"/>
+  <anchor x="915" y="0" name="#exit"/>
+  <anchor x="640" y="0" name="bottom"/>
+  <anchor x="670" y="438" name="top"/>
+  <outline>
+    <component base="_connection.round" xOffset="915"/>
+    <component base="sad-ar.init" xOffset="-1"/>
+  </outline>
+</glyph>

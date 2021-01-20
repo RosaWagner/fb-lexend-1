@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zah-ar" format="2">
+  <advance width="1107"/>
+  <unicode hex="0638"/>
+  <anchor x="1081" y="0" name="#entry"/>
+  <anchor x="644" y="0" name="bottom"/>
+  <anchor x="757" y="709" name="top"/>
+  <outline>
+    <component base="tah-ar"/>
+    <component base="dotabove-ar" xOffset="628"/>
+  </outline>
+</glyph>

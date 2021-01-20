@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevetilde" format="2">
+  <advance width="834"/>
+  <unicode hex="1EB4"/>
+  <anchor x="352" y="0" name="bottom"/>
+  <anchor x="609" y="10" name="ogonek"/>
+  <anchor x="362" y="1107" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb.case" xOffset="148" yOffset="80"/>
+    <component base="tildecomb.case" xOffset="142" yOffset="374"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

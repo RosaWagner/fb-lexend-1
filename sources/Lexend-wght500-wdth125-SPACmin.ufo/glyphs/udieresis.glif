@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresis" format="2">
+  <advance width="736"/>
+  <unicode hex="00FC"/>
+  <note>
+udieresis
+</note>
+  <anchor x="496" y="0" name="bottom"/>
+  <anchor x="800" y="11" name="ogonek"/>
+  <anchor x="496" y="739" name="top"/>
+  <anchor x="770" y="481" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="304" yOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

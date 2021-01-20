@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <anchor x="200" y="525" name="_top"/>
+  <anchor x="210" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="168" y="639" type="qcurve" smooth="yes"/>
+      <point x="168" y="610"/>
+      <point x="131" y="574"/>
+      <point x="99" y="574" type="qcurve" smooth="yes"/>
+      <point x="66" y="574"/>
+      <point x="30" y="608"/>
+      <point x="30" y="639" type="qcurve" smooth="yes"/>
+      <point x="30" y="668"/>
+      <point x="67" y="704"/>
+      <point x="99" y="704" type="qcurve" smooth="yes"/>
+      <point x="132" y="704"/>
+      <point x="168" y="670"/>
+    </contour>
+    <contour>
+      <point x="374" y="639" type="qcurve" smooth="yes"/>
+      <point x="374" y="610"/>
+      <point x="337" y="574"/>
+      <point x="305" y="574" type="qcurve" smooth="yes"/>
+      <point x="272" y="574"/>
+      <point x="236" y="608"/>
+      <point x="236" y="639" type="qcurve" smooth="yes"/>
+      <point x="236" y="668"/>
+      <point x="273" y="704"/>
+      <point x="305" y="704" type="qcurve" smooth="yes"/>
+      <point x="338" y="704"/>
+      <point x="374" y="670"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>404</integer>
+    </dict>
+  </lib>
+</glyph>

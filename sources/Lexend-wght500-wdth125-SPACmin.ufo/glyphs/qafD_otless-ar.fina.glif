@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qafDotless-ar.fina" format="2">
+  <advance width="1072"/>
+  <anchor x="420" y="-230" name="bottom"/>
+  <anchor x="612" y="387" name="top"/>
+  <outline>
+    <contour>
+      <point x="774" y="84" type="qcurve" smooth="yes"/>
+      <point x="774" y="153"/>
+      <point x="684" y="285"/>
+      <point x="606" y="285" type="qcurve" smooth="yes"/>
+      <point x="538" y="285"/>
+      <point x="458" y="214"/>
+      <point x="458" y="176" type="qcurve" smooth="yes"/>
+      <point x="458" y="143"/>
+      <point x="511" y="102"/>
+      <point x="586" y="102" type="qcurve" smooth="yes"/>
+      <point x="1072" y="102" type="line"/>
+      <point x="1072" y="0" type="line"/>
+      <point x="576" y="0" type="line" smooth="yes"/>
+      <point x="460" y="0"/>
+      <point x="363" y="93"/>
+      <point x="363" y="156" type="qcurve" smooth="yes"/>
+      <point x="363" y="260"/>
+      <point x="512" y="387"/>
+      <point x="612" y="387" type="qcurve" smooth="yes"/>
+      <point x="723" y="387"/>
+      <point x="864" y="227"/>
+      <point x="866" y="102" type="qcurve" smooth="yes"/>
+      <point x="868" y="-47"/>
+      <point x="634" y="-230"/>
+      <point x="420" y="-230" type="qcurve" smooth="yes"/>
+      <point x="260" y="-230"/>
+      <point x="30" y="-103"/>
+      <point x="30" y="23" type="qcurve" smooth="yes"/>
+      <point x="30" y="57"/>
+      <point x="54" y="180"/>
+      <point x="89" y="250" type="qcurve"/>
+      <point x="33" y="228" type="line"/>
+      <point x="210" y="169" type="line"/>
+      <point x="177" y="223" type="line"/>
+      <point x="154" y="169"/>
+      <point x="131" y="72"/>
+      <point x="131" y="38" type="qcurve" smooth="yes"/>
+      <point x="131" y="-44"/>
+      <point x="303" y="-128"/>
+      <point x="431" y="-128" type="qcurve" smooth="yes"/>
+      <point x="577" y="-128"/>
+      <point x="774" y="-29"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

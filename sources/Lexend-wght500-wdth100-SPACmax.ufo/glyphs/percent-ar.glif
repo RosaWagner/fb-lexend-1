@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent-ar" format="2">
+  <advance width="891"/>
+  <unicode hex="066A"/>
+  <outline>
+    <component base="fraction" xOffset="130"/>
+    <component base="zero-ar" xOffset="474" yOffset="-151"/>
+    <component base="zero-ar" xOffset="155" yOffset="383"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tah-ar.fina" format="2">
+  <advance width="878"/>
+  <unicode hex="FEC2"/>
+  <anchor x="758" y="0" name="#entry"/>
+  <anchor x="758" y="0" name="#exit"/>
+  <anchor x="450" y="0" name="bottom"/>
+  <anchor x="493" y="438" name="top"/>
+  <outline>
+    <component base="_connection.round" xOffset="758"/>
+    <component base="tah-ar" xOffset="-3"/>
+  </outline>
+</glyph>

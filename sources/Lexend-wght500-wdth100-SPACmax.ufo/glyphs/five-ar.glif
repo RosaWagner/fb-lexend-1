@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five-ar" format="2">
+  <advance width="755"/>
+  <unicode hex="0665"/>
+  <outline>
+    <contour>
+      <point x="249" y="241" type="qcurve" smooth="yes"/>
+      <point x="249" y="171"/>
+      <point x="315" y="95"/>
+      <point x="377" y="95" type="qcurve" smooth="yes"/>
+      <point x="439" y="95"/>
+      <point x="506" y="171"/>
+      <point x="506" y="241" type="qcurve" smooth="yes"/>
+      <point x="506" y="320"/>
+      <point x="428" y="439"/>
+      <point x="377" y="439" type="qcurve" smooth="yes"/>
+      <point x="326" y="439"/>
+      <point x="249" y="320"/>
+    </contour>
+    <contour>
+      <point x="610" y="241" type="qcurve" smooth="yes"/>
+      <point x="610" y="128"/>
+      <point x="483" y="-7"/>
+      <point x="377" y="-7" type="qcurve" smooth="yes"/>
+      <point x="271" y="-7"/>
+      <point x="145" y="128"/>
+      <point x="145" y="241" type="qcurve" smooth="yes"/>
+      <point x="145" y="365"/>
+      <point x="281" y="541"/>
+      <point x="377" y="541" type="qcurve" smooth="yes"/>
+      <point x="473" y="541"/>
+      <point x="610" y="364"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
