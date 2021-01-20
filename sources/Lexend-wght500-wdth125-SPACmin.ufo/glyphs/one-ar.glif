@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one-ar" format="2">
+  <advance width="304"/>
+  <unicode hex="0661"/>
+  <outline>
+    <contour>
+      <point x="204" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="661" type="line"/>
+      <point x="204" y="661" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

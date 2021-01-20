@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehDotless-ar" format="2">
+  <advance width="1604"/>
+  <unicode hex="06A1"/>
+  <anchor x="640" y="0" name="bottom"/>
+  <anchor x="1151" y="547" name="top"/>
+  <outline>
+    <contour>
+      <point x="751" y="0" type="line"/>
+      <point x="349" y="0" type="line" smooth="yes"/>
+      <point x="226.61194029850748" y="0.0"/>
+      <point x="87.0" y="107.97014925373135"/>
+      <point x="87" y="202" type="qcurve" smooth="yes"/>
+      <point x="87.0" y="245.28358208955223"/>
+      <point x="115.17910447761194" y="351.80597014925377"/>
+      <point x="151" y="413" type="qcurve"/>
+      <point x="231" y="377" type="line"/>
+      <point x="207.11940298507463" y="324.76119402985074"/>
+      <point x="191.0" y="255.1044776119403"/>
+      <point x="191" y="226" type="qcurve" smooth="yes"/>
+      <point x="191.0" y="152.86567164179104"/>
+      <point x="298.1641791044776" y="102.0"/>
+      <point x="381" y="102" type="qcurve" smooth="yes"/>
+      <point x="751" y="102" type="line"/>
+    </contour>
+    <component base="fehDotless-ar.init" xOffset="640"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>fehDotless-ar.init</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

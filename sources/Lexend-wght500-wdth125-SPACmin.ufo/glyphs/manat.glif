@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat" format="2">
+  <advance width="900"/>
+  <unicode hex="20BC"/>
+  <anchor x="450" y="694" name="bottom"/>
+  <anchor x="32" y="684" name="ogonek"/>
+  <anchor x="450" y="-6" name="top"/>
+  <anchor x="23" y="-6" name="topright"/>
+  <outline>
+    <contour>
+      <point x="497" y="801" type="line"/>
+      <point x="497" y="254" type="line"/>
+      <point x="380" y="254" type="line"/>
+      <point x="380" y="801" type="line"/>
+    </contour>
+    <contour>
+      <point x="201" y="-7" type="line"/>
+      <point x="98" y="-7" type="line"/>
+      <point x="98" y="359" type="line"/>
+      <point x="98" y="506"/>
+      <point x="291" y="700"/>
+      <point x="450" y="700" type="qcurve"/>
+      <point x="609" y="700"/>
+      <point x="802" y="506"/>
+      <point x="802" y="359" type="qcurve"/>
+      <point x="802" y="-7" type="line"/>
+      <point x="694" y="-7" type="line"/>
+      <point x="694" y="355" type="line"/>
+      <point x="694" y="459"/>
+      <point x="552" y="595"/>
+      <point x="450" y="595" type="qcurve"/>
+      <point x="343" y="595"/>
+      <point x="201" y="459"/>
+      <point x="201" y="355" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

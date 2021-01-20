@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meem-ar" format="2">
+  <advance width="835"/>
+  <unicode hex="0645"/>
+  <anchor x="370" y="0" name="bottom"/>
+  <anchor x="358" y="386" name="top"/>
+  <outline>
+    <contour>
+      <point x="593" y="0" type="line"/>
+      <point x="539" y="55" type="line"/>
+      <point x="531.5373134328358" y="162.46268656716416"/>
+      <point x="425.64179104477614" y="284.0"/>
+      <point x="354" y="284" type="qcurve" smooth="yes"/>
+      <point x="304.0" y="284.0"/>
+      <point x="244.44776119402985" y="227.0597014925373"/>
+      <point x="234" y="189" type="qcurve"/>
+      <point x="282" y="197" type="line"/>
+      <point x="120" y="260" type="line"/>
+      <point x="149" y="206" type="line"/>
+      <point x="163.92537313432837" y="281.3731343283582"/>
+      <point x="272.92537313432837" y="386.0"/>
+      <point x="358" y="386" type="qcurve" smooth="yes"/>
+      <point x="470.6865671641791" y="386.0"/>
+      <point x="616.3283582089553" y="233.0597014925373"/>
+      <point x="632" y="95" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="87" y="-56" type="qcurve" smooth="yes"/>
+      <point x="87.0" y="-21.671641791044777"/>
+      <point x="105.86567164179104" y="36.626865671641795"/>
+      <point x="129" y="62" type="qcurve" smooth="yes"/>
+      <point x="160.34328358208955" y="97.07462686567163"/>
+      <point x="283.4029850746269" y="123.0"/>
+      <point x="364" y="123" type="qcurve" smooth="yes"/>
+      <point x="431.1641791044776" y="123.0"/>
+      <point x="567.3880597014926" y="108.71641791044776"/>
+      <point x="595" y="102" type="qcurve"/>
+      <point x="593" y="0" type="line"/>
+      <point x="560.1641791044776" y="8.955223880597014"/>
+      <point x="407.17910447761193" y="26.0"/>
+      <point x="343" y="26" type="qcurve" smooth="yes"/>
+      <point x="295.9850746268657" y="26.0"/>
+      <point x="184.86567164179104" y="10.432835820895521"/>
+      <point x="158" y="-3" type="qcurve"/>
+      <point x="191" y="32" type="line"/>
+      <point x="192.49253731343285" y="-86.65671641791043"/>
+      <point x="240.34328358208955" y="-343.7313432835821"/>
+      <point x="209" y="-490" type="qcurve"/>
+      <point x="224" y="-456" type="line"/>
+      <point x="98" y="-446" type="line"/>
+      <point x="130" y="-466" type="line"/>
+      <point x="134.47761194029852" y="-292.8656716417911"/>
+      <point x="87.0" y="-80.62686567164178"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>meem-ar.init</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

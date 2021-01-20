@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJacute.ss01" format="2">
+  <advance width="1046"/>
+  <anchor x="194" y="0" name="bottom_1"/>
+  <anchor x="659" y="0" name="bottom_2"/>
+  <anchor x="384" y="10" name="ogonek"/>
+  <anchor x="194" y="700" name="top_1"/>
+  <anchor x="775" y="700" name="top_2"/>
+  <anchor x="141" y="700" name="topleft"/>
+  <outline>
+    <component base="IJ.ss01" xOffset="41"/>
+    <component base="acutecomb.case" xOffset="142" yOffset="152"/>
+    <component base="acutecomb.case" xOffset="720" yOffset="152"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb.case</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>acutecomb.case</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>J</string>
+    </dict>
+  </lib>
+</glyph>

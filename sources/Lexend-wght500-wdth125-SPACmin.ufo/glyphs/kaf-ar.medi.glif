@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf-ar.medi" format="2">
+  <advance width="840"/>
+  <unicode hex="FEDC"/>
+  <anchor x="648" y="0" name="#entry"/>
+  <anchor x="648" y="0" name="#exit"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="194" y="498" name="top"/>
+  <outline>
+    <component base="_connection.round" xOffset="648"/>
+    <component base="kaf-ar.init"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_connection.round</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

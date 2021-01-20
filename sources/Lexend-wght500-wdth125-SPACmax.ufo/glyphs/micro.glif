@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="896"/>
+  <unicode hex="00B5"/>
+  <note>
+uni00B5
+</note>
+  <outline>
+    <contour>
+      <point x="629" y="525" type="line"/>
+      <point x="746" y="525" type="line"/>
+      <point x="746" y="0" type="line"/>
+      <point x="629" y="0" type="line"/>
+      <point x="629" y="97" type="line"/>
+      <point x="631" y="89" type="line"/>
+      <point x="624" y="66"/>
+      <point x="502" y="-10"/>
+      <point x="409" y="-10" type="qcurve" smooth="yes"/>
+      <point x="372" y="-10"/>
+      <point x="278" y="19"/>
+      <point x="260" y="49" type="qcurve"/>
+      <point x="267" y="62" type="line"/>
+      <point x="267" y="-157" type="line"/>
+      <point x="151" y="-157" type="line"/>
+      <point x="150" y="525" type="line"/>
+      <point x="267" y="525" type="line"/>
+      <point x="267" y="238" type="line" smooth="yes"/>
+      <point x="267" y="179"/>
+      <point x="337" y="96"/>
+      <point x="424" y="96" type="qcurve" smooth="yes"/>
+      <point x="514" y="96"/>
+      <point x="629" y="190"/>
+      <point x="629" y="252" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

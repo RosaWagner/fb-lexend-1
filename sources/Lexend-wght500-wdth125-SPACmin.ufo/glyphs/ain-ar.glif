@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ain-ar" format="2">
+  <advance width="819"/>
+  <unicode hex="0639"/>
+  <anchor x="459" y="-456" name="bottom"/>
+  <anchor x="388" y="438" name="top"/>
+  <outline>
+    <contour>
+      <point x="684" y="51" type="line"/>
+      <point x="459" y="23"/>
+      <point x="124" y="-107"/>
+      <point x="124" y="-204" type="qcurve" smooth="yes"/>
+      <point x="124" y="-281"/>
+      <point x="322" y="-354"/>
+      <point x="482" y="-354" type="qcurve" smooth="yes"/>
+      <point x="609" y="-354"/>
+      <point x="812" y="-330"/>
+      <point x="866" y="-314" type="qcurve"/>
+      <point x="819" y="-280" type="line"/>
+      <point x="866" y="-452" type="line"/>
+      <point x="892" y="-403" type="line"/>
+      <point x="804" y="-433"/>
+      <point x="587" y="-456"/>
+      <point x="459" y="-456" type="qcurve" smooth="yes"/>
+      <point x="276" y="-456"/>
+      <point x="20" y="-345"/>
+      <point x="20" y="-218" type="qcurve" smooth="yes"/>
+      <point x="20" y="-67"/>
+      <point x="393" y="128"/>
+      <point x="699" y="151" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="361" y="5" type="qcurve"/>
+      <point x="435" y="89" type="line"/>
+      <point x="357" y="99"/>
+      <point x="217" y="174"/>
+      <point x="217" y="236" type="qcurve" smooth="yes"/>
+      <point x="217" y="281"/>
+      <point x="301" y="336"/>
+      <point x="388" y="336" type="qcurve" smooth="yes"/>
+      <point x="453" y="336"/>
+      <point x="548" y="317"/>
+      <point x="585" y="301" type="qcurve"/>
+      <point x="548" y="267" type="line"/>
+      <point x="611" y="430" type="line"/>
+      <point x="632" y="385" type="line"/>
+      <point x="592" y="409"/>
+      <point x="467" y="438"/>
+      <point x="388" y="438" type="qcurve" smooth="yes"/>
+      <point x="258" y="438"/>
+      <point x="113" y="324"/>
+      <point x="113" y="236" type="qcurve" smooth="yes"/>
+      <point x="113" y="152"/>
+      <point x="242" y="40"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

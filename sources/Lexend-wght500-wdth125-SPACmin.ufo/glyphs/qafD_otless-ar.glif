@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qafDotless-ar" format="2">
+  <advance width="930"/>
+  <unicode hex="066F"/>
+  <anchor x="416" y="-230" name="bottom"/>
+  <anchor x="609" y="408" name="top"/>
+  <outline>
+    <contour>
+      <point x="131" y="38" type="qcurve" smooth="yes"/>
+      <point x="131" y="-44"/>
+      <point x="285" y="-128"/>
+      <point x="427" y="-128" type="qcurve" smooth="yes"/>
+      <point x="577" y="-128"/>
+      <point x="768" y="-19"/>
+      <point x="768" y="90" type="qcurve" smooth="yes"/>
+      <point x="768" y="171"/>
+      <point x="679" y="306"/>
+      <point x="603" y="306" type="qcurve" smooth="yes"/>
+      <point x="540" y="306"/>
+      <point x="457" y="235"/>
+      <point x="457" y="197" type="qcurve" smooth="yes"/>
+      <point x="457" y="164"/>
+      <point x="517" y="123"/>
+      <point x="615" y="123" type="qcurve" smooth="yes"/>
+      <point x="679" y="123"/>
+      <point x="745" y="132"/>
+      <point x="773" y="142" type="qcurve"/>
+      <point x="824" y="66" type="line"/>
+      <point x="786" y="44"/>
+      <point x="682" y="21"/>
+      <point x="602" y="21" type="qcurve" smooth="yes"/>
+      <point x="466" y="21"/>
+      <point x="362" y="114"/>
+      <point x="362" y="177" type="qcurve" smooth="yes"/>
+      <point x="362" y="281"/>
+      <point x="513" y="408"/>
+      <point x="609" y="408" type="qcurve" smooth="yes"/>
+      <point x="718" y="408"/>
+      <point x="860" y="248"/>
+      <point x="860" y="122" type="qcurve" smooth="yes"/>
+      <point x="860" y="-42"/>
+      <point x="635" y="-230"/>
+      <point x="416" y="-230" type="qcurve" smooth="yes"/>
+      <point x="241" y="-230"/>
+      <point x="30" y="-103"/>
+      <point x="30" y="23" type="qcurve" smooth="yes"/>
+      <point x="30" y="57"/>
+      <point x="54" y="176"/>
+      <point x="89" y="250" type="qcurve"/>
+      <point x="33" y="228" type="line"/>
+      <point x="210" y="169" type="line"/>
+      <point x="177" y="223" type="line"/>
+      <point x="154" y="169"/>
+      <point x="131" y="72"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>behDotless-ar</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

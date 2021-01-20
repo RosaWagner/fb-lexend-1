@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="1118"/>
+  <unicode hex="20AD"/>
+  <anchor x="583" y="0" name="bottom"/>
+  <anchor x="583" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="607" y="320" type="line"/>
+      <point x="607" y="431" type="line"/>
+      <point x="932" y="431" type="line"/>
+      <point x="932" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="431" type="line"/>
+      <point x="279" y="320" type="line"/>
+      <point x="50" y="320" type="line"/>
+      <point x="50" y="431" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="0" type="line"/>
+      <point x="229" y="700" type="line"/>
+      <point x="337" y="700" type="line"/>
+      <point x="337" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="174" type="line"/>
+      <point x="306" y="297" type="line"/>
+      <point x="822" y="700" type="line"/>
+      <point x="982" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="824" y="0" type="line"/>
+      <point x="517" y="379" type="line"/>
+      <point x="584" y="465" type="line"/>
+      <point x="968" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>K</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="638"/>
+  <unicode hex="0127"/>
+  <note>
+hbar
+</note>
+  <anchor x="431" y="0" name="bottom"/>
+  <anchor x="199" y="608" name="center"/>
+  <anchor x="188" y="740" name="top"/>
+  <outline>
+    <component base="h" xOffset="-77"/>
+    <component base="strokeshortcomb" xOffset="-125" yOffset="312"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

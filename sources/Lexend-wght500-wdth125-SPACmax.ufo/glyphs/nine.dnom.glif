@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.dnom" format="2">
+  <advance width="333"/>
+  <outline>
+    <contour>
+      <point x="298" y="207" type="qcurve"/>
+      <point x="298.0" y="115"/>
+      <point x="218.65671641791045" y="-12.0"/>
+      <point x="150" y="-12" type="qcurve"/>
+      <point x="124.6268656716418" y="-12.0"/>
+      <point x="70.70149253731343" y="15.313432835820898"/>
+      <point x="61" y="28" type="qcurve"/>
+      <point x="94" y="82" type="line"/>
+      <point x="104.44776119402985" y="74.53731343283582"/>
+      <point x="132.3134328358209" y="62.0"/>
+      <point x="145" y="62" type="qcurve" smooth="yes"/>
+      <point x="179.32835820895522" y="62.0"/>
+      <point x="209.76119402985074" y="115.01492537313433"/>
+      <point x="212" y="168" type="qcurve"/>
+      <point x="263" y="229" type="line"/>
+      <point x="247.32835820895522" y="179.0"/>
+      <point x="184.0597014925373" y="123.0"/>
+      <point x="146" y="123" type="qcurve"/>
+      <point x="95.25373134328359" y="123.0"/>
+      <point x="35.0" y="185.46268656716418"/>
+      <point x="35" y="228" type="qcurve"/>
+      <point x="35.0" y="284.7164179104478"/>
+      <point x="112.01492537313433" y="358.0"/>
+      <point x="165" y="358" type="qcurve"/>
+      <point x="227.6865671641791" y="358.0"/>
+      <point x="298.0" y="264"/>
+    </contour>
+    <contour>
+      <point x="114" y="239" type="qcurve"/>
+      <point x="114.0" y="217"/>
+      <point x="142.3582089552239" y="185.0"/>
+      <point x="164" y="185" type="qcurve"/>
+      <point x="188.62686567164178" y="185.0"/>
+      <point x="219.0" y="217.1044776119403"/>
+      <point x="219" y="238" type="qcurve"/>
+      <point x="219.0" y="261.88059701492534"/>
+      <point x="189.13432835820896" y="294.0"/>
+      <point x="166" y="294" type="qcurve"/>
+      <point x="145.1044776119403" y="294.0"/>
+      <point x="114.0" y="263"/>
+    </contour>
+  </outline>
+</glyph>

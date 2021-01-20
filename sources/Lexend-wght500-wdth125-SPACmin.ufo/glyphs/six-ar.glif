@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six-ar" format="2">
+  <advance width="590"/>
+  <unicode hex="0666"/>
+  <outline>
+    <contour>
+      <point x="510" y="0" type="line"/>
+      <point x="406" y="0" type="line"/>
+      <point x="406" y="375" type="line" smooth="yes"/>
+      <point x="406" y="490"/>
+      <point x="332" y="559"/>
+      <point x="225" y="559" type="qcurve" smooth="yes"/>
+      <point x="10" y="559" type="line"/>
+      <point x="10" y="661" type="line"/>
+      <point x="225" y="661" type="line" smooth="yes"/>
+      <point x="388" y="661"/>
+      <point x="510" y="537"/>
+      <point x="510" y="375" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

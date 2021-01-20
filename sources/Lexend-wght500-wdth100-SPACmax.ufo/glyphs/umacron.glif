@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="umacron" format="2">
+  <advance width="925"/>
+  <unicode hex="016B"/>
+  <note>
+umacron
+</note>
+  <anchor x="363" y="0" name="bottom"/>
+  <anchor x="594" y="0" name="ogonek"/>
+  <anchor x="363" y="664" name="top"/>
+  <anchor x="450" y="532" name="topright"/>
+  <outline>
+    <component base="u" xOffset="64"/>
+    <component base="macroncomb" xOffset="150" yOffset="-19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

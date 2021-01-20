@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsupabove-ar" format="2">
+  <advance width="430"/>
+  <anchor x="215" y="438" name="_top"/>
+  <anchor x="213" y="846" name="top"/>
+  <outline>
+    <contour>
+      <point x="294" y="764" type="line"/>
+      <point x="217" y="682" type="line"/>
+      <point x="136" y="764" type="line"/>
+      <point x="213" y="846" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="627" type="line"/>
+      <point x="131" y="545" type="line"/>
+      <point x="50" y="627" type="line"/>
+      <point x="127" y="709" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="627" type="line"/>
+      <point x="303" y="545" type="line"/>
+      <point x="222" y="627" type="line"/>
+      <point x="299" y="709" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

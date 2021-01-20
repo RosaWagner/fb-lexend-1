@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ain-ar" format="2">
+  <advance width="764"/>
+  <unicode hex="0639"/>
+  <anchor x="397" y="-456" name="bottom"/>
+  <anchor x="336" y="438" name="top"/>
+  <outline>
+    <contour>
+      <point x="537" y="151" type="qcurve"/>
+      <point x="522" y="51" type="line"/>
+      <point x="349" y="24"/>
+      <point x="162" y="-103"/>
+      <point x="162" y="-194" type="qcurve" smooth="yes"/>
+      <point x="162" y="-272"/>
+      <point x="300" y="-354"/>
+      <point x="430" y="-354" type="qcurve" smooth="yes"/>
+      <point x="499" y="-354"/>
+      <point x="621" y="-334"/>
+      <point x="674" y="-314" type="qcurve"/>
+      <point x="627" y="-280" type="line"/>
+      <point x="680" y="-452" type="line"/>
+      <point x="701" y="-395" type="line"/>
+      <point x="629" y="-427"/>
+      <point x="489" y="-456"/>
+      <point x="397" y="-456" type="qcurve" smooth="yes"/>
+      <point x="245" y="-456"/>
+      <point x="58" y="-322"/>
+      <point x="58" y="-208" type="qcurve" smooth="yes"/>
+      <point x="58" y="-66"/>
+      <point x="317" y="128"/>
+    </contour>
+    <contour>
+      <point x="418" y="102" type="qcurve"/>
+      <point x="341" y="16" type="line"/>
+      <point x="228" y="45"/>
+      <point x="111" y="157"/>
+      <point x="111" y="236" type="qcurve" smooth="yes"/>
+      <point x="111" y="325"/>
+      <point x="237" y="438"/>
+      <point x="336" y="438" type="qcurve" smooth="yes"/>
+      <point x="389" y="438"/>
+      <point x="490" y="407"/>
+      <point x="529" y="378" type="qcurve"/>
+      <point x="520" y="430" type="line"/>
+      <point x="434" y="267" type="line"/>
+      <point x="483" y="295" type="line"/>
+      <point x="449" y="316"/>
+      <point x="377" y="336"/>
+      <point x="336" y="336" type="qcurve" smooth="yes"/>
+      <point x="281" y="336"/>
+      <point x="215" y="282"/>
+      <point x="215" y="236" type="qcurve" smooth="yes"/>
+      <point x="215" y="174"/>
+      <point x="322" y="102"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
