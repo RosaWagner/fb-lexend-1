@@ -5,10 +5,4 @@
   <outline>
     <component base="comma"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.6921,0.6392,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -525,6 +525,7 @@
           <string>fehDotless-ar</string>
           <string>veh-ar</string>
           <string>noonghunna-ar</string>
+          <string>Germandbls</string>
           <string>Ccedillaacute</string>
           <string>ccedillaacute</string>
           <string>Ddotbelow</string>
@@ -598,7 +599,6 @@
           <string>Zdotbelow</string>
           <string>zdotbelow</string>
           <string>tdieresis</string>
-          <string>Germandbls</string>
           <string>Adotbelow</string>
           <string>adotbelow</string>
           <string>Ahookabove</string>
@@ -1061,17 +1061,13 @@
           <string>iacute_j.loclNLD</string>
           <string>jacute.loclNLD</string>
           <string>Iacute_J.loclNLD</string>
-          <string>aabreve.ss01</string>
           <string>tildecomb_acutecomb</string>
           <string>macroncomb_acutecomb</string>
           <string>tildecomb_dieresiscomb</string>
           <string>dieresiscomb_acutecomb</string>
           <string>tildecomb_macroncomb</string>
-          <string>tildecomb_acutecomb.copy_1</string>
-          <string>tildecomb_dieresiscomb.copy_1</string>
           <string>dotaccentcomb_macroncomb</string>
           <string>macroncomb_gravecomb</string>
-          <string>macroncomb_acutecomb.copy_1</string>
           <string>macroncomb_dieresiscomb</string>
           <string>acutecomb_dotaccentcomb</string>
           <string>caroncomb_dotaccentcomb</string>
@@ -1135,7 +1131,7 @@
     <key>com.schriftgestaltung.widthValue</key>
     <integer>5</integer>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>FBLexend-wght100</string>
+    <string>FBLexend-wght100-011921</string>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -1673,6 +1669,7 @@
       <string>fehDotless-ar</string>
       <string>veh-ar</string>
       <string>noonghunna-ar</string>
+      <string>Germandbls</string>
       <string>Ccedillaacute</string>
       <string>ccedillaacute</string>
       <string>Ddotbelow</string>
@@ -1746,7 +1743,6 @@
       <string>Zdotbelow</string>
       <string>zdotbelow</string>
       <string>tdieresis</string>
-      <string>Germandbls</string>
       <string>Adotbelow</string>
       <string>adotbelow</string>
       <string>Ahookabove</string>

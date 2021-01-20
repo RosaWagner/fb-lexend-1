@@ -7,10 +7,7 @@ Eng
 </note>
   <outline>
     <contour>
-      <point x="598" y="241" type="qcurve"/>
-      <point x="598" y="700" type="line"/>
-      <point x="620" y="700" type="line"/>
-      <point x="620" y="0" type="line"/>
+      <point x="598" y="19" type="line"/>
       <point x="600" y="0" type="line"/>
       <point x="115" y="686" type="line"/>
       <point x="130" y="686" type="line"/>
@@ -25,18 +22,18 @@ Eng
       <point x="601" y="31" type="line"/>
       <point x="601" y="75"/>
       <point x="599" y="177"/>
-    </contour>
-    <contour>
-      <point x="620" y="19" type="line"/>
+      <point x="598" y="241" type="qcurve"/>
+      <point x="598" y="700" type="line"/>
+      <point x="620" y="700" type="line"/>
+      <point x="620" y="0" type="line"/>
       <point x="620" y="-60" type="line" smooth="yes"/>
-      <point x="620" y="-125"/>
+      <point x="620.0" y="-125.0"/>
       <point x="554" y="-194"/>
       <point x="494" y="-194" type="qcurve"/>
       <point x="486" y="-173" type="line"/>
       <point x="548" y="-173"/>
       <point x="598" y="-108"/>
       <point x="598" y="-56" type="qcurve"/>
-      <point x="598" y="19" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -11,7 +11,7 @@ i
   <anchor x="89" y="765.0" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="-22" yOffset="14"/>
+    <component base="dotaccentcomb" xOffset="-36" yOffset="14"/>
   </outline>
   <lib>
     <dict>
