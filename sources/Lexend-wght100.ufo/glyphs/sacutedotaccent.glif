@@ -2,10 +2,11 @@
 <glyph name="sacutedotaccent" format="2">
   <advance width="479"/>
   <unicode hex="1E65"/>
+  <guideline x="277" y="595" angle="0" identifier="aKfyF6Q3G2"/>
   <outline>
     <component base="s"/>
     <component base="acutecomb" xOffset="204.45999999999913" yOffset="-2"/>
-    <component base="dotaccentcomb.case" xOffset="57" yOffset="-65"/>
+    <component base="dotaccentcomb" xOffset="65" yOffset="-60"/>
   </outline>
   <lib>
     <dict>

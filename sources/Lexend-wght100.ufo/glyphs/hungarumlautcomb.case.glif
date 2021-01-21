@@ -3,7 +3,7 @@
   <anchor x="175.0" y="516.5002128854394" name="_top"/>
   <anchor x="175.0" y="725.0009123661689" name="top"/>
   <outline>
-    <component base="hungarumlaut.case" xOffset="7" yOffset="-2"/>
+    <component base="hungarumlaut.case"/>
   </outline>
   <lib>
     <dict>

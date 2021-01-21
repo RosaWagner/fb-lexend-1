@@ -5,9 +5,8 @@
   <anchor x="466" y="10" name="ogonek"/>
   <anchor x="332" y="989" name="top"/>
   <outline>
-    <component base="a.ss01"/>
-    <component base="ringcomb" xOffset="121" yOffset="40"/>
-    <component base="acutecomb.case" xOffset="207" yOffset="286"/>
+    <component base="aring.ss01"/>
+    <component base="acutecomb" xOffset="184" yOffset="218"/>
   </outline>
   <lib>
     <dict>

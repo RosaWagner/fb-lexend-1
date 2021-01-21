@@ -2,6 +2,6 @@
 <glyph name="dieresiscomb_acutecomb" format="2">
   <outline>
     <component base="dieresiscomb" xOffset="-20"/>
-    <component base="acutecomb" xOffset="97" yOffset="247"/>
+    <component base="acutecomb" xOffset="127" yOffset="247"/>
   </outline>
 </glyph>

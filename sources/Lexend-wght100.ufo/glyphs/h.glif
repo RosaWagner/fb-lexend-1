@@ -6,8 +6,8 @@
 h
 </note>
   <anchor x="268" y="0" name="bottom"/>
-  <anchor x="89" y="593.0" name="center"/>
-  <anchor x="85" y="745" name="top"/>
+  <anchor x="76" y="593.0" name="center"/>
+  <anchor x="76" y="740" name="top"/>
   <outline>
     <contour>
       <point x="283" y="530" type="qcurve"/>

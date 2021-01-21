@@ -10,7 +10,6 @@
   <anchor x="387" y="706" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb.case" xOffset="186" yOffset="175"/>
-    <component base="macroncomb.case" xOffset="182" yOffset="321"/>
+    <component base="dieresiscomb_macroncomb" xOffset="237" yOffset="137"/>
   </outline>
 </glyph>

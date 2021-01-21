@@ -3,18 +3,7 @@
   <advance width="536"/>
   <unicode hex="030B"/>
   <outline>
-    <contour>
-      <point x="294" y="676" type="line"/>
-      <point x="66" y="554" type="line"/>
-      <point x="8" y="643" type="line"/>
-      <point x="214" y="797" type="line"/>
-    </contour>
-    <contour>
-      <point x="576" y="676" type="line"/>
-      <point x="348" y="554" type="line"/>
-      <point x="290" y="643" type="line"/>
-      <point x="496" y="797" type="line"/>
-    </contour>
+    <component base="hungarumlaut" xOffset="-3"/>
   </outline>
   <lib>
     <dict>

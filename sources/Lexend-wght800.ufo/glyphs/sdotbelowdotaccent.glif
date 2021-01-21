@@ -5,7 +5,7 @@
   <outline>
     <component base="s"/>
     <component base="dotbelowcomb" xOffset="148" yOffset="-23"/>
-    <component base="dotaccentcomb.case" xOffset="120" yOffset="33"/>
+    <component base="dotaccentcomb" xOffset="131" yOffset="33"/>
   </outline>
   <lib>
     <dict>

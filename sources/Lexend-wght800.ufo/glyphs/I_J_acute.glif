@@ -4,6 +4,7 @@
   <outline>
     <component base="IJ"/>
     <component base="acutecomb.case" xOffset="852" yOffset="216"/>
+    <component base="acutecomb.case" xOffset="202" yOffset="216"/>
   </outline>
   <lib>
     <dict>

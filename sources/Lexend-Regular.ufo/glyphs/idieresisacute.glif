@@ -7,7 +7,6 @@
   <anchor x="159" y="958" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="dieresiscomb" xOffset="-71" yOffset="24"/>
-    <component base="acutecomb" xOffset="34" yOffset="167"/>
+    <component base="dieresiscomb_acutecomb" xOffset="-30" yOffset="24"/>
   </outline>
 </glyph>

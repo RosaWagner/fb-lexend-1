@@ -8,7 +8,6 @@
   <anchor x="386" y="532" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="tildecomb" xOffset="96" yOffset="-3"/>
-    <component base="acutecomb" xOffset="221" yOffset="212"/>
+    <component base="tildecomb_acutecomb" xOffset="156" yOffset="-3"/>
   </outline>
 </glyph>

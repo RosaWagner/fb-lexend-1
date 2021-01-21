@@ -8,7 +8,6 @@
   <anchor x="512" y="708" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="macroncomb.case" xOffset="156" yOffset="164"/>
-    <component base="dieresiscomb.case" xOffset="170" yOffset="348"/>
+    <component base="macroncomb_dieresiscomb" xOffset="233" yOffset="120"/>
   </outline>
 </glyph>

@@ -1059,8 +1059,9 @@
           <string>IJacute.ss01</string>
           <string>Jacute.loclNLD</string>
           <string>iacute_j.loclNLD</string>
-          <string>jacute.loclNLD</string>
           <string>Iacute_J.loclNLD</string>
+          <string>jacute.loclNLD</string>
+          <string>dieresiscomb_macroncomb</string>
           <string>tildecomb_acutecomb</string>
           <string>macroncomb_acutecomb</string>
           <string>tildecomb_dieresiscomb</string>
@@ -1078,6 +1079,7 @@
           <string>gcommaaccent.ss01</string>
           <string>gcaron.ss01</string>
           <string>gmacron.ss01</string>
+          <string>aabreve.ss01</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -2203,8 +2205,9 @@
       <string>IJacute.ss01</string>
       <string>Jacute.loclNLD</string>
       <string>iacute_j.loclNLD</string>
-      <string>jacute.loclNLD</string>
       <string>Iacute_J.loclNLD</string>
+      <string>jacute.loclNLD</string>
+      <string>dieresiscomb_macroncomb</string>
       <string>tildecomb_acutecomb</string>
       <string>macroncomb_acutecomb</string>
       <string>tildecomb_dieresiscomb</string>
@@ -2222,6 +2225,7 @@
       <string>gcommaaccent.ss01</string>
       <string>gcaron.ss01</string>
       <string>gmacron.ss01</string>
+      <string>aabreve.ss01</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

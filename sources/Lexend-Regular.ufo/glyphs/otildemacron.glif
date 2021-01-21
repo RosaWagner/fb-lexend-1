@@ -9,7 +9,6 @@
   <anchor x="319" y="531" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="tildecomb" xOffset="102"/>
-    <component base="macroncomb" xOffset="104" yOffset="218"/>
+    <component base="tildecomb_macroncomb" xOffset="162"/>
   </outline>
 </glyph>

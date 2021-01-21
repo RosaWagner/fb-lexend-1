@@ -3,7 +3,12 @@
   <advance width="424"/>
   <unicode hex="02C9"/>
   <outline>
-    <component base="macron"/>
+    <contour>
+      <point x="347" y="629" type="line"/>
+      <point x="77" y="629" type="line"/>
+      <point x="77" y="651" type="line"/>
+      <point x="347" y="651" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

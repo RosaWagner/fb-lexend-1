@@ -552,6 +552,8 @@
     <string>a.glif</string>
     <key>a.ss01</key>
     <string>a.ss01.glif</string>
+    <key>aabreve.ss01</key>
+    <string>aabreve.ss01.glif</string>
     <key>aacute</key>
     <string>aacute.glif</string>
     <key>aacute.ss01</key>
@@ -918,6 +920,8 @@
     <string>dieresiscomb.case.glif</string>
     <key>dieresiscomb_acutecomb</key>
     <string>dieresiscomb_acutecomb.glif</string>
+    <key>dieresiscomb_macroncomb</key>
+    <string>dieresiscomb_macroncomb.glif</string>
     <key>divide</key>
     <string>divide.glif</string>
     <key>divisionslash</key>

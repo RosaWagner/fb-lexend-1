@@ -6,6 +6,17 @@
   <guideline x="139" y="780" angle="0" identifier="NnKKPW2l64"/>
   <anchor x="246" y="515" name="_top"/>
   <outline>
-    <component base="hungarumlautcomb" xOffset="3"/>
+    <contour>
+      <point x="297" y="676" type="line"/>
+      <point x="69" y="554" type="line"/>
+      <point x="11" y="643" type="line"/>
+      <point x="217" y="797" type="line"/>
+    </contour>
+    <contour>
+      <point x="579" y="676" type="line"/>
+      <point x="351" y="554" type="line"/>
+      <point x="293" y="643" type="line"/>
+      <point x="499" y="797" type="line"/>
+    </contour>
   </outline>
 </glyph>

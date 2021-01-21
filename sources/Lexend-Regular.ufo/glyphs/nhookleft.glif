@@ -22,9 +22,7 @@
       <point x="190" y="370"/>
       <point x="190" y="318" type="qcurve"/>
       <point x="190" y="0" type="line"/>
-      <point x="164" y="0"/>
-      <point x="113" y="0"/>
-      <point x="87" y="0" type="qcurve"/>
+      <point x="87" y="0" type="line"/>
       <point x="87" y="525" type="line"/>
       <point x="190" y="525" type="line"/>
       <point x="190" y="417" type="line"/>
