@@ -3,34 +3,7 @@
   <advance width="332"/>
   <unicode hex="02DC"/>
   <outline>
-    <contour>
-      <point x="60" y="647" type="qcurve"/>
-      <point x="40" y="650" type="line"/>
-      <point x="40.0" y="680.0"/>
-      <point x="78" y="722.0"/>
-      <point x="102" y="722" type="qcurve"/>
-      <point x="123.0" y="722.0"/>
-      <point x="160.8480077957015" y="699.1097721475489"/>
-      <point x="179" y="686" type="qcurve" smooth="yes"/>
-      <point x="185.9144359976723" y="681.0611171445198"/>
-      <point x="218.25925925925927" y="661.0"/>
-      <point x="232" y="661" type="qcurve"/>
-      <point x="247.3846153846154" y="661.0"/>
-      <point x="270.99997117715594" y="685.9991353146787"/>
-      <point x="272" y="716" type="qcurve"/>
-      <point x="292" y="713" type="line"/>
-      <point x="292.0" y="680.0"/>
-      <point x="255.125" y="641.0"/>
-      <point x="233" y="641" type="qcurve"/>
-      <point x="209.88888888888889" y="641.0"/>
-      <point x="171.86377072632655" y="665.0961618402401"/>
-      <point x="155" y="677" type="qcurve" smooth="yes"/>
-      <point x="147.20919296007912" y="681.8692543999505"/>
-      <point x="117.7037037037037" y="702.0"/>
-      <point x="102" y="702" type="qcurve"/>
-      <point x="86.63414634146342" y="702.0"/>
-      <point x="60.0" y="673.0"/>
-    </contour>
+    <component base="tildecomb"/>
   </outline>
   <lib>
     <dict>

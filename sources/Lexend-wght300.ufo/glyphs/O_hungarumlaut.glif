@@ -5,6 +5,7 @@
   <outline>
     <component base="O"/>
     <component base="hungarumlautcomb.case" xOffset="220.1199999999808" yOffset="178"/>
+    <component base="hungarumlautcomb.case"/>
   </outline>
   <lib>
     <dict>
