@@ -188,6 +188,8 @@
     <string>I_acute.glif</string>
     <key>Iacute.ss01</key>
     <string>I_acute.ss01.glif</string>
+    <key>Iacute_J.loclNLD</key>
+    <string>I_acute_J_.loclN_L_D_.glif</string>
     <key>Ibreve</key>
     <string>I_breve.glif</string>
     <key>Ibreve.ss01</key>
@@ -248,6 +250,8 @@
     <string>J_.glif</string>
     <key>J.ss01</key>
     <string>J_.ss01.glif</string>
+    <key>Jacute.loclNLD</key>
+    <string>J_acute.loclN_L_D_.glif</string>
     <key>Jcircumflex</key>
     <string>J_circumflex.glif</string>
     <key>Jcircumflex.ss01</key>
@@ -548,6 +552,8 @@
     <string>a.glif</string>
     <key>a.ss01</key>
     <string>a.ss01.glif</string>
+    <key>aabreve.ss01</key>
+    <string>aabreve.ss01.glif</string>
     <key>aacute</key>
     <string>aacute.glif</string>
     <key>aacute.ss01</key>
@@ -612,6 +618,8 @@
     <string>acutecomb.glif</string>
     <key>acutecomb.case</key>
     <string>acutecomb.case.glif</string>
+    <key>acutecomb_dotaccentcomb</key>
+    <string>acutecomb_dotaccentcomb.glif</string>
     <key>adblgrave</key>
     <string>adblgrave.glif</string>
     <key>adblgrave.ss01</key>
@@ -804,6 +812,8 @@
     <string>caroncomb.glif</string>
     <key>caroncomb.case</key>
     <string>caroncomb.case.glif</string>
+    <key>caroncomb_dotaccentcomb</key>
+    <string>caroncomb_dotaccentcomb.glif</string>
     <key>ccaron</key>
     <string>ccaron.glif</string>
     <key>ccedilla</key>
@@ -854,8 +864,6 @@
     <string>commaaccentcomb.alt.glif</string>
     <key>commaaccentcomb.case</key>
     <string>commaaccentcomb.case.glif</string>
-    <key>commaaccentcombz</key>
-    <string>commaaccentcombz.glif</string>
     <key>commaturnedmod</key>
     <string>commaturnedmod.glif</string>
     <key>copyright</key>
@@ -910,6 +918,10 @@
     <string>dieresiscomb.glif</string>
     <key>dieresiscomb.case</key>
     <string>dieresiscomb.case.glif</string>
+    <key>dieresiscomb_acutecomb</key>
+    <string>dieresiscomb_acutecomb.glif</string>
+    <key>dieresiscomb_macroncomb</key>
+    <string>dieresiscomb_macroncomb.glif</string>
     <key>divide</key>
     <string>divide.glif</string>
     <key>divisionslash</key>
@@ -930,6 +942,8 @@
     <string>dotaccentcomb.glif</string>
     <key>dotaccentcomb.case</key>
     <string>dotaccentcomb.case.glif</string>
+    <key>dotaccentcomb_macroncomb</key>
+    <string>dotaccentcomb_macroncomb.glif</string>
     <key>dotbelow-ar</key>
     <string>dotbelow-ar.glif</string>
     <key>dotbelowcomb</key>
@@ -1102,16 +1116,28 @@
     <string>franc.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>g.ss01</key>
+    <string>g.ss01.glif</string>
     <key>gbreve</key>
     <string>gbreve.glif</string>
+    <key>gbreve.ss01</key>
+    <string>gbreve.ss01.glif</string>
     <key>gcaron</key>
     <string>gcaron.glif</string>
+    <key>gcaron.ss01</key>
+    <string>gcaron.ss01.glif</string>
     <key>gcircumflex</key>
     <string>gcircumflex.glif</string>
+    <key>gcircumflex.ss01</key>
+    <string>gcircumflex.ss01.glif</string>
     <key>gcommaaccent</key>
     <string>gcommaaccent.glif</string>
+    <key>gcommaaccent.ss01</key>
+    <string>gcommaaccent.ss01.glif</string>
     <key>gdotaccent</key>
     <string>gdotaccent.glif</string>
+    <key>gdotaccent.ss01</key>
+    <string>gdotaccent.ss01.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
     <key>ghain-ar</key>
@@ -1124,6 +1150,8 @@
     <string>ghain-ar.medi.glif</string>
     <key>gmacron</key>
     <string>gmacron.glif</string>
+    <key>gmacron.ss01</key>
+    <string>gmacron.ss01.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
     <key>grave.case</key>
@@ -1208,6 +1236,8 @@
     <string>hookabovecomb.case.glif</string>
     <key>horizontalbar</key>
     <string>horizontalbar.glif</string>
+    <key>horizontalbarlc</key>
+    <string>horizontalbarlc.glif</string>
     <key>horncomb</key>
     <string>horncomb.glif</string>
     <key>horncomb.case</key>
@@ -1230,6 +1260,8 @@
     <string>i.glif</string>
     <key>iacute</key>
     <string>iacute.glif</string>
+    <key>iacute_j.loclNLD</key>
+    <string>iacute_j.loclN_L_D_.glif</string>
     <key>ibreve</key>
     <string>ibreve.glif</string>
     <key>icaron</key>
@@ -1272,6 +1304,8 @@
     <string>itilde.glif</string>
     <key>j</key>
     <string>j.glif</string>
+    <key>jacute.loclNLD</key>
+    <string>jacute.loclN_L_D_.glif</string>
     <key>jcircumflex</key>
     <string>jcircumflex.glif</string>
     <key>jdotless</key>
@@ -1386,6 +1420,12 @@
     <string>macroncomb.glif</string>
     <key>macroncomb.case</key>
     <string>macroncomb.case.glif</string>
+    <key>macroncomb_acutecomb</key>
+    <string>macroncomb_acutecomb.glif</string>
+    <key>macroncomb_dieresiscomb</key>
+    <string>macroncomb_dieresiscomb.glif</string>
+    <key>macroncomb_gravecomb</key>
+    <string>macroncomb_gravecomb.glif</string>
     <key>madda-ar</key>
     <string>madda-ar.glif</string>
     <key>manat</key>
@@ -1892,6 +1932,12 @@
     <string>tildecomb.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
+    <key>tildecomb_acutecomb</key>
+    <string>tildecomb_acutecomb.glif</string>
+    <key>tildecomb_dieresiscomb</key>
+    <string>tildecomb_dieresiscomb.glif</string>
+    <key>tildecomb_macroncomb</key>
+    <string>tildecomb_macroncomb.glif</string>
     <key>tlinebelow</key>
     <string>tlinebelow.glif</string>
     <key>trademark</key>

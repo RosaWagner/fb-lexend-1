@@ -5,10 +5,6 @@
   <note>
 umacron
 </note>
-  <anchor x="496" y="0" name="bottom"/>
-  <anchor x="800" y="11" name="ogonek"/>
-  <anchor x="496" y="702" name="top"/>
-  <anchor x="770" y="481" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="macroncomb" xOffset="283" yOffset="-4"/>

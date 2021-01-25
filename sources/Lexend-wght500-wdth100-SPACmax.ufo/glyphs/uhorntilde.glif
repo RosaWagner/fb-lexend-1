@@ -2,10 +2,6 @@
 <glyph name="uhorntilde" format="2">
   <advance width="757"/>
   <unicode hex="1EEF"/>
-  <anchor x="353" y="0" name="bottom"/>
-  <anchor x="583" y="0" name="ogonek"/>
-  <anchor x="365" y="744" name="top"/>
-  <anchor x="439" y="532" name="topright"/>
   <outline>
     <component base="uhorn" xOffset="53"/>
     <component base="tildecomb" xOffset="150" yOffset="-3"/>

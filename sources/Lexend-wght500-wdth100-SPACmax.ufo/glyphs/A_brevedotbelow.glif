@@ -2,9 +2,6 @@
 <glyph name="Abrevedotbelow" format="2">
   <advance width="834"/>
   <unicode hex="1EB6"/>
-  <anchor x="352" y="-194" name="bottom"/>
-  <anchor x="609" y="10" name="ogonek"/>
-  <anchor x="352" y="839" name="top"/>
   <outline>
     <component base="A"/>
     <component base="dotbelowcomb.case" xOffset="247"/>

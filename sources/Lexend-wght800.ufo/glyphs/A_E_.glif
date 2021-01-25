@@ -7,8 +7,6 @@ AE
 </note>
   <guideline x="1238" y="175" angle="0" identifier="Hjp3xvaa9R"/>
   <guideline x="1234" y="272" angle="0" identifier="bzxNCq5RcR"/>
-  <anchor x="620" y="0" name="bottom"/>
-  <anchor x="769" y="700" name="top"/>
   <outline>
     <contour>
       <point x="270" y="135" type="line"/>

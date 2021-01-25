@@ -4,12 +4,6 @@
   <unicode hex="1E24"/>
   <outline>
     <component base="H"/>
-    <component base="dotbelowcomb.case" xOffset="344.5" yOffset="21"/>
+    <component base="dotbelowcomb.case" xOffset="426"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

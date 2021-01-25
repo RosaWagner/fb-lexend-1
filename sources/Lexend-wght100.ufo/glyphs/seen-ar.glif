@@ -2,8 +2,6 @@
 <glyph name="seen-ar" format="2">
   <advance width="1286"/>
   <unicode hex="0633"/>
-  <anchor x="848.0" y="0" name="bottom"/>
-  <anchor x="874.0" y="333.0" name="top"/>
   <outline>
     <contour>
       <point x="793.0" y="68.0" type="qcurve"/>
@@ -43,6 +41,8 @@
       <string>noon-ar</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>behDotless-ar</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

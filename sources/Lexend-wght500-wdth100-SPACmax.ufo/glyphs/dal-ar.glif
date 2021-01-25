@@ -2,9 +2,6 @@
 <glyph name="dal-ar" format="2">
   <advance width="683"/>
   <unicode hex="062F"/>
-  <anchor x="503" y="0" name="#entry"/>
-  <anchor x="318" y="0" name="bottom"/>
-  <anchor x="329" y="487" name="top"/>
   <outline>
     <contour>
       <point x="503" y="0" type="qcurve"/>

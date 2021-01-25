@@ -2,12 +2,9 @@
 <glyph name="Adblgrave" format="2">
   <advance width="858"/>
   <unicode hex="0200"/>
-  <anchor x="496" y="0" name="bottom"/>
-  <anchor x="893" y="10" name="ogonek"/>
-  <anchor x="446" y="930" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="dblgravecomb.case" xOffset="154" yOffset="221"/>
+    <component base="dblgravecomb.case" xOffset="234" yOffset="221"/>
   </outline>
   <lib>
     <dict>
@@ -15,8 +12,6 @@
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

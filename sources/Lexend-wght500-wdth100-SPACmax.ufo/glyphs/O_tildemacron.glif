@@ -2,21 +2,9 @@
 <glyph name="Otildemacron" format="2">
   <advance width="942"/>
   <unicode hex="022C"/>
-  <guideline x="471.0" y="0" angle="90.0" identifier="Z5CkAF9y9X"/>
-  <anchor x="386" y="0" name="bottom"/>
-  <anchor x="386" y="350" name="center"/>
-  <anchor x="690" y="10" name="ogonek"/>
-  <anchor x="396" y="1141" name="top"/>
-  <anchor x="25" y="700" name="topleft"/>
-  <anchor x="387" y="706" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="tildecomb_macroncomb" xOffset="290" yOffset="160"/>
+    <component base="tildecomb.case" xOffset="176" yOffset="235"/>
+    <component base="macroncomb.case" xOffset="182" yOffset="432"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

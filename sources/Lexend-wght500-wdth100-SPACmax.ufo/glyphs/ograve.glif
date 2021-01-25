@@ -2,9 +2,12 @@
 <glyph name="ograve" format="2">
   <advance width="795"/>
   <unicode hex="00F2"/>
+  <note>
+ograve
+</note>
   <outline>
     <component base="o"/>
-    <component base="gravecomb" xOffset="250.35000000000582" yOffset="-27"/>
+    <component base="gravecomb" xOffset="151" yOffset="-6"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +15,6 @@
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

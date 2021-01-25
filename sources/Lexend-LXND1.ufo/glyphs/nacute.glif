@@ -5,8 +5,6 @@
   <note>
 nacute
 </note>
-  <anchor x="508" y="0" name="bottom"/>
-  <anchor x="563" y="784" name="top"/>
   <outline>
     <component base="n"/>
     <component base="acutecomb" xOffset="426" yOffset="-7"/>

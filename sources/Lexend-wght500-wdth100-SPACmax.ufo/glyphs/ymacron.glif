@@ -2,17 +2,8 @@
 <glyph name="ymacron" format="2">
   <advance width="791"/>
   <unicode hex="0233"/>
-  <guideline x="395.5" y="0" angle="90.0" identifier="fkiTRcs0ja"/>
-  <anchor x="490" y="0" name="bottom"/>
-  <anchor x="285" y="664" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="macroncomb" xOffset="212" yOffset="-19"/>
+    <component base="macroncomb" xOffset="72" yOffset="-19"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="theh-ar.medi.wide" format="2">
   <advance width="406"/>
-  <anchor x="199.0" y="0" name="bottom"/>
-  <anchor x="244.0" y="758.0" name="top"/>
   <outline>
     <component base="behDotless-ar.medi.wide"/>
     <component base="threedotsupabove-ar" xOffset="31" yOffset="-88"/>

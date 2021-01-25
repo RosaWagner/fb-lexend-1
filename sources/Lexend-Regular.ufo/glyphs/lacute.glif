@@ -5,10 +5,6 @@
   <note>
 lacute
 </note>
-  <anchor x="122" y="0" name="bottom"/>
-  <anchor x="122" y="289" name="center"/>
-  <anchor x="171" y="928" name="top"/>
-  <anchor x="229" y="580" name="topright"/>
   <outline>
     <component base="l"/>
     <component base="acutecomb" xOffset="24" yOffset="157"/>

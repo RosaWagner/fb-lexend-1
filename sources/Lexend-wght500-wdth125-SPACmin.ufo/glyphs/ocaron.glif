@@ -2,19 +2,8 @@
 <glyph name="ocaron" format="2">
   <advance width="775"/>
   <unicode hex="01D2"/>
-  <anchor x="478" y="0" name="bottom"/>
-  <anchor x="478" y="263" name="center"/>
-  <anchor x="860" y="10" name="ogonek"/>
-  <anchor x="478" y="773" name="top"/>
-  <anchor x="596" y="475" name="topright"/>
   <outline>
     <component base="o"/>
     <component base="caroncomb" xOffset="280"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

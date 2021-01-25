@@ -5,9 +5,6 @@
   <note>
 i
 </note>
-  <anchor x="270" y="0" name="bottom"/>
-  <anchor x="320" y="0" name="ogonek"/>
-  <anchor x="268" y="765" name="top"/>
   <outline>
     <component base="idotless" xOffset="17"/>
     <component base="dotaccentcomb" xOffset="140" yOffset="14"/>
@@ -18,8 +15,6 @@ i
       <string>idotless</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>idotless</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

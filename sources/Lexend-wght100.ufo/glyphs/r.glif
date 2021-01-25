@@ -5,8 +5,6 @@
   <note>
 r
 </note>
-  <anchor x="172" y="525" name="top"/>
-  <anchor x="80" y="0" name="center"/>
   <outline>
     <contour>
       <point x="316" y="522" type="qcurve"/>

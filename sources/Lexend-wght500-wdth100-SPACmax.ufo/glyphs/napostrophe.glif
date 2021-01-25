@@ -2,8 +2,6 @@
 <glyph name="napostrophe" format="2">
   <advance width="1038"/>
   <unicode hex="0149"/>
-  <anchor x="446" y="0" name="bottom"/>
-  <anchor x="446" y="510" name="top"/>
   <outline>
     <component base="apostrophemod" xOffset="-20"/>
     <component base="n" xOffset="143"/>
@@ -14,8 +12,6 @@
       <string>quoteleft</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>n</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

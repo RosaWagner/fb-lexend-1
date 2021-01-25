@@ -5,8 +5,6 @@
   <note>
 ncaron
 </note>
-  <anchor x="303" y="0" name="bottom"/>
-  <anchor x="303" y="755" name="top"/>
   <outline>
     <component base="n"/>
     <component base="caroncomb" xOffset="123" yOffset="-10"/>

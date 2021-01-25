@@ -4,9 +4,6 @@
   <note>
 amacron
 </note>
-  <anchor x="277" y="-13" name="bottom"/>
-  <anchor x="466" y="10" name="ogonek"/>
-  <anchor x="279" y="684" name="top"/>
   <outline>
     <component base="a.ss01"/>
     <component base="macroncomb" xOffset="66" yOffset="1"/>

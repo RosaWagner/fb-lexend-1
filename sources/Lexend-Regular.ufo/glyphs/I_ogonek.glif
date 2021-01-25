@@ -5,12 +5,8 @@
   <note>
 Iogonek
 </note>
-  <anchor x="238" y="0" name="bottom"/>
-  <anchor x="428" y="10" name="ogonek"/>
-  <anchor x="238" y="700" name="top"/>
-  <anchor x="123" y="700" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="ogonekcomb.case" xOffset="155"/>
+    <component base="ogonekcomb.case" xOffset="177"/>
   </outline>
 </glyph>

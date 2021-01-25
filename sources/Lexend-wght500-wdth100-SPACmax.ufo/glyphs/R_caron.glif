@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rcaron" format="2">
-  <advance width="881"/>
+  <advance width="900"/>
   <unicode hex="0158"/>
   <outline>
-    <component base="R"/>
-    <component base="caroncomb.case" xOffset="168.5" yOffset="78"/>
+    <component base="R" xOffset="19"/>
+    <component base="caroncomb.case" xOffset="159" yOffset="64"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

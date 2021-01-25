@@ -2,9 +2,6 @@
 <glyph name="zain-ar.fina" format="2">
   <advance width="856"/>
   <unicode hex="FEB0"/>
-  <anchor x="631" y="0" name="#entry"/>
-  <anchor x="284" y="-230" name="bottom"/>
-  <anchor x="408" y="649" name="top"/>
   <outline>
     <component base="reh-ar.fina"/>
     <component base="dotabove-ar" xOffset="279" yOffset="-60"/>

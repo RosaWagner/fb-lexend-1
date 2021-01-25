@@ -2,9 +2,12 @@
 <glyph name="otilde" format="2">
   <advance width="775"/>
   <unicode hex="00F5"/>
+  <note>
+otilde
+</note>
   <outline>
     <component base="o"/>
-    <component base="tildecomb" xOffset="187.5" yOffset="-19"/>
+    <component base="tildecomb" xOffset="267"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +15,6 @@
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

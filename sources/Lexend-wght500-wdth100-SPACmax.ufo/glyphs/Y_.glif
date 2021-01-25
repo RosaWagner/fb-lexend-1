@@ -5,10 +5,6 @@
   <note>
 Y
 </note>
-  <guideline x="400.0" y="0" angle="90.0" name="center" identifier="qwMoQK0VQC"/>
-  <anchor x="405" y="-1" name="bottom"/>
-  <anchor x="401" y="700" name="top"/>
-  <anchor x="130" y="700" name="topleft"/>
   <outline>
     <contour>
       <point x="596" y="700" type="line"/>
@@ -25,10 +21,4 @@ Y
       <point x="401" y="393" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

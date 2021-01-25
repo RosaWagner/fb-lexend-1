@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hamzabelow-ar" format="2">
   <unicode hex="0655"/>
-  <anchor x="118" y="0" name="_bottom"/>
-  <anchor x="118" y="-200" name="bottom"/>
   <outline>
     <contour>
       <point x="164" y="-193" type="qcurve"/>

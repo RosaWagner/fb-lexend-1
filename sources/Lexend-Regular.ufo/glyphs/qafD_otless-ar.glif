@@ -2,8 +2,6 @@
 <glyph name="qafDotless-ar" format="2">
   <advance width="788"/>
   <unicode hex="066F"/>
-  <anchor x="347" y="-230" name="bottom"/>
-  <anchor x="518" y="408" name="top"/>
   <outline>
     <contour>
       <point x="155" y="171"/>

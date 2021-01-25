@@ -4,9 +4,6 @@
   <note>
 i.loclTRK
 </note>
-  <anchor x="252" y="0" name="bottom"/>
-  <anchor x="303" y="0" name="ogonek"/>
-  <anchor x="251" y="765" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="dotaccentcomb" xOffset="123" yOffset="14"/>

@@ -2,8 +2,6 @@
 <glyph name="waw-ar.fina" format="2">
   <advance width="878"/>
   <unicode hex="FEEE"/>
-  <anchor x="359" y="-230" name="bottom"/>
-  <anchor x="420" y="388" name="top"/>
   <outline>
     <contour>
       <point x="676" y="90" type="qcurve" smooth="yes"/>

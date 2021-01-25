@@ -2,9 +2,12 @@
 <glyph name="ecaron" format="2">
   <advance width="931"/>
   <unicode hex="011B"/>
+  <note>
+ecaron
+</note>
   <outline>
     <component base="e"/>
-    <component base="caroncomb" xOffset="274.2400000000198" yOffset="-32"/>
+    <component base="caroncomb" xOffset="268"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +15,6 @@
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -6,8 +6,6 @@
 s
 </note>
   <guideline x="239.5" y="0" angle="270.0" name="center" identifier="cTBXNE9Sem"/>
-  <anchor x="242.0" y="0.0" name="bottom"/>
-  <anchor x="241.0" y="520" name="top"/>
   <outline>
     <contour>
       <point x="40" y="81" type="qcurve"/>

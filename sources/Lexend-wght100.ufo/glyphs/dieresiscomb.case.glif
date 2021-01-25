@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb.case" format="2">
-  <anchor x="170.00060824411258" y="517.5001520610282" name="_top"/>
-  <anchor x="166.50088195396324" y="768.9982360920735" name="top"/>
   <outline>
     <contour>
       <point x="116" y="683" type="qcurve" smooth="yes"/>

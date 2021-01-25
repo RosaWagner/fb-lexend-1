@@ -2,18 +2,8 @@
 <glyph name="uinvertedbreve" format="2">
   <advance width="930"/>
   <unicode hex="0217"/>
-  <anchor x="368" y="0" name="bottom"/>
-  <anchor x="599" y="0" name="ogonek"/>
-  <anchor x="368" y="761" name="top"/>
-  <anchor x="455" y="532" name="topright"/>
   <outline>
     <component base="u" xOffset="69"/>
-    <component base="breveinvertedcomb" xOffset="293" yOffset="-14"/>
+    <component base="breveinvertedcomb" xOffset="164" yOffset="-14"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

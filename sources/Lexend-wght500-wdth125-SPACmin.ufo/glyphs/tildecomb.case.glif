@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb.case" format="2">
   <advance width="10"/>
-  <anchor x="222" y="499" name="_top"/>
-  <anchor x="222" y="725" name="top"/>
   <outline>
     <contour>
       <point x="117" y="581" type="qcurve"/>

@@ -3,10 +3,9 @@
   <advance width="327"/>
   <guideline x="46" y="625" angle="0" identifier="70MN8eG3LT"/>
   <outline>
+    <component base="i"/>
     <component base="jdotless" xOffset="107"/>
-    <component base="acutecomb" xOffset="150" yOffset="28"/>
-    <component base="idotless"/>
-    <component base="acutecomb" xOffset="-21" yOffset="28"/>
+    <component base="acutecomb" xOffset="130" yOffset="28"/>
   </outline>
   <lib>
     <dict>

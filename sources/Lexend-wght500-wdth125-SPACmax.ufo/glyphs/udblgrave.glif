@@ -2,18 +2,8 @@
 <glyph name="udblgrave" format="2">
   <advance width="981"/>
   <unicode hex="0215"/>
-  <anchor x="496" y="0" name="bottom"/>
-  <anchor x="800" y="11" name="ogonek"/>
-  <anchor x="465" y="836" name="top"/>
-  <anchor x="770" y="481" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="dblgravecomb" xOffset="237" yOffset="26"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -5,13 +5,9 @@
   <note>
 u
 </note>
-  <anchor x="427" y="0" name="bottom"/>
-  <anchor x="658" y="0" name="ogonek"/>
-  <anchor x="427" y="510" name="top"/>
-  <anchor x="514" y="532" name="topright"/>
   <outline>
     <contour>
-      <point x="426" y="80" type="qcurve"/>
+      <point x="426" y="80" type="qcurve" smooth="yes"/>
       <point x="483" y="80"/>
       <point x="558" y="152"/>
       <point x="558" y="209" type="qcurve"/>
@@ -23,7 +19,7 @@ u
       <point x="576" y="122" type="line"/>
       <point x="558" y="66"/>
       <point x="451" y="-10"/>
-      <point x="384" y="-10" type="qcurve"/>
+      <point x="384" y="-10" type="qcurve" smooth="yes"/>
       <point x="300" y="-10"/>
       <point x="200" y="104"/>
       <point x="200" y="201" type="qcurve"/>
@@ -34,10 +30,4 @@ u
       <point x="368" y="80"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

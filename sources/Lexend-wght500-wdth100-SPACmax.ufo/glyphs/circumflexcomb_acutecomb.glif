@@ -1,11 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_acutecomb" format="2">
-  <guideline x="258" y="783" angle="0" identifier="f5acmQ0w6O"/>
-  <anchor x="186" y="515" name="_top"/>
-  <anchor x="186" y="740" name="top"/>
   <outline>
     <component base="circumflexcomb"/>
-    <component base="acutecomb" xOffset="277" yOffset="99"/>
+    <component base="acutecomb" xOffset="247" yOffset="100"/>
   </outline>
   <lib>
     <dict>

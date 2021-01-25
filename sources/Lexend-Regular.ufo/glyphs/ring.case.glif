@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ring.case" format="2">
   <advance width="336"/>
-  <anchor x="164" y="628" name="_top"/>
   <outline>
     <contour>
       <point x="277" y="835" type="qcurve"/>

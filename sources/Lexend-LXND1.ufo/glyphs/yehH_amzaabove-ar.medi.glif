@@ -2,8 +2,6 @@
 <glyph name="yehHamzaabove-ar.medi" format="2">
   <advance width="720"/>
   <unicode hex="FE8C"/>
-  <anchor x="397" y="0" name="bottom"/>
-  <anchor x="418.79999999999995" y="641.5999999999999" name="top"/>
   <outline>
     <component base="behDotless-ar.medi"/>
     <component base="hamzaabove-ar" xScale="1.2" yScale="1.2" xOffset="198" yOffset="-280"/>

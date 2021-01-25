@@ -5,9 +5,6 @@
   <note>
 ecircumflex
 </note>
-  <anchor x="466" y="0" name="bottom"/>
-  <anchor x="838" y="10" name="ogonek"/>
-  <anchor x="472" y="784" name="top"/>
   <outline>
     <component base="e"/>
     <component base="circumflexcomb" xOffset="261" yOffset="1"/>

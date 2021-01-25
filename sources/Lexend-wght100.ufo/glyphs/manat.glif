@@ -2,10 +2,6 @@
 <glyph name="manat" format="2">
   <advance width="744"/>
   <unicode hex="20BC"/>
-  <anchor x="387.49984793897187" y="694.0" name="bottom"/>
-  <anchor x="104.49984793897185" y="684.0" name="ogonek"/>
-  <anchor x="387.49984793897187" y="-6.0" name="top"/>
-  <anchor x="245.49984793897187" y="-14.0" name="topright"/>
   <outline>
     <contour>
       <point x="379" y="801" type="line"/>
@@ -14,6 +10,14 @@
       <point x="357" y="801" type="line"/>
     </contour>
     <contour>
+      <point x="612" y="0" type="line"/>
+      <point x="612" y="422" type="line"/>
+      <point x="612" y="537"/>
+      <point x="476" y="684"/>
+      <point x="368" y="684" type="qcurve"/>
+      <point x="263" y="684"/>
+      <point x="132" y="537"/>
+      <point x="132" y="422" type="qcurve"/>
       <point x="132" y="0" type="line"/>
       <point x="110" y="0" type="line"/>
       <point x="110" y="431" type="line"/>
@@ -24,14 +28,6 @@
       <point x="634" y="551"/>
       <point x="634" y="431" type="qcurve"/>
       <point x="634" y="0" type="line"/>
-      <point x="612" y="0" type="line"/>
-      <point x="612" y="422" type="line"/>
-      <point x="612" y="537"/>
-      <point x="476" y="684"/>
-      <point x="368" y="684" type="qcurve"/>
-      <point x="263" y="684"/>
-      <point x="132" y="537"/>
-      <point x="132" y="422" type="qcurve"/>
     </contour>
   </outline>
   <lib>

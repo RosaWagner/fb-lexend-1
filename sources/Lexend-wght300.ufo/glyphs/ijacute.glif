@@ -2,10 +2,9 @@
 <glyph name="ijacute" format="2">
   <advance width="438"/>
   <outline>
+    <component base="i"/>
     <component base="jdotless" xOffset="200"/>
     <component base="acutecomb" xOffset="232" yOffset="6"/>
-    <component base="idotless"/>
-    <component base="acutecomb" xOffset="2" yOffset="6"/>
   </outline>
   <lib>
     <dict>

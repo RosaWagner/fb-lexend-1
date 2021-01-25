@@ -2,8 +2,6 @@
 <glyph name="peseta" format="2">
   <advance width="791"/>
   <unicode hex="20A7"/>
-  <anchor x="401" y="0" name="bottom"/>
-  <anchor x="401" y="700" name="top"/>
   <outline>
     <contour>
       <point x="721" y="435" type="line"/>

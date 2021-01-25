@@ -5,8 +5,6 @@
   <note>
 k
 </note>
-  <anchor x="415" y="0" name="bottom"/>
-  <anchor x="415" y="510" name="top"/>
   <outline>
     <contour>
       <point x="313" y="0" type="line"/>
@@ -31,8 +29,6 @@ k
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>l</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

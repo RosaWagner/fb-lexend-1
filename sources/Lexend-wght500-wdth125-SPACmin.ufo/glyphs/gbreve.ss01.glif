@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gbreve.ss01" format="2">
-  <advance width="705"/>
-  <guideline x="352.5" y="0" angle="90.0" identifier="ANGYwaBhuf"/>
+  <advance width="580"/>
   <outline>
     <component base="g.ss01"/>
-    <component base="brevecomb" xOffset="135" yOffset="-10"/>
+    <component base="brevecomb" xOffset="125.26000000000204" yOffset="-20"/>
   </outline>
   <lib>
     <dict>

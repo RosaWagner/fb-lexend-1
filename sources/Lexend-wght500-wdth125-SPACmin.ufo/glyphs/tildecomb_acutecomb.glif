@@ -3,7 +3,7 @@
   <guideline x="149.5" y="0" angle="270.0" identifier="6lbtBrU29H"/>
   <guideline x="59.55397510023738" y="870.016506941856" angle="0" identifier="SDAXlxXZsq"/>
   <outline>
-    <component base="tildecomb" xOffset="-50"/>
-    <component base="acutecomb" xOffset="41" yOffset="145"/>
+    <component base="tildecomb" xOffset="-60"/>
+    <component base="acutecomb" xOffset="21" yOffset="185"/>
   </outline>
 </glyph>

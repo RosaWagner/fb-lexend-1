@@ -5,9 +5,6 @@
   <note>
 edieresis
 </note>
-  <anchor x="292" y="-20" name="bottom"/>
-  <anchor x="521" y="10" name="ogonek"/>
-  <anchor x="293" y="704" name="top"/>
   <outline>
     <component base="e"/>
     <component base="dieresiscomb" xOffset="98" yOffset="29"/>

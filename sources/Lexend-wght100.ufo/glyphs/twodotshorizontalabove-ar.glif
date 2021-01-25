@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twodotshorizontalabove-ar" format="2">
   <advance width="441"/>
-  <anchor x="215.0" y="438.0" name="_top"/>
-  <anchor x="215.0" y="709.0" name="top"/>
   <outline>
     <contour>
       <point x="208.0" y="627.0" type="line"/>

@@ -5,8 +5,6 @@
   <note>
 ydieresis
 </note>
-  <anchor x="490" y="0" name="bottom"/>
-  <anchor x="285" y="684" name="top"/>
   <outline>
     <component base="y"/>
     <component base="dieresiscomb" xOffset="90" yOffset="9"/>

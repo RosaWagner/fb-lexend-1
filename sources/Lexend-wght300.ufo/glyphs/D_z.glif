@@ -2,11 +2,6 @@
 <glyph name="Dz" format="2">
   <advance width="1231"/>
   <unicode hex="01F2"/>
-  <anchor x="335.0" y="0" name="bottom_1"/>
-  <anchor x="987.0" y="0" name="bottom_2"/>
-  <anchor x="147.0" y="350.0" name="center"/>
-  <anchor x="325.0" y="700.0" name="top_1"/>
-  <anchor x="995.0" y="510.0" name="top_2"/>
   <outline>
     <component base="D"/>
     <component base="z" xOffset="747"/>

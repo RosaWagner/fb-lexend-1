@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotabove-ar" format="2">
   <advance width="258"/>
-  <anchor x="129" y="438" name="_top"/>
-  <anchor x="129" y="709" name="top"/>
   <outline>
     <contour>
       <point x="131" y="545" type="line"/>

@@ -5,8 +5,6 @@
   <note>
 gbreve
 </note>
-  <anchor x="511" y="-230" name="bottom"/>
-  <anchor x="511" y="723" name="top"/>
   <outline>
     <component base="g"/>
     <component base="brevecomb" xOffset="296" yOffset="11"/>

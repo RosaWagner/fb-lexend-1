@@ -5,10 +5,6 @@
   <note>
 Eogonek
 </note>
-  <anchor x="296.0" y="0" name="bottom"/>
-  <anchor x="293.0" y="700.0" name="top"/>
-  <anchor x="20.0" y="700.0" name="topleft"/>
-  <anchor x="475.0" y="10.0" name="ogonek"/>
   <outline>
     <component base="E"/>
     <component base="ogonekcomb.case" xOffset="297"/>

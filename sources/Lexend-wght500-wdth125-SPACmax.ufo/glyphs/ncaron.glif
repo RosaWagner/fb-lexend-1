@@ -2,9 +2,12 @@
 <glyph name="ncaron" format="2">
   <advance width="1015"/>
   <unicode hex="0148"/>
+  <note>
+ncaron
+</note>
   <outline>
     <component base="n"/>
-    <component base="caroncomb" xOffset="309.5" yOffset="-32"/>
+    <component base="caroncomb" xOffset="330"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +15,6 @@
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

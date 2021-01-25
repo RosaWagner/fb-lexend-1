@@ -5,10 +5,6 @@
   <note>
 tbar
 </note>
-  <anchor x="345" y="0" name="bottom"/>
-  <anchor x="355" y="233" name="center"/>
-  <anchor x="355" y="646" name="top"/>
-  <anchor x="729" y="525" name="topright"/>
   <outline>
     <component base="t"/>
     <component base="strokeshortcomb" xOffset="31" yOffset="-63"/>
@@ -19,8 +15,6 @@ tbar
       <string>t</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>t</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

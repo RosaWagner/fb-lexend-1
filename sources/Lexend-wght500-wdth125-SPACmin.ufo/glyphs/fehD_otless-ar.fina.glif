@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fehDotless-ar.fina" format="2">
   <advance width="1551"/>
-  <anchor x="593" y="0" name="bottom"/>
-  <anchor x="1094" y="439" name="top"/>
   <outline>
     <contour>
       <point x="679" y="0" type="line"/>

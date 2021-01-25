@@ -2,8 +2,6 @@
 <glyph name="meem-ar" format="2">
   <advance width="835"/>
   <unicode hex="0645"/>
-  <anchor x="370" y="0" name="bottom"/>
-  <anchor x="358" y="386" name="top"/>
   <outline>
     <contour>
       <point x="593" y="0" type="line"/>

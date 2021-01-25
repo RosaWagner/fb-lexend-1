@@ -2,8 +2,6 @@
 <glyph name="behDotless-ar" format="2">
   <advance width="1614"/>
   <unicode hex="066E"/>
-  <anchor x="781" y="0" name="bottom"/>
-  <anchor x="781" y="371" name="top"/>
   <outline>
     <contour>
       <point x="1115" y="0" type="line"/>

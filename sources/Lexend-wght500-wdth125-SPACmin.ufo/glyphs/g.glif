@@ -5,8 +5,6 @@
   <note>
 g
 </note>
-  <anchor x="421" y="-230" name="bottom"/>
-  <anchor x="421" y="525" name="top"/>
   <outline>
     <contour>
       <point x="150" y="-167" type="qcurve"/>
@@ -60,8 +58,6 @@ g
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>o</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

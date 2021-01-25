@@ -5,10 +5,6 @@
   <note>
 E
 </note>
-  <anchor x="378" y="0" name="bottom"/>
-  <anchor x="747" y="10" name="ogonek"/>
-  <anchor x="378" y="700" name="top"/>
-  <anchor x="-64" y="700" name="topleft"/>
   <outline>
     <contour>
       <point x="206" y="0" type="line"/>
@@ -39,8 +35,6 @@ E
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

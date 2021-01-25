@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horncomb" format="2">
   <unicode hex="031B"/>
-  <anchor x="0" y="524.9996958779437" name="_topright"/>
-  <anchor x="0" y="524.9996958779437" name="topright"/>
   <outline>
     <contour>
       <point x="-37" y="504" type="qcurve"/>

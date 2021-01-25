@@ -2,25 +2,7 @@
 <glyph name="hungarumlaut" format="2">
   <advance width="507"/>
   <unicode hex="02DD"/>
-  <anchor x="221" y="515" name="_top"/>
   <outline>
-    <contour>
-      <point x="291" y="667" type="line"/>
-      <point x="117" y="573" type="line"/>
-      <point x="83" y="624" type="line"/>
-      <point x="226" y="749" type="line"/>
-    </contour>
-    <contour>
-      <point x="490" y="667" type="line"/>
-      <point x="316" y="573" type="line"/>
-      <point x="282" y="624" type="line"/>
-      <point x="425" y="749" type="line"/>
-    </contour>
+    <component base="hungarumlautcomb" xOffset="33"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

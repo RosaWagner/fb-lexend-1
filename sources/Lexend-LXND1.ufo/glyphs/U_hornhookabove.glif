@@ -2,10 +2,6 @@
 <glyph name="Uhornhookabove" format="2">
   <advance width="1044"/>
   <unicode hex="1EEC"/>
-  <anchor x="522" y="0" name="bottom"/>
-  <anchor x="940" y="10" name="ogonek"/>
-  <anchor x="500" y="926" name="top"/>
-  <anchor x="949" y="700" name="topright"/>
   <outline>
     <component base="Uhorn"/>
     <component base="hookabovecomb.case" xOffset="351" yOffset="166"/>

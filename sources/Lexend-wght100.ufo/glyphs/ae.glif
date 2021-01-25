@@ -5,8 +5,6 @@
   <note>
 ae
 </note>
-  <anchor x="417.0" y="0" name="bottom"/>
-  <anchor x="459.0" y="515.0" name="top"/>
   <outline>
     <contour>
       <point x="272" y="530" type="qcurve"/>

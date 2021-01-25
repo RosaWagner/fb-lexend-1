@@ -2,8 +2,6 @@
 <glyph name="ain-ar" format="2">
   <advance width="764"/>
   <unicode hex="0639"/>
-  <anchor x="397" y="-456" name="bottom"/>
-  <anchor x="336" y="438" name="top"/>
   <outline>
     <contour>
       <point x="537" y="151" type="qcurve"/>

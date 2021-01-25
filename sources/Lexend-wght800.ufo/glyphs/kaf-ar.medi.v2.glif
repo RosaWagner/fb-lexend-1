@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kaf-ar.medi.v2" format="2">
   <advance width="529"/>
-  <anchor x="265" y="0" name="bottom"/>
-  <anchor x="65" y="498" name="top"/>
   <outline>
     <contour>
       <point x="341" y="129" type="qcurve"/>

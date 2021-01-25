@@ -2,10 +2,6 @@
 <glyph name="manat" format="2">
   <advance width="928"/>
   <unicode hex="20BC"/>
-  <anchor x="464" y="694" name="bottom"/>
-  <anchor x="181" y="684" name="ogonek"/>
-  <anchor x="464" y="-6" name="top"/>
-  <anchor x="322" y="-14" name="topright"/>
   <outline>
     <contour>
       <point x="500" y="801" type="line"/>

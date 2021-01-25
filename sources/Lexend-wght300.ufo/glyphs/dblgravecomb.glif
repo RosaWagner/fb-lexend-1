@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblgravecomb" format="2">
   <unicode hex="030F"/>
-  <anchor x="259.0" y="499.0" name="_top"/>
-  <anchor x="228.0" y="810.0" name="top"/>
   <outline>
     <component base="gravecomb" xOffset="37" yOffset="4"/>
     <component base="gravecomb" xOffset="179" yOffset="4"/>

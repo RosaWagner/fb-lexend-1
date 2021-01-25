@@ -5,8 +5,6 @@
   <note>
 rcommaaccent
 </note>
-  <anchor x="104" y="-289" name="bottom"/>
-  <anchor x="217" y="510" name="top"/>
   <outline>
     <component base="r"/>
     <component base="commaaccentcomb" xOffset="-8"/>

@@ -5,11 +5,6 @@
   <note>
 ij
 </note>
-  <anchor x="139" y="0" name="bottom_1"/>
-  <anchor x="407" y="0" name="bottom_2"/>
-  <anchor x="227" y="10" name="ogonek"/>
-  <anchor x="140" y="765" name="top_1"/>
-  <anchor x="394" y="771" name="top_2"/>
   <outline>
     <component base="i"/>
     <component base="j" xOffset="256"/>

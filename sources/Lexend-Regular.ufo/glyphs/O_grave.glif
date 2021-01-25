@@ -3,12 +3,6 @@
   <advance width="782"/>
   <unicode hex="00D2"/>
   <guideline x="391.0" y="0" angle="90.0" identifier="F4IqBdveSt"/>
-  <anchor x="386" y="0" name="bottom"/>
-  <anchor x="386" y="350" name="center"/>
-  <anchor x="690" y="10" name="ogonek"/>
-  <anchor x="344" y="945" name="top"/>
-  <anchor x="25" y="700" name="topleft"/>
-  <anchor x="387" y="706" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="gravecomb.case" xOffset="219" yOffset="181"/>

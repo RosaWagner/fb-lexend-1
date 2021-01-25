@@ -4,12 +4,7 @@
   <unicode hex="1E7A"/>
   <outline>
     <component base="U"/>
-    <component base="macroncomb_dieresiscomb" xOffset="348" yOffset="144"/>
+    <component base="macroncomb.case" xOffset="306" yOffset="175"/>
+    <component base="dieresiscomb.case" xOffset="320" yOffset="353"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

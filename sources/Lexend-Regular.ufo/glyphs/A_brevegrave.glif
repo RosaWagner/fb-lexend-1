@@ -2,12 +2,10 @@
 <glyph name="Abrevegrave" format="2">
   <advance width="700"/>
   <unicode hex="1EB0"/>
-  <anchor x="352" y="0" name="bottom"/>
-  <anchor x="609" y="10" name="ogonek"/>
-  <anchor x="310" y="1084" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb_gravecomb" xOffset="151" yOffset="121"/>
+    <component base="brevecomb.case" xOffset="148" yOffset="80"/>
+    <component base="gravecomb.case" xOffset="185" yOffset="320"/>
   </outline>
   <lib>
     <dict>

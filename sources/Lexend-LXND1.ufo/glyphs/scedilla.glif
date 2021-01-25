@@ -5,8 +5,6 @@
   <note>
 scedilla
 </note>
-  <anchor x="370" y="-148" name="bottom"/>
-  <anchor x="411" y="525" name="top"/>
   <outline>
     <component base="s"/>
     <component base="cedillacomb" xOffset="245"/>

@@ -2,8 +2,6 @@
 <glyph name="Rdblgrave" format="2">
   <advance width="695"/>
   <unicode hex="0210"/>
-  <anchor x="365" y="0" name="bottom"/>
-  <anchor x="325" y="919" name="top"/>
   <outline>
     <component base="R"/>
     <component base="dblgravecomb.case" xOffset="77" yOffset="210"/>

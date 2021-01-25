@@ -2,8 +2,6 @@
 <glyph name="thal-ar.fina" format="2">
   <advance width="648"/>
   <unicode hex="FEAC"/>
-  <anchor x="242" y="0" name="bottom"/>
-  <anchor x="283" y="758" name="top"/>
   <outline>
     <component base="dal-ar.fina"/>
     <component base="dotabove-ar" xOffset="154" yOffset="49"/>

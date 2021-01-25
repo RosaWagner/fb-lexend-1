@@ -2,8 +2,6 @@
 <glyph name="dal-ar.fina" format="2">
   <advance width="648"/>
   <unicode hex="FEAA"/>
-  <anchor x="318" y="0" name="bottom"/>
-  <anchor x="359" y="487" name="top"/>
   <outline>
     <contour>
       <point x="395" y="0" type="qcurve"/>

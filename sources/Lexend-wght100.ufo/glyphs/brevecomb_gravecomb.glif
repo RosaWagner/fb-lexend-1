@@ -1,10 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb_gravecomb" format="2">
-  <anchor x="173.00024329764503" y="523.999756702355" name="_top"/>
-  <anchor x="171.00054741970132" y="740.0" name="top"/>
   <outline>
     <component base="brevecomb" xOffset="1.4999087633831136" yOffset="-7.999330931476166"/>
-    <component base="gravecomb" xOffset="4" yOffset="133"/>
+    <component base="gravecomb" xOffset="4" yOffset="153"/>
   </outline>
   <lib>
     <dict>

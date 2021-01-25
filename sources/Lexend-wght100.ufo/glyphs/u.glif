@@ -5,10 +5,6 @@
   <note>
 u
 </note>
-  <anchor x="245.00109483940264" y="0" name="bottom"/>
-  <anchor x="443.0017639079265" y="14.999695877943713" name="ogonek"/>
-  <anchor x="269.0006082441126" y="524.9996958779437" name="top"/>
-  <anchor x="537.4969283672315" y="514.0003649464676" name="topright"/>
   <outline>
     <contour>
       <point x="265" y="12" type="qcurve"/>

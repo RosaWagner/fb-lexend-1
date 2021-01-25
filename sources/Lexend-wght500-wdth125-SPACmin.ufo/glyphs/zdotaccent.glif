@@ -2,9 +2,12 @@
 <glyph name="zdotaccent" format="2">
   <advance width="624"/>
   <unicode hex="017C"/>
+  <note>
+zdotaccent
+</note>
   <outline>
     <component base="z"/>
-    <component base="dotaccentcomb" xOffset="208.5" yOffset="-30"/>
+    <component base="dotaccentcomb" xOffset="237" yOffset="14"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +15,6 @@
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,8 +2,6 @@
 <glyph name="noonghunna-ar" format="2">
   <advance width="892"/>
   <unicode hex="06BA"/>
-  <anchor x="401" y="-230" name="bottom"/>
-  <anchor x="401" y="253" name="top"/>
   <outline>
     <contour>
       <point x="131" y="43" type="qcurve" smooth="yes"/>

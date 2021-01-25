@@ -2,7 +2,6 @@
 <glyph name="cedilla" format="2">
   <advance width="267"/>
   <unicode hex="00B8"/>
-  <anchor x="124" y="0" name="_bottom"/>
   <outline>
     <contour>
       <point x="100" y="-97" type="line"/>
@@ -32,10 +31,4 @@
       <point x="230" y="-89"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

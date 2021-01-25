@@ -2,7 +2,6 @@
 <glyph name="breve" format="2">
   <advance width="402"/>
   <unicode hex="02D8"/>
-  <anchor x="207" y="548" name="_top"/>
   <outline>
     <contour>
       <point x="201" y="570" type="qcurve" smooth="yes"/>
@@ -21,10 +20,4 @@
       <point x="263" y="570"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

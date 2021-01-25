@@ -5,10 +5,6 @@
   <note>
 tcedilla
 </note>
-  <anchor x="324" y="-148" name="bottom"/>
-  <anchor x="355" y="233" name="center"/>
-  <anchor x="355" y="646" name="top"/>
-  <anchor x="729" y="525" name="topright"/>
   <outline>
     <component base="t"/>
     <component base="cedillacomb" xOffset="199"/>

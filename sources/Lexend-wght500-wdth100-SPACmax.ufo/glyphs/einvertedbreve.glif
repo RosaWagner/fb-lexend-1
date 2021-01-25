@@ -2,18 +2,8 @@
 <glyph name="einvertedbreve" format="2">
   <advance width="771"/>
   <unicode hex="0207"/>
-  <guideline x="385.5" y="0" angle="90.0" identifier="9UyzVafgdV"/>
-  <anchor x="292" y="-20" name="bottom"/>
-  <anchor x="521" y="10" name="ogonek"/>
-  <anchor x="293" y="781" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="breveinvertedcomb" xOffset="172" yOffset="6"/>
+    <component base="breveinvertedcomb" xOffset="89" yOffset="6"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

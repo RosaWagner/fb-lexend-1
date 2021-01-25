@@ -2,7 +2,6 @@
 <glyph name="kaf-ar" format="2">
   <advance width="1425"/>
   <unicode hex="0643"/>
-  <anchor x="1213" y="0" name="#entry"/>
   <outline>
     <contour>
       <point x="1109" y="740" type="line"/>

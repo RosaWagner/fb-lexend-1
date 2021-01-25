@@ -2,10 +2,6 @@
 <glyph name="zah-ar.medi" format="2">
   <advance width="851"/>
   <unicode hex="FEC8"/>
-  <anchor x="731.0" y="0" name="#entry"/>
-  <anchor x="731.0" y="0" name="#exit"/>
-  <anchor x="423.0" y="0" name="bottom"/>
-  <anchor x="466.0" y="709.0" name="top"/>
   <outline>
     <component base="tah-ar.medi"/>
     <component base="dotabove-ar" xOffset="337"/>

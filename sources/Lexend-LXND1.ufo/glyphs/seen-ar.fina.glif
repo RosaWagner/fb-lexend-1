@@ -2,8 +2,6 @@
 <glyph name="seen-ar.fina" format="2">
   <advance width="1966"/>
   <unicode hex="FEB2"/>
-  <anchor x="1159" y="0" name="bottom"/>
-  <anchor x="1175" y="333" name="top"/>
   <outline>
     <contour>
       <point x="866" y="102" type="line"/>

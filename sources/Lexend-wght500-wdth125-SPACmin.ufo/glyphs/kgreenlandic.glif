@@ -1,28 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kgreenlandic" format="2">
-  <advance width="690"/>
+  <advance width="698"/>
   <unicode hex="0138"/>
-  <anchor x="302" y="0" name="bottom"/>
-  <anchor x="302" y="525" name="top"/>
   <outline>
     <contour>
-      <point x="167" y="0" type="line"/>
+      <point x="177" y="0" type="line"/>
       <point x="74" y="0" type="line"/>
       <point x="74" y="525" type="line"/>
-      <point x="167" y="525" type="line"/>
+      <point x="177" y="525" type="line"/>
     </contour>
     <contour>
-      <point x="532" y="525" type="line"/>
-      <point x="676" y="525" type="line"/>
-      <point x="346" y="279" type="line"/>
-      <point x="151" y="134" type="line"/>
-      <point x="163" y="246" type="line"/>
+      <point x="524" y="525" type="line"/>
+      <point x="675" y="525" type="line"/>
+      <point x="325" y="275" type="line"/>
+      <point x="163" y="143" type="line"/>
+      <point x="163" y="240" type="line"/>
     </contour>
     <contour>
-      <point x="680" y="0" type="line"/>
-      <point x="548" y="0" type="line"/>
-      <point x="275" y="291" type="line"/>
-      <point x="343" y="358" type="line"/>
+      <point x="676" y="-1" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="284" y="282" type="line"/>
+      <point x="359" y="329" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,8 +29,6 @@
       <string>l</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>v</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

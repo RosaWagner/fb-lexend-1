@@ -5,13 +5,9 @@
   <note>
 uogonek
 </note>
-  <anchor x="299" y="0" name="bottom"/>
-  <anchor x="530" y="0" name="ogonek"/>
-  <anchor x="299" y="510" name="top"/>
-  <anchor x="386" y="532" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="ogonekcomb" xOffset="304" yOffset="1"/>
+    <component base="ogonekcomb" xOffset="282" yOffset="-10"/>
   </outline>
   <lib>
     <dict>

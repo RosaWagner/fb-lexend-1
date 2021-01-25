@@ -5,13 +5,9 @@
   <note>
 uni021B
 </note>
-  <anchor x="345" y="-243" name="bottom"/>
-  <anchor x="355" y="233" name="center"/>
-  <anchor x="355" y="646" name="top"/>
-  <anchor x="729" y="525" name="topright"/>
   <outline>
     <component base="t"/>
-    <component base="commaaccentcomb" xOffset="111"/>
+    <component base="commaaccentcomb" xOffset="231"/>
   </outline>
   <lib>
     <dict>
@@ -19,8 +15,6 @@ uni021B
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

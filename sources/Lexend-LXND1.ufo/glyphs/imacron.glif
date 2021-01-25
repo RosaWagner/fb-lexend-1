@@ -5,9 +5,6 @@
   <note>
 imacron
 </note>
-  <anchor x="252" y="0" name="bottom"/>
-  <anchor x="303" y="0" name="ogonek"/>
-  <anchor x="251" y="702" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="macroncomb" xOffset="38" yOffset="-4"/>

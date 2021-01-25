@@ -3,39 +3,6 @@
   <advance width="319"/>
   <unicode hex="02DA"/>
   <outline>
-    <contour>
-      <point x="268" y="670" type="qcurve"/>
-      <point x="268" y="627"/>
-      <point x="203" y="566"/>
-      <point x="159" y="566" type="qcurve"/>
-      <point x="115" y="566"/>
-      <point x="50" y="627"/>
-      <point x="50" y="670" type="qcurve"/>
-      <point x="50" y="714"/>
-      <point x="114" y="776"/>
-      <point x="159" y="776" type="qcurve"/>
-      <point x="204" y="776"/>
-      <point x="268" y="714"/>
-    </contour>
-    <contour>
-      <point x="111" y="670" type="qcurve"/>
-      <point x="111" y="651"/>
-      <point x="138" y="626"/>
-      <point x="159" y="626" type="qcurve"/>
-      <point x="180" y="626"/>
-      <point x="207" y="651"/>
-      <point x="207" y="670" type="qcurve"/>
-      <point x="207" y="690"/>
-      <point x="179" y="716"/>
-      <point x="159" y="716" type="qcurve"/>
-      <point x="138" y="716"/>
-      <point x="111" y="691"/>
-    </contour>
+    <component base="ringcomb"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -2,11 +2,6 @@
 <glyph name="DZcaron" format="2">
   <advance width="1392"/>
   <unicode hex="01C4"/>
-  <anchor x="335" y="0" name="bottom_1"/>
-  <anchor x="1063" y="0" name="bottom_2"/>
-  <anchor x="147" y="350" name="center"/>
-  <anchor x="325" y="700" name="top_1"/>
-  <anchor x="1063" y="957" name="top_2"/>
   <outline>
     <component base="D"/>
     <component base="Zcaron" xOffset="733"/>

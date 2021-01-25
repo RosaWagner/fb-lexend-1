@@ -5,9 +5,6 @@
   <note>
 agrave
 </note>
-  <anchor x="311" y="-20" name="bottom"/>
-  <anchor x="560" y="3" name="ogonek"/>
-  <anchor x="278" y="775" name="top"/>
   <outline>
     <component base="a"/>
     <component base="gravecomb" xOffset="153" yOffset="11"/>

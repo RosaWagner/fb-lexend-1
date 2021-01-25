@@ -5,8 +5,6 @@
   <note>
 eng
 </note>
-  <anchor x="349" y="0" name="bottom"/>
-  <anchor x="358" y="510" name="top"/>
   <outline>
     <contour>
       <point x="397" y="536" type="qcurve"/>
@@ -32,8 +30,7 @@ eng
       <point x="72" y="0" type="line"/>
       <point x="72" y="525" type="line"/>
       <point x="175" y="525" type="line"/>
-      <point x="175" y="397" type="line"/>
-      <point x="155" y="404" type="line"/>
+      <point x="175" y="427" type="line"/>
       <point x="212" y="470"/>
       <point x="324" y="536"/>
     </contour>
@@ -44,8 +41,6 @@ eng
       <string>n</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>n</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

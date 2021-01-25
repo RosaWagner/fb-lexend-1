@@ -70,8 +70,6 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>5</integer>
-    <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>FBLexend-wght300</string>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -83,10 +81,6 @@
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
-    <false/>
-    <key>com.typemytype.robofont.guideline.magnetic.d5wdDOPePH</key>
-    <real>5.0</real>
-    <key>com.typemytype.robofont.guideline.showMeasurements.d5wdDOPePH</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
@@ -296,8 +290,8 @@
       <string>Abreve</string>
       <string>abreve</string>
       <string>Aogonek</string>
-      <string>Cacute</string>
       <string>aogonek</string>
+      <string>Cacute</string>
       <string>cacute</string>
       <string>Ccircumflex</string>
       <string>ccircumflex</string>
@@ -337,6 +331,7 @@
       <string>imacron</string>
       <string>Ibreve</string>
       <string>ibreve</string>
+      <string>Iogonek</string>
       <string>iogonek</string>
       <string>Idotaccent</string>
       <string>idotless</string>
@@ -631,6 +626,8 @@
       <string>llinebelow</string>
       <string>Mdotbelow</string>
       <string>mdotbelow</string>
+      <string>Ndotaccent</string>
+      <string>ndotaccent</string>
       <string>Ndotbelow</string>
       <string>ndotbelow</string>
       <string>Nlinebelow</string>
@@ -647,10 +644,16 @@
       <string>rdotbelow</string>
       <string>Rlinebelow</string>
       <string>rlinebelow</string>
+      <string>Sdotaccent</string>
+      <string>sdotaccent</string>
       <string>Sdotbelow</string>
       <string>sdotbelow</string>
       <string>Sacutedotaccent</string>
       <string>sacutedotaccent</string>
+      <string>Scarondotaccent</string>
+      <string>scarondotaccent</string>
+      <string>Sdotbelowdotaccent</string>
+      <string>sdotbelowdotaccent</string>
       <string>Tdotbelow</string>
       <string>tdotbelow</string>
       <string>Tlinebelow</string>
@@ -665,6 +668,8 @@
       <string>wacute</string>
       <string>Wdieresis</string>
       <string>wdieresis</string>
+      <string>Ydotaccent</string>
+      <string>ydotaccent</string>
       <string>Zdotbelow</string>
       <string>zdotbelow</string>
       <string>tdieresis</string>
@@ -940,16 +945,6 @@
       <string>lam_alefHamzabelow-ar.fina</string>
       <string>lam_alef-ar</string>
       <string>lam_alef-ar.fina</string>
-      <string>Ndotaccent</string>
-      <string>ndotaccent</string>
-      <string>Sdotaccent</string>
-      <string>sdotaccent</string>
-      <string>Scarondotaccent</string>
-      <string>scarondotaccent</string>
-      <string>Sdotbelowdotaccent</string>
-      <string>sdotbelowdotaccent</string>
-      <string>Ydotaccent</string>
-      <string>ydotaccent</string>
       <string>I.ss01</string>
       <string>IJ.ss01</string>
       <string>Iacute.ss01</string>
@@ -1139,25 +1134,28 @@
       <string>IJacute.ss01</string>
       <string>dieresiscomb_macroncomb</string>
       <string>dieresiscomb_acutecomb</string>
-      <string>tildecomb_dieresiscomb</string>
-      <string>macroncomb_dieresiscomb</string>
+      <string>tildecomb_macroncomb</string>
       <string>tildecomb_acutecomb</string>
+      <string>tildecomb_dieresiscomb</string>
+      <string>dotaccentcomb_macroncomb</string>
       <string>macroncomb_gravecomb</string>
       <string>macroncomb_acutecomb</string>
+      <string>macroncomb_dieresiscomb</string>
+      <string>acutecomb_dotaccentcomb</string>
+      <string>caroncomb_dotaccentcomb</string>
+      <string>g.ss01</string>
       <string>gcircumflex.ss01</string>
       <string>gbreve.ss01</string>
       <string>gdotaccent.ss01</string>
       <string>gcommaaccent.ss01</string>
       <string>gcaron.ss01</string>
       <string>gmacron.ss01</string>
-      <string>tildecomb_macroncomb</string>
-      <string>dotaccentcomb_macroncomb</string>
-      <string>acutecomb_dotaccentcomb</string>
-      <string>caroncomb_dotaccentcomb</string>
-      <string>g.ss01</string>
-      <string>circumflexcomb_acutecomb.copy_1</string>
-      <string>circumflexcomb_hookabovecomb.copy_1</string>
       <string>Jacute.loclNLD</string>
+      <string>Iacute_J.loclNLD</string>
+      <string>jacute.loclNLD</string>
+      <string>iacute_j.loclNLD</string>
+      <string>aabreve.ss01</string>
+      <string>horizontalbarlc</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

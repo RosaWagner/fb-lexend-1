@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Itilde" format="2">
-  <advance width="618"/>
+  <advance width="661"/>
   <unicode hex="0128"/>
   <outline>
-    <component base="I"/>
-    <component base="tildecomb.case" xOffset="92.5" yOffset="190"/>
+    <component base="I" xOffset="-4"/>
+    <component base="tildecomb.case" xOffset="191" yOffset="201"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

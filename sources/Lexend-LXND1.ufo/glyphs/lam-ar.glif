@@ -2,9 +2,6 @@
 <glyph name="lam-ar" format="2">
   <advance width="1091"/>
   <unicode hex="0644"/>
-  <anchor x="827" y="0" name="#entry"/>
-  <anchor x="452" y="-230" name="bottom"/>
-  <anchor x="463" y="438" name="top"/>
   <outline>
     <contour>
       <point x="879" y="124" type="line" smooth="yes"/>

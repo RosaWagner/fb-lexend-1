@@ -2,12 +2,6 @@
 <glyph name="Odblgrave" format="2">
   <advance width="1102"/>
   <unicode hex="020C"/>
-  <anchor x="551" y="0" name="bottom"/>
-  <anchor x="551" y="350" name="center"/>
-  <anchor x="646" y="10" name="ogonek"/>
-  <anchor x="501" y="930" name="top"/>
-  <anchor x="20" y="700" name="topleft"/>
-  <anchor x="798" y="710" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="dblgravecomb.case" xOffset="289" yOffset="221"/>

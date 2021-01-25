@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macronbelowcomb.case" format="2">
-  <anchor x="181.0" y="2" name="_bottom"/>
-  <anchor x="198.0" y="-230.0" name="bottom"/>
   <outline>
     <contour>
       <point x="349" y="-131" type="line"/>

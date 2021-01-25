@@ -5,9 +5,6 @@
   <note>
 edotaccent
 </note>
-  <anchor x="466" y="0" name="bottom"/>
-  <anchor x="838" y="10" name="ogonek"/>
-  <anchor x="466" y="765" name="top"/>
   <outline>
     <component base="e"/>
     <component base="dotaccentcomb" xOffset="338" yOffset="14"/>

@@ -2,10 +2,6 @@
 <glyph name="dad-ar.medi" format="2">
   <advance width="1669"/>
   <unicode hex="FEC0"/>
-  <anchor x="1477" y="0" name="#entry"/>
-  <anchor x="1477" y="0" name="#exit"/>
-  <anchor x="1102" y="0" name="bottom"/>
-  <anchor x="1203" y="709" name="top"/>
   <outline>
     <component base="sad-ar.medi"/>
     <component base="dotabove-ar" xOffset="1074"/>

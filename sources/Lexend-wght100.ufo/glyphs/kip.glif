@@ -3,8 +3,6 @@
   <advance width="759"/>
   <unicode hex="20AD"/>
   <guideline x="26" y="406" angle="0" identifier="HVKer5awi3"/>
-  <anchor x="363.0" y="0" name="bottom"/>
-  <anchor x="375.0" y="700.0" name="top"/>
   <outline>
     <contour>
       <point x="332" y="400" type="line"/>
@@ -18,24 +16,7 @@
       <point x="50" y="400" type="line"/>
       <point x="50" y="422" type="line"/>
     </contour>
-    <contour>
-      <point x="140" y="0" type="line"/>
-      <point x="140" y="700" type="line"/>
-      <point x="162" y="700" type="line"/>
-      <point x="162" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="150" y="234" type="line"/>
-      <point x="150" y="265" type="line"/>
-      <point x="596" y="700" type="line"/>
-      <point x="628" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="617" y="0" type="line"/>
-      <point x="312" y="404" type="line"/>
-      <point x="329" y="420" type="line"/>
-      <point x="646" y="0" type="line"/>
-    </contour>
+    <component base="K" xOffset="30"/>
   </outline>
   <lib>
     <dict>

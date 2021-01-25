@@ -2,8 +2,6 @@
 <glyph name="sheen-ar.init" format="2">
   <advance width="1058"/>
   <unicode hex="FEB7"/>
-  <anchor x="479" y="0" name="bottom"/>
-  <anchor x="511" y="741" name="top"/>
   <outline>
     <component base="seen-ar.init"/>
     <component base="threedotsupabove-ar" xOffset="298" yOffset="-105"/>

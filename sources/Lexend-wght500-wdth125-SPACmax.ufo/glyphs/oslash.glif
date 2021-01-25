@@ -5,11 +5,6 @@
   <note>
 oslash
 </note>
-  <anchor x="465" y="530" name="top"/>
-  <anchor x="478" y="0" name="bottom"/>
-  <anchor x="478" y="263" name="center"/>
-  <anchor x="860" y="10" name="ogonek"/>
-  <anchor x="596" y="475" name="topright"/>
   <outline>
     <contour>
       <point x="198" y="-15" type="line"/>
@@ -52,8 +47,6 @@ oslash
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>o</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

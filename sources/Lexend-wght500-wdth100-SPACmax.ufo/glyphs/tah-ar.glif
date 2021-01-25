@@ -2,9 +2,6 @@
 <glyph name="tah-ar" format="2">
   <advance width="1039"/>
   <unicode hex="0637"/>
-  <anchor x="818" y="0" name="#entry"/>
-  <anchor x="510" y="0" name="bottom"/>
-  <anchor x="553" y="438" name="top"/>
   <outline>
     <contour>
       <point x="818" y="0" type="qcurve"/>

@@ -2,9 +2,6 @@
 <glyph name="ecircumflexdotbelow" format="2">
   <advance width="931"/>
   <unicode hex="1EC7"/>
-  <anchor x="475" y="-206" name="bottom"/>
-  <anchor x="838" y="10" name="ogonek"/>
-  <anchor x="472" y="784" name="top"/>
   <outline>
     <component base="e"/>
     <component base="dotbelowcomb" xOffset="356"/>

@@ -5,8 +5,6 @@
   <note>
 ncommaaccent
 </note>
-  <anchor x="281" y="-289" name="bottom"/>
-  <anchor x="303" y="510" name="top"/>
   <outline>
     <component base="n"/>
     <component base="commaaccentcomb" xOffset="169"/>

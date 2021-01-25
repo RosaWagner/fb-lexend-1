@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="behDotless-ar.medi.wide" format="2">
   <advance width="406"/>
-  <anchor x="199.0" y="0" name="bottom"/>
-  <anchor x="246.0" y="350.0" name="top"/>
   <outline>
     <contour>
       <point x="151.0" y="68.0" type="qcurve"/>

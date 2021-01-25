@@ -3,20 +3,8 @@
   <advance width="227"/>
   <unicode hex="02D9"/>
   <outline>
-    <contour>
-      <point x="151" y="659" type="qcurve" smooth="yes"/>
-      <point x="151" y="639"/>
-      <point x="127" y="614"/>
-      <point x="105" y="614" type="qcurve" smooth="yes"/>
-      <point x="83" y="614"/>
-      <point x="59" y="638"/>
-      <point x="59" y="659" type="qcurve" smooth="yes"/>
-      <point x="59" y="679"/>
-      <point x="83" y="704"/>
-      <point x="105" y="704" type="qcurve" smooth="yes"/>
-      <point x="127" y="704"/>
-      <point x="151" y="680"/>
-    </contour>
+    <component base="dotaccentcomb"/>
+    <component base="dotaccentcomb"/>
   </outline>
   <lib>
     <dict>

@@ -3,7 +3,6 @@
   <advance width="511"/>
   <unicode hex="00A8"/>
   <guideline x="207.0" y="0" angle="90.0" identifier="QpenBr2Dny"/>
-  <anchor x="255" y="515" name="_top"/>
   <outline>
     <contour>
       <point x="220" y="656" type="qcurve" smooth="yes"/>

@@ -2,10 +2,6 @@
 <glyph name="Hdotbelow" format="2">
   <advance width="761"/>
   <unicode hex="1E24"/>
-  <anchor x="376" y="-194" name="bottom"/>
-  <anchor x="376" y="350" name="center"/>
-  <anchor x="376" y="700" name="top"/>
-  <anchor x="36" y="700" name="topleft"/>
   <outline>
     <component base="H"/>
     <component base="dotbelowcomb.case" xOffset="271"/>

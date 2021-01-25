@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotbelow-ar" format="2">
   <advance width="258"/>
-  <anchor x="131" y="0" name="_bottom"/>
-  <anchor x="131" y="-243" name="bottom"/>
   <outline>
     <contour>
       <point x="131" y="-243" type="line"/>

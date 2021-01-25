@@ -5,8 +5,6 @@
   <note>
 wacute
 </note>
-  <anchor x="410" y="0" name="bottom"/>
-  <anchor x="445" y="764" name="top"/>
   <outline>
     <component base="w"/>
     <component base="acutecomb" xOffset="320" yOffset="-27"/>
@@ -17,8 +15,6 @@ wacute
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

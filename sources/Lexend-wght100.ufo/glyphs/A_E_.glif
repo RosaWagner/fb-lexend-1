@@ -5,8 +5,6 @@
   <note>
 AE
 </note>
-  <anchor x="465" y="0" name="bottom"/>
-  <anchor x="614" y="700.0" name="top"/>
   <outline>
     <contour>
       <point x="164" y="216" type="line"/>

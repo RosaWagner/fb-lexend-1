@@ -2,8 +2,6 @@
 <glyph name="tehMarbuta-ar.fina" format="2">
   <advance width="616"/>
   <unicode hex="FE94"/>
-  <anchor x="313" y="0" name="bottom"/>
-  <anchor x="313" y="746" name="top"/>
   <outline>
     <component base="heh-ar.fina" xOffset="57"/>
     <component base="twodotshorizontalabove-ar" xOffset="98" yOffset="37"/>

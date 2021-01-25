@@ -1,17 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rinvertedbreve" format="2">
-  <advance width="523"/>
+  <advance width="541"/>
   <unicode hex="0213"/>
-  <anchor x="244" y="0" name="bottom"/>
-  <anchor x="368" y="787" name="top"/>
   <outline>
-    <component base="breveinvertedcomb" xOffset="87" yOffset="12"/>
-    <component base="r"/>
+    <component base="r" xOffset="-23"/>
+    <component base="breveinvertedcomb" xOffset="157" yOffset="12"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

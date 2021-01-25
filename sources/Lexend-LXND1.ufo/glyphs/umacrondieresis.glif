@@ -2,10 +2,6 @@
 <glyph name="umacrondieresis" format="2">
   <advance width="981"/>
   <unicode hex="1E7B"/>
-  <anchor x="496" y="0" name="bottom"/>
-  <anchor x="800" y="11" name="ogonek"/>
-  <anchor x="496" y="916" name="top"/>
-  <anchor x="770" y="481" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="macroncomb" xOffset="283" yOffset="-4"/>

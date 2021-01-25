@@ -2,8 +2,6 @@
 <glyph name="dotbelowcomb" format="2">
   <unicode hex="0323"/>
   <guideline x="100" y="-232" angle="90" identifier="4rrR0DvVrw"/>
-  <anchor x="100" y="0" name="_bottom"/>
-  <anchor x="100" y="-223" name="bottom"/>
   <outline>
     <contour>
       <point x="220" y="-137" type="qcurve" smooth="yes"/>

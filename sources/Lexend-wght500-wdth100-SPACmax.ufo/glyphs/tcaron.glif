@@ -5,13 +5,9 @@
   <note>
 tcaron
 </note>
-  <anchor x="182" y="0" name="bottom"/>
-  <anchor x="182" y="256" name="center"/>
-  <anchor x="183" y="646" name="top"/>
-  <anchor x="308" y="548" name="topright"/>
   <outline>
     <component base="t"/>
-    <component base="caronalt" xOffset="331" yOffset="94"/>
+    <component base="caronalt" xOffset="211" yOffset="94"/>
   </outline>
   <lib>
     <dict>
@@ -28,8 +24,6 @@ tcaron
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>t</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

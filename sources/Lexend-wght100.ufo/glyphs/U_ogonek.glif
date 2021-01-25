@@ -2,10 +2,6 @@
 <glyph name="Uogonek" format="2">
   <advance width="744"/>
   <unicode hex="0172"/>
-  <anchor x="354.0" y="0" name="bottom"/>
-  <anchor x="637.0" y="10.0" name="ogonek"/>
-  <anchor x="354.0" y="700.0" name="top"/>
-  <anchor x="688.0" y="700.0" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="ogonekcomb.case" xOffset="213"/>

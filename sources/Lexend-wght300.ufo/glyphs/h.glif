@@ -6,9 +6,6 @@
 h
 </note>
   <guideline x="98" y="387" angle="270.0" name="center" identifier="IcEqilVbz3"/>
-  <anchor x="278.0" y="0" name="bottom"/>
-  <anchor x="102.0" y="593.0" name="center"/>
-  <anchor x="99.0" y="740.0" name="top"/>
   <outline>
     <contour>
       <point x="311" y="531" type="qcurve"/>

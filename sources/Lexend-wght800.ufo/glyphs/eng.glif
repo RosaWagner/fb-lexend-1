@@ -1,12 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eng" format="2">
-  <advance width="665"/>
+  <advance width="666"/>
   <unicode hex="014B"/>
   <note>
 eng
 </note>
-  <anchor x="286" y="0" name="bottom"/>
-  <anchor x="295" y="510" name="top"/>
   <outline>
     <contour>
       <point x="418" y="546" type="qcurve" smooth="yes"/>
@@ -32,9 +30,8 @@ eng
       <point x="70" y="0" type="line"/>
       <point x="70" y="535" type="line"/>
       <point x="258" y="535" type="line"/>
-      <point x="266" y="451" type="line"/>
-      <point x="243" y="459" type="line"/>
-      <point x="284" y="511"/>
+      <point x="263" y="481" type="line"/>
+      <point x="291" y="511"/>
       <point x="372" y="546"/>
     </contour>
   </outline>

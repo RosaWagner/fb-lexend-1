@@ -2,7 +2,6 @@
 <glyph name="strokeshortcomb" format="2">
   <advance width="140"/>
   <unicode hex="0335"/>
-  <anchor x="254" y="296" name="_center"/>
   <outline>
     <contour>
       <point x="458" y="261" type="line"/>
@@ -15,8 +14,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>648</integer>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

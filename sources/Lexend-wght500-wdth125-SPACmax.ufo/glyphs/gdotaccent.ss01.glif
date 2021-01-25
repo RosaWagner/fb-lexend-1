@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gdotaccent.ss01" format="2">
-  <advance width="1003"/>
-  <guideline x="501.5" y="0" angle="90.0" identifier="JSvIjjpD1u"/>
+  <advance width="580"/>
   <outline>
-    <component base="dotaccent" xOffset="374" yOffset="-30"/>
     <component base="g.ss01"/>
+    <component base="dotaccent" xOffset="158" yOffset="-60"/>
   </outline>
   <lib>
     <dict>

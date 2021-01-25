@@ -6,7 +6,8 @@
   <guideline x="330.0" y="0" angle="90.0" identifier="MGSzTXG3Bh"/>
   <outline>
     <component base="o"/>
-    <component base="dotaccentcomb_macroncomb" xOffset="161"/>
+    <component base="dotaccentcomb" xOffset="200" yOffset="2"/>
+    <component base="macroncomb" xOffset="92" yOffset="224"/>
   </outline>
   <lib>
     <dict>

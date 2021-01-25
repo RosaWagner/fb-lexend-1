@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dammatan-ar" format="2">
   <unicode hex="064C"/>
-  <anchor x="146" y="525" name="_top"/>
-  <anchor x="146" y="842" name="top"/>
   <outline>
     <contour>
       <point x="187" y="774" type="qcurve" smooth="yes"/>

@@ -1,14 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Scarondotaccent" format="2">
   <advance width="775"/>
+  <unicode hex="1E66"/>
   <outline>
     <component base="S"/>
-    <component base="caroncomb_dotaccentcomb" xOffset="218" yOffset="169"/>
+    <component base="caroncomb.case" xOffset="136" yOffset="64"/>
+    <component base="dotaccentcomb.case" xOffset="216" yOffset="427"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.749,0.4863,0.8784,1</string>
-    </dict>
-  </lib>
 </glyph>

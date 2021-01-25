@@ -2,21 +2,9 @@
 <glyph name="Odieresismacron" format="2">
   <advance width="942"/>
   <unicode hex="022A"/>
-  <guideline x="471.0" y="0" angle="90.0" identifier="pxDB3SUpEp"/>
-  <anchor x="386" y="0" name="bottom"/>
-  <anchor x="386" y="350" name="center"/>
-  <anchor x="690" y="10" name="ogonek"/>
-  <anchor x="396" y="1030" name="top"/>
-  <anchor x="25" y="700" name="topleft"/>
-  <anchor x="387" y="706" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb_macroncomb" xOffset="300" yOffset="139"/>
+    <component base="dieresiscomb.case" xOffset="186" yOffset="175"/>
+    <component base="macroncomb.case" xOffset="182" yOffset="321"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

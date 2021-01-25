@@ -5,12 +5,6 @@
   <note>
 O
 </note>
-  <anchor x="551" y="0" name="bottom"/>
-  <anchor x="551" y="350" name="center"/>
-  <anchor x="646" y="10" name="ogonek"/>
-  <anchor x="551" y="700" name="top"/>
-  <anchor x="20" y="700" name="topleft"/>
-  <anchor x="798" y="710" name="topright"/>
   <outline>
     <contour>
       <point x="551" y="710" type="qcurve"/>
@@ -41,10 +35,4 @@ O
       <point x="412" y="95"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

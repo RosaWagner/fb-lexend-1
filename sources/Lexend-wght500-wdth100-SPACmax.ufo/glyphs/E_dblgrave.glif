@@ -2,18 +2,8 @@
 <glyph name="Edblgrave" format="2">
   <advance width="876"/>
   <unicode hex="0204"/>
-  <anchor x="415" y="0" name="bottom"/>
-  <anchor x="568" y="10" name="ogonek"/>
-  <anchor x="410" y="919" name="top"/>
-  <anchor x="139" y="700" name="topleft"/>
   <outline>
     <component base="E" xOffset="93"/>
-    <component base="dblgravecomb.case" xOffset="252" yOffset="210"/>
+    <component base="dblgravecomb.case" xOffset="162" yOffset="210"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

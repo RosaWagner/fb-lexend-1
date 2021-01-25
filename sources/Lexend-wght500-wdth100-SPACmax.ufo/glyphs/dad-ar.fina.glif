@@ -2,10 +2,6 @@
 <glyph name="dad-ar.fina" format="2">
   <advance width="1399"/>
   <unicode hex="FEBE"/>
-  <anchor x="1345" y="0" name="#entry"/>
-  <anchor x="1345" y="0" name="#exit"/>
-  <anchor x="1000" y="0" name="bottom"/>
-  <anchor x="1100" y="709" name="top"/>
   <outline>
     <component base="sad-ar.fina"/>
     <component base="dotabove-ar" xOffset="971"/>

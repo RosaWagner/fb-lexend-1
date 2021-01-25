@@ -2,8 +2,6 @@
 <glyph name="heh-ar.init" format="2">
   <advance width="987"/>
   <unicode hex="FEEB"/>
-  <anchor x="454" y="0" name="bottom"/>
-  <anchor x="473" y="465" name="top"/>
   <outline>
     <contour>
       <point x="225" y="509" type="line"/>

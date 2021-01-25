@@ -3,10 +3,6 @@
   <advance width="757"/>
   <unicode hex="20BC"/>
   <guideline x="378.5" y="0" angle="270.0" identifier="vE51QeV0Hn"/>
-  <anchor x="385.0" y="694.0" name="bottom"/>
-  <anchor x="102.0" y="684.0" name="ogonek"/>
-  <anchor x="385.0" y="-6.0" name="top"/>
-  <anchor x="243.0" y="-14.0" name="topright"/>
   <outline>
     <contour>
       <point x="403" y="801" type="line"/>

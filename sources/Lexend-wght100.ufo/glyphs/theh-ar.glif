@@ -2,8 +2,6 @@
 <glyph name="theh-ar" format="2">
   <advance width="902"/>
   <unicode hex="062B"/>
-  <anchor x="439.0" y="0" name="bottom"/>
-  <anchor x="437.0" y="779.0" name="top"/>
   <outline>
     <component base="behDotless-ar"/>
     <component base="threedotsupabove-ar" xOffset="224" yOffset="-67"/>

@@ -2,13 +2,9 @@
 <glyph name="otildeacute" format="2">
   <advance width="615"/>
   <unicode hex="1E4D"/>
-  <anchor x="305" y="0" name="bottom"/>
-  <anchor x="305" y="256" name="center"/>
-  <anchor x="547" y="10" name="ogonek"/>
-  <anchor x="352" y="1006" name="top"/>
-  <anchor x="319" y="531" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="tildecomb_acutecomb" xOffset="162"/>
+    <component base="tildecomb" xOffset="102"/>
+    <component base="acutecomb" xOffset="227" yOffset="215"/>
   </outline>
 </glyph>

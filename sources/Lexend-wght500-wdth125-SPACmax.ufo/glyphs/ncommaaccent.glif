@@ -5,8 +5,6 @@
   <note>
 ncommaaccent
 </note>
-  <anchor x="508" y="-243" name="bottom"/>
-  <anchor x="528" y="525" name="top"/>
   <outline>
     <component base="n"/>
     <component base="commaaccentcomb" xOffset="384"/>
@@ -17,8 +15,6 @@ ncommaaccent
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

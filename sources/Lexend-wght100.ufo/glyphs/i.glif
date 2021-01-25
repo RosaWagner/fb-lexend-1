@@ -6,12 +6,9 @@
 i
 </note>
   <guideline x="80.50118607601952" y="0" angle="270.0" name="center" identifier="JRtEA1Ek1q"/>
-  <anchor x="90" y="1" name="bottom"/>
-  <anchor x="71" y="13" name="ogonek"/>
-  <anchor x="89" y="765.0" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="-36" yOffset="14"/>
+    <component base="dotaccentcomb" xOffset="-22" yOffset="14"/>
   </outline>
   <lib>
     <dict>

@@ -5,8 +5,6 @@
   <note>
 B
 </note>
-  <anchor x="414" y="0" name="bottom"/>
-  <anchor x="414" y="700" name="top"/>
   <outline>
     <contour>
       <point x="98" y="700" type="line"/>
@@ -59,8 +57,6 @@ B
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>O</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

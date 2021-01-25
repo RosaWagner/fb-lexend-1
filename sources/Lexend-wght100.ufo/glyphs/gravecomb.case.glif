@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb.case" format="2">
-  <anchor x="107.00121648822514" y="520.4999695877943" name="_top"/>
-  <anchor x="147.49954381691558" y="728.000729892935" name="top"/>
   <outline>
     <contour>
       <point x="213" y="620" type="line"/>

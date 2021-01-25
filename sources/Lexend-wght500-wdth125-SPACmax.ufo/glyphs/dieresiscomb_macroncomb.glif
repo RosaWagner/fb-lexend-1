@@ -4,7 +4,7 @@
   <guideline x="-412.3371428571429" y="803.2046428571432" angle="0" identifier="L8cUrIfvBH"/>
   <guideline x="196.5" y="0" angle="270.0" identifier="yYfR9mj11k"/>
   <outline>
-    <component base="dieresiscomb" xOffset="-22"/>
-    <component base="macroncomb" xOffset="-45" yOffset="183"/>
+    <component base="dieresiscomb" xOffset="-22" yOffset="-30"/>
+    <component base="macroncomb" xOffset="-44" yOffset="153"/>
   </outline>
 </glyph>

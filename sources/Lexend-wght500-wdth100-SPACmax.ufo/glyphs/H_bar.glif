@@ -5,24 +5,20 @@
   <note>
 Hbar
 </note>
-  <anchor x="454" y="0" name="bottom"/>
-  <anchor x="454" y="350" name="center"/>
-  <anchor x="454" y="700" name="top"/>
-  <anchor x="114" y="700" name="topleft"/>
   <outline>
     <contour>
-      <point x="193" y="498" type="line"/>
-      <point x="87" y="498" type="line"/>
-      <point x="87" y="602" type="line"/>
-      <point x="203" y="602" type="line"/>
-      <point x="249" y="592" type="line"/>
-      <point x="643" y="592" type="line"/>
-      <point x="679" y="602" type="line"/>
-      <point x="830" y="602" type="line"/>
-      <point x="830" y="498" type="line"/>
-      <point x="686" y="498" type="line"/>
-      <point x="655" y="508" type="line"/>
-      <point x="239" y="508" type="line"/>
+      <point x="193" y="468" type="line"/>
+      <point x="87" y="468" type="line"/>
+      <point x="87" y="572" type="line"/>
+      <point x="203" y="572" type="line"/>
+      <point x="249" y="562" type="line"/>
+      <point x="643" y="562" type="line"/>
+      <point x="679" y="572" type="line"/>
+      <point x="830" y="572" type="line"/>
+      <point x="830" y="468" type="line"/>
+      <point x="686" y="468" type="line"/>
+      <point x="655" y="478" type="line"/>
+      <point x="239" y="478" type="line"/>
     </contour>
     <contour>
       <point x="176" y="700" type="line"/>
@@ -43,10 +39,4 @@ Hbar
       <point x="681" y="297" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

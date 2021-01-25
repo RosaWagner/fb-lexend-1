@@ -7,10 +7,6 @@ E
 </note>
   <guideline x="-812.2163228155341" y="382.95964805825224" angle="0" identifier="Hj8jHkM1DO"/>
   <guideline x="349" y="221" angle="90.0" name="center" identifier="l2RaPEMUmW"/>
-  <anchor x="334" y="0" name="bottom"/>
-  <anchor x="621" y="0" name="ogonek"/>
-  <anchor x="329" y="700" name="top"/>
-  <anchor x="58" y="700" name="topleft"/>
   <outline>
     <contour>
       <point x="287" y="0" type="line"/>

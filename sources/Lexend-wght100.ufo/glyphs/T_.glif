@@ -5,9 +5,6 @@
   <note>
 T
 </note>
-  <anchor x="243.00091236616885" y="0" name="bottom"/>
-  <anchor x="244.50088195396324" y="350.0" name="center"/>
-  <anchor x="244.50088195396324" y="700.0" name="top"/>
   <outline>
     <contour>
       <point x="255" y="0.0" type="line"/>

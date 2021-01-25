@@ -5,11 +5,6 @@
   <note>
 ocircumflex
 </note>
-  <anchor x="478" y="0" name="bottom"/>
-  <anchor x="478" y="263" name="center"/>
-  <anchor x="860" y="10" name="ogonek"/>
-  <anchor x="484" y="784" name="top"/>
-  <anchor x="596" y="475" name="topright"/>
   <outline>
     <component base="o"/>
     <component base="circumflexcomb" xOffset="273" yOffset="1"/>

@@ -2,10 +2,9 @@
 <glyph name="Acircumflexhookabove" format="2">
   <advance width="647"/>
   <unicode hex="1EA8"/>
-  <guideline x="323.5" y="0" angle="270.0" identifier="WvqD6X8QgF"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="136" yOffset="154"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="157.7599999999802" yOffset="154"/>
   </outline>
   <lib>
     <dict>

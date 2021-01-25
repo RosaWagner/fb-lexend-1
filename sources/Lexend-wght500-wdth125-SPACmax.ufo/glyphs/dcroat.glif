@@ -5,13 +5,9 @@
   <note>
 dcroat
 </note>
-  <anchor x="492" y="0" name="bottom"/>
-  <anchor x="721" y="616" name="center"/>
-  <anchor x="492" y="740" name="top"/>
-  <anchor x="964" y="525" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="strokeshortcomb" xOffset="337" yOffset="330"/>
+    <component base="strokeshortcomb" xOffset="397" yOffset="320"/>
   </outline>
   <lib>
     <dict>
@@ -19,8 +15,6 @@ dcroat
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

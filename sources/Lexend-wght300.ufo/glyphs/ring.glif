@@ -31,6 +31,7 @@
       <point x="131" y="736"/>
       <point x="95" y="701"/>
     </contour>
+    <component base="ringcomb"/>
   </outline>
   <lib>
     <dict>

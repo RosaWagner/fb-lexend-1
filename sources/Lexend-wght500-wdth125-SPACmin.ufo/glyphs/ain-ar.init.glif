@@ -2,8 +2,6 @@
 <glyph name="ain-ar.init" format="2">
   <advance width="781"/>
   <unicode hex="FECB"/>
-  <anchor x="379" y="0" name="bottom"/>
-  <anchor x="505" y="438" name="top"/>
   <outline>
     <contour>
       <point x="0" y="0" type="line"/>

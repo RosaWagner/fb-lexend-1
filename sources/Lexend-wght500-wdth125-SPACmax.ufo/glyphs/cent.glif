@@ -5,8 +5,6 @@
   <note>
 cent
 </note>
-  <anchor x="435" y="88" name="bottom"/>
-  <anchor x="455" y="613" name="top"/>
   <outline>
     <contour>
       <point x="520" y="107" type="line"/>
@@ -55,8 +53,6 @@ cent
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>c</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

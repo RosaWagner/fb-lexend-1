@@ -2,10 +2,6 @@
 <glyph name="lam-ar.fina" format="2">
   <advance width="1088"/>
   <unicode hex="FEDE"/>
-  <anchor x="827" y="0" name="#entry"/>
-  <anchor x="827" y="0" name="#exit"/>
-  <anchor x="452" y="-230" name="bottom"/>
-  <anchor x="463" y="438" name="top"/>
   <outline>
     <component base="_connection" xOffset="827"/>
     <component base="lam-ar"/>

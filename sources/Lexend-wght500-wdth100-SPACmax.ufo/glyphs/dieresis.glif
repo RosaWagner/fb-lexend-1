@@ -2,7 +2,6 @@
 <glyph name="dieresis" format="2">
   <advance width="438"/>
   <unicode hex="00A8"/>
-  <anchor x="210" y="515" name="_top"/>
   <outline>
     <contour>
       <point x="175" y="656" type="qcurve" smooth="yes"/>
@@ -33,10 +32,4 @@
       <point x="375" y="687"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

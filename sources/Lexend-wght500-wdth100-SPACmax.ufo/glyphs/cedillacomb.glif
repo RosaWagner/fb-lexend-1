@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedillacomb" format="2">
   <unicode hex="0327"/>
-  <anchor x="120" y="0" name="_bottom"/>
-  <anchor x="125" y="-148" name="bottom"/>
   <outline>
     <component base="cedilla"/>
   </outline>
@@ -10,8 +8,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>250</integer>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

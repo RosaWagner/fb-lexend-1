@@ -5,10 +5,6 @@
   <note>
 Hbar
 </note>
-  <anchor x="563" y="0" name="bottom"/>
-  <anchor x="563" y="350" name="center"/>
-  <anchor x="563" y="700" name="top"/>
-  <anchor x="38" y="700" name="topleft"/>
   <outline>
     <contour>
       <point x="203" y="468" type="line"/>
@@ -43,10 +39,4 @@ Hbar
       <point x="845" y="293" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

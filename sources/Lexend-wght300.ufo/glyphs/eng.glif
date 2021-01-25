@@ -5,8 +5,6 @@
   <note>
 eng
 </note>
-  <anchor x="286.0" y="0" name="bottom"/>
-  <anchor x="295.0" y="510.0" name="top"/>
   <outline>
     <contour>
       <point x="315" y="531" type="qcurve"/>
@@ -32,10 +30,9 @@ eng
       <point x="73" y="0" type="line"/>
       <point x="73" y="520" type="line"/>
       <point x="121" y="520" type="line"/>
-      <point x="126" y="394" type="line"/>
-      <point x="112" y="405" type="line"/>
-      <point x="140.478961849009" y="472.4002097093214"/>
-      <point x="253.0" y="531.0"/>
+      <point x="125" y="424" type="line"/>
+      <point x="146" y="468"/>
+      <point x="253" y="531"/>
     </contour>
   </outline>
   <lib>

@@ -1236,6 +1236,8 @@
     <string>hookabovecomb.case.glif</string>
     <key>horizontalbar</key>
     <string>horizontalbar.glif</string>
+    <key>horizontalbarlc</key>
+    <string>horizontalbarlc.glif</string>
     <key>horncomb</key>
     <string>horncomb.glif</string>
     <key>horncomb.case</key>

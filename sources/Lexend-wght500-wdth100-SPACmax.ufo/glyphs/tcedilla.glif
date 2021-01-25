@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcedilla" format="2">
-  <advance width="609"/>
+  <advance width="622"/>
   <unicode hex="0163"/>
+  <note>
+tcedilla
+</note>
   <outline>
-    <component base="t"/>
-    <component base="cedillacomb" xOffset="133" yOffset="-2"/>
+    <component base="t" xOffset="13"/>
+    <component base="cedillacomb" xOffset="75"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +15,6 @@
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

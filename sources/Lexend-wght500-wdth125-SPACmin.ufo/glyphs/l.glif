@@ -5,10 +5,6 @@
   <note>
 l
 </note>
-  <anchor x="126" y="0" name="bottom"/>
-  <anchor x="126" y="370" name="center"/>
-  <anchor x="126" y="740" name="top"/>
-  <anchor x="367" y="740" name="topright"/>
   <outline>
     <contour>
       <point x="177" y="0" type="line"/>
@@ -17,10 +13,4 @@ l
       <point x="177" y="740" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

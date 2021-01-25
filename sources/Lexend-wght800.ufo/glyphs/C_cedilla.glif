@@ -4,7 +4,7 @@
   <unicode hex="00C7"/>
   <outline>
     <component base="C"/>
-    <component base="cedillacomb.case" xOffset="311" yOffset="5"/>
+    <component base="cedillacomb.case" xOffset="230.5" yOffset="5"/>
   </outline>
   <lib>
     <dict>

@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="reh-ar.yeh" format="2">
   <advance width="372"/>
-  <anchor x="33" y="-230" name="bottom"/>
-  <anchor x="126" y="378" name="top"/>
   <outline>
     <contour>
       <point x="238" y="-135" type="qcurve" smooth="yes"/>

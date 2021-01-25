@@ -2,8 +2,6 @@
 <glyph name="ghain-ar" format="2">
   <advance width="764"/>
   <unicode hex="063A"/>
-  <anchor x="359" y="-456" name="bottom"/>
-  <anchor x="298" y="709" name="top"/>
   <outline>
     <component base="ain-ar"/>
     <component base="dotabove-ar" xOffset="169"/>

@@ -2,8 +2,6 @@
 <glyph name="ain-ar.medi" format="2">
   <advance width="581"/>
   <unicode hex="FECC"/>
-  <anchor x="302" y="0" name="bottom"/>
-  <anchor x="307" y="438" name="top"/>
   <outline>
     <contour>
       <point x="90" y="251" type="line"/>

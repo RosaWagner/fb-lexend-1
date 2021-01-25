@@ -5,8 +5,6 @@
   <note>
 dollar
 </note>
-  <anchor x="323.0" y="0" name="bottom"/>
-  <anchor x="323.0" y="700.0" name="top"/>
   <outline>
     <contour>
       <point x="276" y="363" type="line"/>

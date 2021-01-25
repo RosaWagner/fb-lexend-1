@@ -2,17 +2,8 @@
 <glyph name="icaron" format="2">
   <advance width="503"/>
   <unicode hex="01D0"/>
-  <anchor x="252" y="0" name="bottom"/>
-  <anchor x="303" y="0" name="ogonek"/>
-  <anchor x="251" y="773" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="caroncomb" xOffset="53"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

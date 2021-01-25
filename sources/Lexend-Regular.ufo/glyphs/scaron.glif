@@ -5,8 +5,6 @@
   <note>
 scaron
 </note>
-  <anchor x="238" y="0" name="bottom"/>
-  <anchor x="238" y="775" name="top"/>
   <outline>
     <component base="s"/>
     <component base="caroncomb" xOffset="58" yOffset="10"/>

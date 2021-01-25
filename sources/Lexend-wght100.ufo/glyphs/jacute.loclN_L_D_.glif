@@ -4,7 +4,7 @@
   <guideline x="35" y="625" angle="0" identifier="TO2LeE8b4R"/>
   <outline>
     <component base="jdotless" xOffset="-58"/>
-    <component base="acutecomb" xOffset="-25" yOffset="28"/>
+    <component base="acutecomb" xOffset="-46" yOffset="28"/>
   </outline>
   <lib>
     <dict>

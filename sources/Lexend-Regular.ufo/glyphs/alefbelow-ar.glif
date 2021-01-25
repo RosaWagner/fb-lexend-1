@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="alefbelow-ar" format="2">
   <unicode hex="0656"/>
-  <anchor x="48" y="0" name="_bottom"/>
-  <anchor x="48" y="-257" name="bottom"/>
   <outline>
     <contour>
       <point x="20" y="-257" type="line"/>

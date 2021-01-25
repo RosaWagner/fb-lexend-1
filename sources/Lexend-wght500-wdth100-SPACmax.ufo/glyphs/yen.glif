@@ -5,9 +5,6 @@
   <note>
 yen
 </note>
-  <anchor x="405" y="-1" name="bottom"/>
-  <anchor x="401" y="700" name="top"/>
-  <anchor x="130" y="700" name="topleft"/>
   <outline>
     <contour>
       <point x="628" y="88" type="line"/>
@@ -42,8 +39,6 @@ yen
       <string>Y</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>Y</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

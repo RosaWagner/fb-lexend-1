@@ -6,10 +6,6 @@
 U
 </note>
   <guideline x="376.5" y="0" angle="270.0" identifier="7HqeavjfOo"/>
-  <anchor x="376" y="0" name="bottom"/>
-  <anchor x="546" y="10.0" name="ogonek"/>
-  <anchor x="376" y="700.0" name="top"/>
-  <anchor x="516" y="700.0" name="topright"/>
   <outline>
     <contour>
       <point x="596" y="701" type="line"/>

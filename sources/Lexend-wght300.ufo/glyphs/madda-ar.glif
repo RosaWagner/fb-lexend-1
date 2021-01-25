@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="madda-ar" format="2">
   <unicode hex="0653"/>
-  <anchor x="231.0" y="525.0" name="_top"/>
-  <anchor x="231.0" y="765.0" name="top"/>
   <outline>
     <contour>
       <point x="421.0" y="749.0" type="qcurve"/>

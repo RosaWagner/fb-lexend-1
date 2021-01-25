@@ -1,14 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ydotaccent" format="2">
   <advance width="820"/>
+  <unicode hex="1E8E"/>
   <outline>
     <component base="Y"/>
-    <component base="dotaccentcomb.case" xOffset="304" yOffset="181"/>
+    <component base="dotaccentcomb.case" xOffset="374" yOffset="183"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

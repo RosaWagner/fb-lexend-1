@@ -2,9 +2,12 @@
 <glyph name="idieresis" format="2">
   <advance width="503"/>
   <unicode hex="00EF"/>
+  <note>
+idieresis
+</note>
   <outline>
-    <component base="idotless"/>
-    <component base="dieresiscomb" xOffset="60.5" yOffset="-17"/>
+    <component base="idotless" xOffset="130"/>
+    <component base="dieresiscomb" xOffset="59" yOffset="24"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +15,6 @@
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

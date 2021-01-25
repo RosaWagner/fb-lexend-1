@@ -5,8 +5,6 @@
   <note>
 racute
 </note>
-  <anchor x="126" y="0" name="bottom"/>
-  <anchor x="252" y="769" name="top"/>
   <outline>
     <component base="r"/>
     <component base="acutecomb" xOffset="127" yOffset="-22"/>

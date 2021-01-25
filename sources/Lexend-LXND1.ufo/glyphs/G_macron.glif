@@ -2,8 +2,6 @@
 <glyph name="Gmacron" format="2">
   <advance width="1082"/>
   <unicode hex="1E20"/>
-  <anchor x="541" y="0" name="bottom"/>
-  <anchor x="541" y="862" name="top"/>
   <outline>
     <component base="G"/>
     <component base="macroncomb.case" xOffset="325" yOffset="175"/>

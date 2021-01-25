@@ -6,10 +6,6 @@
 l
 </note>
   <guideline x="100.0" y="0" angle="270.0" identifier="oa3Qv1rNST"/>
-  <anchor x="100.0" y="0" name="bottom"/>
-  <anchor x="100.0" y="289.0" name="center"/>
-  <anchor x="100.0" y="740.0" name="top"/>
-  <anchor x="207.0" y="580.0" name="topright"/>
   <outline>
     <contour>
       <point x="125" y="0" type="line"/>

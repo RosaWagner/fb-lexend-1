@@ -7,8 +7,8 @@ threequarters
 </note>
   <outline>
     <component base="three.numr"/>
-    <component base="four.dnom" xOffset="466"/>
     <component base="fraction" xOffset="139"/>
+    <component base="four.dnom" xOffset="466"/>
   </outline>
   <lib>
     <dict>

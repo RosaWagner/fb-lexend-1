@@ -2,7 +2,6 @@
 <glyph name="macron" format="2">
   <advance width="464"/>
   <unicode hex="00AF"/>
-  <anchor x="219" y="515" name="_top"/>
   <outline>
     <contour>
       <point x="394" y="590" type="line"/>
@@ -11,10 +10,4 @@
       <point x="394" y="670" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

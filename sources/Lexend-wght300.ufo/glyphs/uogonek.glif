@@ -5,10 +5,6 @@
   <note>
 uogonek
 </note>
-  <anchor x="299.0" y="0" name="bottom"/>
-  <anchor x="530.0" y="0" name="ogonek"/>
-  <anchor x="299.0" y="510.0" name="top"/>
-  <anchor x="386.0" y="532.0" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="ogonekcomb" xOffset="273"/>

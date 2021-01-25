@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Llinebelow" format="2">
-  <advance width="758"/>
+  <advance width="790"/>
   <unicode hex="1E3A"/>
   <outline>
-    <component base="L"/>
-    <component base="macronbelowcomb.case" xOffset="168.5" yOffset="-13"/>
+    <component base="L" xOffset="32"/>
+    <component base="macronbelowcomb.case" xOffset="132"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

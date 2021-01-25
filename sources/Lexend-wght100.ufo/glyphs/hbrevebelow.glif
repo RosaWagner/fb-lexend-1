@@ -5,7 +5,7 @@
   <guideline x="265.5" y="0" angle="270.0" identifier="xi4yVpOXFf"/>
   <outline>
     <component base="h"/>
-    <component base="brevebelowcomb" xOffset="92" yOffset="-20"/>
+    <component base="brevebelowcomb.case" xOffset="93" yOffset="-35"/>
   </outline>
   <lib>
     <dict>

@@ -2,8 +2,6 @@
 <glyph name="seen-ar.init" format="2">
   <advance width="1243"/>
   <unicode hex="FEB3"/>
-  <anchor x="666" y="0" name="bottom"/>
-  <anchor x="700" y="333" name="top"/>
   <outline>
     <contour>
       <point x="678" y="136" type="qcurve"/>

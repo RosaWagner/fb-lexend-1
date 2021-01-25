@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fatha-ar" format="2">
   <unicode hex="064E"/>
-  <anchor x="154" y="525" name="_top"/>
-  <anchor x="128" y="631" name="top"/>
   <outline>
     <contour>
       <point x="20" y="681" type="line"/>

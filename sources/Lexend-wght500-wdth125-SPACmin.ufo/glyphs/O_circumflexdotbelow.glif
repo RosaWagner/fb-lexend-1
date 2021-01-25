@@ -2,12 +2,6 @@
 <glyph name="Ocircumflexdotbelow" format="2">
   <advance width="942"/>
   <unicode hex="1ED8"/>
-  <anchor x="551" y="-191" name="bottom"/>
-  <anchor x="551" y="350" name="center"/>
-  <anchor x="646" y="10" name="ogonek"/>
-  <anchor x="551" y="911" name="top"/>
-  <anchor x="20" y="700" name="topleft"/>
-  <anchor x="798" y="710" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="dotbelowcomb.case" xOffset="432"/>

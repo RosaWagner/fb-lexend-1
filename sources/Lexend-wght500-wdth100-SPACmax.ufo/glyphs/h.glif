@@ -5,9 +5,6 @@
   <note>
 h
 </note>
-  <anchor x="440" y="0" name="bottom"/>
-  <anchor x="270" y="593" name="center"/>
-  <anchor x="269" y="729" name="top"/>
   <outline>
     <contour>
       <point x="320" y="457"/>
@@ -41,8 +38,6 @@ h
       <string>n</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>n</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

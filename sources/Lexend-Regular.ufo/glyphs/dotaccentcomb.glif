@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb" format="2">
   <unicode hex="0307"/>
-  <anchor x="105" y="511" name="_top"/>
-  <anchor x="105" y="751" name="top"/>
   <outline>
     <contour>
       <point x="175" y="690" type="qcurve" smooth="yes"/>

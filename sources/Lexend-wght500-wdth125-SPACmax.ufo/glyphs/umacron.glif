@@ -2,9 +2,12 @@
 <glyph name="umacron" format="2">
   <advance width="981"/>
   <unicode hex="016B"/>
+  <note>
+umacron
+</note>
   <outline>
     <component base="u"/>
-    <component base="macroncomb" xOffset="278.5" yOffset="-31"/>
+    <component base="macroncomb" xOffset="283" yOffset="-4"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +15,6 @@
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

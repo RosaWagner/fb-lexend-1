@@ -7,7 +7,7 @@ threequarters
 </note>
   <outline>
     <component base="three.numr" xOffset="-37"/>
-    <component base="fraction" xOffset="194"/>
+    <component base="fraction" xOffset="24"/>
     <component base="four.dnom" xOffset="634"/>
   </outline>
   <lib>
@@ -35,8 +35,6 @@ threequarters
       <string>three</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>four</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

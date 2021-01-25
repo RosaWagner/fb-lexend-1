@@ -5,39 +5,29 @@
   <note>
 u
 </note>
-  <anchor x="368" y="0" name="bottom"/>
-  <anchor x="672" y="11" name="ogonek"/>
-  <anchor x="368" y="525" name="top"/>
-  <anchor x="642" y="481" name="topright"/>
   <outline>
     <contour>
-      <point x="348" y="93" type="qcurve"/>
-      <point x="427" y="93"/>
-      <point x="550" y="188"/>
-      <point x="550" y="284" type="qcurve"/>
+      <point x="348" y="93" type="qcurve" smooth="yes"/>
+      <point x="430" y="93"/>
+      <point x="550" y="192"/>
+      <point x="550" y="279" type="qcurve" smooth="yes"/>
       <point x="550" y="525" type="line"/>
       <point x="653" y="525" type="line"/>
       <point x="653" y="0" type="line"/>
       <point x="550" y="0" type="line"/>
       <point x="550" y="110" type="line"/>
       <point x="568" y="122" type="line"/>
-      <point x="541" y="67"/>
-      <point x="402" y="-10"/>
-      <point x="306" y="-10" type="qcurve"/>
-      <point x="204" y="-10"/>
-      <point x="72" y="133"/>
-      <point x="72" y="255" type="qcurve"/>
+      <point x="548" y="76"/>
+      <point x="412" y="-10"/>
+      <point x="306" y="-10" type="qcurve" smooth="yes"/>
+      <point x="202" y="-10"/>
+      <point x="72" y="134"/>
+      <point x="72" y="261" type="qcurve"/>
       <point x="72" y="525" type="line"/>
       <point x="175" y="525" type="line"/>
-      <point x="175" y="293" type="line"/>
-      <point x="175" y="178"/>
-      <point x="252.0" y="93"/>
+      <point x="175" y="299" type="line"/>
+      <point x="175" y="197"/>
+      <point x="257" y="93"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -5,10 +5,6 @@
   <note>
 uacute
 </note>
-  <anchor x="496" y="0" name="bottom"/>
-  <anchor x="800" y="11" name="ogonek"/>
-  <anchor x="531" y="784" name="top"/>
-  <anchor x="770" y="481" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="acutecomb" xOffset="394" yOffset="-7"/>

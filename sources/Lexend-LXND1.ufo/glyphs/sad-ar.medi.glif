@@ -2,10 +2,6 @@
 <glyph name="sad-ar.medi" format="2">
   <advance width="1669"/>
   <unicode hex="FEBC"/>
-  <anchor x="1477" y="0" name="#entry"/>
-  <anchor x="1477" y="0" name="#exit"/>
-  <anchor x="1102" y="0" name="bottom"/>
-  <anchor x="1203" y="438" name="top"/>
   <outline>
     <component base="_connection.round" xOffset="1477"/>
     <component base="sad-ar.init" xOffset="-1"/>

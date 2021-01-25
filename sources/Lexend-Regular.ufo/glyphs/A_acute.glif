@@ -2,9 +2,6 @@
 <glyph name="Aacute" format="2">
   <advance width="700"/>
   <unicode hex="00C1"/>
-  <anchor x="352" y="0" name="bottom"/>
-  <anchor x="609" y="10" name="ogonek"/>
-  <anchor x="400" y="888" name="top"/>
   <outline>
     <component base="A"/>
     <component base="acutecomb.case" xOffset="275" yOffset="185"/>

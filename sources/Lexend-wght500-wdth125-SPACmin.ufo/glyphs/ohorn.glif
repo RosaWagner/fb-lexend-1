@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohorn" format="2">
-  <advance width="815"/>
+  <advance width="804"/>
   <unicode hex="01A1"/>
   <outline>
     <component base="o"/>
-    <component base="horncomb" xOffset="421" yOffset="23"/>
+    <component base="horncomb" xOffset="520" yOffset="17"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
+      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

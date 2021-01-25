@@ -2,9 +2,12 @@
 <glyph name="gbreve" format="2">
   <advance width="867"/>
   <unicode hex="011F"/>
+  <note>
+gbreve
+</note>
   <outline>
     <component base="g"/>
-    <component base="brevecomb" xOffset="192.72000000001572" yOffset="-10"/>
+    <component base="brevecomb" xOffset="123" yOffset="34"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +15,6 @@
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,19 +2,8 @@
 <glyph name="Ucaron" format="2">
   <advance width="904"/>
   <unicode hex="01D3"/>
-  <guideline x="452.0" y="0" angle="90.0" identifier="srmEiRHQUK"/>
-  <anchor x="370" y="0" name="bottom"/>
-  <anchor x="653" y="10" name="ogonek"/>
-  <anchor x="370" y="957" name="top"/>
-  <anchor x="512" y="708" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="caroncomb.case" xOffset="245" yOffset="64"/>
+    <component base="caroncomb.case" xOffset="185" yOffset="64"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

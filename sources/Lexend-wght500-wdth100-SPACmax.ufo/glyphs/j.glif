@@ -5,16 +5,8 @@
   <note>
 j
 </note>
-  <anchor x="272" y="0" name="bottom"/>
-  <anchor x="259" y="771" name="top"/>
   <outline>
-    <component base="jdotless" xOffset="31"/>
+    <component base="jdotless" xOffset="121"/>
     <component base="dotaccentcomb" xOffset="154" yOffset="20"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

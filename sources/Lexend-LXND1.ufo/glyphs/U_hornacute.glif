@@ -2,10 +2,6 @@
 <glyph name="Uhornacute" format="2">
   <advance width="1044"/>
   <unicode hex="1EE8"/>
-  <anchor x="522" y="0" name="bottom"/>
-  <anchor x="940" y="10" name="ogonek"/>
-  <anchor x="592" y="912" name="top"/>
-  <anchor x="949" y="700" name="topright"/>
   <outline>
     <component base="Uhorn"/>
     <component base="acutecomb.case" xOffset="438" yOffset="171"/>

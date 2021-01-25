@@ -6,8 +6,6 @@
 f
 </note>
   <guideline x="370" y="365" angle="0" identifier="PskbrvrhL5"/>
-  <anchor x="197" y="0" name="bottom"/>
-  <anchor x="187" y="535" name="top"/>
   <outline>
     <contour>
       <point x="387" y="516" type="line"/>

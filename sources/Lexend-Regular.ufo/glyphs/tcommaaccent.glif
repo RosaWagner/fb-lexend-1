@@ -5,10 +5,6 @@
   <note>
 uni021B
 </note>
-  <anchor x="160" y="-289" name="bottom"/>
-  <anchor x="182" y="256" name="center"/>
-  <anchor x="183" y="646" name="top"/>
-  <anchor x="308" y="548" name="topright"/>
   <outline>
     <component base="t"/>
     <component base="commaaccentcomb" xOffset="48" yOffset="-1"/>

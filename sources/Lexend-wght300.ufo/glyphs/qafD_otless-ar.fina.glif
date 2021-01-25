@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="qafDotless-ar.fina" format="2">
   <advance width="788"/>
-  <anchor x="347.0" y="-230.0" name="bottom"/>
-  <anchor x="518.0" y="387.0" name="top"/>
   <outline>
     <contour>
       <point x="358.0" y="-128.0" type="qcurve" smooth="yes"/>

@@ -5,9 +5,6 @@
   <note>
 atilde
 </note>
-  <anchor x="311" y="-20" name="bottom"/>
-  <anchor x="560" y="3" name="ogonek"/>
-  <anchor x="319" y="764" name="top"/>
   <outline>
     <component base="a"/>
     <component base="tildecomb" xOffset="104" yOffset="17"/>

@@ -2,8 +2,6 @@
 <glyph name="hamza-ar" format="2">
   <advance width="383"/>
   <unicode hex="0621"/>
-  <anchor x="182.0" y="0" name="bottom"/>
-  <anchor x="210.0" y="295.0" name="top"/>
   <outline>
     <contour>
       <point x="319.0" y="0.0" type="line"/>

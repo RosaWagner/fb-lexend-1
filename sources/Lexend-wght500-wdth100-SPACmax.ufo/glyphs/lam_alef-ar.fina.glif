@@ -2,13 +2,6 @@
 <glyph name="lam_alef-ar.fina" format="2">
   <advance width="699"/>
   <unicode hex="FEFC"/>
-  <anchor x="272" y="0" name="bottom"/>
-  <anchor x="516" y="0" name="bottom_1"/>
-  <anchor x="263" y="0" name="bottom_2"/>
-  <anchor x="407" y="0" name="caret"/>
-  <anchor x="199" y="568" name="top"/>
-  <anchor x="541" y="700" name="top_1"/>
-  <anchor x="199" y="563" name="top_2"/>
   <outline>
     <contour>
       <point x="489" y="164" type="qcurve"/>

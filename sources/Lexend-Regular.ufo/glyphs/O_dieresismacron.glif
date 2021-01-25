@@ -2,14 +2,9 @@
 <glyph name="Odieresismacron" format="2">
   <advance width="782"/>
   <unicode hex="022A"/>
-  <anchor x="386" y="0" name="bottom"/>
-  <anchor x="386" y="350" name="center"/>
-  <anchor x="690" y="10" name="ogonek"/>
-  <anchor x="396" y="1030" name="top"/>
-  <anchor x="25" y="700" name="topleft"/>
-  <anchor x="387" y="706" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb_macroncomb" xOffset="237" yOffset="137"/>
+    <component base="dieresiscomb.case" xOffset="186" yOffset="175"/>
+    <component base="macroncomb.case" xOffset="182" yOffset="321"/>
   </outline>
 </glyph>

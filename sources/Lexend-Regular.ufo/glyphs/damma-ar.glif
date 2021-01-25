@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="damma-ar" format="2">
   <unicode hex="064F"/>
-  <anchor x="121" y="525" name="_top"/>
-  <anchor x="130" y="828" name="top"/>
   <outline>
     <contour>
       <point x="136" y="774" type="qcurve" smooth="yes"/>

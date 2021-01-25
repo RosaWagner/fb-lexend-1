@@ -2,9 +2,6 @@
 <glyph name="lam-ar" format="2">
   <advance width="710"/>
   <unicode hex="0644"/>
-  <anchor x="610.0" y="0" name="#entry"/>
-  <anchor x="321.0" y="-230.0" name="bottom"/>
-  <anchor x="305.0" y="438.0" name="top"/>
   <outline>
     <contour>
       <point x="630.0" y="740.0" type="line"/>
@@ -37,6 +34,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>alef-ar</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

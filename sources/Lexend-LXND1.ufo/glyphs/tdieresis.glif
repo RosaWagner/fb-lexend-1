@@ -2,10 +2,6 @@
 <glyph name="tdieresis" format="2">
   <advance width="749"/>
   <unicode hex="1E97"/>
-  <anchor x="345" y="0" name="bottom"/>
-  <anchor x="355" y="233" name="center"/>
-  <anchor x="355" y="860" name="top"/>
-  <anchor x="729" y="525" name="topright"/>
   <outline>
     <component base="t"/>
     <component base="dieresiscomb" xOffset="163" yOffset="145"/>

@@ -5,8 +5,6 @@
   <note>
 wcircumflex
 </note>
-  <anchor x="523" y="0" name="bottom"/>
-  <anchor x="529" y="764" name="top"/>
   <outline>
     <component base="w"/>
     <component base="circumflexcomb" xOffset="318" yOffset="-19"/>

@@ -5,8 +5,6 @@
   <note>
 G
 </note>
-  <anchor x="419" y="0" name="bottom"/>
-  <anchor x="406" y="700.0" name="top"/>
   <outline>
     <contour>
       <point x="50" y="347" type="qcurve"/>

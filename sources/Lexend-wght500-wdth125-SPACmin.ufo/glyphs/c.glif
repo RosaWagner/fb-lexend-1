@@ -5,8 +5,6 @@
   <note>
 c
 </note>
-  <anchor x="345" y="0" name="bottom"/>
-  <anchor x="365" y="525" name="top"/>
   <outline>
     <contour>
       <point x="365" y="443" type="qcurve" smooth="yes"/>
@@ -41,8 +39,6 @@ c
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>o</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

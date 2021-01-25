@@ -2,8 +2,9 @@
 <glyph name="aringacute.ss01" format="2">
   <advance width="591"/>
   <outline>
-    <component base="aring.ss01"/>
-    <component base="acutecomb" xOffset="141" yOffset="330"/>
+    <component base="a.ss01"/>
+    <component base="ringcomb" xOffset="138" yOffset="57"/>
+    <component base="acutecomb.case" xOffset="150" yOffset="310"/>
   </outline>
   <lib>
     <dict>

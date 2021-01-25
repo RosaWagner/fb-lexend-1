@@ -4,9 +4,6 @@
   <note>
 acircumflex
 </note>
-  <anchor x="460" y="0" name="bottom"/>
-  <anchor x="748" y="10" name="ogonek"/>
-  <anchor x="460" y="784" name="top"/>
   <outline>
     <component base="a.ss01"/>
     <component base="circumflexcomb" xOffset="249" yOffset="1"/>

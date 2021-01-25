@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="alefabove-ar" format="2">
   <unicode hex="0670"/>
-  <anchor x="48" y="525" name="_top"/>
-  <anchor x="48" y="770" name="top"/>
   <outline>
     <contour>
       <point x="20" y="635" type="line"/>

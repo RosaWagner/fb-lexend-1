@@ -2,8 +2,6 @@
 <glyph name="yeh-ar" format="2">
   <advance width="1167"/>
   <unicode hex="064A"/>
-  <anchor x="538" y="-473" name="bottom"/>
-  <anchor x="234" y="223" name="top"/>
   <outline>
     <component base="alefMaksura-ar"/>
     <component base="twodotshorizontalbelow-ar" xOffset="303" yOffset="-230"/>

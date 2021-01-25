@@ -1,11 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ijacute" format="2">
   <advance width="751"/>
-  <anchor x="269" y="0" name="bottom_1"/>
-  <anchor x="523" y="0" name="bottom_2"/>
-  <anchor x="353" y="10" name="ogonek"/>
-  <anchor x="269" y="525" name="top_1"/>
-  <anchor x="510" y="531" name="top_2"/>
   <outline>
     <component base="idotless" xOffset="145"/>
     <component base="jdotless" xOffset="372"/>

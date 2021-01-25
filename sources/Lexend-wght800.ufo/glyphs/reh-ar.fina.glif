@@ -2,9 +2,6 @@
 <glyph name="reh-ar.fina" format="2">
   <advance width="494"/>
   <unicode hex="FEAE"/>
-  <anchor x="373" y="0" name="#entry"/>
-  <anchor x="103" y="-230" name="bottom"/>
-  <anchor x="196" y="378" name="top"/>
   <outline>
     <contour>
       <point x="243" y="192" type="qcurve"/>

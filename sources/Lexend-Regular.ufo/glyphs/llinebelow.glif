@@ -2,10 +2,6 @@
 <glyph name="llinebelow" format="2">
   <advance width="251"/>
   <unicode hex="1E3B"/>
-  <anchor x="122" y="-164" name="bottom"/>
-  <anchor x="122" y="289" name="center"/>
-  <anchor x="123" y="740" name="top"/>
-  <anchor x="229" y="580" name="topright"/>
   <outline>
     <component base="l"/>
     <component base="macronbelowcomb" xOffset="-91"/>

@@ -2,8 +2,6 @@
 <glyph name="feh-ar.init" format="2">
   <advance width="560"/>
   <unicode hex="FED3"/>
-  <anchor x="331.0" y="0" name="bottom"/>
-  <anchor x="290.0" y="818.0" name="top"/>
   <outline>
     <component base="fehDotless-ar.init"/>
     <component base="dotabove-ar" xOffset="161" yOffset="109"/>

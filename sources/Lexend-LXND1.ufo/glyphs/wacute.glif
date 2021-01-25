@@ -5,8 +5,6 @@
   <note>
 wacute
 </note>
-  <anchor x="523" y="0" name="bottom"/>
-  <anchor x="558" y="764" name="top"/>
   <outline>
     <component base="w"/>
     <component base="acutecomb" xOffset="421" yOffset="-27"/>

@@ -2,16 +2,10 @@
 <glyph name="Ocircumflexacute" format="2">
   <advance width="922"/>
   <unicode hex="1ED0"/>
-  <guideline x="461.0" y="0" angle="90.0" identifier="uEL8DDiS4g"/>
-  <anchor x="551" y="0" name="bottom"/>
-  <anchor x="551" y="350" name="center"/>
-  <anchor x="646" y="10" name="ogonek"/>
-  <anchor x="621" y="1123" name="top"/>
-  <anchor x="20" y="700" name="topleft"/>
-  <anchor x="798" y="710" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb_acutecomb" xOffset="278" yOffset="123"/>
+    <component base="circumflexcomb.case" xOffset="370" yOffset="175"/>
+    <component base="acutecomb.case" xOffset="467" yOffset="382"/>
   </outline>
   <lib>
     <dict>

@@ -2,8 +2,6 @@
 <glyph name="ain-ar" format="2">
   <advance width="590"/>
   <unicode hex="0639"/>
-  <anchor x="359.0" y="-456.0" name="bottom"/>
-  <anchor x="298.0" y="438.0" name="top"/>
   <outline>
     <contour>
       <point x="499.0" y="151.0" type="qcurve"/>
@@ -54,4 +52,10 @@
       <point x="284.0" y="102.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>

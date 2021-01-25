@@ -2,8 +2,6 @@
 <glyph name="teh-ar.init" format="2">
   <advance width="468"/>
   <unicode hex="FE97"/>
-  <anchor x="172" y="0" name="bottom"/>
-  <anchor x="165" y="709" name="top"/>
   <outline>
     <component base="behDotless-ar.init" xOffset="14"/>
     <component base="twodotshorizontalabove-ar" xOffset="-50"/>

@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hamzabelow-ar" format="2">
   <unicode hex="0655"/>
-  <anchor x="118.0" y="0" name="_bottom"/>
-  <anchor x="118.0" y="-200.0" name="bottom"/>
   <outline>
     <contour>
       <point x="164.0" y="-193.0" type="qcurve"/>
@@ -35,6 +33,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>235</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

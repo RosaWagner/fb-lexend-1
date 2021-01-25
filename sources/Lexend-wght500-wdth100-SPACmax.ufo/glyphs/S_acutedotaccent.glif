@@ -4,12 +4,7 @@
   <unicode hex="1E64"/>
   <outline>
     <component base="S"/>
-    <component base="acutecomb_dotaccentcomb" xOffset="310" yOffset="110"/>
+    <component base="acutecomb.case" xOffset="244" yOffset="185"/>
+    <component base="dotaccentcomb.case" xOffset="264" yOffset="358"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

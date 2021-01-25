@@ -2,9 +2,6 @@
 <glyph name="sad-ar" format="2">
   <advance width="1928"/>
   <unicode hex="0635"/>
-  <anchor x="1846" y="0" name="#entry"/>
-  <anchor x="1412" y="0" name="bottom"/>
-  <anchor x="1553" y="438" name="top"/>
   <outline>
     <contour>
       <point x="1036" y="0" type="line"/>

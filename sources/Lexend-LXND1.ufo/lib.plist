@@ -1108,7 +1108,30 @@
       <string>_spacingBehDotless</string>
       <string>_spacingDal</string>
       <string>IJacute.ss01</string>
-      <string>commaaccentcombz</string>
+      <string>dieresiscomb_macroncomb</string>
+      <string>dieresiscomb_acutecomb</string>
+      <string>tildecomb_macroncomb</string>
+      <string>tildecomb_acutecomb</string>
+      <string>tildecomb_dieresiscomb</string>
+      <string>dotaccentcomb_macroncomb</string>
+      <string>macroncomb_gravecomb</string>
+      <string>macroncomb_acutecomb</string>
+      <string>macroncomb_dieresiscomb</string>
+      <string>acutecomb_dotaccentcomb</string>
+      <string>caroncomb_dotaccentcomb</string>
+      <string>g.ss01</string>
+      <string>gcircumflex.ss01</string>
+      <string>gbreve.ss01</string>
+      <string>gdotaccent.ss01</string>
+      <string>gcommaaccent.ss01</string>
+      <string>gcaron.ss01</string>
+      <string>gmacron.ss01</string>
+      <string>Jacute.loclNLD</string>
+      <string>Iacute_J.loclNLD</string>
+      <string>jacute.loclNLD</string>
+      <string>iacute_j.loclNLD</string>
+      <string>aabreve.ss01</string>
+      <string>horizontalbarlc</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

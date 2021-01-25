@@ -2,19 +2,8 @@
 <glyph name="oslashacute" format="2">
   <advance width="955"/>
   <unicode hex="01FF"/>
-  <anchor x="478" y="0" name="bottom"/>
-  <anchor x="478" y="263" name="center"/>
-  <anchor x="860" y="10" name="ogonek"/>
-  <anchor x="500" y="789" name="top"/>
-  <anchor x="596" y="475" name="topright"/>
   <outline>
     <component base="oslash"/>
     <component base="acutecomb" xOffset="363" yOffset="-2"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

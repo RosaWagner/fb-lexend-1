@@ -2,11 +2,9 @@
 <glyph name="emacronacute" format="2">
   <advance width="586"/>
   <unicode hex="1E17"/>
-  <anchor x="292" y="-20" name="bottom"/>
-  <anchor x="521" y="10" name="ogonek"/>
-  <anchor x="328" y="943" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="macroncomb_acutecomb" xOffset="155" yOffset="-19"/>
+    <component base="macroncomb" xOffset="80" yOffset="1"/>
+    <component base="acutecomb" xOffset="203" yOffset="152"/>
   </outline>
 </glyph>

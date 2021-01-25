@@ -3,6 +3,6 @@
   <guideline x="148.0" y="0" angle="270.0" identifier="EIRy0RoO1x"/>
   <outline>
     <component base="caroncomb" xOffset="-33"/>
-    <component base="dotaccentcomb" xOffset="43" yOffset="136"/>
+    <component base="dotaccentcomb" xOffset="43" yOffset="176"/>
   </outline>
 </glyph>

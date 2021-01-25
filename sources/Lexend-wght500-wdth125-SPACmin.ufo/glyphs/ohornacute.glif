@@ -2,11 +2,6 @@
 <glyph name="ohornacute" format="2">
   <advance width="804"/>
   <unicode hex="1EDB"/>
-  <anchor x="478" y="0" name="bottom"/>
-  <anchor x="478" y="263" name="center"/>
-  <anchor x="860" y="10" name="ogonek"/>
-  <anchor x="513" y="784" name="top"/>
-  <anchor x="679" y="542" name="topright"/>
   <outline>
     <component base="ohorn"/>
     <component base="acutecomb" xOffset="376" yOffset="-7"/>

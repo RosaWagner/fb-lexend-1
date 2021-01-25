@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iinvertedbreve" format="2">
-  <advance width="503"/>
+  <advance width="526"/>
   <unicode hex="020B"/>
-  <guideline x="251.5" y="0" angle="90.0" identifier="bdk22K07iw"/>
-  <anchor x="258" y="0" name="bottom"/>
-  <anchor x="342" y="10" name="ogonek"/>
-  <anchor x="258" y="776" name="top"/>
   <outline>
-    <component base="breveinvertedcomb" xOffset="40" yOffset="1"/>
-    <component base="idotless"/>
+    <component base="idotless" xOffset="134"/>
+    <component base="breveinvertedcomb" xOffset="54" yOffset="1"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -2,8 +2,6 @@
 <glyph name="hah-ar.init" format="2">
   <advance width="842"/>
   <unicode hex="FEA3"/>
-  <anchor x="333" y="0" name="bottom"/>
-  <anchor x="263" y="438" name="top"/>
   <outline>
     <contour>
       <point x="249" y="334" type="qcurve" smooth="yes"/>

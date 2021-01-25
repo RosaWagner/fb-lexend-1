@@ -2,9 +2,6 @@
 <glyph name="hah-ar" format="2">
   <advance width="739"/>
   <unicode hex="062D"/>
-  <anchor x="419.0" y="-456.0" name="bottom"/>
-  <anchor x="420.0" y="-124.0" name="center"/>
-  <anchor x="305.0" y="421.0" name="top"/>
   <outline>
     <contour>
       <point x="452.0" y="-354.0" type="qcurve" smooth="yes"/>
@@ -51,4 +48,10 @@
       <point x="311.0" y="-354.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>

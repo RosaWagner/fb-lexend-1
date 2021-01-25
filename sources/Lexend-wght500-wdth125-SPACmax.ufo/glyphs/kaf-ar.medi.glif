@@ -2,10 +2,6 @@
 <glyph name="kaf-ar.medi" format="2">
   <advance width="745"/>
   <unicode hex="FEDC"/>
-  <anchor x="553" y="0" name="#entry"/>
-  <anchor x="553" y="0" name="#exit"/>
-  <anchor x="315" y="0" name="bottom"/>
-  <anchor x="99" y="498" name="top"/>
   <outline>
     <component base="_connection.round" xOffset="553"/>
     <component base="kaf-ar.init" xOffset="-95"/>

@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threedotsupabove-ar" format="2">
   <advance width="430"/>
-  <anchor x="215.0" y="438.0" name="_top"/>
-  <anchor x="213.0" y="846.0" name="top"/>
   <outline>
     <contour>
       <point x="294.0" y="764.0" type="line"/>

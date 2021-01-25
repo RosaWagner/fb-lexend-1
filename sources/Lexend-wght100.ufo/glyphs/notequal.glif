@@ -20,10 +20,10 @@ notequal
       <point x="501" y="371" type="line"/>
     </contour>
     <contour>
+      <point x="501" y="191" type="line"/>
       <point x="65" y="191" type="line"/>
       <point x="65" y="213" type="line"/>
       <point x="501" y="213" type="line"/>
-      <point x="501" y="191" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -2,13 +2,6 @@
 <glyph name="lam_alefMadda-ar.fina" format="2">
   <advance width="732"/>
   <unicode hex="FEF6"/>
-  <anchor x="305" y="0" name="bottom"/>
-  <anchor x="549" y="0" name="bottom_1"/>
-  <anchor x="296" y="0" name="bottom_2"/>
-  <anchor x="440" y="0" name="caret"/>
-  <anchor x="232" y="808" name="top"/>
-  <anchor x="574" y="700" name="top_1"/>
-  <anchor x="232" y="563" name="top_2"/>
   <outline>
     <component base="lam_alef-ar.fina" xOffset="123"/>
     <component base="madda-ar" xOffset="1" yOffset="43"/>

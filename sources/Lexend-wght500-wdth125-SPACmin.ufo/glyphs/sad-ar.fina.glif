@@ -2,10 +2,6 @@
 <glyph name="sad-ar.fina" format="2">
   <advance width="2152"/>
   <unicode hex="FEBA"/>
-  <anchor x="1960" y="0" name="#entry"/>
-  <anchor x="1960" y="0" name="#exit"/>
-  <anchor x="1526" y="0" name="bottom"/>
-  <anchor x="1667" y="438" name="top"/>
   <outline>
     <component base="_connection.round" xOffset="1960"/>
     <component base="sad-ar" xOffset="57"/>

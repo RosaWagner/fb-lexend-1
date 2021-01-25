@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcaron.ss01" format="2">
+  <advance width="580"/>
   <outline>
     <component base="g.ss01"/>
-    <component base="caroncomb" xOffset="-192.0799999999872" yOffset="-32"/>
+    <component base="caroncomb" xOffset="116.04000000000087" yOffset="-41"/>
   </outline>
   <lib>
     <dict>

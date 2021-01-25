@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb" format="2">
   <unicode hex="0306"/>
-  <anchor x="215" y="514" name="_top"/>
-  <anchor x="215" y="712" name="top"/>
   <outline>
     <component base="breve" xOffset="11" yOffset="35"/>
   </outline>
@@ -10,8 +8,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>424</integer>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

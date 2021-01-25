@@ -5,11 +5,6 @@
   <note>
 emptyset
 </note>
-  <anchor x="427" y="0" name="bottom"/>
-  <anchor x="427" y="263" name="center"/>
-  <anchor x="809" y="10" name="ogonek"/>
-  <anchor x="427" y="525" name="top"/>
-  <anchor x="545" y="475" name="topright"/>
   <outline>
     <contour>
       <point x="96" y="-8" type="line"/>

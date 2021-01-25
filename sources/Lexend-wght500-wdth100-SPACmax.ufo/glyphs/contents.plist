@@ -188,6 +188,8 @@
     <string>I_acute.glif</string>
     <key>Iacute.ss01</key>
     <string>I_acute.ss01.glif</string>
+    <key>Iacute_J.loclNLD</key>
+    <string>I_acute_J_.loclN_L_D_.glif</string>
     <key>Ibreve</key>
     <string>I_breve.glif</string>
     <key>Ibreve.ss01</key>
@@ -236,6 +238,8 @@
     <string>I_macron.glif</string>
     <key>Imacron.ss01</key>
     <string>I_macron.ss01.glif</string>
+    <key>Iogonek</key>
+    <string>I_ogonek.glif</string>
     <key>Iogonek.ss01</key>
     <string>I_ogonek.ss01.glif</string>
     <key>Itilde</key>
@@ -548,6 +552,8 @@
     <string>a.glif</string>
     <key>a.ss01</key>
     <string>a.ss01.glif</string>
+    <key>aabreve.ss01</key>
+    <string>aabreve.ss01.glif</string>
     <key>aacute</key>
     <string>aacute.glif</string>
     <key>aacute.ss01</key>
@@ -838,14 +844,10 @@
     <string>circumflexcomb.case.glif</string>
     <key>circumflexcomb_acutecomb</key>
     <string>circumflexcomb_acutecomb.glif</string>
-    <key>circumflexcomb_acutecomb.copy_1</key>
-    <string>circumflexcomb_acutecomb.copy_1.glif</string>
     <key>circumflexcomb_gravecomb</key>
     <string>circumflexcomb_gravecomb.glif</string>
     <key>circumflexcomb_hookabovecomb</key>
     <string>circumflexcomb_hookabovecomb.glif</string>
-    <key>circumflexcomb_hookabovecomb.copy_1</key>
-    <string>circumflexcomb_hookabovecomb.copy_1.glif</string>
     <key>circumflexcomb_tildecomb</key>
     <string>circumflexcomb_tildecomb.glif</string>
     <key>colon</key>
@@ -1234,6 +1236,8 @@
     <string>hookabovecomb.case.glif</string>
     <key>horizontalbar</key>
     <string>horizontalbar.glif</string>
+    <key>horizontalbarlc</key>
+    <string>horizontalbarlc.glif</string>
     <key>horncomb</key>
     <string>horncomb.glif</string>
     <key>horncomb.case</key>
@@ -1256,6 +1260,8 @@
     <string>i.glif</string>
     <key>iacute</key>
     <string>iacute.glif</string>
+    <key>iacute_j.loclNLD</key>
+    <string>iacute_j.loclN_L_D_.glif</string>
     <key>ibreve</key>
     <string>ibreve.glif</string>
     <key>icaron</key>
@@ -1298,6 +1304,8 @@
     <string>itilde.glif</string>
     <key>j</key>
     <string>j.glif</string>
+    <key>jacute.loclNLD</key>
+    <string>jacute.loclN_L_D_.glif</string>
     <key>jcircumflex</key>
     <string>jcircumflex.glif</string>
     <key>jdotless</key>

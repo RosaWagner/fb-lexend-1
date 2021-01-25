@@ -2,14 +2,11 @@
 <glyph name="Acircumflexacute" format="2">
   <advance width="834"/>
   <unicode hex="1EA4"/>
-  <guideline x="415" y="765" angle="90.0" identifier="uHhQ11OZLc"/>
-  <guideline x="492" y="893" angle="0" identifier="TOzJmdvrWv"/>
-  <anchor x="352" y="0" name="bottom"/>
-  <anchor x="609" y="10" name="ogonek"/>
-  <anchor x="536" y="988" name="top"/>
+  <guideline x="350.0" y="0" angle="90.0" identifier="uHhQ11OZLc"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb_acutecomb" xOffset="209" yOffset="110"/>
+    <component base="circumflexcomb.case" xOffset="152" yOffset="158"/>
+    <component base="acutecomb.case" xOffset="411" yOffset="285"/>
   </outline>
   <lib>
     <dict>

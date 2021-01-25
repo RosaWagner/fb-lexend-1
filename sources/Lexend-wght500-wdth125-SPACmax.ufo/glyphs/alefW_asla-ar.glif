@@ -2,8 +2,6 @@
 <glyph name="alefWasla-ar" format="2">
   <advance width="528"/>
   <unicode hex="0671"/>
-  <anchor x="264" y="0" name="bottom"/>
-  <anchor x="253" y="925" name="top"/>
   <outline>
     <component base="alef-ar"/>
     <component base="wasla-ar" xOffset="38" yOffset="175"/>

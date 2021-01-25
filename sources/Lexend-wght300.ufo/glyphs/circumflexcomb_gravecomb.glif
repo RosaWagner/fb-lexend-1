@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_gravecomb" format="2">
   <guideline x="227" y="745" angle="0" identifier="o4dMsbykP4"/>
-  <anchor x="191.0" y="515.0" name="_top"/>
-  <anchor x="191.0" y="751.0" name="top"/>
   <outline>
     <component base="circumflexcomb" xOffset="8"/>
     <component base="gravecomb" xOffset="-70" yOffset="122"/>

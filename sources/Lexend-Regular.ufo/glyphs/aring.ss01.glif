@@ -4,9 +4,6 @@
   <note>
 aring
 </note>
-  <anchor x="277" y="-13" name="bottom"/>
-  <anchor x="466" y="10" name="ogonek"/>
-  <anchor x="279" y="815" name="top"/>
   <outline>
     <component base="a.ss01"/>
     <component base="ringcomb" xOffset="121" yOffset="40"/>

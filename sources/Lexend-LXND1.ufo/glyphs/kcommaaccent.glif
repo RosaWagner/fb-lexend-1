@@ -5,8 +5,6 @@
   <note>
 kcommaaccent
 </note>
-  <anchor x="466" y="-243" name="bottom"/>
-  <anchor x="466" y="740" name="top"/>
   <outline>
     <component base="k"/>
     <component base="commaaccentcomb" xOffset="342"/>

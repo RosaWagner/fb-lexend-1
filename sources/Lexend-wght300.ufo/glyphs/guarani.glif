@@ -2,8 +2,6 @@
 <glyph name="guarani" format="2">
   <advance width="766"/>
   <unicode hex="20B2"/>
-  <anchor x="413.0" y="0" name="bottom"/>
-  <anchor x="400.0" y="700.0" name="top"/>
   <outline>
     <contour>
       <point x="50" y="347" type="qcurve"/>

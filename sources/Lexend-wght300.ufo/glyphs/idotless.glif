@@ -6,9 +6,6 @@
 dotlessi
 </note>
   <guideline x="100.0" y="0" angle="270.0" identifier="E6L3UlpBqj"/>
-  <anchor x="100.0" y="0" name="bottom"/>
-  <anchor x="100.0" y="10.0" name="ogonek"/>
-  <anchor x="100.0" y="520.0" name="top"/>
   <outline>
     <contour>
       <point x="125" y="520" type="line"/>

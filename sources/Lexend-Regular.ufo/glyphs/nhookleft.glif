@@ -2,8 +2,6 @@
 <glyph name="nhookleft" format="2">
   <advance width="610"/>
   <unicode hex="0272"/>
-  <anchor x="318" y="0" name="bottom"/>
-  <anchor x="318" y="510" name="top"/>
   <outline>
     <contour>
       <point x="187" y="457"/>
@@ -22,22 +20,25 @@
       <point x="190" y="370"/>
       <point x="190" y="318" type="qcurve"/>
       <point x="190" y="0" type="line"/>
-      <point x="87" y="0" type="line"/>
+      <point x="164" y="0"/>
+      <point x="113" y="0"/>
+      <point x="87" y="0" type="qcurve"/>
       <point x="87" y="525" type="line"/>
       <point x="190" y="525" type="line"/>
       <point x="190" y="417" type="line"/>
       <point x="172" y="405" type="line"/>
     </contour>
     <contour>
-      <point x="29" y="-118"/>
-      <point x="87" y="-58"/>
-      <point x="87" y="1" type="qcurve"/>
+      <point x="87" y="15" type="line"/>
       <point x="190" y="25" type="line"/>
       <point x="190" y="-24" type="line" smooth="yes"/>
       <point x="190" y="-101"/>
       <point x="90" y="-197"/>
       <point x="10" y="-197" type="qcurve"/>
       <point x="-29" y="-118" type="line"/>
+      <point x="29" y="-118"/>
+      <point x="87" y="-58"/>
+      <point x="87" y="1" type="qcurve"/>
     </contour>
   </outline>
   <lib>

@@ -4,8 +4,6 @@
   <note>
 J
 </note>
-  <anchor x="280.0" y="0" name="bottom"/>
-  <anchor x="426.0" y="700.0" name="top"/>
   <outline>
     <contour>
       <point x="245" y="-10" type="qcurve"/>

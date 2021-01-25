@@ -5,10 +5,6 @@
   <note>
 Ldot
 </note>
-  <anchor x="429" y="0" name="bottom"/>
-  <anchor x="429" y="350" name="center"/>
-  <anchor x="236" y="700" name="top"/>
-  <anchor x="838" y="700" name="topright"/>
   <outline>
     <component base="L"/>
     <component base="periodcentered.case" xOffset="601"/>

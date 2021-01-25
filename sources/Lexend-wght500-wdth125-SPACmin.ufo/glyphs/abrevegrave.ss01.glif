@@ -3,12 +3,6 @@
   <advance width="734"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="brevecomb_gravecomb" xOffset="183.0399999999936" yOffset="-10"/>
+    <component base="brevecomb_gravecomb" xOffset="250" yOffset="13"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.749,0.4863,0.8784,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -2,13 +2,6 @@
 <glyph name="lam_alefHamzabelow-ar" format="2">
   <advance width="756"/>
   <unicode hex="FEF9"/>
-  <anchor x="332" y="-200" name="bottom"/>
-  <anchor x="579" y="0" name="bottom_1"/>
-  <anchor x="337" y="0" name="bottom_2"/>
-  <anchor x="470" y="0" name="caret"/>
-  <anchor x="252" y="578" name="top"/>
-  <anchor x="543" y="731" name="top_1"/>
-  <anchor x="259" y="573" name="top_2"/>
   <outline>
     <component base="lam_alef-ar" xOffset="163"/>
     <component base="hamzabelow-ar" xOffset="214"/>

@@ -2,8 +2,6 @@
 <glyph name="veh-ar.init" format="2">
   <advance width="560"/>
   <unicode hex="FB6C"/>
-  <anchor x="331.0" y="0" name="bottom"/>
-  <anchor x="288.0" y="955.0" name="top"/>
   <outline>
     <component base="fehDotless-ar.init"/>
     <component base="threedotsupabove-ar" xOffset="75" yOffset="109"/>

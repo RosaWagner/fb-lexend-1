@@ -2,9 +2,6 @@
 <glyph name="dal-ar" format="2">
   <advance width="494"/>
   <unicode hex="062F"/>
-  <anchor x="427.0" y="0" name="#entry"/>
-  <anchor x="242.0" y="0" name="bottom"/>
-  <anchor x="253.0" y="487.0" name="top"/>
   <outline>
     <contour>
       <point x="427.0" y="0.0" type="qcurve"/>
@@ -23,6 +20,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_spacingDal</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

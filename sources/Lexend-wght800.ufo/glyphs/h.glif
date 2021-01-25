@@ -5,9 +5,6 @@
   <note>
 h
 </note>
-  <anchor x="332" y="0" name="bottom"/>
-  <anchor x="165" y="593" name="center"/>
-  <anchor x="164" y="740" name="top"/>
   <outline>
     <contour>
       <point x="241" y="472"/>

@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflexdotbelow.ss01" format="2">
-  <advance width="1017"/>
+  <advance width="968"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="circumflexcomb" xOffset="304.88000000000466" yOffset="-28"/>
-    <component base="dotbelowcomb" xOffset="392.88000000000466" yOffset="36"/>
+    <component base="dotbelowcomb" xOffset="350"/>
+    <component base="circumflexcomb" xOffset="249" yOffset="1"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.749,0.4863,0.8784,1</string>
-    </dict>
-  </lib>
 </glyph>

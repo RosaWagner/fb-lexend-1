@@ -5,8 +5,6 @@
   <note>
 W
 </note>
-  <anchor x="640" y="0" name="bottom"/>
-  <anchor x="640" y="640" name="top"/>
   <outline>
     <contour>
       <point x="350" y="0" type="line"/>
@@ -45,8 +43,6 @@ W
       <string>V</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>V</string>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

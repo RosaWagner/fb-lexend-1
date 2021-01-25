@@ -2,8 +2,6 @@
 <glyph name="alefMadda-ar.fina" format="2">
   <advance width="425"/>
   <unicode hex="FE82"/>
-  <anchor x="132" y="0" name="bottom"/>
-  <anchor x="132" y="940" name="top"/>
   <outline>
     <component base="alef-ar.fina" xOffset="-132"/>
     <component base="madda-ar" xOffset="-99" yOffset="175"/>

@@ -2,8 +2,6 @@
 <glyph name="ain-ar.fina" format="2">
   <advance width="684"/>
   <unicode hex="FECA"/>
-  <anchor x="397" y="-456" name="bottom"/>
-  <anchor x="380" y="438" name="top"/>
   <outline>
     <contour>
       <point x="424" y="72" type="qcurve"/>

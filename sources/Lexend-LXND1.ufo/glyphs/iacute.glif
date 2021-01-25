@@ -5,9 +5,6 @@
   <note>
 iacute
 </note>
-  <anchor x="252" y="0" name="bottom"/>
-  <anchor x="303" y="0" name="ogonek"/>
-  <anchor x="286" y="784" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="acutecomb" xOffset="149" yOffset="-7"/>

@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="shadda-ar" format="2">
   <unicode hex="0651"/>
-  <anchor x="176.0" y="525.0" name="_top"/>
-  <anchor x="176.0" y="711.0" name="top"/>
   <outline>
     <contour>
       <point x="282.0" y="736.0" type="qcurve"/>

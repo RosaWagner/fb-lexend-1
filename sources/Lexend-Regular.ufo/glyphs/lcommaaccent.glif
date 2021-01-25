@@ -5,10 +5,6 @@
   <note>
 lcommaaccent
 </note>
-  <anchor x="100" y="-289" name="bottom"/>
-  <anchor x="122" y="289" name="center"/>
-  <anchor x="123" y="740" name="top"/>
-  <anchor x="229" y="580" name="topright"/>
   <outline>
     <component base="l"/>
     <component base="commaaccentcomb" xOffset="-12"/>

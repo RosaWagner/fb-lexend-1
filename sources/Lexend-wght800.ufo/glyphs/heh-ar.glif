@@ -2,8 +2,6 @@
 <glyph name="heh-ar" format="2">
   <advance width="499"/>
   <unicode hex="0647"/>
-  <anchor x="238" y="-11" name="bottom"/>
-  <anchor x="227" y="475" name="top"/>
   <outline>
     <contour>
       <point x="86" y="323" type="qcurve" smooth="yes"/>

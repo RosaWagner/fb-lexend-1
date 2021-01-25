@@ -2,8 +2,6 @@
 <glyph name="fehDotless-ar" format="2">
   <advance width="1414"/>
   <unicode hex="06A1"/>
-  <anchor x="583" y="0" name="bottom"/>
-  <anchor x="1094" y="547" name="top"/>
   <outline>
     <contour>
       <point x="694" y="0" type="line"/>

@@ -2,11 +2,6 @@
 <glyph name="ohorndotbelow" format="2">
   <advance width="615"/>
   <unicode hex="1EE3"/>
-  <anchor x="300" y="-220" name="bottom"/>
-  <anchor x="305" y="256" name="center"/>
-  <anchor x="547" y="10" name="ogonek"/>
-  <anchor x="300" y="510" name="top"/>
-  <anchor x="319" y="531" name="topright"/>
   <outline>
     <component base="ohorn"/>
     <component base="dotbelowcomb" xOffset="195" yOffset="3"/>

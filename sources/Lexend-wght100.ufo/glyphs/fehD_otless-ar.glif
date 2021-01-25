@@ -2,8 +2,6 @@
 <glyph name="fehDotless-ar" format="2">
   <advance width="1083"/>
   <unicode hex="06A1"/>
-  <anchor x="523.0" y="0" name="bottom"/>
-  <anchor x="813.0" y="547.0" name="top"/>
   <outline>
     <contour>
       <point x="694.0" y="102.0" type="line"/>
@@ -29,6 +27,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>fehDotless-ar.init</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

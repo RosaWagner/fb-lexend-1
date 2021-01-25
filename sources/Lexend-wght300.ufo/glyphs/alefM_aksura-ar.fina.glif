@@ -2,8 +2,6 @@
 <glyph name="alefMaksura-ar.fina" format="2">
   <advance width="807"/>
   <unicode hex="FEF0"/>
-  <anchor x="347.0" y="-230.0" name="bottom"/>
-  <anchor x="177.0" y="223.0" name="top"/>
   <outline>
     <contour>
       <point x="497.0" y="84.0" type="qcurve"/>

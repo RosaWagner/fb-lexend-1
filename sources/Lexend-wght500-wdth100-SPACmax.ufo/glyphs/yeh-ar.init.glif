@@ -2,8 +2,6 @@
 <glyph name="yeh-ar.init" format="2">
   <advance width="461"/>
   <unicode hex="FEF3"/>
-  <anchor x="165" y="-243" name="bottom"/>
-  <anchor x="158" y="438" name="top"/>
   <outline>
     <component base="behDotless-ar.init" xOffset="7"/>
     <component base="twodotshorizontalbelow-ar" xOffset="-50"/>

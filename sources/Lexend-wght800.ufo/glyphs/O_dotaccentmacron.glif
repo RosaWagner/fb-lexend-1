@@ -4,8 +4,9 @@
   <unicode hex="0230"/>
   <guideline x="417.0" y="0" angle="90.0" identifier="gZagvNE0DZ"/>
   <outline>
-    <component base="dotaccentcomb_macroncomb" xOffset="248" yOffset="211"/>
     <component base="O"/>
+    <component base="dotaccentcomb.case" xOffset="281" yOffset="170"/>
+    <component base="macroncomb.case" xOffset="172" yOffset="371"/>
   </outline>
   <lib>
     <dict>

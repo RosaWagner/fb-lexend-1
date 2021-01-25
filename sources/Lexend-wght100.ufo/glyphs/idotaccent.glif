@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotaccent" format="2">
-  <advance width="162"/>
-  <guideline x="81.0" y="0" angle="270.0" identifier="Gj3ilRKv78"/>
+  <advance width="182"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="-36" yOffset="-80"/>
+    <component base="dotaccent" xOffset="-25" yOffset="-60"/>
   </outline>
   <lib>
     <dict>

@@ -5,12 +5,6 @@
   <note>
 Oslash
 </note>
-  <anchor x="489" y="0" name="bottom"/>
-  <anchor x="489" y="700" name="top"/>
-  <anchor x="489" y="350" name="center"/>
-  <anchor x="584" y="10" name="ogonek"/>
-  <anchor x="-42" y="700" name="topleft"/>
-  <anchor x="736" y="710" name="topright"/>
   <outline>
     <contour>
       <point x="109" y="-34" type="line"/>
@@ -47,10 +41,4 @@ Oslash
       <point x="350" y="95"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

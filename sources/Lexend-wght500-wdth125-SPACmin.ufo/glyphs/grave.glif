@@ -2,7 +2,6 @@
 <glyph name="grave" format="2">
   <advance width="246"/>
   <unicode hex="0060"/>
-  <anchor x="155" y="515" name="_top"/>
   <outline>
     <contour>
       <point x="214" y="624" type="line"/>
@@ -11,10 +10,4 @@
       <point x="71" y="749" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>

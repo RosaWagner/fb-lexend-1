@@ -2,8 +2,6 @@
 <glyph name="alefHamzaabove-ar" format="2">
   <advance width="324"/>
   <unicode hex="0623"/>
-  <anchor x="182" y="0" name="bottom"/>
-  <anchor x="176" y="943" name="top"/>
   <outline>
     <component base="alef-ar" xOffset="-82"/>
     <component base="hamzaabove-ar" xOffset="-8" yOffset="175"/>

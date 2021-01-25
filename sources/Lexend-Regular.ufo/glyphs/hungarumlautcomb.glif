@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb" format="2">
   <unicode hex="030B"/>
-  <anchor x="172" y="512" name="_top"/>
-  <anchor x="172" y="740" name="top"/>
   <outline>
-    <component base="hungarumlaut"/>
+    <contour>
+      <point x="225" y="667" type="line"/>
+      <point x="51" y="573" type="line"/>
+      <point x="17" y="624" type="line"/>
+      <point x="160" y="749" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="667" type="line"/>
+      <point x="250" y="573" type="line"/>
+      <point x="216" y="624" type="line"/>
+      <point x="359" y="749" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

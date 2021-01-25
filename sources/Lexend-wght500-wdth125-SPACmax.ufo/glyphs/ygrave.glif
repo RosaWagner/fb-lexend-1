@@ -5,8 +5,6 @@
   <note>
 ygrave
 </note>
-  <anchor x="733" y="0" name="bottom"/>
-  <anchor x="443" y="799" name="top"/>
   <outline>
     <component base="y"/>
     <component base="gravecomb" xOffset="318" yOffset="35"/>

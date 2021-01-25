@@ -5,9 +5,6 @@
   <note>
 icircumflex
 </note>
-  <anchor x="252" y="0" name="bottom"/>
-  <anchor x="303" y="0" name="ogonek"/>
-  <anchor x="257" y="784" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="circumflexcomb" xOffset="46" yOffset="1"/>

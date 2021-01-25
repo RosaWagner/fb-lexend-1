@@ -2,21 +2,8 @@
 <glyph name="Ocaron" format="2">
   <advance width="942"/>
   <unicode hex="01D1"/>
-  <guideline x="471.0" y="0" angle="90.0" identifier="cAOlnIiiJO"/>
-  <anchor x="386" y="0" name="bottom"/>
-  <anchor x="386" y="350" name="center"/>
-  <anchor x="690" y="10" name="ogonek"/>
-  <anchor x="386" y="957" name="top"/>
-  <anchor x="25" y="700" name="topleft"/>
-  <anchor x="387" y="706" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="caroncomb.case" xOffset="265" yOffset="64"/>
+    <component base="caroncomb.case" xOffset="201" yOffset="64"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5341,0.9064,1,1</string>
-    </dict>
-  </lib>
 </glyph>
