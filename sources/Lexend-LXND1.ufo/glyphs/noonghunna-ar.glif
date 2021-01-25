@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonghunna-ar" format="2">
+  <advance width="1082"/>
+  <unicode hex="06BA"/>
+  <anchor x="458" y="-230" name="bottom"/>
+  <anchor x="458" y="253" name="top"/>
+  <outline>
+    <contour>
+      <point x="188" y="43" type="qcurve" smooth="yes"/>
+      <point x="188.0" y="-45.805970149253724"/>
+      <point x="338.1641791044776" y="-128.0"/>
+      <point x="471" y="-128" type="qcurve" smooth="yes"/>
+      <point x="603.0895522388059" y="-128.0"/>
+      <point x="784.0" y="-44.373134328358205"/>
+      <point x="784" y="31" type="qcurve" smooth="yes"/>
+      <point x="784.0" y="63.83582089552239"/>
+      <point x="748.4925373134329" y="170.62686567164178"/>
+      <point x="697" y="246" type="qcurve"/>
+      <point x="777" y="342" type="line"/>
+      <point x="845.6567164179105" y="242.0"/>
+      <point x="879.0" y="91.7910447761194"/>
+      <point x="879" y="50" type="qcurve" smooth="yes"/>
+      <point x="879.0" y="-77.61194029850745"/>
+      <point x="652.0298507462686" y="-230.0"/>
+      <point x="458" y="-230" type="qcurve" smooth="yes"/>
+      <point x="269.94029850746267" y="-230.0"/>
+      <point x="87.0" y="-83.94029850746267"/>
+      <point x="87" y="28" type="qcurve" smooth="yes"/>
+      <point x="87.0" y="57.850746268656714"/>
+      <point x="110.17910447761194" y="176.11940298507463"/>
+      <point x="146" y="250" type="qcurve"/>
+      <point x="90" y="228" type="line"/>
+      <point x="267" y="169" type="line"/>
+      <point x="234" y="223" type="line"/>
+      <point x="207.88059701492537" y="168.52238805970148"/>
+      <point x="188.0" y="73.59701492537313"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>behDotless-ar</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

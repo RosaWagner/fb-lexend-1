@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thal-ar" format="2">
+  <advance width="1157"/>
+  <unicode hex="0630"/>
+  <anchor x="758" y="0" name="#entry"/>
+  <anchor x="478" y="0" name="bottom"/>
+  <anchor x="464" y="758" name="top"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="dotabove-ar" xOffset="335" yOffset="49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dal-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

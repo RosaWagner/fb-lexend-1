@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reh-ar.fina" format="2">
+  <advance width="963"/>
+  <unicode hex="FEAE"/>
+  <anchor x="631" y="0" name="#entry"/>
+  <anchor x="284" y="-230" name="bottom"/>
+  <anchor x="408" y="378" name="top"/>
+  <outline>
+    <contour>
+      <point x="643" y="81" type="qcurve"/>
+      <point x="483" y="178" type="line"/>
+      <point x="506.88059701492534" y="147.40298507462688"/>
+      <point x="549.0" y="101.58208955223881"/>
+      <point x="549" y="68" type="qcurve" smooth="yes"/>
+      <point x="549.0" y="-6.626865671641781"/>
+      <point x="393.3731343283582" y="-128.0"/>
+      <point x="268" y="-128" type="qcurve" smooth="yes"/>
+      <point x="191.13432835820896" y="-128.0"/>
+      <point x="63.582089552238806" y="-97.92537313432835"/>
+      <point x="30" y="-83" type="qcurve"/>
+      <point x="80" y="-51" type="line"/>
+      <point x="16" y="-230" type="line"/>
+      <point x="-4" y="-166" type="line"/>
+      <point x="51.22388059701492" y="-195.1044776119403"/>
+      <point x="192.2089552238806" y="-230.0"/>
+      <point x="284" y="-230" type="qcurve" smooth="yes"/>
+      <point x="471.3134328358209" y="-230.0"/>
+      <point x="634.044776119403" y="-24.22388059701491"/>
+    </contour>
+    <contour>
+      <point x="362" y="320" type="line"/>
+      <point x="436" y="413" type="line"/>
+      <point x="611" y="191" type="line" smooth="yes"/>
+      <point x="645.3283582089553" y="146.97014925373134"/>
+      <point x="738.6567164179105" y="102.0"/>
+      <point x="820" y="102" type="qcurve" smooth="yes"/>
+      <point x="963" y="102" type="line"/>
+      <point x="963" y="0" type="line"/>
+      <point x="802" y="0" type="line" smooth="yes"/>
+      <point x="696.776119402985" y="0.0"/>
+      <point x="576.7313432835821" y="67.56716417910448"/>
+      <point x="523" y="131" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>reh-ar</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

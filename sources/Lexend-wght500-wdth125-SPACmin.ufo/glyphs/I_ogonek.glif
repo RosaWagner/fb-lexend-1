@@ -11,6 +11,6 @@ Iogonek
   <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="ogonek" xOffset="385"/>
+    <component base="ogonekcomb.case" xOffset="317"/>
   </outline>
 </glyph>

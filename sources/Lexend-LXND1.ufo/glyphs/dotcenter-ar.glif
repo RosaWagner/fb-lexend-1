@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotcenter-ar" format="2">
+  <advance width="258"/>
+  <anchor x="129" y="607" name="_center"/>
+  <outline>
+    <contour>
+      <point x="131" y="525" type="line"/>
+      <point x="50" y="607" type="line"/>
+      <point x="127" y="689" type="line"/>
+      <point x="208" y="607" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
