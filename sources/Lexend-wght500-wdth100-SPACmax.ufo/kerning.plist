@@ -24,21 +24,6 @@
       <key>idblgrave</key>
       <integer>90</integer>
     </dict>
-    <key>Iogonek</key>
-    <dict>
-      <key>icircumflex</key>
-      <integer>50</integer>
-      <key>idblgrave</key>
-      <integer>50</integer>
-      <key>idieresis</key>
-      <integer>50</integer>
-      <key>idieresisacute</key>
-      <integer>50</integer>
-      <key>iinvertedbreve</key>
-      <integer>50</integer>
-      <key>itilde</key>
-      <integer>50</integer>
-    </dict>
     <key>Jcircumflex</key>
     <dict>
       <key>idblgrave</key>
