@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth" format="2">
+  <advance width="904"/>
+  <unicode hex="00F0"/>
+  <note>
+eth
+</note>
+  <outline>
+    <contour>
+      <point x="774" y="283" type="qcurve" smooth="yes"/>
+      <point x="774.0" y="148"/>
+      <point x="582.820895522388" y="-7.0"/>
+      <point x="447" y="-7" type="qcurve"/>
+      <point x="299.9850746268657" y="-7.0"/>
+      <point x="130.0" y="150.05970149253733"/>
+      <point x="130" y="262" type="qcurve"/>
+      <point x="130.0" y="373.19402985074623"/>
+      <point x="307.3880597014926" y="528.0"/>
+      <point x="435" y="528" type="qcurve"/>
+      <point x="546.1940298507462" y="528.0"/>
+      <point x="678.5970149253732" y="421.88059701492534"/>
+      <point x="698" y="348" type="qcurve"/>
+      <point x="664" y="335" type="line"/>
+      <point x="664.0" y="426.04477611940297"/>
+      <point x="516.7611940298507" y="604.8358208955224"/>
+      <point x="419" y="672" type="qcurve"/>
+      <point x="471" y="740" type="line"/>
+      <point x="556.0746268656717" y="695.223880597015"/>
+      <point x="774.0" y="431"/>
+    </contour>
+    <contour>
+      <point x="235" y="262" type="qcurve"/>
+      <point x="235.0" y="185"/>
+      <point x="358.94029850746267" y="79.0"/>
+      <point x="447" y="79" type="qcurve"/>
+      <point x="538.7910447761194" y="79.0"/>
+      <point x="667.0" y="185.13432835820896"/>
+      <point x="667" y="262" type="qcurve"/>
+      <point x="667.0" y="335.13432835820896"/>
+      <point x="534.7611940298507" y="442.0"/>
+      <point x="437" y="442" type="qcurve"/>
+      <point x="353.4179104477612" y="442.0"/>
+      <point x="235.0" y="338"/>
+    </contour>
+    <contour>
+      <point x="583" y="574" type="line"/>
+      <point x="386" y="548" type="line"/>
+      <point x="373" y="613" type="line"/>
+      <point x="518" y="630" type="line"/>
+      <point x="573" y="650" type="line"/>
+      <point x="719" y="663" type="line"/>
+      <point x="737" y="597" type="line"/>
+      <point x="624" y="591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

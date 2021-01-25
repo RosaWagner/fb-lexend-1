@@ -209,7 +209,7 @@ for instance in instances:
 
 designSpace = "sources/Lexend.designspace"
 sources = [
-	dict(path="master_ufo/Lexend-Regular.ufo", name="Lexend-Regular.ufo", location=dict( wdth=100, SPAC=0 ), styleName="Regular", familyName=familyName, copyInfo=True),
+	dict(path="master_ufo/Lexend-Regular.ufo", name="Lexend-Regular.ufo", location=dict( wdth=100, SPAC=0, LXND=0 ), styleName="Regular", familyName=familyName, copyInfo=True),
 	
 ##	Weight 
 #	dict(path="master_ufo/Lexend-wght100.ufo", name="Lexend-wght100.ufo", location=dict(wght=100), styleName="wght100", familyName=familyName, copyInfo=False),
@@ -217,15 +217,18 @@ sources = [
 #	dict(path="master_ufo/Lexend-wght800.ufo", name="Lexend-wght800.ufo", location=dict(wght=800), styleName="wght800", familyName=familyName, copyInfo=False),
 
 #	Width
-	dict(path="master_ufo/Lexend-wght500-wdth125-SPACmin.ufo", name="Lexend-wght500-wdth125-SPACmin.ufo", location=dict( wdth=125, SPAC=0 ), styleName="wght500-wdth125-SPACmin", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/Lexend-wght500-wdth125-SPACmin.ufo", name="Lexend-wght500-wdth125-SPACmin.ufo", location=dict( wdth=125, SPAC=0, LXND=0 ), styleName="wght500-wdth125-SPACmin", familyName=familyName, copyInfo=False),
 	
 	#SPAC
-	dict(path="master_ufo/Lexend-wght500-wdth100-SPACmax.ufo", name="Lexend-wght500-wdth100-SPACmax.ufo", location=dict( wdth=100, SPAC=1 ), styleName="wght500-wdth100-SPACmax", familyName=familyName, copyInfo=False),
-	dict(path="master_ufo/Lexend-wght500-wdth125-SPACmax.ufo", name="Lexend-wght500-wdth125-SPACmax.ufo", location=dict( wdth=125, SPAC=1 ), styleName="wght500-wdth125-SPACmax", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/Lexend-wght500-wdth100-SPACmax.ufo", name="Lexend-wght500-wdth100-SPACmax.ufo", location=dict( wdth=100, SPAC=1, LXND=0 ), styleName="wght500-wdth100-SPACmax", familyName=familyName, copyInfo=False),
+	dict(path="master_ufo/Lexend-wght500-wdth125-SPACmax.ufo", name="Lexend-wght500-wdth125-SPACmax.ufo", location=dict( wdth=125, SPAC=1 , LXND=0), styleName="wght500-wdth125-SPACmax", familyName=familyName, copyInfo=False),
 	
 	#SPCG
 # 	dict(path="master_ufo/Lexend-Regular.ufo", name="Lexend-Regular.ufo", location=dict( SPCG=0 ), styleName="wght500-wdth110-SPACmin", familyName=familyName, copyInfo=False),
 # 	dict(path="master_ufo/Lexend-wght500-wdth125-SPACmax.ufo", name="Lexend-wght500-wdth125-SPACmax.ufo", location=dict( SPCG=1 ), styleName="wght500-wdth125-SPACmax", familyName=familyName, copyInfo=False),
+	
+	#LXND
+	dict(path="master_ufo/Lexend-LXND1.ufo", name="Lexend-LXND1.ufo", location=dict( wdth=100, SPAC=0, LXND=1 ), styleName="LXND1", familyName=familyName, copyInfo=False),
 
 ]
 #instances = []
@@ -233,9 +236,10 @@ axes = [
 	
 #	dict(minimum=100, maximum=800, default=500, name="wght", tag="wght", labelNames={"en": "wght"}, map=[]),
 
- 	dict(minimum=100, maximum=125, default=100, name="wdth", tag="wdth", labelNames={"en": "wdth"}, map=[]),
- 	dict(minimum=0, maximum=1, default=0, name="SPAC", tag="SPAC", labelNames={"en": "SPAC"}, map=[]),
+	dict(minimum=100, maximum=125, default=100, name="wdth", tag="wdth", labelNames={"en": "wdth"}, map=[]),
+	dict(minimum=0, maximum=1, default=0, name="SPAC", tag="SPAC", labelNames={"en": "SPAC"}, map=[]),
 #  	dict(minimum=0, maximum=1, default=0, name="SPCG", tag="SPCG", labelNames={"en": "SPCG"}, map=[]),
+	dict(minimum=0, maximum=1, default=0, name="LXND", tag="LXND", labelNames={"en": "LXND"}, map=[]),
 # 	dict(minimum=8, maximum=144, default=14, name="opsz", tag="opsz", labelNames={"en": "opsz"}, map=[ (8.0, -1), (14.0, 0), (24.0, 0.077), (36.0, 0.492), (84.0, 0.946), (144.0, 1.0) ]),
 # 	dict(minimum=-1, maximum=1, default=0, name="GRAD", tag="GRAD", labelNames={"en": "GRAD"}, map=[]),
 # 	dict(minimum=324, maximum=640, default=562, name="XTRA", tag="XTRA", labelNames={"en": "XTRA"}, map=[]),

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <anchor x="110" y="0" name="_bottom"/>
+  <anchor x="119" y="-206" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="188" y="-141" type="qcurve" smooth="yes"/>
+      <point x="188.0" y="-166"/>
+      <point x="154.07462686567163" y="-206.0"/>
+      <point x="119" y="-206" type="qcurve" smooth="yes"/>
+      <point x="83.92537313432837" y="-206.0"/>
+      <point x="50.0" y="-170.1044776119403"/>
+      <point x="50" y="-141" type="qcurve" smooth="yes"/>
+      <point x="50.0" y="-116.37313432835822"/>
+      <point x="83.92537313432837" y="-76.0"/>
+      <point x="119" y="-76" type="qcurve" smooth="yes"/>
+      <point x="154.07462686567163" y="-76.0"/>
+      <point x="188.0" y="-112"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>238</integer>
+    </dict>
+  </lib>
+</glyph>

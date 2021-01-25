@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb" format="2">
+  <unicode hex="0324"/>
+  <anchor x="198" y="0" name="_bottom"/>
+  <anchor x="198" y="-150" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="291" y="-150" type="qcurve"/>
+      <point x="264.8805970149254" y="-150.0"/>
+      <point x="239.0" y="-127.88059701492537"/>
+      <point x="239" y="-104" type="qcurve" smooth="yes"/>
+      <point x="239" y="-89" type="line" smooth="yes"/>
+      <point x="239.0" y="-64.37313432835822"/>
+      <point x="266.6268656716418" y="-43.0"/>
+      <point x="292" y="-43" type="qcurve"/>
+      <point x="319.6119402985075" y="-43.0"/>
+      <point x="346.0" y="-65.11940298507463"/>
+      <point x="346" y="-89" type="qcurve" smooth="yes"/>
+      <point x="346" y="-104" type="line" smooth="yes"/>
+      <point x="346.0" y="-130.11940298507463"/>
+      <point x="319.35820895522386" y="-150.0"/>
+    </contour>
+    <contour>
+      <point x="102" y="-150" type="qcurve"/>
+      <point x="75.88059701492537" y="-150.0"/>
+      <point x="50.0" y="-127.88059701492537"/>
+      <point x="50" y="-104" type="qcurve" smooth="yes"/>
+      <point x="50" y="-89" type="line" smooth="yes"/>
+      <point x="50.0" y="-65.11940298507463"/>
+      <point x="77.37313432835822" y="-43.0"/>
+      <point x="102" y="-43" type="qcurve"/>
+      <point x="131.1044776119403" y="-43.0"/>
+      <point x="157.0" y="-64.37313432835822"/>
+      <point x="157" y="-89" type="qcurve" smooth="yes"/>
+      <point x="157" y="-104" type="line" smooth="yes"/>
+      <point x="157.0" y="-130.11940298507463"/>
+      <point x="130.3582089552239" y="-150.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>396</integer>
+    </dict>
+  </lib>
+</glyph>

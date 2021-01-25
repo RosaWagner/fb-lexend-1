@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf-ar.medi.v2" format="2">
+  <advance width="970"/>
+  <anchor x="485" y="0" name="bottom"/>
+  <anchor x="188" y="498" name="top"/>
+  <outline>
+    <contour>
+      <point x="657" y="60" type="qcurve"/>
+      <point x="594" y="129" type="line"/>
+      <point x="572.3582089552239" y="114.07462686567165"/>
+      <point x="516.4925373134329" y="102.0"/>
+      <point x="465" y="102" type="qcurve" smooth="yes"/>
+      <point x="0" y="102" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="433" y="0" type="line" smooth="yes"/>
+      <point x="542.7014925373135" y="0.0"/>
+      <point x="621.179104477612" y="26.417910447761194"/>
+    </contour>
+    <contour>
+      <point x="188" y="388" type="line"/>
+      <point x="188" y="498" type="line"/>
+      <point x="745" y="746" type="line"/>
+      <point x="790" y="657" type="line"/>
+      <point x="246" y="413" type="line"/>
+      <point x="267" y="462" type="line"/>
+      <point x="626" y="175" type="line" smooth="yes"/>
+      <point x="681.9701492537313" y="130.22388059701493"/>
+      <point x="765.4328358208955" y="102.0"/>
+      <point x="852" y="102" type="qcurve" smooth="yes"/>
+      <point x="970" y="102" type="line"/>
+      <point x="970" y="0" type="line"/>
+      <point x="852" y="0" type="line" smooth="yes"/>
+      <point x="739.3134328358209" y="0.0"/>
+      <point x="624.8507462686567" y="41.56716417910448"/>
+      <point x="545" y="105" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
