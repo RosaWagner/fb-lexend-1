@@ -17,7 +17,7 @@ M
       <point x="850" y="700" type="line"/>
       <point x="850" y="0" type="line"/>
       <point x="742" y="0" type="line"/>
-      <point x="742" y="287" type="line" smooth="yes"/>
+      <point x="742" y="287" type="line"/>
       <point x="742" y="377"/>
       <point x="751" y="521"/>
       <point x="762" y="592" type="qcurve"/>
@@ -30,9 +30,7 @@ M
       <point x="290" y="384"/>
       <point x="290" y="287" type="qcurve"/>
       <point x="290" y="0" type="line"/>
-      <point x="263" y="0"/>
-      <point x="209" y="0"/>
-      <point x="182" y="0" type="qcurve"/>
+      <point x="182" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,6 +39,8 @@ M
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>H</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

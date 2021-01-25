@@ -2,12 +2,13 @@
 <glyph name="Acaron" format="2">
   <advance width="834"/>
   <unicode hex="01CD"/>
+  <guideline x="417.0" y="0" angle="90.0" identifier="5zkGtoIa54"/>
   <anchor x="352" y="0" name="bottom"/>
   <anchor x="609" y="10" name="ogonek"/>
   <anchor x="352" y="957" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="caroncomb.case" xOffset="167" yOffset="64"/>
+    <component base="caroncomb.case" xOffset="208" yOffset="64"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +16,8 @@
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

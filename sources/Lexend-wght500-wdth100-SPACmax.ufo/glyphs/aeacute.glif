@@ -6,6 +6,12 @@
   <anchor x="487" y="774" name="top"/>
   <outline>
     <component base="ae"/>
-    <component base="acutecomb" xOffset="362" yOffset="-17"/>
+    <component base="acutecomb" xOffset="422" yOffset="-17"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

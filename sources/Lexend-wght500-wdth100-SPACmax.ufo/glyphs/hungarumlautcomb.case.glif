@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb.case" format="2">
+  <advance width="-1"/>
   <anchor x="168" y="527" name="_top"/>
   <anchor x="168" y="770" name="top"/>
   <outline>
-    <component base="hungarumlaut.case" yOffset="-2"/>
+    <component base="hungarumlaut.case"/>
   </outline>
   <lib>
     <dict>

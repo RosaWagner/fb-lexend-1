@@ -2,12 +2,14 @@
 <glyph name="Umacron" format="2">
   <advance width="880"/>
   <unicode hex="016A"/>
-  <anchor x="522" y="0" name="bottom"/>
-  <anchor x="940" y="10" name="ogonek"/>
-  <anchor x="522" y="862" name="top"/>
-  <anchor x="949" y="700" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="macroncomb.case" xOffset="306" yOffset="175"/>
+    <component base="macroncomb.case" xOffset="224.5" yOffset="158"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

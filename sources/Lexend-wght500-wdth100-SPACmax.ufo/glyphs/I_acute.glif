@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iacute" format="2">
-  <advance width="726"/>
+  <advance width="714"/>
   <unicode hex="00CD"/>
-  <anchor x="250" y="0" name="bottom"/>
-  <anchor x="440" y="10" name="ogonek"/>
-  <anchor x="298" y="888" name="top"/>
-  <anchor x="135" y="700" name="topleft"/>
   <outline>
-    <component base="I" xOffset="12"/>
-    <component base="acutecomb.case" xOffset="173" yOffset="185"/>
+    <component base="I"/>
+    <component base="acutecomb.case" xOffset="284.3000000000029" yOffset="205"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -7,7 +7,7 @@
   <anchor x="496" y="700" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="dotbelowcomb.case" xOffset="377"/>
+    <component base="dotbelowcomb.case" xOffset="317"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +15,8 @@
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

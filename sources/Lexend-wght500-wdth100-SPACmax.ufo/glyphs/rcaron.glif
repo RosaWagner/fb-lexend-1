@@ -1,15 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rcaron" format="2">
-  <advance width="811"/>
+  <advance width="661"/>
   <unicode hex="0159"/>
-  <note>
-rcaron
-</note>
-  <anchor x="276" y="0" name="bottom"/>
-  <anchor x="367" y="755" name="top"/>
   <outline>
-    <component base="r" xOffset="150"/>
-    <component base="caroncomb" xOffset="187" yOffset="-10"/>
+    <component base="r"/>
+    <component base="caroncomb" xOffset="182.5" yOffset="-32"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +12,8 @@ rcaron
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

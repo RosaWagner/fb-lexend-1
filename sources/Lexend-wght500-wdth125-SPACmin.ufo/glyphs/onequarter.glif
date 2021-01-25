@@ -7,7 +7,7 @@ onequarter
 </note>
   <outline>
     <component base="one.numr" xOffset="7"/>
-    <component base="fraction" xOffset="9"/>
+    <component base="fraction" xOffset="189"/>
     <component base="four.dnom" xOffset="625"/>
   </outline>
   <lib>
@@ -41,6 +41,8 @@ onequarter
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>four</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

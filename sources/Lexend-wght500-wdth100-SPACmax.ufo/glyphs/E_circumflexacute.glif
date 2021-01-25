@@ -8,8 +8,7 @@
   <anchor x="63" y="700" name="topleft"/>
   <outline>
     <component base="E" xOffset="17"/>
-    <component base="circumflexcomb.case" xOffset="157" yOffset="158"/>
-    <component base="acutecomb.case" xOffset="416" yOffset="294"/>
+    <component base="circumflexcomb_acutecomb" xOffset="220" yOffset="109"/>
   </outline>
   <lib>
     <dict>

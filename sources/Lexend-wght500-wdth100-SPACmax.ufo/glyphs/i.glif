@@ -6,12 +6,13 @@
 i
 </note>
   <guideline x="139.0" y="0" angle="90.0" name="center" identifier="u1tLNcADlT"/>
+  <guideline x="269.0" y="0" angle="90.0" identifier="aebN4fLpue"/>
   <anchor x="267" y="0" name="bottom"/>
   <anchor x="355" y="10" name="ogonek"/>
   <anchor x="268" y="765" name="top"/>
   <outline>
-    <component base="idotless" xOffset="147"/>
-    <component base="dotaccentcomb" xOffset="163" yOffset="14"/>
+    <component base="idotless" xOffset="19"/>
+    <component base="dotaccentcomb" xOffset="143" yOffset="14"/>
   </outline>
   <lib>
     <dict>
@@ -19,6 +20,8 @@ i
       <string>idotless</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>idotless</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -24,6 +24,18 @@
         <key>y</key>
         <integer>393</integer>
       </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>d5wdDOPePH</string>
+        <key>name</key>
+        <string>acute</string>
+        <key>x</key>
+        <integer>196</integer>
+        <key>y</key>
+        <integer>573</integer>
+      </dict>
     </array>
     <key>italicAngle</key>
     <integer>0</integer>

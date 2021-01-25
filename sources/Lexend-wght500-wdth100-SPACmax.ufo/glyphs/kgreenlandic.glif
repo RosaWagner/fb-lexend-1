@@ -19,7 +19,7 @@
       <point x="293" y="256" type="line"/>
     </contour>
     <contour>
-      <point x="670" y="-1" type="line"/>
+      <point x="670" y="0" type="line"/>
       <point x="547" y="0" type="line"/>
       <point x="354" y="272" type="line"/>
       <point x="423" y="319" type="line"/>
@@ -31,6 +31,8 @@
       <string>l</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>v</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

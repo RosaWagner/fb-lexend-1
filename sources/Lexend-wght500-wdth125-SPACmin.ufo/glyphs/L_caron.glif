@@ -1,17 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lcaron" format="2">
-  <advance width="1223"/>
+  <advance width="739"/>
   <unicode hex="013D"/>
-  <note>
-Lcaron
-</note>
-  <anchor x="429" y="0" name="bottom"/>
-  <anchor x="429" y="350" name="center"/>
-  <anchor x="236" y="700" name="top"/>
-  <anchor x="838" y="700" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="comma" xOffset="675" yOffset="578"/>
+    <component base="comma" xOffset="353" yOffset="570"/>
   </outline>
   <lib>
     <dict>
@@ -28,6 +21,8 @@ Lcaron
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

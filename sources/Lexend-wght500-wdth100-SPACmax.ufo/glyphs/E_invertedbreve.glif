@@ -2,12 +2,19 @@
 <glyph name="Einvertedbreve" format="2">
   <advance width="814"/>
   <unicode hex="0206"/>
+  <guideline x="407.0" y="0" angle="90.0" identifier="Ok1YPYrbeJ"/>
   <anchor x="353" y="0" name="bottom"/>
   <anchor x="506" y="10" name="ogonek"/>
   <anchor x="348" y="921" name="top"/>
   <anchor x="77" y="700" name="topleft"/>
   <outline>
     <component base="E" xOffset="31"/>
-    <component base="breveinvertedcomb.case" xOffset="146"/>
+    <component base="breveinvertedcomb.case" xOffset="196"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

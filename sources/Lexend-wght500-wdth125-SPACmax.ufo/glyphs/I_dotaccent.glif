@@ -2,12 +2,14 @@
 <glyph name="Idotaccent" format="2">
   <advance width="854"/>
   <unicode hex="0130"/>
-  <anchor x="427" y="0" name="bottom"/>
-  <anchor x="769" y="10" name="ogonek"/>
-  <anchor x="427" y="902" name="top"/>
-  <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="dotaccentcomb.case" xOffset="321" yOffset="183"/>
+    <component base="dotaccentcomb.case" xOffset="321" yOffset="181"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

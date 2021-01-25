@@ -2,10 +2,14 @@
 <glyph name="Ndotbelow" format="2">
   <advance width="961"/>
   <unicode hex="1E46"/>
-  <anchor x="393" y="-194" name="bottom"/>
-  <anchor x="393" y="700" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="dotbelowcomb.case" xOffset="288"/>
+    <component base="dotbelowcomb.case" xOffset="361.5" yOffset="21"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

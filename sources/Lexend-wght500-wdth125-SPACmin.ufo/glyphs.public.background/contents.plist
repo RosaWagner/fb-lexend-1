@@ -4,9 +4,17 @@
   <dict>
     <key>Eng</key>
     <string>E_ng.glif</string>
+    <key>M</key>
+    <string>M_.glif</string>
+    <key>N</key>
+    <string>N_.glif</string>
     <key>aogonek</key>
     <string>aogonek.glif</string>
     <key>aogonek.ss01</key>
     <string>aogonek.ss01.glif</string>
+    <key>g.ss01</key>
+    <string>g.ss01.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
   </dict>
 </plist>

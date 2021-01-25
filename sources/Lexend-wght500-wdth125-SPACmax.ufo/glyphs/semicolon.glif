@@ -9,4 +9,10 @@ semicolon
     <component base="comma" xOffset="-7"/>
     <component base="period" xOffset="-5" yOffset="397"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -7,6 +7,12 @@
   <anchor x="325" y="841" name="top"/>
   <outline>
     <component base="a" xOffset="49"/>
-    <component base="dblgravecomb" xOffset="97" yOffset="31"/>
+    <component base="dblgravecomb" xOffset="197" yOffset="-9"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

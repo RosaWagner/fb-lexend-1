@@ -2,12 +2,14 @@
 <glyph name="dlinebelow" format="2">
   <advance width="964"/>
   <unicode hex="1E0F"/>
-  <anchor x="492" y="-158" name="bottom"/>
-  <anchor x="721" y="616" name="center"/>
-  <anchor x="492" y="740" name="top"/>
-  <anchor x="964" y="525" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="macronbelowcomb" xOffset="281"/>
+    <component base="macronbelowcomb" xOffset="241.5" yOffset="-12"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

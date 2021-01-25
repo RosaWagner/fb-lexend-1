@@ -2,15 +2,9 @@
 <glyph name="acircumflex" format="2">
   <advance width="843"/>
   <unicode hex="00E2"/>
-  <note>
-acircumflex
-</note>
-  <anchor x="311" y="-20" name="bottom"/>
-  <anchor x="560" y="3" name="ogonek"/>
-  <anchor x="313" y="779" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb" xOffset="129" yOffset="-4"/>
+    <component base="circumflexcomb" xOffset="174.5" yOffset="-42"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,8 @@ acircumflex
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

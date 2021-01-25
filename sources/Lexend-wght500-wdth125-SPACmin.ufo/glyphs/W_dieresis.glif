@@ -6,6 +6,12 @@
   <anchor x="640" y="835" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="dieresiscomb.case" xOffset="438" yOffset="131"/>
+    <component base="dieresiscomb.case" xOffset="359" yOffset="131"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

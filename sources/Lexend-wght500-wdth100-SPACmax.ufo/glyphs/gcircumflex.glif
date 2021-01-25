@@ -2,10 +2,14 @@
 <glyph name="gcircumflex" format="2">
   <advance width="867"/>
   <unicode hex="011D"/>
-  <anchor x="327" y="0" name="bottom"/>
-  <anchor x="333" y="784" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="circumflexcomb" xOffset="149" yOffset="1"/>
+    <component base="circumflexcomb" xOffset="208.56000000001222" yOffset="-42"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

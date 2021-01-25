@@ -2,6 +2,7 @@
 <glyph name="Ocircumflexgrave" format="2">
   <advance width="1102"/>
   <unicode hex="1ED2"/>
+  <guideline x="551.0" y="0" angle="90.0" identifier="CEV805oy5v"/>
   <anchor x="551" y="0" name="bottom"/>
   <anchor x="551" y="350" name="center"/>
   <anchor x="646" y="10" name="ogonek"/>
@@ -10,7 +11,6 @@
   <anchor x="798" y="710" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb.case" xOffset="370" yOffset="175"/>
-    <component base="gravecomb.case" xOffset="350" yOffset="392"/>
+    <component base="circumflexcomb_gravecomb" xOffset="161" yOffset="123"/>
   </outline>
 </glyph>

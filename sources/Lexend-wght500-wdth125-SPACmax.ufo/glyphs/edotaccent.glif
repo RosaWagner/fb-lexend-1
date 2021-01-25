@@ -2,15 +2,9 @@
 <glyph name="edotaccent" format="2">
   <advance width="931"/>
   <unicode hex="0117"/>
-  <note>
-edotaccent
-</note>
-  <anchor x="466" y="0" name="bottom"/>
-  <anchor x="838" y="10" name="ogonek"/>
-  <anchor x="466" y="765" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dotaccentcomb" xOffset="338" yOffset="14"/>
+    <component base="dotaccentcomb" xOffset="340.0800000000163" yOffset="-30"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,8 @@ edotaccent
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

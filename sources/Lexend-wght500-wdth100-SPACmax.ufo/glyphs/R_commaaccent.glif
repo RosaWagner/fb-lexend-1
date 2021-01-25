@@ -9,7 +9,7 @@ Rcommaaccent
   <anchor x="325" y="700" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="commaaccentcomb.case" xOffset="221"/>
+    <component base="commaaccentcomb.case" xOffset="301"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +17,8 @@ Rcommaaccent
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>R</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

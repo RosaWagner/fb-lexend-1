@@ -1,22 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ldot" format="2">
-  <advance width="613"/>
+  <advance width="733"/>
   <unicode hex="0140"/>
-  <note>
-ldot
-</note>
-  <anchor x="122" y="0" name="bottom"/>
-  <anchor x="122" y="289" name="center"/>
-  <anchor x="123" y="740" name="top"/>
-  <anchor x="229" y="580" name="topright"/>
+  <guideline x="523" y="465" angle="90" identifier="sK75H8XgPf"/>
   <outline>
     <component base="l"/>
-    <component base="periodcentered" xOffset="195" yOffset="23"/>
+    <component base="periodcentered" xOffset="215" yOffset="20"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>l</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,10 +2,14 @@
 <glyph name="Ccaron" format="2">
   <advance width="811"/>
   <unicode hex="010C"/>
-  <anchor x="491" y="0" name="bottom"/>
-  <anchor x="531" y="957" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="caroncomb.case" xOffset="330" yOffset="64"/>
+    <component base="caroncomb.case" xOffset="251.35999999998603" yOffset="64"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

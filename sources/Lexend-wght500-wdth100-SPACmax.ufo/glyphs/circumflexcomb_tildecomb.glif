@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_tildecomb" format="2">
   <advance width="1"/>
+  <guideline x="213" y="640" angle="90" identifier="QpbLfGzF2f"/>
   <anchor x="188" y="515" name="_top"/>
   <anchor x="190" y="725" name="top"/>
   <outline>
     <component base="circumflexcomb" xOffset="7" yOffset="-25"/>
-    <component base="tildecomb" xOffset="-1" yOffset="178"/>
+    <component base="tildecomb" xOffset="49" yOffset="178"/>
   </outline>
   <lib>
     <dict>

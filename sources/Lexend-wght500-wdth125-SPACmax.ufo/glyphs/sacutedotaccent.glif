@@ -2,12 +2,10 @@
 <glyph name="sacutedotaccent" format="2">
   <advance width="797"/>
   <unicode hex="1E65"/>
-  <anchor x="391" y="0" name="bottom"/>
-  <anchor x="302" y="750" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="acutecomb" xOffset="376" yOffset="-7"/>
-    <component base="dotaccentcomb" xOffset="174" yOffset="-1"/>
+    <component base="acutecomb" xOffset="400.8500000000204" yOffset="-38"/>
+    <component base="dotaccentcomb" xOffset="143" yOffset="-40"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +28,8 @@
           <string>dotaccentcomb</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

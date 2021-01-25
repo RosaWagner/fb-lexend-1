@@ -2,13 +2,6 @@
 <glyph name="uogonek" format="2">
   <advance width="981"/>
   <unicode hex="0173"/>
-  <note>
-uogonek
-</note>
-  <anchor x="496" y="0" name="bottom"/>
-  <anchor x="800" y="11" name="ogonek"/>
-  <anchor x="496" y="525" name="top"/>
-  <anchor x="770" y="481" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="ogonekcomb" xOffset="552" yOffset="1"/>
@@ -19,6 +12,8 @@ uogonek
       <string>u</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>u</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -8,17 +8,23 @@ period
   <outline>
     <contour>
       <point x="378" y="64" type="qcurve" smooth="yes"/>
-      <point x="378" y="36"/>
+      <point x="379" y="30"/>
       <point x="327" y="-11"/>
       <point x="274" y="-11" type="qcurve" smooth="yes"/>
       <point x="221" y="-11"/>
       <point x="170" y="30"/>
       <point x="170" y="64" type="qcurve" smooth="yes"/>
-      <point x="170" y="92"/>
+      <point x="170" y="98"/>
       <point x="221" y="139"/>
       <point x="274" y="139" type="qcurve" smooth="yes"/>
       <point x="327" y="139"/>
-      <point x="378" y="98"/>
+      <point x="377" y="98"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,11 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abrevetilde.ss01" format="2">
-  <advance width="780"/>
-  <anchor x="289" y="-13" name="bottom"/>
-  <anchor x="478" y="10" name="ogonek"/>
-  <anchor x="287" y="777" name="top"/>
+  <advance width="768"/>
   <outline>
-    <component base="a.ss01" xOffset="12"/>
-    <component base="brevecomb_tildecomb" xOffset="57" yOffset="18"/>
+    <component base="a.ss01"/>
+    <component base="brevecomb_tildecomb" xOffset="142.2399999999907" yOffset="-21"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.749,0.4863,0.8784,1</string>
+    </dict>
+  </lib>
 </glyph>

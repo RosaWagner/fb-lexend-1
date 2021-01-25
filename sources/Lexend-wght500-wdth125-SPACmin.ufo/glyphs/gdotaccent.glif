@@ -2,14 +2,9 @@
 <glyph name="gdotaccent" format="2">
   <advance width="783"/>
   <unicode hex="0121"/>
-  <note>
-gdotaccent
-</note>
-  <anchor x="511" y="-230" name="bottom"/>
-  <anchor x="511" y="765" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="dotaccentcomb" xOffset="383" yOffset="14"/>
+    <component base="dotaccentcomb" xOffset="285.679999999993" yOffset="-30"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +12,8 @@ gdotaccent
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

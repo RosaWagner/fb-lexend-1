@@ -1,13 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iinvertedbreve" format="2">
-  <advance width="832"/>
+  <advance width="714"/>
   <unicode hex="020A"/>
+  <guideline x="357.0" y="0" angle="90.0" identifier="L0qcLtLl97"/>
   <anchor x="356" y="0" name="bottom"/>
   <anchor x="546" y="10" name="ogonek"/>
   <anchor x="356" y="921" name="top"/>
   <anchor x="241" y="700" name="topleft"/>
   <outline>
-    <component base="I" xOffset="118"/>
-    <component base="breveinvertedcomb.case" xOffset="154"/>
+    <component base="breveinvertedcomb.case" xOffset="144"/>
+    <component base="I"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

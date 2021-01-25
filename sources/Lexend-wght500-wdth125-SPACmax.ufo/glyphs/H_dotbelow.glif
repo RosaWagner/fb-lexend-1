@@ -2,12 +2,14 @@
 <glyph name="Hdotbelow" format="2">
   <advance width="1069"/>
   <unicode hex="1E24"/>
-  <anchor x="545" y="-191" name="bottom"/>
-  <anchor x="545" y="350" name="center"/>
-  <anchor x="545" y="700" name="top"/>
-  <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="H"/>
-    <component base="dotbelowcomb.case" xOffset="426"/>
+    <component base="dotbelowcomb.case" xOffset="415.5" yOffset="21"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

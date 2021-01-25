@@ -2,17 +2,9 @@
 <glyph name="omacron" format="2">
   <advance width="955"/>
   <unicode hex="014D"/>
-  <note>
-omacron
-</note>
-  <anchor x="478" y="0" name="bottom"/>
-  <anchor x="478" y="263" name="center"/>
-  <anchor x="860" y="10" name="ogonek"/>
-  <anchor x="478" y="702" name="top"/>
-  <anchor x="596" y="475" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="macroncomb" xOffset="265" yOffset="-4"/>
+    <component base="macroncomb" xOffset="266" yOffset="-31"/>
   </outline>
   <lib>
     <dict>
@@ -20,6 +12,8 @@ omacron
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

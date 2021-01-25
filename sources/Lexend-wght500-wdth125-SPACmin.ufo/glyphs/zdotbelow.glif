@@ -2,10 +2,14 @@
 <glyph name="zdotbelow" format="2">
   <advance width="624"/>
   <unicode hex="1E93"/>
-  <anchor x="374" y="-206" name="bottom"/>
-  <anchor x="365" y="525" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="dotbelowcomb" xOffset="255"/>
+    <component base="dotbelowcomb" xOffset="213.5" yOffset="36"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

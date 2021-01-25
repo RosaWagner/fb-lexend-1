@@ -2,12 +2,14 @@
 <glyph name="ddotbelow" format="2">
   <advance width="774"/>
   <unicode hex="1E0D"/>
-  <anchor x="501" y="-206" name="bottom"/>
-  <anchor x="721" y="616" name="center"/>
-  <anchor x="492" y="740" name="top"/>
-  <anchor x="964" y="525" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="dotbelowcomb" xOffset="382"/>
+    <component base="dotbelowcomb" xOffset="271"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

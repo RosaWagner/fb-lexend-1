@@ -4,6 +4,8 @@
   <dict>
     <key>Eng</key>
     <string>E_ng.glif</string>
+    <key>M</key>
+    <string>M_.glif</string>
     <key>aogonek</key>
     <string>aogonek.glif</string>
     <key>aogonek.ss01</key>

@@ -2,10 +2,14 @@
 <glyph name="Zdotaccent" format="2">
   <advance width="799"/>
   <unicode hex="017B"/>
-  <anchor x="442" y="0" name="bottom"/>
-  <anchor x="442" y="902" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="dotaccentcomb.case" xOffset="336" yOffset="183"/>
+    <component base="dotaccentcomb.case" xOffset="296" yOffset="181"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

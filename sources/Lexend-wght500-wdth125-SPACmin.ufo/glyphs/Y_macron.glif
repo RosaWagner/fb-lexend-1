@@ -7,6 +7,12 @@
   <anchor x="8" y="700" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="macroncomb.case" xOffset="264" yOffset="175"/>
+    <component base="macroncomb.case" xOffset="214" yOffset="175"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

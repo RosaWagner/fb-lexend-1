@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Edieresis" format="2">
-  <advance width="818"/>
+  <advance width="783"/>
   <unicode hex="00CB"/>
-  <anchor x="357" y="0" name="bottom"/>
-  <anchor x="510" y="10" name="ogonek"/>
-  <anchor x="362" y="857" name="top"/>
-  <anchor x="81" y="700" name="topleft"/>
   <outline>
-    <component base="E" xOffset="35"/>
-    <component base="dieresiscomb.case" xOffset="152" yOffset="175"/>
+    <component base="E"/>
+    <component base="dieresiscomb.case" xOffset="190.5" yOffset="196"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

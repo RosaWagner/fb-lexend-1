@@ -2,15 +2,6 @@
 <glyph name="IJ" format="2">
   <advance width="1735"/>
   <unicode hex="0132"/>
-  <note>
-IJ
-</note>
-  <anchor x="427" y="0" name="bottom_1"/>
-  <anchor x="1295" y="0" name="bottom_2"/>
-  <anchor x="769" y="10" name="ogonek"/>
-  <anchor x="427" y="700" name="top_1"/>
-  <anchor x="1486" y="700" name="top_2"/>
-  <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="I"/>
     <component base="J" xOffset="854"/>
@@ -19,6 +10,8 @@ IJ
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>H</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

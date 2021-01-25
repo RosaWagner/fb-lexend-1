@@ -2,12 +2,14 @@
 <glyph name="Uring" format="2">
   <advance width="904"/>
   <unicode hex="016E"/>
-  <anchor x="370" y="0" name="bottom"/>
-  <anchor x="653" y="10" name="ogonek"/>
-  <anchor x="370" y="991" name="top"/>
-  <anchor x="512" y="708" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="ringcomb.case" xOffset="211"/>
+    <component base="ringcomb.case" xOffset="293" yOffset="39"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

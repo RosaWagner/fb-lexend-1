@@ -2,10 +2,14 @@
 <glyph name="sdotbelow" format="2">
   <advance width="637"/>
   <unicode hex="1E63"/>
-  <anchor x="238" y="-220" name="bottom"/>
-  <anchor x="238" y="530" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="dotbelowcomb" xOffset="133" yOffset="3"/>
+    <component base="dotbelowcomb" xOffset="202"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,17 +2,9 @@
 <glyph name="otilde" format="2">
   <advance width="955"/>
   <unicode hex="00F5"/>
-  <note>
-otilde
-</note>
-  <anchor x="478" y="0" name="bottom"/>
-  <anchor x="478" y="263" name="center"/>
-  <anchor x="860" y="10" name="ogonek"/>
-  <anchor x="478" y="748" name="top"/>
-  <anchor x="596" y="475" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="tildecomb" xOffset="267"/>
+    <component base="tildecomb" xOffset="267.5" yOffset="-19"/>
   </outline>
   <lib>
     <dict>
@@ -20,6 +12,8 @@ otilde
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

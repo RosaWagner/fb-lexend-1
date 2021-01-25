@@ -2,11 +2,14 @@
 <glyph name="ebreve" format="2">
   <advance width="931"/>
   <unicode hex="0115"/>
-  <anchor x="466" y="0" name="bottom"/>
-  <anchor x="838" y="10" name="ogonek"/>
-  <anchor x="466" y="723" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="brevecomb" xOffset="251" yOffset="11"/>
+    <component base="brevecomb" xOffset="249.80000000001746" yOffset="-10"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

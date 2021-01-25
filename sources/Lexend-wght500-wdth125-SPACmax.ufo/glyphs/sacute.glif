@@ -2,14 +2,9 @@
 <glyph name="sacute" format="2">
   <advance width="797"/>
   <unicode hex="015B"/>
-  <note>
-sacute
-</note>
-  <anchor x="391" y="0" name="bottom"/>
-  <anchor x="446" y="784" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="acutecomb" xOffset="309" yOffset="-7"/>
+    <component base="acutecomb" xOffset="293.75" yOffset="-38"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +12,8 @@ sacute
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

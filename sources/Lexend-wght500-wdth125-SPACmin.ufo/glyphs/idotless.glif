@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotless" format="2">
-  <advance width="243"/>
+  <advance width="247"/>
   <unicode hex="0131"/>
   <note>
 dotlessi
@@ -16,4 +16,10 @@ dotlessi
       <point x="72" y="525" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

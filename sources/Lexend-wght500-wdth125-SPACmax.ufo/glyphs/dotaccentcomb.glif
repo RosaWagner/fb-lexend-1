@@ -5,24 +5,26 @@
   <anchor x="128" y="751" name="top"/>
   <outline>
     <contour>
-      <point x="198" y="690" type="qcurve" smooth="yes"/>
-      <point x="198.0" y="665"/>
-      <point x="164.07462686567163" y="625.0"/>
-      <point x="129" y="625" type="qcurve" smooth="yes"/>
-      <point x="93.92537313432837" y="625.0"/>
-      <point x="60.0" y="660.8955223880597"/>
-      <point x="60" y="690" type="qcurve" smooth="yes"/>
-      <point x="60.0" y="714.6268656716418"/>
-      <point x="93.92537313432837" y="755.0"/>
-      <point x="129" y="755" type="qcurve" smooth="yes"/>
-      <point x="164.07462686567163" y="755.0"/>
-      <point x="198.0" y="719"/>
+      <point x="198" y="660" type="qcurve" smooth="yes"/>
+      <point x="198.0" y="635"/>
+      <point x="164" y="595.0"/>
+      <point x="129" y="595" type="qcurve" smooth="yes"/>
+      <point x="94" y="595.0"/>
+      <point x="60.0" y="631"/>
+      <point x="60" y="660" type="qcurve" smooth="yes"/>
+      <point x="60.0" y="685"/>
+      <point x="94" y="725.0"/>
+      <point x="129" y="725" type="qcurve" smooth="yes"/>
+      <point x="164" y="725.0"/>
+      <point x="198.0" y="689"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>258</integer>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

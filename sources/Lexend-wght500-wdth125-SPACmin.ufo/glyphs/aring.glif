@@ -2,15 +2,9 @@
 <glyph name="aring" format="2">
   <advance width="774"/>
   <unicode hex="00E5"/>
-  <note>
-aring
-</note>
-  <anchor x="462" y="0" name="bottom"/>
-  <anchor x="904" y="10" name="ogonek"/>
-  <anchor x="502" y="785" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="ringcomb" xOffset="342" yOffset="10"/>
+    <component base="ringcomb" xOffset="210.5" yOffset="21"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,8 @@ aring
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

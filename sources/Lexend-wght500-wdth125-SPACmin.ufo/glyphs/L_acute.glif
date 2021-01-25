@@ -1,14 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lacute" format="2">
-  <advance width="722"/>
+  <advance width="739"/>
   <unicode hex="0139"/>
-  <anchor x="412" y="0" name="bottom"/>
-  <anchor x="412" y="350" name="center"/>
-  <anchor x="289" y="912" name="top"/>
-  <anchor x="821" y="700" name="topright"/>
   <outline>
-    <component base="L" xOffset="-17"/>
-    <component base="acutecomb.case" xOffset="135" yOffset="171"/>
+    <component base="L"/>
+    <component base="acutecomb.case" xOffset="186.59999999999127" yOffset="185"/>
   </outline>
   <lib>
     <dict>
@@ -31,6 +27,8 @@
           <string>acutecomb.case</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -8,6 +8,12 @@
   <anchor x="949" y="700" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="dblgravecomb.case" xOffset="260" yOffset="221"/>
+    <component base="dblgravecomb.case" xOffset="200" yOffset="221"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

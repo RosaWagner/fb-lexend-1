@@ -3,6 +3,25 @@
   <advance width="227"/>
   <unicode hex="02D9"/>
   <outline>
-    <component base="dotaccentcomb" xOffset="-23"/>
+    <contour>
+      <point x="152" y="690" type="qcurve" smooth="yes"/>
+      <point x="152" y="665"/>
+      <point x="118" y="625"/>
+      <point x="83" y="625" type="qcurve" smooth="yes"/>
+      <point x="48" y="625"/>
+      <point x="14" y="661"/>
+      <point x="14" y="690" type="qcurve" smooth="yes"/>
+      <point x="14" y="715"/>
+      <point x="48" y="755"/>
+      <point x="83" y="755" type="qcurve" smooth="yes"/>
+      <point x="118" y="755"/>
+      <point x="152" y="719"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,12 +2,9 @@
 <glyph name="Agrave" format="2">
   <advance width="992"/>
   <unicode hex="00C0"/>
-  <anchor x="496" y="0" name="bottom"/>
-  <anchor x="893" y="10" name="ogonek"/>
-  <anchor x="426" y="930" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="gravecomb.case" xOffset="295" yOffset="181"/>
+    <component base="gravecomb.case" xOffset="314.20000000001164" yOffset="197"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

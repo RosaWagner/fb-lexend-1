@@ -3,6 +3,17 @@
   <advance width="600"/>
   <anchor x="186" y="525" name="_top"/>
   <outline>
-    <component base="hungarumlautcomb" xOffset="-79" yOffset="-1"/>
+    <contour>
+      <point x="179" y="676" type="line"/>
+      <point x="5" y="582" type="line"/>
+      <point x="-29" y="633" type="line"/>
+      <point x="114" y="758" type="line"/>
+    </contour>
+    <contour>
+      <point x="378" y="676" type="line"/>
+      <point x="204" y="582" type="line"/>
+      <point x="170" y="633" type="line"/>
+      <point x="313" y="758" type="line"/>
+    </contour>
   </outline>
 </glyph>

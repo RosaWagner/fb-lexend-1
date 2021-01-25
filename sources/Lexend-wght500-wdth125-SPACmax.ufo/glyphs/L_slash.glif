@@ -1,35 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lslash" format="2">
-  <advance width="937"/>
+  <advance width="898"/>
   <unicode hex="0141"/>
-  <note>
-Lslash
-</note>
-  <anchor x="468" y="0" name="bottom"/>
-  <anchor x="468" y="350" name="center"/>
-  <anchor x="275" y="700" name="top"/>
-  <anchor x="877" y="700" name="topright"/>
   <outline>
     <contour>
-      <point x="281" y="104" type="line"/>
-      <point x="797" y="104" type="line"/>
-      <point x="797" y="0" type="line"/>
-      <point x="221" y="0" type="line"/>
-      <point x="221" y="700" type="line"/>
-      <point x="329" y="700" type="line"/>
-      <point x="329" y="68" type="line"/>
+      <point x="242" y="104" type="line"/>
+      <point x="758" y="104" type="line"/>
+      <point x="758" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="700" type="line"/>
+      <point x="290" y="700" type="line"/>
+      <point x="290" y="68" type="line"/>
     </contour>
     <contour>
-      <point x="59" y="226" type="line"/>
-      <point x="30" y="318" type="line"/>
-      <point x="591" y="536" type="line"/>
-      <point x="623" y="439" type="line"/>
+      <point x="112" y="256" type="line"/>
+      <point x="81" y="332" type="line"/>
+      <point x="374" y="459" type="line"/>
+      <point x="406" y="382" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>L</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

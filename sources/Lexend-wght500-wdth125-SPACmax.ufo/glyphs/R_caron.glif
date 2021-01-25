@@ -2,10 +2,14 @@
 <glyph name="Rcaron" format="2">
   <advance width="1011"/>
   <unicode hex="0158"/>
-  <anchor x="506" y="0" name="bottom"/>
-  <anchor x="466" y="957" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="caroncomb.case" xOffset="265" yOffset="64"/>
+    <component base="caroncomb.case" xOffset="233.5" yOffset="64"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

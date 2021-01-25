@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aacute.ss01" format="2">
   <advance width="734"/>
-  <note>
-aacute
-</note>
-  <anchor x="460" y="0" name="bottom"/>
-  <anchor x="748" y="10" name="ogonek"/>
-  <anchor x="489" y="784" name="top"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="acutecomb" xOffset="352" yOffset="-7"/>
+    <component base="acutecomb" xOffset="244.0799999999872" yOffset="-38"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +11,8 @@ aacute
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

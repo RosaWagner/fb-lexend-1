@@ -2,16 +2,9 @@
 <glyph name="Eogonek" format="2">
   <advance width="783"/>
   <unicode hex="0118"/>
-  <note>
-Eogonek
-</note>
-  <anchor x="296" y="0" name="bottom"/>
-  <anchor x="293" y="700" name="top"/>
-  <anchor x="20" y="700" name="topleft"/>
-  <anchor x="475" y="10" name="ogonek"/>
   <outline>
     <component base="E"/>
-    <component base="ogonekcomb.case" xOffset="293"/>
+    <component base="ogonekcomb.case" xOffset="401.8899999999867" yOffset="1"/>
   </outline>
   <lib>
     <dict>
@@ -19,6 +12,8 @@ Eogonek
       <string>E</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>E</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

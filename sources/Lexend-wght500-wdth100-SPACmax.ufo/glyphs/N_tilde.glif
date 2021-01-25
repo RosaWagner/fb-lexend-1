@@ -2,11 +2,14 @@
 <glyph name="Ntilde" format="2">
   <advance width="961"/>
   <unicode hex="00D1"/>
-  <guideline x="396.5" y="0" angle="90.0" identifier="kSBQmNU62m"/>
-  <anchor x="393" y="0" name="bottom"/>
-  <anchor x="403" y="968" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="tildecomb.case" xOffset="183" yOffset="235"/>
+    <component base="tildecomb.case" xOffset="259" yOffset="190"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

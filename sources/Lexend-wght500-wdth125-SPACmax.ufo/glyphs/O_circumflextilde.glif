@@ -2,6 +2,7 @@
 <glyph name="Ocircumflextilde" format="2">
   <advance width="1102"/>
   <unicode hex="1ED6"/>
+  <guideline x="551.0" y="0" angle="90.0" identifier="Y6i75Kn6UK"/>
   <anchor x="551" y="0" name="bottom"/>
   <anchor x="551" y="350" name="center"/>
   <anchor x="646" y="10" name="ogonek"/>
@@ -10,7 +11,6 @@
   <anchor x="798" y="710" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb.case" xOffset="370" yOffset="175"/>
-    <component base="tildecomb.case" xOffset="319" yOffset="412"/>
+    <component base="circumflexcomb_tildecomb" xOffset="344" yOffset="123"/>
   </outline>
 </glyph>

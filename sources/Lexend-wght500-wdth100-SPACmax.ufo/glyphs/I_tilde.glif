@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Itilde" format="2">
-  <advance width="836"/>
+  <advance width="714"/>
   <unicode hex="0128"/>
-  <anchor x="360" y="0" name="bottom"/>
-  <anchor x="550" y="10" name="ogonek"/>
-  <anchor x="370" y="968" name="top"/>
-  <anchor x="245" y="700" name="topleft"/>
   <outline>
-    <component base="I" xOffset="122"/>
-    <component base="tildecomb.case" xOffset="150" yOffset="235"/>
+    <component base="I"/>
+    <component base="tildecomb.case" xOffset="135.5" yOffset="190"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,14 +2,9 @@
 <glyph name="zcaron" format="2">
   <advance width="624"/>
   <unicode hex="017E"/>
-  <note>
-zcaron
-</note>
-  <anchor x="365" y="0" name="bottom"/>
-  <anchor x="365" y="773" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="caroncomb" xOffset="167"/>
+    <component base="caroncomb" xOffset="133.5" yOffset="-32"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +12,8 @@ zcaron
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

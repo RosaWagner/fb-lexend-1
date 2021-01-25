@@ -8,7 +8,6 @@
   <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcomb.case" xOffset="281" yOffset="175"/>
-    <component base="tildecomb.case" xOffset="230" yOffset="412"/>
+    <component base="circumflexcomb_tildecomb" xOffset="160" yOffset="123"/>
   </outline>
 </glyph>

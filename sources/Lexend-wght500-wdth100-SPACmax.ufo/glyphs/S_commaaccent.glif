@@ -9,7 +9,7 @@ Scommaaccent
   <anchor x="321" y="700" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="commaaccentcomb.case" xOffset="177"/>
+    <component base="commaaccentcomb.case" xOffset="268"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +17,8 @@ Scommaaccent
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,12 +2,14 @@
 <glyph name="Hbrevebelow" format="2">
   <advance width="901"/>
   <unicode hex="1E2A"/>
-  <anchor x="545" y="-239" name="bottom"/>
-  <anchor x="545" y="350" name="center"/>
-  <anchor x="545" y="700" name="top"/>
-  <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="H"/>
-    <component base="brevebelowcomb.case" xOffset="314"/>
+    <component base="brevebelowcomb.case" xOffset="249.5" yOffset="18"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

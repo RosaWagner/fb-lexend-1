@@ -32,7 +32,8 @@ eng
       <point x="220" y="0" type="line"/>
       <point x="220" y="525" type="line"/>
       <point x="323" y="525" type="line"/>
-      <point x="323" y="443" type="line"/>
+      <point x="323" y="413" type="line"/>
+      <point x="306" y="418" type="line"/>
       <point x="349" y="482"/>
       <point x="444" y="536"/>
     </contour>
@@ -43,6 +44,8 @@ eng
       <string>n</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>n</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

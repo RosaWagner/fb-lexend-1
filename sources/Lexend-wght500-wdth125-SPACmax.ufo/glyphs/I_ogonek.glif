@@ -2,15 +2,14 @@
 <glyph name="Iogonek" format="2">
   <advance width="854"/>
   <unicode hex="012E"/>
-  <note>
-Iogonek
-</note>
-  <anchor x="427" y="0" name="bottom"/>
-  <anchor x="769" y="10" name="ogonek"/>
-  <anchor x="427" y="700" name="top"/>
-  <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="ogonek" xOffset="385"/>
+    <component base="ogonekcomb.case" xOffset="322.6000000000113" yOffset="1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

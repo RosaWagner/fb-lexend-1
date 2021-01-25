@@ -1,11 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="adblgrave.ss01" format="2">
-  <advance width="855"/>
-  <anchor x="364" y="-13" name="bottom"/>
-  <anchor x="553" y="10" name="ogonek"/>
-  <anchor x="335" y="841" name="top"/>
+  <advance width="768"/>
   <outline>
-    <component base="a.ss01" xOffset="87"/>
-    <component base="dblgravecomb" xOffset="107" yOffset="31"/>
+    <component base="a.ss01"/>
+    <component base="dblgravecomb" xOffset="85.10000000000582" yOffset="-32"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.749,0.4863,0.8784,1</string>
+    </dict>
+  </lib>
 </glyph>

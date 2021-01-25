@@ -11,4 +11,10 @@
     <component base="oslash"/>
     <component base="acutecomb" xOffset="363" yOffset="-2"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

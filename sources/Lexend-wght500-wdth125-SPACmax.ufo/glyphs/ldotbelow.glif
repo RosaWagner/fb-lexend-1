@@ -2,12 +2,14 @@
 <glyph name="ldotbelow" format="2">
   <advance width="523"/>
   <unicode hex="1E37"/>
-  <anchor x="271" y="-206" name="bottom"/>
-  <anchor x="262" y="370" name="center"/>
-  <anchor x="262" y="740" name="top"/>
-  <anchor x="503" y="740" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="dotbelowcomb" xOffset="152"/>
+    <component base="dotbelowcomb" xOffset="143" yOffset="36"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

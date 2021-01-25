@@ -2,15 +2,14 @@
 <glyph name="Otildedieresis" format="2">
   <advance width="942"/>
   <unicode hex="1E4E"/>
-  <anchor x="386" y="0" name="bottom"/>
-  <anchor x="386" y="350" name="center"/>
-  <anchor x="690" y="10" name="ogonek"/>
-  <anchor x="406" y="1125" name="top"/>
-  <anchor x="25" y="700" name="topleft"/>
-  <anchor x="387" y="706" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="tildecomb.case" xOffset="176" yOffset="235"/>
-    <component base="dieresiscomb.case" xOffset="196" yOffset="443"/>
+    <component base="tildecomb_dieresiscomb" xOffset="307" yOffset="156"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

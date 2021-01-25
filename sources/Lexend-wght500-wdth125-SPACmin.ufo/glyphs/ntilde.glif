@@ -1,15 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ntilde" format="2">
-  <advance width="756"/>
+  <advance width="715"/>
   <unicode hex="00F1"/>
-  <note>
-ntilde
-</note>
-  <anchor x="508" y="0" name="bottom"/>
-  <anchor x="528" y="748" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="tildecomb" xOffset="317"/>
+    <component base="tildecomb" xOffset="159" yOffset="-19"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +12,8 @@ ntilde
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

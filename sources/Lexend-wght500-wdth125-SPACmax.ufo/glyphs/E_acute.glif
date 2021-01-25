@@ -2,13 +2,9 @@
 <glyph name="Eacute" format="2">
   <advance width="923"/>
   <unicode hex="00C9"/>
-  <anchor x="462" y="0" name="bottom"/>
-  <anchor x="831" y="10" name="ogonek"/>
-  <anchor x="532" y="912" name="top"/>
-  <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="acutecomb.case" xOffset="378" yOffset="171"/>
+    <component base="acutecomb.case" xOffset="357.95000000001164" yOffset="185"/>
   </outline>
   <lib>
     <dict>
@@ -31,6 +27,8 @@
           <string>acutecomb.case</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

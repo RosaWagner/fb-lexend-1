@@ -9,7 +9,7 @@ wdieresis
   <anchor x="523" y="719" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="dieresiscomb" xOffset="331" yOffset="4"/>
+    <component base="dieresiscomb" xOffset="251" yOffset="4"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +17,8 @@ wdieresis
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -5,8 +5,7 @@
   <anchor x="414" y="-148" name="bottom"/>
   <anchor x="490" y="784" name="top"/>
   <outline>
-    <component base="c"/>
-    <component base="cedillacomb" xOffset="289"/>
     <component base="acutecomb" xOffset="353" yOffset="-7"/>
+    <component base="ccedilla"/>
   </outline>
 </glyph>

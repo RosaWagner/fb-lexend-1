@@ -2,10 +2,14 @@
 <glyph name="gmacron" format="2">
   <advance width="783"/>
   <unicode hex="1E21"/>
-  <anchor x="511" y="-230" name="bottom"/>
-  <anchor x="511" y="702" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="macroncomb" xOffset="298" yOffset="-4"/>
+    <component base="macroncomb" xOffset="163.40000000000873" yOffset="-31"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

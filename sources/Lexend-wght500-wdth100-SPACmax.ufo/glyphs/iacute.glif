@@ -1,16 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iacute" format="2">
-  <advance width="504"/>
+  <advance width="503"/>
   <unicode hex="00ED"/>
-  <note>
-iacute
-</note>
-  <anchor x="240" y="0" name="bottom"/>
-  <anchor x="324" y="10" name="ogonek"/>
-  <anchor x="275" y="784" name="top"/>
   <outline>
-    <component base="idotless" xOffset="116"/>
-    <component base="acutecomb" xOffset="150" yOffset="-7"/>
+    <component base="idotless"/>
+    <component base="acutecomb" xOffset="124.05000000000291" yOffset="-38"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,8 @@ iacute
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

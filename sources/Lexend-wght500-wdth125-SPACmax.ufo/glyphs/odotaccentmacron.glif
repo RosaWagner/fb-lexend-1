@@ -9,7 +9,12 @@
   <anchor x="596" y="475" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="dotaccentcomb" xOffset="350" yOffset="14"/>
-    <component base="macroncomb" xOffset="265" yOffset="236"/>
+    <component base="dotaccentcomb_macroncomb" xOffset="303"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,11 +2,14 @@
 <glyph name="itilde" format="2">
   <advance width="503"/>
   <unicode hex="0129"/>
-  <anchor x="253" y="0" name="bottom"/>
-  <anchor x="337" y="10" name="ogonek"/>
-  <anchor x="265" y="759" name="top"/>
   <outline>
-    <component base="idotless" xOffset="129"/>
-    <component base="tildecomb" xOffset="50" yOffset="12"/>
+    <component base="idotless"/>
+    <component base="tildecomb" xOffset="41" yOffset="-19"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

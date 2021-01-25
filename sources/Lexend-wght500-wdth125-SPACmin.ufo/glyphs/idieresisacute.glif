@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idieresisacute" format="2">
-  <advance width="252"/>
+  <advance width="243"/>
   <unicode hex="1E2F"/>
-  <anchor x="131" y="0" name="bottom"/>
-  <anchor x="182" y="0" name="ogonek"/>
-  <anchor x="165" y="998" name="top"/>
   <outline>
-    <component base="idotless" xOffset="-121"/>
-    <component base="dieresiscomb" xOffset="-62" yOffset="24"/>
-    <component base="acutecomb" xOffset="28" yOffset="207"/>
+    <component base="idotless"/>
+    <component base="dieresiscomb_acutecomb" xOffset="-47.5" yOffset="-17"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

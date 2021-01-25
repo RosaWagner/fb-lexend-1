@@ -9,7 +9,7 @@ cacute
   <anchor x="490" y="784" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="acutecomb" xOffset="353" yOffset="-7"/>
+    <component base="acutecomb" xOffset="273" yOffset="-7"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +17,8 @@ cacute
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

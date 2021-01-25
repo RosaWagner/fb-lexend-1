@@ -2,14 +2,9 @@
 <glyph name="wcircumflex" format="2">
   <advance width="926"/>
   <unicode hex="0175"/>
-  <note>
-wcircumflex
-</note>
-  <anchor x="410" y="0" name="bottom"/>
-  <anchor x="416" y="754" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="circumflexcomb" xOffset="232" yOffset="-29"/>
+    <component base="circumflexcomb" xOffset="256" yOffset="-42"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +12,8 @@ wcircumflex
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

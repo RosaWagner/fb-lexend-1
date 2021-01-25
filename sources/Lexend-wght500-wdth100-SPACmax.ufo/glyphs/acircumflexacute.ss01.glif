@@ -1,11 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflexacute.ss01" format="2">
-  <advance width="797"/>
-  <anchor x="277" y="-13" name="bottom"/>
-  <anchor x="466" y="10" name="ogonek"/>
-  <anchor x="279" y="755" name="top"/>
+  <advance width="768"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="circumflexcomb_acutecomb" xOffset="90" yOffset="15"/>
+    <component base="circumflexcomb_acutecomb" xOffset="147.8000000000029" yOffset="-42"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.749,0.4863,0.8784,1</string>
+    </dict>
+  </lib>
 </glyph>

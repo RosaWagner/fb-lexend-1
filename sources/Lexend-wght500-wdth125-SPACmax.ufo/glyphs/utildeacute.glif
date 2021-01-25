@@ -2,13 +2,14 @@
 <glyph name="utildeacute" format="2">
   <advance width="981"/>
   <unicode hex="1E79"/>
-  <anchor x="496" y="0" name="bottom"/>
-  <anchor x="800" y="11" name="ogonek"/>
-  <anchor x="531" y="1007" name="top"/>
-  <anchor x="770" y="481" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="tildecomb" xOffset="285"/>
-    <component base="acutecomb" xOffset="394" yOffset="216"/>
+    <component base="tildecomb_acutecomb" xOffset="340" yOffset="-19"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

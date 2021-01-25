@@ -1,42 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringcomb" format="2">
+  <advance width="336"/>
   <unicode hex="030A"/>
+  <guideline x="155" y="871" angle="90" identifier="ysR58fKxsh"/>
+  <guideline x="15" y="679" angle="0" identifier="NYTGyYKT4n"/>
   <anchor x="160" y="515" name="_top"/>
   <anchor x="160" y="775" name="top"/>
   <outline>
-    <contour>
-      <point x="269" y="679" type="qcurve"/>
-      <point x="269.0" y="636"/>
-      <point x="202.28358208955223" y="574.0"/>
-      <point x="159" y="574" type="qcurve"/>
-      <point x="116.46268656716418" y="574.0"/>
-      <point x="50.0" y="636.4626865671642"/>
-      <point x="50" y="679" type="qcurve"/>
-      <point x="50.0" y="723.0298507462686"/>
-      <point x="116.46268656716418" y="785.0"/>
-      <point x="159" y="785" type="qcurve"/>
-      <point x="202.28358208955223" y="785.0"/>
-      <point x="269.0" y="723"/>
-    </contour>
-    <contour>
-      <point x="110" y="679" type="qcurve"/>
-      <point x="110.0" y="660"/>
-      <point x="138.8507462686567" y="633.0"/>
-      <point x="159" y="633" type="qcurve"/>
-      <point x="179.8955223880597" y="633.0"/>
-      <point x="209.0" y="659.5970149253732"/>
-      <point x="209" y="679" type="qcurve"/>
-      <point x="209.0" y="701.3880597014926"/>
-      <point x="178.40298507462686" y="726.0"/>
-      <point x="159" y="726" type="qcurve"/>
-      <point x="138.8507462686567" y="726.0"/>
-      <point x="110.0" y="700"/>
-    </contour>
+    <component base="ring" xOffset="-4"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>319</integer>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

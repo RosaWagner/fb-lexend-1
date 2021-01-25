@@ -2,12 +2,19 @@
 <glyph name="Icaron" format="2">
   <advance width="828"/>
   <unicode hex="01CF"/>
+  <guideline x="414.0" y="0" angle="90.0" identifier="9JYnafKYX4"/>
   <anchor x="352" y="0" name="bottom"/>
   <anchor x="542" y="10" name="ogonek"/>
   <anchor x="352" y="957" name="top"/>
   <anchor x="237" y="700" name="topleft"/>
   <outline>
-    <component base="I" xOffset="114"/>
-    <component base="caroncomb.case" xOffset="167" yOffset="64"/>
+    <component base="I" xOffset="55"/>
+    <component base="caroncomb.case" xOffset="207" yOffset="64"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

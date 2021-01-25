@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_macroncomb" format="2">
+  <guideline x="149.5" y="0" angle="270.0" identifier="JA2xqj5Sgd"/>
+  <outline>
+    <component base="tildecomb" xOffset="13" yOffset="-2"/>
+    <component base="macroncomb" xOffset="-26" yOffset="181"/>
+  </outline>
+</glyph>

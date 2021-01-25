@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="atilde.ss01" format="2">
-  <advance width="772"/>
-  <note>
-atilde
-</note>
-  <anchor x="281" y="-13" name="bottom"/>
-  <anchor x="470" y="10" name="ogonek"/>
-  <anchor x="295" y="764" name="top"/>
+  <advance width="768"/>
   <outline>
-    <component base="a.ss01" xOffset="4"/>
-    <component base="tildecomb" xOffset="80" yOffset="17"/>
+    <component base="a.ss01"/>
+    <component base="tildecomb" xOffset="181"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +11,8 @@ atilde
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.749,0.4863,0.8784,1</string>
     </dict>
   </lib>
 </glyph>

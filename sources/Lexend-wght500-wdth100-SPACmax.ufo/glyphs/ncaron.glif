@@ -1,15 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ncaron" format="2">
-  <advance width="959"/>
+  <advance width="895"/>
   <unicode hex="0148"/>
-  <note>
-ncaron
-</note>
-  <anchor x="367" y="0" name="bottom"/>
-  <anchor x="367" y="755" name="top"/>
   <outline>
-    <component base="n" xOffset="64"/>
-    <component base="caroncomb" xOffset="187" yOffset="-10"/>
+    <component base="n"/>
+    <component base="caroncomb" xOffset="249.5" yOffset="-32"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +12,8 @@ ncaron
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

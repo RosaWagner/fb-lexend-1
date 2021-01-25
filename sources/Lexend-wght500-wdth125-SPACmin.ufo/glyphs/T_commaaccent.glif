@@ -10,7 +10,7 @@ uni021A
   <anchor x="423" y="700" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="commaaccentcomb.case" xOffset="299"/>
+    <component base="commaaccentcomb.case" xOffset="209"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@ uni021A
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,14 +2,9 @@
 <glyph name="scedilla" format="2">
   <advance width="639"/>
   <unicode hex="015F"/>
-  <note>
-scedilla
-</note>
-  <anchor x="370" y="-148" name="bottom"/>
-  <anchor x="411" y="525" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="cedillacomb" xOffset="245"/>
+    <component base="cedillacomb" xOffset="209.62000000000626"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +12,8 @@ scedilla
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,18 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij" format="2">
-  <advance width="993"/>
+  <advance width="622"/>
   <unicode hex="0133"/>
-  <note>
-ij
-</note>
-  <anchor x="381" y="0" name="bottom_1"/>
-  <anchor x="904" y="-230" name="bottom_2"/>
-  <anchor x="431" y="0" name="ogonek"/>
-  <anchor x="379" y="765" name="top_1"/>
-  <anchor x="989" y="765" name="top_2"/>
   <outline>
-    <component base="i" xOffset="111"/>
-    <component base="j" xOffset="649"/>
+    <component base="i"/>
+    <component base="j" xOffset="278"/>
   </outline>
   <lib>
     <dict>
@@ -20,6 +12,8 @@ ij
       <string>i</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>j</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>

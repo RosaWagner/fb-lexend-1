@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abrevedotbelow.ss01" format="2">
   <advance width="734"/>
-  <anchor x="469" y="-206" name="bottom"/>
-  <anchor x="748" y="10" name="ogonek"/>
-  <anchor x="454" y="723" name="top"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="dotbelowcomb" xOffset="350"/>
-    <component base="brevecomb" xOffset="239" yOffset="11"/>
+    <component base="brevecomb" xOffset="180.0400000000227" yOffset="-10"/>
+    <component base="dotbelowcomb" xOffset="280.0400000000227" yOffset="36"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.749,0.4863,0.8784,1</string>
+    </dict>
+  </lib>
 </glyph>

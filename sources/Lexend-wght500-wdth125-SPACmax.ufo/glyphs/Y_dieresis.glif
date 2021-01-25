@@ -2,11 +2,14 @@
 <glyph name="Ydieresis" format="2">
   <advance width="960"/>
   <unicode hex="0178"/>
-  <anchor x="480" y="0" name="bottom"/>
-  <anchor x="480" y="895" name="top"/>
-  <anchor x="8" y="700" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="dieresiscomb.case" xOffset="278" yOffset="191"/>
+    <component base="dieresiscomb.case" xOffset="278" yOffset="196"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
+    </dict>
+  </lib>
 </glyph>

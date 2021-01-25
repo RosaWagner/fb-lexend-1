@@ -13,7 +13,7 @@ dcaron
   <anchor x="608" y="510" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="caronalt" xOffset="579" yOffset="104"/>
+    <component base="caronalt" xOffset="639" yOffset="104"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +30,8 @@ dcaron
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>d</string>
+      <key>public.markColor</key>
+      <string>0.5341,0.9064,1,1</string>
     </dict>
   </lib>
 </glyph>
