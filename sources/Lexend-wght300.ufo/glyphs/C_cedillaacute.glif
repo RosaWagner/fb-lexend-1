@@ -3,12 +3,6 @@
   <advance width="674"/>
   <unicode hex="1E08"/>
   <outline>
-    <contour>
-      <point x="376" y="-93" type="line"/>
-      <point x="336" y="-86" type="line"/>
-      <point x="396" y="6" type="line"/>
-      <point x="440" y="6" type="line"/>
-    </contour>
     <component base="C"/>
     <component base="cedillacomb.case" xOffset="280"/>
     <component base="acutecomb.case" xOffset="248" yOffset="180"/>
