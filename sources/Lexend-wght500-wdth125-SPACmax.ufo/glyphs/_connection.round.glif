@@ -3,6 +3,7 @@
   <advance width="192"/>
   <outline>
     <contour>
+      <point x="-79" y="102" type="qcurve"/>
       <point x="-31" y="149" type="line"/>
       <point x="13.776119402985074" y="119.8955223880597"/>
       <point x="126.32835820895522" y="102.0"/>
@@ -10,7 +11,6 @@
       <point x="192" y="0" type="line"/>
       <point x="92.74626865671642" y="0.0"/>
       <point x="-33.47761194029851" y="46.77611940298508"/>
-      <point x="-79" y="102" type="qcurve"/>
     </contour>
   </outline>
   <lib>

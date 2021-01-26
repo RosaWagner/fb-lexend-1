@@ -5,10 +5,10 @@
   <note>
 i
 </note>
-  <guideline x="139.0" y="0" angle="90.0" name="center" identifier="u1tLNcADlT"/>
+  <guideline x="269.0" y="0" angle="90.0" identifier="sFJc4vrftO"/>
   <outline>
-    <component base="idotless" xOffset="147"/>
-    <component base="dotaccentcomb" xOffset="163" yOffset="14"/>
+    <component base="idotless" xOffset="19"/>
+    <component base="dotaccentcomb" xOffset="140" yOffset="14"/>
   </outline>
   <lib>
     <dict>

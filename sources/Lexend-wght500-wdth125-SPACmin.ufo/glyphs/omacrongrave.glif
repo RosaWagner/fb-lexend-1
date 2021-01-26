@@ -4,7 +4,6 @@
   <unicode hex="1E51"/>
   <outline>
     <component base="o"/>
-    <component base="macroncomb" xOffset="265" yOffset="-4"/>
-    <component base="gravecomb" xOffset="324" yOffset="212"/>
+    <component base="macroncomb_gravecomb" xOffset="228" yOffset="-23"/>
   </outline>
 </glyph>

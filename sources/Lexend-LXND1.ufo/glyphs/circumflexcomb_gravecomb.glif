@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_gravecomb" format="2">
   <outline>
-    <component base="circumflexcomb"/>
-    <component base="gravecomb" xOffset="300" yOffset="156"/>
+    <component base="circumflexcomb" xOffset="154"/>
+    <component base="gravecomb" xOffset="43" yOffset="152"/>
   </outline>
   <lib>
     <dict>

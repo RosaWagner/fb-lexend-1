@@ -7,12 +7,12 @@ increment
 </note>
   <outline>
     <contour>
-      <point x="483" y="748" type="line"/>
-      <point x="932" y="-38" type="line"/>
-      <point x="937" y="0" type="line"/>
-      <point x="55" y="0" type="line"/>
-      <point x="74" y="-28" type="line"/>
-      <point x="507" y="736" type="line"/>
+      <point x="498" y="722" type="line"/>
+      <point x="910" y="0" type="line"/>
+      <point x="910" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="89" y="0" type="line"/>
+      <point x="498" y="721" type="line"/>
     </contour>
     <contour>
       <point x="506" y="530" type="line"/>

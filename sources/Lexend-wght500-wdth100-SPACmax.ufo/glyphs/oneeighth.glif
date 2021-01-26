@@ -4,7 +4,7 @@
   <unicode hex="215B"/>
   <outline>
     <component base="one.numr" xOffset="53"/>
-    <component base="fraction" xOffset="104"/>
+    <component base="fraction" xOffset="-26"/>
     <component base="eight.dnom" xOffset="470"/>
   </outline>
   <lib>

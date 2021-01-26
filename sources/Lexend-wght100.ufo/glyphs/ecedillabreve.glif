@@ -5,8 +5,8 @@
   <guideline x="272.5" y="0" angle="270.0" identifier="w5hVYqbzn4"/>
   <outline>
     <component base="e"/>
-    <component base="cedillacomb" xOffset="190.07999999999652" yOffset="10"/>
-    <component base="breve" xOffset="100" yOffset="-20"/>
+    <component base="cedillacomb" xOffset="190" yOffset="-3"/>
+    <component base="brevecomb" xOffset="100" yOffset="-20"/>
   </outline>
   <lib>
     <dict>

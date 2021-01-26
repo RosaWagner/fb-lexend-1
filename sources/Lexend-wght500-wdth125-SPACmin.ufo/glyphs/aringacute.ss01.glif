@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aringacute.ss01" format="2">
   <advance width="815"/>
+  <guideline x="407.5" y="0" angle="90.0" identifier="jLTWacGDcX"/>
   <outline>
-    <component base="a.ss01"/>
-    <component base="ringcomb" xOffset="294" yOffset="10"/>
-    <component base="acutecomb.case" xOffset="330" yOffset="231"/>
+    <component base="a.ss01" xOffset="30"/>
+    <component base="ringcomb" xOffset="224" yOffset="10"/>
+    <component base="acutecomb.case" xOffset="260" yOffset="231"/>
   </outline>
   <lib>
     <dict>

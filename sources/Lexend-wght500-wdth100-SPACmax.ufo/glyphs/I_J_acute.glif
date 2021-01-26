@@ -3,8 +3,8 @@
   <advance width="1206"/>
   <outline>
     <component base="IJ" xOffset="11"/>
-    <component base="acutecomb.case" xOffset="140" yOffset="152"/>
-    <component base="acutecomb.case" xOffset="843" yOffset="152"/>
+    <component base="acutecomb.case" xOffset="240" yOffset="205"/>
+    <component base="acutecomb.case" xOffset="843" yOffset="205"/>
   </outline>
   <lib>
     <dict>

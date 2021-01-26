@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idieresisacute.ss01" format="2">
   <advance width="308"/>
+  <guideline x="154.0" y="0" angle="270.0" identifier="LjK0M31m2c"/>
   <outline>
-    <component base="Idieresis.ss01"/>
-    <component base="acutecomb.case" xOffset="34.80000000000291" yOffset="281.500152061024"/>
+    <component base="I.ss01"/>
+    <component base="dieresiscomb_acutecomb" xOffset="18" yOffset="95"/>
   </outline>
   <lib>
     <dict>

@@ -5,8 +5,9 @@
   <note>
 j
 </note>
+  <guideline x="259.0" y="0" angle="90.0" identifier="bxzuZBbqNU"/>
   <outline>
-    <component base="jdotless" xOffset="121"/>
-    <component base="dotaccentcomb" xOffset="154" yOffset="20"/>
+    <component base="jdotless" xOffset="6"/>
+    <component base="dotaccentcomb" xOffset="133" yOffset="20"/>
   </outline>
 </glyph>

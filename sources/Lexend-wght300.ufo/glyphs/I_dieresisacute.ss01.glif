@@ -2,8 +2,8 @@
 <glyph name="Idieresisacute.ss01" format="2">
   <advance width="308"/>
   <outline>
-    <component base="Idieresis.ss01"/>
-    <component base="acutecomb.case" xOffset="38.69000000001688" yOffset="320"/>
+    <component base="I.ss01"/>
+    <component base="dieresiscomb_acutecomb" xOffset="11" yOffset="123"/>
   </outline>
   <lib>
     <dict>

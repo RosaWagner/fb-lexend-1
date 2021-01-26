@@ -4,9 +4,10 @@
   <note>
 i.loclTRK
 </note>
+  <guideline x="294.5" y="0" angle="90.0" identifier="aUCdenO8vf"/>
   <outline>
-    <component base="idotless" xOffset="104"/>
-    <component base="dotaccentcomb" xOffset="123" yOffset="14"/>
+    <component base="idotless" xOffset="44"/>
+    <component base="dotaccentcomb" xOffset="164" yOffset="14"/>
   </outline>
   <lib>
     <dict>

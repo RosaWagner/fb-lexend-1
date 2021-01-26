@@ -2,9 +2,10 @@
 <glyph name="idieresisacute" format="2">
   <advance width="323"/>
   <unicode hex="1E2F"/>
+  <guideline x="161.5" y="0" angle="90.0" identifier="HdD6djFrP2"/>
   <outline>
     <component base="idotless"/>
-    <component base="dieresiscomb_acutecomb" xOffset="-94" yOffset="59"/>
+    <component base="dieresiscomb_acutecomb" xOffset="-73" yOffset="60"/>
   </outline>
   <lib>
     <dict>

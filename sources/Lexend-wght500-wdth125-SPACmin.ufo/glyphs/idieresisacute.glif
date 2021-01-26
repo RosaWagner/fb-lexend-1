@@ -2,9 +2,9 @@
 <glyph name="idieresisacute" format="2">
   <advance width="252"/>
   <unicode hex="1E2F"/>
+  <guideline x="126.0" y="0" angle="90.0" identifier="3dJzxeOXWB"/>
   <outline>
-    <component base="idotless" xOffset="-121"/>
-    <component base="dieresiscomb" xOffset="-62" yOffset="24"/>
-    <component base="acutecomb" xOffset="28" yOffset="207"/>
+    <component base="idotless" xOffset="4"/>
+    <component base="dieresiscomb_acutecomb" xOffset="-22" yOffset="24"/>
   </outline>
 </glyph>

@@ -3,7 +3,6 @@
   <advance width="308"/>
   <outline>
     <component base="I.ss01"/>
-    <component base="dieresiscomb.case" xOffset="-47" yOffset="175"/>
-    <component base="acutecomb.case" xOffset="86" yOffset="342"/>
+    <component base="dieresiscomb_acutecomb" yOffset="139"/>
   </outline>
 </glyph>

@@ -6,7 +6,7 @@
 iacute
 </note>
   <outline>
-    <component base="idotless" xOffset="116"/>
+    <component base="idotless" xOffset="-4"/>
     <component base="acutecomb" xOffset="150" yOffset="-7"/>
   </outline>
   <lib>

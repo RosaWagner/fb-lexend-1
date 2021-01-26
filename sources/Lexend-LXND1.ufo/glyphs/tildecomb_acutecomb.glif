@@ -4,6 +4,6 @@
   <guideline x="59.55397510023738" y="870.016506941856" angle="0" identifier="SDAXlxXZsq"/>
   <outline>
     <component base="tildecomb" xOffset="-60"/>
-    <component base="acutecomb" xOffset="21" yOffset="185"/>
+    <component base="acutecomb" xOffset="21" yOffset="165"/>
   </outline>
 </glyph>

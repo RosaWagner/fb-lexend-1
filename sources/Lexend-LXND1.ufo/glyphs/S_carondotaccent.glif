@@ -4,7 +4,6 @@
   <unicode hex="1E66"/>
   <outline>
     <component base="S"/>
-    <component base="caroncomb.case" xOffset="267" yOffset="64"/>
-    <component base="dotaccentcomb.case" xOffset="362" yOffset="440"/>
+    <component base="caroncomb_dotaccentcomb" xOffset="310" yOffset="131"/>
   </outline>
 </glyph>

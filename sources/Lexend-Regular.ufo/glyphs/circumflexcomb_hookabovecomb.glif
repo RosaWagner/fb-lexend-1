@@ -2,7 +2,7 @@
 <glyph name="circumflexcomb_hookabovecomb" format="2">
   <outline>
     <component base="circumflexcomb" xOffset="7" yOffset="-21"/>
-    <component base="hookabovecomb" xOffset="233" yOffset="88"/>
+    <component base="hookabovecomb" xOffset="213" yOffset="128"/>
   </outline>
   <lib>
     <dict>

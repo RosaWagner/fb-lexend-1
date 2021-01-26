@@ -3,8 +3,8 @@
   <advance width="784"/>
   <unicode hex="01AF"/>
   <outline>
-    <component base="U"/>
-    <component base="horncomb.case" xOffset="528.5200000000332" yOffset="183"/>
+    <component base="U" yOffset="-1"/>
+    <component base="horncomb.case" xOffset="522" yOffset="181"/>
   </outline>
   <lib>
     <dict>

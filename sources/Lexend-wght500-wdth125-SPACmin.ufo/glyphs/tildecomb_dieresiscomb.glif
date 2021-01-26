@@ -2,6 +2,6 @@
 <glyph name="tildecomb_dieresiscomb" format="2">
   <outline>
     <component base="tildecomb" xOffset="-60"/>
-    <component base="dieresiscomb" xOffset="-32" yOffset="167"/>
+    <component base="dieresiscomb" xOffset="-62" yOffset="167"/>
   </outline>
 </glyph>

@@ -4,8 +4,7 @@
   <unicode hex="1E16"/>
   <outline>
     <component base="E"/>
-    <component base="macroncomb.case" xOffset="246" yOffset="175"/>
-    <component base="acutecomb.case" xOffset="378" yOffset="333"/>
+    <component base="macroncomb_acutecomb" xOffset="350" yOffset="140"/>
   </outline>
   <lib>
     <dict>

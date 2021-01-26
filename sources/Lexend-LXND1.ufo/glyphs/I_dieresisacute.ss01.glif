@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idieresisacute.ss01" format="2">
   <advance width="492"/>
+  <guideline x="246.0" y="0" angle="90.0" identifier="vNQCSzkfSO"/>
   <outline>
     <component base="I.ss01"/>
-    <component base="dieresiscomb.case" xOffset="44" yOffset="191"/>
-    <component base="acutecomb.case" xOffset="162" yOffset="341"/>
+    <component base="dieresiscomb_acutecomb" xOffset="96" yOffset="139"/>
   </outline>
 </glyph>
