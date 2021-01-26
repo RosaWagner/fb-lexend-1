@@ -3,9 +3,9 @@
   <advance width="705"/>
   <unicode hex="1E08"/>
   <outline>
-    <component base="acutecomb.case" xOffset="256.27999999999884" yOffset="216"/>
     <component base="C"/>
-    <component base="cedillacomb.case" xOffset="280"/>
+    <component base="cedillacomb.case" xOffset="281" yOffset="1"/>
+    <component base="acutecomb.case" xOffset="256" yOffset="216"/>
   </outline>
   <lib>
     <dict>

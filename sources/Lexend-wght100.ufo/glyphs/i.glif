@@ -8,7 +8,7 @@ i
   <guideline x="80.50118607601952" y="0" angle="270.0" name="center" identifier="JRtEA1Ek1q"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="-22" yOffset="14"/>
+    <component base="dotaccentcomb" xOffset="-34" yOffset="14"/>
   </outline>
   <lib>
     <dict>

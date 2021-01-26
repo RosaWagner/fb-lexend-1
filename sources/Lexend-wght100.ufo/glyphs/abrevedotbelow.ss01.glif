@@ -3,8 +3,8 @@
   <advance width="537"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="brevecomb" xOffset="93.76000000000931" yOffset="-20"/>
-    <component base="dotbelowcomb" xOffset="158.7600000000093" yOffset="-36"/>
+    <component base="dotbelowcomb" xOffset="159" yOffset="-36"/>
+    <component base="brevecomb" xOffset="94" yOffset="-20"/>
   </outline>
   <lib>
     <dict>

@@ -4,7 +4,7 @@
   <unicode hex="00CF"/>
   <guideline x="309.0" y="0" angle="90.0" identifier="MxFTmnp9KO"/>
   <outline>
-    <component base="dieresiscomb.case" xOffset="110" yOffset="191"/>
     <component base="I"/>
+    <component base="dieresiscomb.case" xOffset="106" yOffset="191"/>
   </outline>
 </glyph>

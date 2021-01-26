@@ -2,10 +2,11 @@
 <glyph name="Acircumflexdotbelow" format="2">
   <advance width="858"/>
   <unicode hex="1EAC"/>
+  <guideline x="426" y="861" angle="90" identifier="RBd57pS70R"/>
   <outline>
     <component base="A"/>
-    <component base="dotbelowcomb.case" xOffset="377"/>
-    <component base="circumflexcomb.case" xOffset="315" yOffset="175"/>
+    <component base="dotbelowcomb.case" xOffset="322"/>
+    <component base="circumflexcomb.case" xOffset="249" yOffset="175"/>
   </outline>
   <lib>
     <dict>

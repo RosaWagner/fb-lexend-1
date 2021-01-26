@@ -3,7 +3,7 @@
   <advance width="734"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="dotbelowcomb" xOffset="350"/>
-    <component base="circumflexcomb" xOffset="249" yOffset="1"/>
+    <component base="dotbelowcomb" xOffset="273"/>
+    <component base="circumflexcomb" xOffset="184" yOffset="1"/>
   </outline>
 </glyph>

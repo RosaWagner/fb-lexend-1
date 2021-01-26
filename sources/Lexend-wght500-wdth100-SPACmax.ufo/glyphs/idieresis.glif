@@ -6,8 +6,8 @@
 idieresis
 </note>
   <outline>
-    <component base="idotless" xOffset="130"/>
     <component base="dieresiscomb" xOffset="59" yOffset="24"/>
+    <component base="idotless"/>
   </outline>
   <lib>
     <dict>
