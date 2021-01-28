@@ -1,103 +1,84 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.1">
-  <axes>
-    <axis tag="wght" name="weight" minimum="100" maximum="800" default="500"/>
-  </axes>
-  <sources>
-    <source filename="Lexend-Regular.ufo" familyname="Lexend" stylename="Regular">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
-      <location>
-        <dimension name="weight" xvalue="500"/>
-      </location>
-    </source>
-    <source filename="Lexend-wght100.ufo" familyname="Lexend" stylename="weght300">
-      <location>
-        <dimension name="weight" xvalue="100"/>
-      </location>
-    </source>
-    <source filename="Lexend-wght300.ufo" familyname="Lexend" stylename="weght300">
-      <location>
-        <dimension name="weight" xvalue="300"/>
-      </location>
-    </source>
-    <source filename="Lexend-wght800.ufo" familyname="Lexend" stylename="weght800">
-      <location>
-        <dimension name="weight" xvalue="800"/>
-      </location>
-    </source>
-  </sources>
-  <instances>
-    <instance familyname="Lexend" stylename="wght100" filename="instances/Lexend_wght100.ufo">
-      <location>
-        <dimension name="weight" xvalue="100"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Lexend" stylename="wght300" filename="instances/Lexend_wght300.ufo">
-      <location>
-        <dimension name="weight" xvalue="300"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Lexend" stylename="wght400" filename="instances/Lexend_wght400.ufo">
-      <location>
-        <dimension name="weight" xvalue="400"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Lexend" stylename="wght500" filename="instances/Lexend_wght550.ufo">
-      <location>
-        <dimension name="weight" xvalue="500"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Lexend" stylename="wght600" filename="instances/Lexend_wght600.ufo">
-      <location>
-        <dimension name="weight" xvalue="600"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Lexend" stylename="wght700" filename="instances/Lexend_wght700.ufo">
-      <location>
-        <dimension name="weight" xvalue="700"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Lexend" stylename="wght800" filename="instances/Lexend_wght800.ufo">
-      <location>
-        <dimension name="weight" xvalue="800"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-  </instances>
-  <lib>
-    <dict>
-      <key>com.letterror.mathModelPref</key>
-      <string>previewVarLib</string>
-      <key>com.letterror.skateboard.interactionSources</key>
-      <dict>
-        <key>vertical</key>
-        <array>
-          <string>weight</string>
-        </array>
-      </dict>
-      <key>com.letterror.skateboard.previewLocation</key>
-      <dict>
-        <key>weight</key>
-        <real>500.0</real>
-      </dict>
-      <key>com.letterror.skateboard.previewText</key>
-      <string>SKATEBOARD</string>
-    </dict>
-  </lib>
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="500" maximum="800" minimum="100" name="wght" tag="wght">
+            <labelname xml:lang="en">wght</labelname>
+        </axis>
+        <axis default="100" maximum="125" minimum="100" name="wdth" tag="wdth">
+            <labelname xml:lang="en">wdth</labelname>
+        </axis>
+        <axis default="100" maximum="125" minimum="100" name="SPAC" tag="SPAC">
+            <labelname xml:lang="en">SPAC</labelname>
+        </axis>
+        <axis default="0" maximum="1" minimum="0" name="LXND" tag="LXND">
+            <labelname xml:lang="en">LXND</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source familyname="Lexend" filename="Lexend-Regular.ufo" name="Lexend-Regular.ufo" stylename="Regular">
+            <info copy="1" />
+            <location>
+                <dimension name="wght" xvalue="500" />
+                <dimension name="wdth" xvalue="100" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Lexend" filename="Lexend-wght100.ufo" name="Lexend-wght100.ufo" stylename="wght100">
+            <location>
+                <dimension name="wght" xvalue="100" />
+                <dimension name="wdth" xvalue="100" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Lexend" filename="Lexend-wght300.ufo" name="Lexend-wght300.ufo" stylename="wght300">
+            <location>
+                <dimension name="wght" xvalue="300" />
+                <dimension name="wdth" xvalue="100" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Lexend" filename="Lexend-wght800.ufo" name="Lexend-wght800.ufo" stylename="wght800">
+            <location>
+                <dimension name="wght" xvalue="800" />
+                <dimension name="wdth" xvalue="100" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Lexend" filename="Lexend-wght500-wdth125-SPACmin.ufo" name="Lexend-wght500-wdth125-SPACmin.ufo" stylename="wght500-wdth125-SPACmin">
+            <location>
+                <dimension name="wght" xvalue="500" />
+                <dimension name="wdth" xvalue="125" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Lexend" filename="Lexend-wght500-wdth100-SPACmax.ufo" name="Lexend-wght500-wdth100-SPACmax.ufo" stylename="wght500-wdth100-SPACmax">
+            <location>
+                <dimension name="wght" xvalue="500" />
+                <dimension name="wdth" xvalue="100" />
+                <dimension name="SPAC" xvalue="125" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Lexend" filename="Lexend-wght500-wdth125-SPACmax.ufo" name="Lexend-wght500-wdth125-SPACmax.ufo" stylename="wght500-wdth125-SPACmax">
+            <location>
+                <dimension name="wght" xvalue="500" />
+                <dimension name="wdth" xvalue="125" />
+                <dimension name="SPAC" xvalue="125" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Lexend" filename="Lexend-LXND1.ufo" name="Lexend-LXND1.ufo" stylename="LXND1">
+            <location>
+                <dimension name="wght" xvalue="500" />
+                <dimension name="wdth" xvalue="100" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="1" />
+            </location>
+        </source>
+    </sources>
 </designspace>
