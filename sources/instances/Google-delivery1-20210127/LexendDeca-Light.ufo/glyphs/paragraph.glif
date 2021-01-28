@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paragraph" format="2">
+  <advance width="633"/>
+  <unicode hex="00B6"/>
+  <note>
+paragraph
+</note>
+  <outline>
+    <contour>
+      <point x="525.0" y="0.0" type="line"/>
+      <point x="475.0" y="0.0" type="line"/>
+      <point x="475.0" y="680.0" type="line"/>
+      <point x="503.0" y="655.0" type="line"/>
+      <point x="302.0" y="655.0" type="line"/>
+      <point x="346.0" y="681.0" type="line"/>
+      <point x="346.0" y="0.0" type="line"/>
+      <point x="296.0" y="0.0" type="line"/>
+      <point x="296.0" y="314.0" type="line"/>
+      <point x="320.0" y="279.0" type="line"/>
+      <point x="256.0" y="279.0" type="line" smooth="yes"/>
+      <point x="175.0" y="279.0"/>
+      <point x="68.0" y="396.0"/>
+      <point x="68.0" y="486.0" type="qcurve" smooth="yes"/>
+      <point x="68.0" y="583.0"/>
+      <point x="191.0" y="700.0"/>
+      <point x="293.0" y="700.0" type="qcurve"/>
+      <point x="525.0" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

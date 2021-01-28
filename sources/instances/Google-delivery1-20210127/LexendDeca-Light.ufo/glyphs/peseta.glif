@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="791"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="719.0" y="456.0" type="line"/>
+      <point x="92.0" y="456.0" type="line"/>
+      <point x="92.0" y="505.0" type="line"/>
+      <point x="719.0" y="505.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="188.0" y="700.0" type="line"/>
+      <point x="457.0" y="700.0" type="line" smooth="yes"/>
+      <point x="537.0" y="700.0"/>
+      <point x="641.0" y="586.0"/>
+      <point x="641.0" y="498.0" type="qcurve" smooth="yes"/>
+      <point x="641.0" y="404.0"/>
+      <point x="537.0" y="283.0"/>
+      <point x="457.0" y="283.0" type="qcurve"/>
+      <point x="222.0" y="283.0" type="line"/>
+      <point x="238.0" y="305.0" type="line"/>
+      <point x="238.0" y="0.0" type="line"/>
+      <point x="188.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="221.0" y="333.0" type="line"/>
+      <point x="466.0" y="333.0" type="line" smooth="yes"/>
+      <point x="519.0" y="333.0"/>
+      <point x="588.0" y="427.0"/>
+      <point x="588.0" y="500.0" type="qcurve" smooth="yes"/>
+      <point x="588.0" y="565.0"/>
+      <point x="519.0" y="650.0"/>
+      <point x="466.0" y="650.0" type="qcurve"/>
+      <point x="221.0" y="650.0" type="line"/>
+      <point x="238.0" y="671.0" type="line"/>
+      <point x="238.0" y="321.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

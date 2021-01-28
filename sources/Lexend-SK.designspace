@@ -30,6 +30,13 @@
     </source>
   </sources>
   <instances>
+    <instance familyname="Lexend" stylename="wght100" filename="instances/Lexend_wght100.ufo">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
     <instance familyname="Lexend" stylename="wght300" filename="instances/Lexend_wght300.ufo">
       <location>
         <dimension name="weight" xvalue="300"/>
@@ -44,9 +51,9 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Lexend" stylename="wght550" filename="instances/Lexend_wght550.ufo">
+    <instance familyname="Lexend" stylename="wght500" filename="instances/Lexend_wght550.ufo">
       <location>
-        <dimension name="weight" xvalue="550"/>
+        <dimension name="weight" xvalue="500"/>
       </location>
       <kerning/>
       <info/>
@@ -87,7 +94,7 @@
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>weight</key>
-        <real>600.0</real>
+        <real>500.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
       <string>SKATEBOARD</string>

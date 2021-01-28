@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="600"/>
+  <unicode hex="0045"/>
+  <note>
+E
+</note>
+  <outline>
+    <contour>
+      <point x="182.0" y="0.0" type="line"/>
+      <point x="103.0" y="0.0" type="line"/>
+      <point x="103.0" y="700.0" type="line"/>
+      <point x="182.0" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="525.0" y="0.0" type="line"/>
+      <point x="140.0" y="0.0" type="line"/>
+      <point x="140.0" y="77.0" type="line"/>
+      <point x="525.0" y="77.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="471.0" y="321.5" type="line"/>
+      <point x="139.5" y="321.5" type="line"/>
+      <point x="139.5" y="398.5" type="line"/>
+      <point x="471.0" y="398.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="527.0" y="623.0" type="line"/>
+      <point x="139.5" y="623.0" type="line"/>
+      <point x="139.5" y="700.0" type="line"/>
+      <point x="527.0" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

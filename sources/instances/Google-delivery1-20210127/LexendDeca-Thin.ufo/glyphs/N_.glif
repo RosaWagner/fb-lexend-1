@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="730"/>
+  <unicode hex="004E"/>
+  <note>
+N
+</note>
+  <outline>
+    <contour>
+      <point x="598.0" y="241.0" type="qcurve"/>
+      <point x="598.0" y="700.0" type="line"/>
+      <point x="620.0" y="700.0" type="line"/>
+      <point x="620.0" y="0.0" type="line"/>
+      <point x="600.0" y="0.0" type="line"/>
+      <point x="115.0" y="686.0" type="line"/>
+      <point x="130.0" y="686.0" type="line"/>
+      <point x="131.0" y="661.0"/>
+      <point x="133.0" y="525.0"/>
+      <point x="132.0" y="470.0" type="qcurve"/>
+      <point x="132.0" y="0.0" type="line"/>
+      <point x="110.0" y="0.0" type="line"/>
+      <point x="110.0" y="700.0" type="line"/>
+      <point x="132.0" y="700.0" type="line"/>
+      <point x="605.0" y="31.0" type="line"/>
+      <point x="601.0" y="31.0" type="line"/>
+      <point x="601.0" y="75.0"/>
+      <point x="599.0" y="177.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

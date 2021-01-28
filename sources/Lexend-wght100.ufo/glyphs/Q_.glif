@@ -35,8 +35,8 @@ Q
       <point x="260" y="12"/>
     </contour>
     <contour>
-      <point x="417" y="273" type="line"/>
-      <point x="670" y="-64" type="line"/>
+      <point x="416" y="272" type="line"/>
+      <point x="669" y="-65" type="line"/>
       <point x="652" y="-78" type="line"/>
       <point x="398" y="260" type="line"/>
     </contour>
