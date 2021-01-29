@@ -7,16 +7,16 @@ yen
 </note>
   <outline>
     <contour>
-      <point x="494" y="292" type="line"/>
-      <point x="156" y="292" type="line"/>
-      <point x="156" y="314" type="line"/>
-      <point x="494" y="314" type="line"/>
-    </contour>
-    <contour>
       <point x="494" y="149" type="line"/>
       <point x="156" y="149" type="line"/>
       <point x="156" y="171" type="line"/>
       <point x="494" y="171" type="line"/>
+    </contour>
+    <contour>
+      <point x="494" y="299" type="line"/>
+      <point x="156" y="299" type="line"/>
+      <point x="156" y="321" type="line"/>
+      <point x="494" y="321" type="line"/>
     </contour>
     <contour>
       <point x="570" y="700" type="line"/>

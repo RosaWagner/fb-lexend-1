@@ -5,9 +5,10 @@
   <note>
 dcaron
 </note>
+  <guideline x="860" y="790" angle="0" identifier="saY3jdoOPt"/>
   <outline>
     <component base="d"/>
-    <component base="caronalt" xOffset="877" yOffset="51"/>
+    <component base="caronalt" xOffset="877" yOffset="103"/>
   </outline>
   <lib>
     <dict>

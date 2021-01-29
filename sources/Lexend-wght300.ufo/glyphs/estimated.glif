@@ -28,7 +28,7 @@ estimated
       <point x="119.0" y="292.0" type="line"/>
       <point x="119.0" y="157.0" type="line" smooth="yes"/>
       <point x="119.0" y="146.0"/>
-      <point x="139.24849403055288" y="112.75150596944714"/>
+      <point x="139" y="113"/>
       <point x="160.0" y="92.0" type="qcurve" smooth="yes"/>
       <point x="194" y="57"/>
       <point x="273.0" y="28.0"/>
@@ -51,7 +51,7 @@ estimated
       <point x="517.0" y="320.0" type="line"/>
       <point x="517.0" y="372.0" type="line" smooth="yes"/>
       <point x="517.0" y="417.0"/>
-      <point x="495.95442180892843" y="461.04557819107157"/>
+      <point x="496" y="461"/>
       <point x="479.0" y="478.0" type="qcurve"/>
       <point x="447.0" y="510.0"/>
       <point x="365.0" y="543.0"/>

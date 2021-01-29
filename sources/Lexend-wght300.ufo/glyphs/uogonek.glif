@@ -7,7 +7,7 @@ uogonek
 </note>
   <outline>
     <component base="u"/>
-    <component base="ogonekcomb" xOffset="273"/>
+    <component base="ogonekcomb" xOffset="253"/>
   </outline>
   <lib>
     <dict>

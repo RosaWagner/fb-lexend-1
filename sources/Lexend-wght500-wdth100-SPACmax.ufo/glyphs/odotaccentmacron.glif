@@ -4,7 +4,6 @@
   <unicode hex="0231"/>
   <outline>
     <component base="o"/>
-    <component base="dotaccentcomb" xOffset="200" yOffset="2"/>
-    <component base="macroncomb" xOffset="92" yOffset="224"/>
+    <component base="dotaccentcomb_macroncomb" xOffset="231"/>
   </outline>
 </glyph>

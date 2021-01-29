@@ -4,6 +4,6 @@
   <unicode hex="20A3"/>
   <outline>
     <component base="F" xOffset="9"/>
-    <component base="strokeshortcomb" xOffset="10" yOffset="-180"/>
+    <component base="strokeshortcomb" xOffset="10" yOffset="-167"/>
   </outline>
 </glyph>

@@ -4,7 +4,6 @@
   <unicode hex="022C"/>
   <outline>
     <component base="O"/>
-    <component base="tildecomb.case" xOffset="319" yOffset="201"/>
-    <component base="macroncomb.case" xOffset="335" yOffset="401"/>
+    <component base="tildecomb_macroncomb" xOffset="400" yOffset="162"/>
   </outline>
 </glyph>

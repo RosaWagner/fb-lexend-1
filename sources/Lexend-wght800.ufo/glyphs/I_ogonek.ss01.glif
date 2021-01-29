@@ -6,35 +6,35 @@ Iogonek
 </note>
   <outline>
     <contour>
-      <point x="296" y="700" type="qcurve"/>
-      <point x="296" y="0" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="700" type="line"/>
-      <point x="134" y="700"/>
-      <point x="242" y="700"/>
+      <point x="275" y="700" type="qcurve"/>
+      <point x="275" y="0" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="59" y="700" type="line"/>
+      <point x="113" y="700"/>
+      <point x="221" y="700"/>
     </contour>
     <contour>
-      <point x="206" y="-220" type="qcurve" smooth="yes"/>
-      <point x="150" y="-220"/>
-      <point x="77" y="-153"/>
-      <point x="77" y="-103" type="qcurve" smooth="yes"/>
-      <point x="77" y="-51"/>
-      <point x="162" y="25"/>
-      <point x="252" y="49" type="qcurve"/>
-      <point x="263" y="44" type="line"/>
-      <point x="296" y="0" type="line"/>
-      <point x="258" y="-9"/>
-      <point x="203" y="-50"/>
-      <point x="203" y="-75" type="qcurve" smooth="yes"/>
-      <point x="203" y="-85"/>
-      <point x="215" y="-97"/>
-      <point x="226" y="-97" type="qcurve" smooth="yes"/>
-      <point x="235" y="-97"/>
-      <point x="247" y="-86"/>
-      <point x="255" y="-74" type="qcurve"/>
-      <point x="335" y="-133" type="line"/>
-      <point x="317" y="-163"/>
-      <point x="249" y="-220"/>
+      <point x="185" y="-220" type="qcurve" smooth="yes"/>
+      <point x="129" y="-220"/>
+      <point x="56" y="-153"/>
+      <point x="56" y="-103" type="qcurve" smooth="yes"/>
+      <point x="56.0" y="-51.0"/>
+      <point x="140.95465664693813" y="24.987908439183506"/>
+      <point x="231" y="49" type="qcurve"/>
+      <point x="242" y="44" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="236.9398546364966" y="-9.014244954513972"/>
+      <point x="182.0" y="-50.00000000000001"/>
+      <point x="182" y="-75" type="qcurve" smooth="yes"/>
+      <point x="182" y="-85"/>
+      <point x="194" y="-97"/>
+      <point x="205" y="-97" type="qcurve" smooth="yes"/>
+      <point x="214" y="-97"/>
+      <point x="226" y="-86"/>
+      <point x="234" y="-74" type="qcurve"/>
+      <point x="314" y="-133" type="line"/>
+      <point x="296" y="-163"/>
+      <point x="228" y="-220"/>
     </contour>
   </outline>
   <lib>

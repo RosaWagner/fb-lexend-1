@@ -2,9 +2,9 @@
 <glyph name="odieresismacron" format="2">
   <advance width="795"/>
   <unicode hex="022B"/>
+  <guideline x="397.5" y="0" angle="90.0" identifier="l7lrd2S4cx"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb" xOffset="110" yOffset="12"/>
-    <component base="macroncomb" xOffset="92" yOffset="158"/>
+    <component base="dieresiscomb_macroncomb" xOffset="227"/>
   </outline>
 </glyph>

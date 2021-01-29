@@ -2,10 +2,10 @@
 <glyph name="Odotaccentmacron" format="2">
   <advance width="798"/>
   <unicode hex="0230"/>
+  <guideline x="399.0" y="0" angle="270.0" identifier="MtWsPZZ3do"/>
   <outline>
     <component base="O"/>
-    <component base="dotaccentcomb.case" xOffset="281" yOffset="170"/>
-    <component base="macroncomb.case" xOffset="172" yOffset="371"/>
+    <component base="dotaccentcomb_macroncomb" xOffset="263" yOffset="115"/>
   </outline>
   <lib>
     <dict>

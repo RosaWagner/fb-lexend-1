@@ -5,6 +5,6 @@
   <guideline x="196.5" y="0" angle="270.0" identifier="yYfR9mj11k"/>
   <outline>
     <component base="dieresiscomb" xOffset="-22" yOffset="-30"/>
-    <component base="macroncomb" xOffset="-44" yOffset="153"/>
+    <component base="macroncomb" xOffset="-24" yOffset="153"/>
   </outline>
 </glyph>

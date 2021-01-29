@@ -3,7 +3,7 @@
   <advance width="537"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="brevecomb_tildecomb" xOffset="105" yOffset="-2"/>
+    <component base="brevecomb_tildecomb" xOffset="104" yOffset="-19"/>
   </outline>
   <lib>
     <dict>

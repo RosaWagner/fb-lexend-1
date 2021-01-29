@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb_acutecomb" format="2">
   <guideline x="310" y="801" angle="0" identifier="DxlZzSwiTB"/>
+  <guideline x="334" y="725" angle="90" identifier="8xMEEtMSdw"/>
   <outline>
     <component base="macroncomb" xOffset="-45" yOffset="50"/>
-    <component base="acutecomb" xOffset="25" yOffset="247"/>
+    <component base="acutecomb" xOffset="58" yOffset="247"/>
   </outline>
 </glyph>

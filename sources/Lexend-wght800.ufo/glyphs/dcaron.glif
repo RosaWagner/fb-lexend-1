@@ -2,9 +2,10 @@
 <glyph name="dcaron" format="2">
   <advance width="931"/>
   <unicode hex="010F"/>
+  <guideline x="595" y="790" angle="0" identifier="lMOe8gorJR"/>
   <outline>
     <component base="d" xOffset="40"/>
-    <component base="caronalt" xOffset="706" yOffset="99"/>
+    <component base="caronalt" xOffset="706" yOffset="94"/>
   </outline>
   <lib>
     <dict>

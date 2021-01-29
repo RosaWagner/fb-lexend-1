@@ -9,7 +9,7 @@ dcaron
   <guideline x="649" y="791" angle="0" identifier="ljGPuKzB3j"/>
   <outline>
     <component base="d"/>
-    <component base="caronalt" xOffset="579" yOffset="104"/>
+    <component base="caronalt" xOffset="635" yOffset="104"/>
   </outline>
   <lib>
     <dict>

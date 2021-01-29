@@ -7,7 +7,7 @@ hbar
 </note>
   <outline>
     <component base="h"/>
-    <component base="strokeshortcomb" xOffset="-48" yOffset="312"/>
+    <component base="strokeshortcomb" xOffset="2" yOffset="312"/>
   </outline>
   <lib>
     <dict>

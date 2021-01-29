@@ -7,7 +7,7 @@ ccedilla
 </note>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb" xOffset="289"/>
+    <component base="cedillacomb" xOffset="339"/>
   </outline>
   <lib>
     <dict>

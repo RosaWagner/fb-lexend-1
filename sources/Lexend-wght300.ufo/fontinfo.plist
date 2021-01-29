@@ -44,9 +44,9 @@
         <key>name</key>
         <string>diacritics-base</string>
         <key>x</key>
-        <integer>229</integer>
+        <integer>292</integer>
         <key>y</key>
-        <integer>589</integer>
+        <integer>595</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -100,9 +100,9 @@
         <key>name</key>
         <string>ogonekline</string>
         <key>x</key>
-        <integer>556</integer>
+        <integer>219</integer>
         <key>y</key>
-        <integer>-221</integer>
+        <integer>-220</integer>
       </dict>
       <dict>
         <key>angle</key>

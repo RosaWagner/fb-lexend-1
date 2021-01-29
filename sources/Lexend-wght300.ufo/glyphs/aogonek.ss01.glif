@@ -4,9 +4,10 @@
   <note>
 aogonek
 </note>
+  <guideline x="466" y="57" angle="270" identifier="jwQKc94XsO"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="ogonekcomb" xOffset="252"/>
+    <component base="ogonekcomb" xOffset="232"/>
   </outline>
   <lib>
     <dict>

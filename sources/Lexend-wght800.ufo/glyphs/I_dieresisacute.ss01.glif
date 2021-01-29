@@ -3,7 +3,7 @@
   <advance width="376"/>
   <outline>
     <component base="I.ss01"/>
-    <component base="dieresiscomb_acutecomb" xOffset="-60" yOffset="195"/>
+    <component base="dieresiscomb_acutecomb" xOffset="-50" yOffset="214"/>
   </outline>
   <lib>
     <dict>

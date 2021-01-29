@@ -2,10 +2,10 @@
 <glyph name="odieresismacron" format="2">
   <advance width="615"/>
   <unicode hex="022B"/>
+  <guideline x="307.5" y="0" angle="270.0" identifier="Y06OdGUf2u"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb" xOffset="110" yOffset="12"/>
-    <component base="macroncomb" xOffset="92" yOffset="158"/>
+    <component base="dieresiscomb_macroncomb" xOffset="143"/>
   </outline>
   <lib>
     <dict>
