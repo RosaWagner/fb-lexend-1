@@ -7,24 +7,24 @@ lozenge
 </note>
   <outline>
     <contour>
-      <point x="324" y="-102" type="line"/>
-      <point x="416" y="-102" type="line"/>
-      <point x="-6" y="385" type="line"/>
-      <point x="4" y="282" type="line"/>
-      <point x="386" y="716" type="line"/>
-      <point x="338" y="728" type="line"/>
-      <point x="732" y="284" type="line"/>
-      <point x="736" y="379" type="line"/>
+      <point x="369" y="-42" type="line"/>
+      <point x="367" y="-42" type="line"/>
+      <point x="66" y="327" type="line"/>
+      <point x="66" y="329" type="line"/>
+      <point x="367" y="689" type="line"/>
+      <point x="369" y="689" type="line"/>
+      <point x="670" y="331" type="line"/>
+      <point x="670" y="329" type="line"/>
     </contour>
     <contour>
-      <point x="152" y="341" type="line"/>
-      <point x="377" y="80" type="line"/>
-      <point x="360" y="82" type="line"/>
-      <point x="590" y="353" type="line"/>
-      <point x="590" y="306" type="line"/>
-      <point x="358" y="564" type="line"/>
-      <point x="378" y="564" type="line"/>
-      <point x="149" y="306" type="line"/>
+      <point x="162" y="335" type="line"/>
+      <point x="377" y="82" type="line"/>
+      <point x="360" y="84" type="line"/>
+      <point x="580" y="343" type="line"/>
+      <point x="580" y="312" type="line"/>
+      <point x="358" y="565" type="line"/>
+      <point x="378" y="565" type="line"/>
+      <point x="159" y="316" type="line"/>
     </contour>
   </outline>
 </glyph>

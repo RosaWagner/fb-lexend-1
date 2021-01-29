@@ -10,13 +10,13 @@ lozenge
   <outline>
     <contour>
       <point x="299" y="-37" type="line"/>
-      <point x="36" y="328" type="line"/>
-      <point x="36" y="328" type="line"/>
-      <point x="299" y="689" type="line"/>
-      <point x="299" y="689" type="line"/>
-      <point x="560" y="328" type="line"/>
-      <point x="560" y="328" type="line"/>
       <point x="299" y="-37" type="line"/>
+      <point x="36" y="328" type="line"/>
+      <point x="36" y="328" type="line"/>
+      <point x="299" y="689" type="line"/>
+      <point x="299" y="689" type="line"/>
+      <point x="560" y="328" type="line"/>
+      <point x="560" y="328" type="line"/>
     </contour>
     <contour>
       <point x="55" y="343" type="line"/>
