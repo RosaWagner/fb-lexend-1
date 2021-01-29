@@ -305,7 +305,7 @@ project.run_from_ufos(
 outfile = "Lexend[wdth-SPAC-LXND].ttf"
 
 #make folder if it doesn't exist
-destFolder = "fonts"
+destFolder = "fonts/VF/"
 if not os.path.exists(destFolder):
     os.makedirs(destFolder)
 outfile = os.path.join(destFolder, outfile)
