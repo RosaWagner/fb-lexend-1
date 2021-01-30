@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="743.5"/>
+  <unicode hex="0044"/>
+  <note>
+D
+</note>
+  <outline>
+    <contour>
+      <point x="103.0" y="700.0" type="line"/>
+      <point x="367.5" y="700.0" type="line" smooth="yes"/>
+      <point x="510.0" y="700.0"/>
+      <point x="694.5" y="504.5"/>
+      <point x="694.5" y="350.0" type="qcurve" smooth="yes"/>
+      <point x="694.5" y="195.0"/>
+      <point x="510.5" y="0.0"/>
+      <point x="367.5" y="0.0" type="qcurve"/>
+      <point x="103.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="173.5" y="77.0" type="line"/>
+      <point x="362.5" y="77.0" type="line" smooth="yes"/>
+      <point x="472.5" y="77.0"/>
+      <point x="613.0" y="227.0"/>
+      <point x="613.0" y="350.0" type="qcurve" smooth="yes"/>
+      <point x="613.0" y="472.5"/>
+      <point x="472.0" y="623.0"/>
+      <point x="362.5" y="623.0" type="qcurve"/>
+      <point x="170.5" y="623.0" type="line"/>
+      <point x="182.0" y="635.0" type="line"/>
+      <point x="182.0" y="63.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

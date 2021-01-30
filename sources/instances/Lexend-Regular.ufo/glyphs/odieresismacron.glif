@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresismacron" format="2">
+  <advance width="607.0"/>
+  <unicode hex="022B"/>
+  <guideline x="303.5" identifier="ml2C0p0Bkr"/>
+  <outline>
+    <component base="o"/>
+    <component base="dieresiscomb_macroncomb" xOffset="149.5" yOffset="0.5"/>
+  </outline>
+</glyph>

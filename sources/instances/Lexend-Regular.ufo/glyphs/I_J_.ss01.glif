@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ.ss01" format="2">
+  <advance width="890.0"/>
+  <note>
+IJ
+</note>
+  <outline>
+    <component base="I.ss01"/>
+    <component base="J.ss01" xOffset="308.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

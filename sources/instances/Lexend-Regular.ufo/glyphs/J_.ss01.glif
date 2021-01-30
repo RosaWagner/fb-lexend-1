@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J.ss01" format="2">
+  <advance width="582.0"/>
+  <note>
+J
+</note>
+  <outline>
+    <contour>
+      <point x="250.5" y="-10.0" type="qcurve"/>
+      <point x="184.0" y="-10.0"/>
+      <point x="77.5" y="58.0"/>
+      <point x="47.0" y="117.0" type="qcurve"/>
+      <point x="99.0" y="171.5" type="line"/>
+      <point x="136.5" y="111.5"/>
+      <point x="209.0" y="67.5"/>
+      <point x="251.0" y="67.5" type="qcurve" smooth="yes"/>
+      <point x="312.5" y="67.5"/>
+      <point x="389.5" y="153.0"/>
+      <point x="389.5" y="219.5" type="qcurve"/>
+      <point x="389.5" y="700.0" type="line"/>
+      <point x="470.5" y="700.0" type="line"/>
+      <point x="470.5" y="213.0" type="line"/>
+      <point x="470.5" y="117.0"/>
+      <point x="347.5" y="-10.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

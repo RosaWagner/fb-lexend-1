@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="817"/>
+  <unicode hex="00BC"/>
+  <note>
+onequarter
+</note>
+  <outline>
+    <component base="one.numr" xOffset="26.499604641326826" yOffset="-2.9999391755887426"/>
+    <component base="fraction" xOffset="85.00012164882251"/>
+    <component base="four.dnom" xOffset="378.00066906852385"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>one.numr</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>four</string>
+      <key>public.markColor</key>
+      <string>1,0.6921,0.6392,1</string>
+    </dict>
+  </lib>
+</glyph>

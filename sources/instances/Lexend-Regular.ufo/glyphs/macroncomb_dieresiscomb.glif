@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb_dieresiscomb" format="2">
+  <guideline x="212.0" identifier="g1K1AP8tUk"/>
+  <outline>
+    <component base="macroncomb" xOffset="-66.0" yOffset="20.0"/>
+    <component base="dieresiscomb" xOffset="-40.0" yOffset="157.0"/>
+  </outline>
+</glyph>

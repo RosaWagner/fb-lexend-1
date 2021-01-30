@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_acutecomb" format="2">
+  <guideline x="149.5" identifier="6lbtBrU29H"/>
+  <guideline x="59.55397510023738" y="870.016506941856" angle="0" identifier="SDAXlxXZsq"/>
+  <outline>
+    <component base="tildecomb" xOffset="-60"/>
+    <component base="acutecomb" xOffset="51" yOffset="185"/>
+  </outline>
+</glyph>

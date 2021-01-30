@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noon-ar.medi" format="2">
+  <advance width="366.0"/>
+  <unicode hex="FEE8"/>
+  <outline>
+    <component base="behDotless-ar.medi"/>
+    <component base="dotabove-ar" xOffset="97.0" yOffset="-88.0"/>
+  </outline>
+</glyph>

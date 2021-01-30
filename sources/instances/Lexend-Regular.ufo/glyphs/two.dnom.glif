@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.dnom" format="2">
+  <advance width="346.0"/>
+  <outline>
+    <contour>
+      <point x="299.0" y="0.0" type="line"/>
+      <point x="67.0" y="0.0" type="line"/>
+      <point x="56.0" y="54.0" type="line"/>
+      <point x="134.0" y="135.5" type="line" smooth="yes"/>
+      <point x="145.0" y="147.0"/>
+      <point x="176.62786646651574" y="178.93184739030372"/>
+      <point x="185.5" y="189.0" type="qcurve" smooth="yes"/>
+      <point x="206.5" y="211.5"/>
+      <point x="226.0" y="242.9041095890411"/>
+      <point x="226.0" y="258.0" type="qcurve"/>
+      <point x="226.0" y="279.5"/>
+      <point x="198.5" y="305.0"/>
+      <point x="176.0" y="305.0" type="qcurve"/>
+      <point x="153.5" y="305.0"/>
+      <point x="111.5" y="277.0"/>
+      <point x="88.0" y="244.5" type="qcurve"/>
+      <point x="46.5" y="274.0" type="line"/>
+      <point x="70.0" y="313.5"/>
+      <point x="139.0" y="361.0"/>
+      <point x="177.5" y="361.0" type="qcurve"/>
+      <point x="229.0" y="361.0"/>
+      <point x="289.5" y="303.0"/>
+      <point x="289.5" y="258.0" type="qcurve"/>
+      <point x="289.5" y="229.57042253521126"/>
+      <point x="245.5" y="171.5"/>
+      <point x="187.0" y="111.5" type="qcurve"/>
+      <point x="120.0" y="43.0" type="line"/>
+      <point x="124.5" y="53.5" type="line"/>
+      <point x="299.0" y="53.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

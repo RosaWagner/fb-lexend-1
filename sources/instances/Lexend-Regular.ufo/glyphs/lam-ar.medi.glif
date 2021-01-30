@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam-ar.medi" format="2">
+  <advance width="319.0"/>
+  <unicode hex="FEE0"/>
+  <outline>
+    <component base="_connection" xOffset="229.0"/>
+    <component base="lam-ar.init"/>
+  </outline>
+</glyph>

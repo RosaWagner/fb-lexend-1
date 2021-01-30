@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonghunna-ar.fina" format="2">
+  <advance width="743.0"/>
+  <unicode hex="FB9F"/>
+  <outline>
+    <contour>
+      <point x="516.0" y="125.0" type="qcurve"/>
+      <point x="459.0" y="246.0" type="line"/>
+      <point x="539.0" y="342.0" type="line"/>
+      <point x="609.0" y="185.0" type="line" smooth="yes"/>
+      <point x="630.0" y="138.0"/>
+      <point x="684.0" y="102.0"/>
+      <point x="733.0" y="102.0" type="qcurve"/>
+      <point x="743.0" y="102.0" type="line"/>
+      <point x="743.0" y="0.0" type="line"/>
+      <point x="733.0" y="0.0" type="line" smooth="yes"/>
+      <point x="663.0" y="0.0"/>
+      <point x="542.0" y="71.0"/>
+    </contour>
+    <contour>
+      <point x="131.0" y="38.0" type="qcurve" smooth="yes"/>
+      <point x="131.0" y="-42.0"/>
+      <point x="237.0" y="-128.0"/>
+      <point x="334.0" y="-128.0" type="qcurve" smooth="yes"/>
+      <point x="419.0" y="-128.0"/>
+      <point x="535.0" y="-43.0"/>
+      <point x="535.0" y="23.0" type="qcurve" smooth="yes"/>
+      <point x="535.0" y="55.0"/>
+      <point x="521.0" y="111.0"/>
+      <point x="500.0" y="159.0" type="qcurve"/>
+      <point x="630.0" y="50.0" type="line"/>
+      <point x="630.0" y="-78.0"/>
+      <point x="462.0" y="-230.0"/>
+      <point x="321.0" y="-230.0" type="qcurve" smooth="yes"/>
+      <point x="183.0" y="-230.0"/>
+      <point x="30.0" y="-94.0"/>
+      <point x="30.0" y="23.0" type="qcurve" smooth="yes"/>
+      <point x="30.0" y="66.0"/>
+      <point x="61.0" y="187.0"/>
+      <point x="89.0" y="250.0" type="qcurve"/>
+      <point x="33.0" y="228.0" type="line"/>
+      <point x="210.0" y="169.0" type="line"/>
+      <point x="177.0" y="223.0" type="line"/>
+      <point x="155.0" y="171.0"/>
+      <point x="131.0" y="75.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

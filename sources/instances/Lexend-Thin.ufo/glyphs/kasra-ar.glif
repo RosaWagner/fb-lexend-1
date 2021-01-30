@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kasra-ar" format="2">
+  <unicode hex="0650"/>
+  <outline>
+    <contour>
+      <point x="20.0" y="-154.0" type="line"/>
+      <point x="273.0" y="-88.0" type="line"/>
+      <point x="287.0" y="-142.0" type="line"/>
+      <point x="34.0" y="-208.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>307</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

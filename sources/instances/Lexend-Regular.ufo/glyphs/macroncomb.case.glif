@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb.case" format="2">
+  <outline>
+    <contour>
+      <point x="369.0" y="612.5" type="line"/>
+      <point x="61.5" y="612.5" type="line"/>
+      <point x="61.5" y="673.0" type="line"/>
+      <point x="369.0" y="673.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>431</integer>
+    </dict>
+  </lib>
+</glyph>

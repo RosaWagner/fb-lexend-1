@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa" format="2">
+  <advance width="785"/>
+  <unicode hex="018F"/>
+  <outline>
+    <contour>
+      <point x="735" y="346" type="qcurve"/>
+      <point x="735" y="197"/>
+      <point x="533" y="-10"/>
+      <point x="387" y="-10" type="qcurve"/>
+      <point x="243" y="-10"/>
+      <point x="50" y="191"/>
+      <point x="50" y="340" type="qcurve"/>
+      <point x="50" y="374" type="line"/>
+      <point x="705" y="374" type="line"/>
+      <point x="705" y="324" type="line"/>
+      <point x="103" y="324" type="line"/>
+      <point x="104.00353331124585" y="206.5866025842363"/>
+      <point x="272.18727915194347" y="40.0"/>
+      <point x="388" y="40" type="qcurve"/>
+      <point x="508.82191780821915" y="40.0"/>
+      <point x="682.0" y="221.0"/>
+      <point x="682" y="349" type="qcurve"/>
+      <point x="682.0" y="478.0"/>
+      <point x="501.8338762214984" y="655.0"/>
+      <point x="373" y="655" type="qcurve"/>
+      <point x="309.0" y="655.0"/>
+      <point x="197.22982881229993" y="608.2186176507244"/>
+      <point x="156" y="569" type="qcurve"/>
+      <point x="121" y="608" type="line"/>
+      <point x="168" y="654"/>
+      <point x="300" y="705"/>
+      <point x="374" y="705" type="qcurve"/>
+      <point x="526" y="705"/>
+      <point x="735" y="498"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.5917,1,0.4781,1</string>
+    </dict>
+  </lib>
+</glyph>

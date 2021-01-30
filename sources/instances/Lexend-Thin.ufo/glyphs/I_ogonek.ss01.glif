@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek.ss01" format="2">
+  <advance width="166"/>
+  <note>
+Iogonek
+</note>
+  <outline>
+    <contour>
+      <point x="94" y="700" type="qcurve"/>
+      <point x="94" y="0" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="72" y="700" type="line"/>
+      <point x="80" y="700"/>
+      <point x="86" y="700"/>
+    </contour>
+    <contour>
+      <point x="74" y="-230" type="qcurve" smooth="yes"/>
+      <point x="32" y="-230"/>
+      <point x="-21" y="-173"/>
+      <point x="-21" y="-130" type="qcurve" smooth="yes"/>
+      <point x="-21" y="-90"/>
+      <point x="46" y="-9"/>
+      <point x="87" y="18" type="qcurve"/>
+      <point x="94" y="8" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="54" y="-27"/>
+      <point x="1" y="-97"/>
+      <point x="1" y="-130" type="qcurve" smooth="yes"/>
+      <point x="1" y="-163"/>
+      <point x="43" y="-208"/>
+      <point x="74" y="-208" type="qcurve" smooth="yes"/>
+      <point x="98" y="-208"/>
+      <point x="133" y="-183"/>
+      <point x="144" y="-163" type="qcurve"/>
+      <point x="159" y="-176" type="line"/>
+      <point x="147" y="-200"/>
+      <point x="102" y="-230"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I.ss01</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>I.ss01</string>
+      <key>public.markColor</key>
+      <string>0.5917,1,0.4781,1</string>
+    </dict>
+  </lib>
+</glyph>
