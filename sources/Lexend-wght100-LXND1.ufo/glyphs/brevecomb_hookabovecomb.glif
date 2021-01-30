@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_hookabovecomb" format="2">
+  <outline>
+    <component base="brevecomb" xOffset="-6.500091236616886" yOffset="-32.999330931476166"/>
+    <component base="hookabovecomb" xOffset="21" yOffset="83"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>399</integer>
+    </dict>
+  </lib>
+</glyph>

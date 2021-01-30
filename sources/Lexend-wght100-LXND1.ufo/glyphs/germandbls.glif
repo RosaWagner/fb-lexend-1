@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="germandbls" format="2">
+  <advance width="967"/>
+  <unicode hex="00DF"/>
+  <note>
+germandbls
+</note>
+  <outline>
+    <contour>
+      <point x="283.0" y="416.0" type="line"/>
+      <point x="140.0" y="416.0" type="line"/>
+      <point x="140.0" y="438.0" type="line"/>
+      <point x="283.0" y="438.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="273.0" y="0.0" type="line"/>
+      <point x="245.0" y="0.0" type="line"/>
+      <point x="245.0" y="494.0" type="line"/>
+      <point x="245.0" y="604.0"/>
+      <point x="390.65" y="728.0"/>
+      <point x="531.0" y="728.0" type="qcurve"/>
+      <point x="653.1912568306011" y="728.0"/>
+      <point x="774.0" y="623.0"/>
+      <point x="774.0" y="557.0" type="qcurve"/>
+      <point x="774.0" y="477.7639751552796"/>
+      <point x="627.0" y="381.0"/>
+      <point x="533.0" y="380.0" type="qcurve"/>
+      <point x="533.0" y="432.0" type="line"/>
+      <point x="686.0" y="391.0"/>
+      <point x="847.0" y="270.0"/>
+      <point x="847.0" y="191.0" type="qcurve" smooth="yes"/>
+      <point x="847.0" y="89.0"/>
+      <point x="715.4921503061744" y="-8.984617007152842"/>
+      <point x="597.0" y="-10.0" type="qcurve" smooth="yes"/>
+      <point x="512.0748624206167" y="-9.017336490655108"/>
+      <point x="399.0207281851062" y="44.96372567606419"/>
+      <point x="363.0" y="88.0" type="qcurve"/>
+      <point x="373.0" y="124.0" type="line"/>
+      <point x="415.9517762071098" y="74.08314447050044"/>
+      <point x="532.2467532467533" y="28.0"/>
+      <point x="599.0" y="28.0" type="qcurve"/>
+      <point x="690.3779069767442" y="28.0"/>
+      <point x="804.0" y="103.0"/>
+      <point x="804.0" y="195.0" type="qcurve" smooth="yes"/>
+      <point x="804.0" y="267.0"/>
+      <point x="653.4621682483141" y="364.6778760745736"/>
+      <point x="525.0" y="394.0" type="qcurve"/>
+      <point x="525.0" y="417.0" type="line"/>
+      <point x="626.003933652711" y="422.00022161423726"/>
+      <point x="731.0" y="500.66666666666663"/>
+      <point x="731.0" y="557.0" type="qcurve"/>
+      <point x="731.0" y="617.0"/>
+      <point x="624.4193548387098" y="701.0"/>
+      <point x="536.0" y="701.0" type="qcurve"/>
+      <point x="405.8087431693989" y="701.0"/>
+      <point x="273.0" y="595.0"/>
+      <point x="273.0" y="493.0" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>s</string>
+    </dict>
+  </lib>
+</glyph>

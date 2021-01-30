@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sukun-ar" format="2">
+  <unicode hex="0652"/>
+  <outline>
+    <contour>
+      <point x="121.0" y="635.0" type="qcurve" smooth="yes"/>
+      <point x="79.95522388059703" y="635.0"/>
+      <point x="20.0" y="693.955223880597"/>
+      <point x="20.0" y="735.0" type="qcurve" smooth="yes"/>
+      <point x="20.0" y="776.044776119403"/>
+      <point x="79.95522388059702" y="835.0"/>
+      <point x="121.0" y="835.0" type="qcurve" smooth="yes"/>
+      <point x="162.04477611940297" y="835.0"/>
+      <point x="221.0" y="776.044776119403"/>
+      <point x="221.0" y="735.0" type="qcurve" smooth="yes"/>
+      <point x="221.0" y="693.955223880597"/>
+      <point x="162.04477611940297" y="635.0"/>
+    </contour>
+    <contour>
+      <point x="121.0" y="685.0" type="qcurve" smooth="yes"/>
+      <point x="141.1492537313433" y="685.0"/>
+      <point x="171.0" y="714.8507462686567"/>
+      <point x="171.0" y="735.0" type="qcurve" smooth="yes"/>
+      <point x="171.0" y="755.1492537313433"/>
+      <point x="141.1492537313433" y="785.0"/>
+      <point x="121.0" y="785.0" type="qcurve" smooth="yes"/>
+      <point x="100.1044776119403" y="785.0"/>
+      <point x="70.0" y="755.1492537313433"/>
+      <point x="70.0" y="735.0" type="qcurve" smooth="yes"/>
+      <point x="70.0" y="714.8507462686567"/>
+      <point x="100.1044776119403" y="685.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>241</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

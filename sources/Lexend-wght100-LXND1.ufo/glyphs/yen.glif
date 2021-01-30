@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="2">
+  <advance width="932"/>
+  <unicode hex="00A5"/>
+  <note>
+yen
+</note>
+  <outline>
+    <contour>
+      <point x="684.0" y="134.0" type="line"/>
+      <point x="266.0" y="134.0" type="line"/>
+      <point x="266.0" y="171.0" type="line"/>
+      <point x="684.0" y="171.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="684.0" y="299.0" type="line"/>
+      <point x="266.0" y="299.0" type="line"/>
+      <point x="266.0" y="336.0" type="line"/>
+      <point x="684.0" y="336.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="790.0" y="700.0" type="line"/>
+      <point x="827.0" y="700.0" type="line"/>
+      <point x="487.0" y="274.0" type="line"/>
+      <point x="486.0" y="303.0" type="line"/>
+      <point x="486.0" y="0.0" type="line"/>
+      <point x="464.0" y="0.0" type="line"/>
+      <point x="464.0" y="303.0" type="line"/>
+      <point x="485.0" y="236.0" type="line"/>
+      <point x="115.0" y="700.0" type="line"/>
+      <point x="162.0" y="700.0" type="line"/>
+      <point x="477.0" y="284.0" type="line"/>
+      <point x="468.0" y="281.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Y</string>
+    </dict>
+  </lib>
+</glyph>

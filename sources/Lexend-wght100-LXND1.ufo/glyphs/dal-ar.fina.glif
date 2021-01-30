@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dal-ar.fina" format="2">
+  <advance width="1078"/>
+  <unicode hex="FEAA"/>
+  <outline>
+    <contour>
+      <point x="135.0" y="0.0" type="qcurve"/>
+      <point x="116.0" y="102.0" type="line"/>
+      <point x="608.0" y="102.0" type="line"/>
+      <point x="655.7611940298507" y="102.0"/>
+      <point x="700.8059701492538" y="120.83582089552239"/>
+      <point x="712.0" y="138.0" type="curve" smooth="yes"/>
+      <point x="712.0" y="138.0"/>
+      <point x="748.0" y="56.0"/>
+      <point x="748.0" y="56.0" type="qcurve"/>
+      <point x="733.820895522388" y="24.656716417910445"/>
+      <point x="655.7611940298507" y="0.0"/>
+      <point x="608.0" y="0.0" type="curve"/>
+      <point x="608.0" y="0.0"/>
+      <point x="135.0" y="0.0"/>
+    </contour>
+    <contour>
+      <point x="394.0" y="388.0" type="qcurve"/>
+      <point x="472.0" y="487.0" type="line"/>
+      <point x="747.0" y="192.0" type="line"/>
+      <point x="794.7611940298507" y="141.25373134328356"/>
+      <point x="891.6119402985074" y="102.0"/>
+      <point x="964.0" y="102.0" type="curve" smooth="yes"/>
+      <point x="964.0" y="102.0"/>
+      <point x="1078.0" y="102.0"/>
+      <point x="1078.0" y="102.0" type="qcurve"/>
+      <point x="1078.0" y="0.0" type="line"/>
+      <point x="932.0" y="0.0" type="line"/>
+      <point x="841.7014925373135" y="0.0"/>
+      <point x="726.9104477611941" y="64.58208955223881"/>
+      <point x="659.0" y="131.0" type="curve" smooth="yes"/>
+      <point x="659.0" y="131.0"/>
+      <point x="394.0" y="388.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dal-ar</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

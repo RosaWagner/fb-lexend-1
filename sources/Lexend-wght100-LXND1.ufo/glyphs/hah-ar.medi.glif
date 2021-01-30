@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hah-ar.medi" format="2">
+  <advance width="1185"/>
+  <unicode hex="FEA4"/>
+  <outline>
+    <contour>
+      <point x="777.0" y="133.0" type="qcurve"/>
+      <point x="847.0" y="167.0" type="line"/>
+      <point x="862.6716417910447" y="131.92537313432837"/>
+      <point x="951.6567164179105" y="102.0"/>
+      <point x="1083.0" y="102.0" type="qcurve"/>
+      <point x="1185.0" y="102.0" type="line"/>
+      <point x="1185.0" y="0.0" type="line"/>
+      <point x="1080.0" y="0.0" type="line" smooth="yes"/>
+      <point x="920.2985074626865" y="0.0"/>
+      <point x="797.1492537313433" y="64.34328358208955"/>
+    </contour>
+    <component base="hah-ar.init"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J.ss01" format="2">
+  <advance width="881"/>
+  <note>
+J
+</note>
+  <outline>
+    <contour>
+      <point x="384.5003345342619" y="-10.0" type="qcurve"/>
+      <point x="261.38830299913764" y="-10.0"/>
+      <point x="136.17173302766167" y="112.64191269359863"/>
+      <point x="116.00018247323376" y="147.0" type="qcurve"/>
+      <point x="140.0011556638139" y="173.50100360278574" type="line"/>
+      <point x="160.81492303389672" y="120.50106442719701"/>
+      <point x="291.8961306321723" y="7.501672671309578"/>
+      <point x="386.00030412205626" y="7.501672671309578" type="qcurve" smooth="yes"/>
+      <point x="496.5595494315092" y="7.501672671309578"/>
+      <point x="631.4991788704481" y="161.1501052731009"/>
+      <point x="631.4991788704481" y="272.5002128854394" type="qcurve"/>
+      <point x="631.4991788704481" y="700.0" type="line"/>
+      <point x="658.5008211295519" y="700.0" type="line"/>
+      <point x="658.5008211295519" y="273.0" type="line"/>
+      <point x="658.5008211295519" y="161.79110560053067"/>
+      <point x="515.0378912647427" y="-10.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>
