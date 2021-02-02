@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb" format="2">
-  <advance width="134.5"/>
+  <advance width="135"/>
   <unicode hex="0301"/>
   <outline>
-    <component base="acute" xOffset="0.5" yOffset="30.0"/>
+    <contour>
+      <point x="235" y="709" type="line"/>
+      <point x="71" y="611" type="line"/>
+      <point x="43" y="652" type="line"/>
+      <point x="186" y="772" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

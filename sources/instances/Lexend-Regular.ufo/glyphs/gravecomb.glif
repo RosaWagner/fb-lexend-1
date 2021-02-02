@@ -2,7 +2,12 @@
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
   <outline>
-    <component base="grave" xOffset="-20.0" yOffset="24.5"/>
+    <contour>
+      <point x="195" y="647" type="line"/>
+      <point x="167" y="606" type="line"/>
+      <point x="3" y="704" type="line"/>
+      <point x="52" y="767" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
