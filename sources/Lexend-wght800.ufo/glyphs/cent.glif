@@ -7,18 +7,18 @@ cent
 </note>
   <outline>
     <contour>
-      <point x="436" y="107" type="line"/>
-      <point x="436" y="0" type="line"/>
-      <point x="239" y="0" type="line"/>
-      <point x="239" y="108" type="line"/>
-      <point x="244" y="146" type="line"/>
-      <point x="244" y="550" type="line"/>
-      <point x="239" y="606" type="line"/>
-      <point x="239" y="710" type="line"/>
-      <point x="436" y="710" type="line"/>
-      <point x="436" y="605" type="line"/>
-      <point x="421" y="550" type="line"/>
-      <point x="421" y="145" type="line"/>
+      <point x="411" y="107" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="274" y="108" type="line"/>
+      <point x="316" y="146" type="line"/>
+      <point x="316" y="550" type="line"/>
+      <point x="274" y="606" type="line"/>
+      <point x="274" y="710" type="line"/>
+      <point x="411" y="710" type="line"/>
+      <point x="411" y="605" type="line"/>
+      <point x="376" y="550" type="line"/>
+      <point x="376" y="145" type="line"/>
     </contour>
     <contour>
       <point x="359" y="461" type="qcurve"/>

@@ -66,16 +66,16 @@
       <point x="561" y="-21.0"/>
     </contour>
     <contour>
-      <point x="563" y="213" type="line"/>
-      <point x="101" y="213" type="line"/>
-      <point x="101" y="313" type="line"/>
-      <point x="563" y="313" type="line"/>
+      <point x="563" y="233" type="line"/>
+      <point x="101" y="233" type="line"/>
+      <point x="101" y="293" type="line"/>
+      <point x="563" y="293" type="line"/>
     </contour>
     <contour>
-      <point x="563" y="361" type="line"/>
-      <point x="101" y="361" type="line"/>
-      <point x="101" y="461" type="line"/>
-      <point x="563" y="461" type="line"/>
+      <point x="563" y="351" type="line"/>
+      <point x="101" y="351" type="line"/>
+      <point x="101" y="411" type="line"/>
+      <point x="563" y="411" type="line"/>
     </contour>
   </outline>
   <lib>

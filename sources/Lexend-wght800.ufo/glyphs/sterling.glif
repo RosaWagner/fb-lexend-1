@@ -7,10 +7,10 @@ sterling
 </note>
   <outline>
     <contour>
-      <point x="482" y="259" type="line"/>
-      <point x="44" y="259" type="line"/>
-      <point x="44" y="419" type="line"/>
-      <point x="482" y="419" type="line"/>
+      <point x="482" y="289" type="line"/>
+      <point x="44" y="289" type="line"/>
+      <point x="44" y="389" type="line"/>
+      <point x="482" y="389" type="line"/>
     </contour>
     <contour>
       <point x="62" y="159"/>

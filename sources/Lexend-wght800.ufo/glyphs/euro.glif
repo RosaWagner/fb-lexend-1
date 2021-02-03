@@ -7,16 +7,16 @@ Euro
 </note>
   <outline>
     <contour>
-      <point x="517" y="237" type="line"/>
-      <point x="20" y="237" type="line"/>
-      <point x="20" y="337" type="line"/>
-      <point x="517" y="337" type="line"/>
+      <point x="517" y="269" type="line"/>
+      <point x="20" y="269" type="line"/>
+      <point x="20" y="329" type="line"/>
+      <point x="517" y="329" type="line"/>
     </contour>
     <contour>
-      <point x="517" y="375" type="line"/>
-      <point x="20" y="375" type="line"/>
-      <point x="20" y="475" type="line"/>
-      <point x="517" y="475" type="line"/>
+      <point x="517" y="382" type="line"/>
+      <point x="20" y="382" type="line"/>
+      <point x="20" y="442" type="line"/>
+      <point x="517" y="442" type="line"/>
     </contour>
     <contour>
       <point x="478" y="-10" type="qcurve"/>

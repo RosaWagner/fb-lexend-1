@@ -5,10 +5,10 @@
   <guideline x="392.0" y="0" angle="90.0" identifier="lzbc8lRQMa"/>
   <outline>
     <contour>
-      <point x="447" y="820" type="line"/>
-      <point x="447" y="107" type="line"/>
-      <point x="332" y="107" type="line"/>
-      <point x="332" y="820" type="line"/>
+      <point x="420" y="820" type="line"/>
+      <point x="420" y="107" type="line"/>
+      <point x="360" y="107" type="line"/>
+      <point x="360" y="820" type="line"/>
     </contour>
     <contour>
       <point x="293" y="0" type="line"/>
