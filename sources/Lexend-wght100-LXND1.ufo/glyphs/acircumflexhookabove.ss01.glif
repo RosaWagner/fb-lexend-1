@@ -3,7 +3,7 @@
   <advance width="971"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="172.14934857057233" yOffset="-33.500881953963244"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="248" yOffset="-7"/>
   </outline>
   <lib>
     <dict>

@@ -4,7 +4,7 @@
   <guideline x="183" y="730" angle="0" identifier="xzYepWMQ4h"/>
   <outline>
     <component base="circumflexcomb" xOffset="10.499847938971858"/>
-    <component base="gravecomb" xOffset="-91" yOffset="133"/>
+    <component base="gravecomb" xOffset="165" yOffset="122"/>
   </outline>
   <lib>
     <dict>

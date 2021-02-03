@@ -3,7 +3,7 @@
   <guideline x="227" y="745" angle="0" identifier="o4dMsbykP4"/>
   <outline>
     <component base="circumflexcomb" xOffset="8"/>
-    <component base="gravecomb" xOffset="-70" yOffset="122"/>
+    <component base="gravecomb" xOffset="193" yOffset="122"/>
   </outline>
   <lib>
     <dict>

@@ -13,7 +13,20 @@
     <key>familyName</key>
     <string>Lexend</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>LBDfKR3Nwx</string>
+        <key>name</key>
+        <string>acirc</string>
+        <key>x</key>
+        <integer>128</integer>
+        <key>y</key>
+        <integer>635</integer>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <integer>-180</integer>
     <key>openTypeGaspRangeRecords</key>

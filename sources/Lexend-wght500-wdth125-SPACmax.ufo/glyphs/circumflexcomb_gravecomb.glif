@@ -2,7 +2,7 @@
 <glyph name="circumflexcomb_gravecomb" format="2">
   <outline>
     <component base="circumflexcomb"/>
-    <component base="gravecomb" xOffset="-110" yOffset="152"/>
+    <component base="gravecomb" xOffset="226" yOffset="140"/>
   </outline>
   <lib>
     <dict>

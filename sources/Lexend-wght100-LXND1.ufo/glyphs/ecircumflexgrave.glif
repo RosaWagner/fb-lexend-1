@@ -4,6 +4,6 @@
   <unicode hex="1EC1"/>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb_gravecomb" xOffset="294.79954989935504" yOffset="8.998479389718568"/>
+    <component base="circumflexcomb_gravecomb" xOffset="238" yOffset="25"/>
   </outline>
 </glyph>

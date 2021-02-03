@@ -7,7 +7,7 @@ ecircumflex
 </note>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb" xOffset="261" yOffset="1"/>
+    <component base="circumflexcomb" xOffset="214" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

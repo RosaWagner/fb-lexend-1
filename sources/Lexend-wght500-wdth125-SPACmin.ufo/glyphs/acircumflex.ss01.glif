@@ -6,7 +6,7 @@ acircumflex
 </note>
   <outline>
     <component base="a.ss01"/>
-    <component base="circumflexcomb" xOffset="249" yOffset="1"/>
+    <component base="circumflexcomb" xOffset="199" yOffset="1"/>
   </outline>
   <lib>
     <dict>
