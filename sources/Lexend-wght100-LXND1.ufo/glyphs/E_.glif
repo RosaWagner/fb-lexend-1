@@ -20,8 +20,8 @@ E
     </contour>
     <contour>
       <point x="667.0" y="351.0" type="line"/>
-      <point x="217.0" y="351.0" type="line"/>
-      <point x="217.0" y="373.0" type="line"/>
+      <point x="206.0" y="351.0" type="line"/>
+      <point x="206.0" y="373.0" type="line"/>
       <point x="667.0" y="373.0" type="line"/>
     </contour>
     <contour>

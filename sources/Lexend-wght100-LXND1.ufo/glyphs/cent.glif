@@ -21,6 +21,15 @@ cent
       <point x="479" y="111" type="line"/>
     </contour>
     <contour>
+      <point x="469" y="598" type="qcurve"/>
+      <point x="333" y="598.0"/>
+      <point x="158.0" y="455.50442477876106"/>
+      <point x="158" y="349" type="qcurve"/>
+      <point x="158.0" y="242.7240356083086"/>
+      <point x="332.501246882793" y="102.0"/>
+      <point x="469" y="102" type="qcurve"/>
+      <point x="558.0" y="102.0"/>
+      <point x="705.0" y="158.0"/>
       <point x="759" y="206" type="qcurve"/>
       <point x="770" y="187" type="line"/>
       <point x="715.0" y="138.0"/>
@@ -38,15 +47,6 @@ cent
       <point x="768" y="484" type="line"/>
       <point x="716" y="536"/>
       <point x="562" y="598"/>
-      <point x="469" y="598" type="qcurve"/>
-      <point x="332.501246882793" y="598.0"/>
-      <point x="158.0" y="455.50442477876106"/>
-      <point x="158" y="349" type="qcurve"/>
-      <point x="158.0" y="242.7240356083086"/>
-      <point x="332.501246882793" y="102.0"/>
-      <point x="469" y="102" type="qcurve"/>
-      <point x="558.0" y="102.0"/>
-      <point x="705.0" y="158.0"/>
     </contour>
   </outline>
   <lib>

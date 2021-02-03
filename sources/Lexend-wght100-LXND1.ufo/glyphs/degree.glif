@@ -7,20 +7,6 @@ degree
 </note>
   <outline>
     <contour>
-      <point x="133" y="554" type="qcurve" smooth="yes"/>
-      <point x="133" y="498"/>
-      <point x="210" y="421"/>
-      <point x="266" y="421" type="qcurve" smooth="yes"/>
-      <point x="322" y="421"/>
-      <point x="399" y="498"/>
-      <point x="399" y="554" type="qcurve" smooth="yes"/>
-      <point x="399" y="610"/>
-      <point x="322" y="687"/>
-      <point x="266" y="687" type="qcurve" smooth="yes"/>
-      <point x="210" y="687"/>
-      <point x="133" y="610"/>
-    </contour>
-    <contour>
       <point x="421" y="554" type="qcurve" smooth="yes"/>
       <point x="421" y="489"/>
       <point x="331" y="399"/>
@@ -33,6 +19,20 @@ degree
       <point x="266" y="709" type="qcurve" smooth="yes"/>
       <point x="331" y="709"/>
       <point x="421" y="619"/>
+    </contour>
+    <contour>
+      <point x="133" y="554" type="qcurve" smooth="yes"/>
+      <point x="133" y="498"/>
+      <point x="210" y="421"/>
+      <point x="266" y="421" type="qcurve" smooth="yes"/>
+      <point x="322" y="421"/>
+      <point x="399" y="498"/>
+      <point x="399" y="554" type="qcurve" smooth="yes"/>
+      <point x="399" y="610"/>
+      <point x="322" y="687"/>
+      <point x="266" y="687" type="qcurve" smooth="yes"/>
+      <point x="210" y="687"/>
+      <point x="133" y="610"/>
     </contour>
   </outline>
   <lib>

@@ -9,19 +9,17 @@
       <point x="279.0" y="710.0"/>
       <point x="403.0" y="710.0" type="qcurve"/>
       <point x="509.0" y="710.0"/>
-      <point x="670.0" y="577.0"/>
+      <point x="668" y="577"/>
       <point x="670.0" y="467.0" type="qcurve" smooth="yes"/>
-      <point x="670.0" y="379.0"/>
-      <point x="596" y="248"/>
-      <point x="556.0" y="186.0" type="qcurve"/>
+      <point x="671.0" y="408.0"/>
+      <point x="598" y="273"/>
+      <point x="547.0" y="188.0" type="qcurve" smooth="yes"/>
       <point x="435.0" y="0.0" type="line"/>
-      <point x="410.0" y="0.0" type="line"/>
-      <point x="408.0" y="5.0" type="line"/>
-      <point x="535.0953496764423" y="196.1356421490683"/>
-      <point x="652" y="389"/>
-      <point x="651.0" y="417.0" type="qcurve"/>
-      <point x="655.0" y="417.0" type="line"/>
-      <point x="646.0" y="354.0"/>
+      <point x="413.0" y="0.0" type="line"/>
+      <point x="411.0" y="5.0" type="line"/>
+      <point x="643.0" y="383.0" type="line"/>
+      <point x="654.0" y="417.0" type="line"/>
+      <point x="645.0" y="354.0"/>
       <point x="500.0" y="245.0"/>
       <point x="393.0" y="245.0" type="qcurve" smooth="yes"/>
       <point x="280.0" y="245.0"/>

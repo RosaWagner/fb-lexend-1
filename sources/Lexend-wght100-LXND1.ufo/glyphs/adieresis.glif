@@ -7,7 +7,7 @@ adieresis
 </note>
   <outline>
     <component base="a"/>
-    <component base="dieresiscomb" xOffset="343" yOffset="-56"/>
+    <component base="dieresiscomb" xOffset="299" yOffset="-56"/>
   </outline>
   <lib>
     <dict>

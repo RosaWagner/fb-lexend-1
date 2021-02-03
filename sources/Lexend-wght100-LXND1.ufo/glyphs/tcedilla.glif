@@ -7,7 +7,7 @@ tcedilla
 </note>
   <outline>
     <component base="t"/>
-    <component base="cedillacomb" xOffset="185"/>
+    <component base="cedillacomb" xOffset="196"/>
   </outline>
   <lib>
     <dict>

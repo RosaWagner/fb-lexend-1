@@ -8,9 +8,9 @@ oslash
   <outline>
     <contour>
       <point x="172.0" y="1.0" type="line"/>
-      <point x="165.0" y="25.0" type="line"/>
+      <point x="165.0" y="22.0" type="line"/>
       <point x="775.0" y="529.0" type="line"/>
-      <point x="782.0" y="503.0" type="line"/>
+      <point x="782.0" y="507.0" type="line"/>
     </contour>
     <contour>
       <point x="478.0" y="529.0" type="qcurve"/>

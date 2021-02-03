@@ -7,10 +7,10 @@ divisionslash
 </note>
   <outline>
     <contour>
-      <point x="206.0" y="-107.0" type="line"/>
+      <point x="184.0" y="-107.0" type="line"/>
       <point x="160.0" y="-107.0" type="line"/>
       <point x="584.0" y="756.0" type="line"/>
-      <point x="630.0" y="756.0" type="line"/>
+      <point x="608.0" y="756.0" type="line"/>
     </contour>
   </outline>
 </glyph>

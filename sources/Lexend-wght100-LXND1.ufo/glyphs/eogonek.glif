@@ -22,12 +22,12 @@ eogonek
       <point x="750.0" y="404.0"/>
       <point x="750.0" y="291.0" type="qcurve"/>
       <point x="749.0" y="255.0" type="line"/>
-      <point x="153.0" y="255.0" type="line"/>
-      <point x="153.0" y="277.0" type="line"/>
-      <point x="737.0" y="277.0" type="line"/>
-      <point x="729.0" y="284.0" type="line"/>
-      <point x="729.0" y="296.0" type="line"/>
-      <point x="722.0" y="394.0"/>
+      <point x="132.0" y="255.0" type="line"/>
+      <point x="132.0" y="277.0" type="line"/>
+      <point x="738.0" y="277.0" type="line"/>
+      <point x="728.0" y="270.0" type="line"/>
+      <point x="728.0" y="296.0" type="line" smooth="yes"/>
+      <point x="728.0" y="394"/>
       <point x="559.0" y="508.0"/>
       <point x="448.0" y="508.0" type="qcurve"/>
       <point x="322.0" y="508.0"/>

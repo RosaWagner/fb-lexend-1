@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oe" format="2">
-  <advance width="1560"/>
+  <advance width="1566"/>
   <unicode hex="0153"/>
   <note>
 oe
 </note>
   <outline>
-    <component base="o"/>
-    <component base="e" xOffset="680"/>
+    <component base="o" xOffset="-7"/>
+    <component base="e" xOffset="676"/>
   </outline>
   <lib>
     <dict>

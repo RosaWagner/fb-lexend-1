@@ -7,22 +7,22 @@ notequal
 </note>
   <outline>
     <contour>
-      <point x="192.0" y="46.0" type="line"/>
-      <point x="580.0" y="516.0" type="line"/>
-      <point x="646.0" y="516.0" type="line"/>
-      <point x="258.0" y="46.0" type="line"/>
+      <point x="215" y="46" type="line"/>
+      <point x="603" y="516" type="line"/>
+      <point x="630" y="516" type="line"/>
+      <point x="242" y="46" type="line"/>
     </contour>
     <contour>
-      <point x="701.0" y="349.0" type="line"/>
-      <point x="135.0" y="349.0" type="line"/>
-      <point x="135.0" y="386.0" type="line"/>
-      <point x="701.0" y="386.0" type="line"/>
+      <point x="711" y="355" type="line"/>
+      <point x="135" y="355" type="line"/>
+      <point x="135" y="377" type="line"/>
+      <point x="711" y="377" type="line"/>
     </contour>
     <contour>
-      <point x="135.0" y="175.0" type="line"/>
-      <point x="135.0" y="213.0" type="line"/>
-      <point x="701.0" y="213.0" type="line"/>
-      <point x="701.0" y="175.0" type="line"/>
+      <point x="135" y="185" type="line"/>
+      <point x="135" y="207" type="line"/>
+      <point x="711" y="207" type="line"/>
+      <point x="711" y="185" type="line"/>
     </contour>
   </outline>
 </glyph>

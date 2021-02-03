@@ -7,7 +7,7 @@ atilde
 </note>
   <outline>
     <component base="a"/>
-    <component base="tildecomb" xOffset="307" yOffset="-63"/>
+    <component base="tildecomb" xOffset="279" yOffset="-63"/>
   </outline>
   <lib>
     <dict>

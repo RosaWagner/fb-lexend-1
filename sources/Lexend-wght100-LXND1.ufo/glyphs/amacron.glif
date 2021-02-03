@@ -7,7 +7,7 @@ amacron
 </note>
   <outline>
     <component base="a"/>
-    <component base="macroncomb" xOffset="299.4800000000105" yOffset="-16.001398961458904"/>
+    <component base="macroncomb" xOffset="240" yOffset="-16"/>
   </outline>
   <lib>
     <dict>

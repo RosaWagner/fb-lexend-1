@@ -35,14 +35,6 @@ perthousand
       <point x="112" y="572"/>
     </contour>
     <contour>
-      <point x="340" y="0" type="line"/>
-      <point x="314" y="0" type="line"/>
-      <point x="574" y="381" type="line"/>
-      <point x="798" y="700" type="line"/>
-      <point x="826" y="700" type="line"/>
-      <point x="560" y="322" type="line"/>
-    </contour>
-    <contour>
       <point x="1061" y="203" type="qcurve"/>
       <point x="1061" y="113"/>
       <point x="958" y="-16"/>
@@ -97,6 +89,14 @@ perthousand
       <point x="1338" y="403" type="qcurve"/>
       <point x="1264" y="403"/>
       <point x="1177" y="287"/>
+    </contour>
+    <contour>
+      <point x="340" y="0" type="line"/>
+      <point x="314" y="0" type="line"/>
+      <point x="541" y="333" type="line"/>
+      <point x="798" y="700" type="line"/>
+      <point x="826" y="700" type="line"/>
+      <point x="560" y="322" type="line"/>
     </contour>
   </outline>
   <lib>

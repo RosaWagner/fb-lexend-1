@@ -7,8 +7,8 @@ Eng
 </note>
   <outline>
     <contour>
-      <point x="837.0" y="34.0" type="line"/>
-      <point x="834.0" y="0.0" type="line"/>
+      <point x="845.0" y="19.0" type="line"/>
+      <point x="845.0" y="0.0" type="line"/>
       <point x="209.0" y="686.0" type="line"/>
       <point x="214.0" y="686.0" type="line"/>
       <point x="216.0" y="662.0"/>
@@ -21,22 +21,22 @@ Eng
       <point x="194.0" y="0.0" type="line"/>
       <point x="194.0" y="700.0" type="line"/>
       <point x="226.0" y="700.0" type="line"/>
-      <point x="839.0" y="31.0" type="line"/>
-      <point x="845.0" y="31.0" type="line"/>
-      <point x="843.0" y="88.0"/>
+      <point x="849.0" y="26.0" type="line"/>
+      <point x="845.0" y="22.0" type="line"/>
+      <point x="843.0" y="79.0"/>
       <point x="843.0" y="205.0"/>
       <point x="842.0" y="241.0" type="qcurve"/>
       <point x="842.0" y="700.0" type="line"/>
       <point x="864.0" y="700.0" type="line"/>
       <point x="864.0" y="103.0" type="line"/>
-      <point x="864.0" y="70.0" type="line" smooth="yes"/>
-      <point x="864.0" y="-57.0"/>
-      <point x="744.0" y="-194.0"/>
+      <point x="864.0" y="29.0" type="line" smooth="yes"/>
+      <point x="864.0" y="-72.0"/>
+      <point x="760.0" y="-194.0"/>
       <point x="653.0" y="-194.0" type="qcurve"/>
-      <point x="645.0" y="-150.0" type="line"/>
-      <point x="744.0" y="-150.0"/>
-      <point x="837.0" y="-47.0"/>
-      <point x="837.0" y="14.0" type="qcurve"/>
+      <point x="648.0" y="-172.0" type="line"/>
+      <point x="755" y="-172.0"/>
+      <point x="845.0" y="-63.0"/>
+      <point x="845.0" y="15.0" type="qcurve"/>
     </contour>
   </outline>
   <lib>

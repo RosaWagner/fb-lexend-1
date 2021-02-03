@@ -7,7 +7,7 @@ abreve
 </note>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="353.11999999999534" yOffset="-21"/>
+    <component base="brevecomb" xOffset="254" yOffset="-21"/>
   </outline>
   <lib>
     <dict>

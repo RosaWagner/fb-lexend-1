@@ -12,13 +12,13 @@ z
       <point x="584.0" y="0.0" type="line"/>
       <point x="85.0" y="0.0" type="line"/>
       <point x="85.0" y="26.0" type="line"/>
-      <point x="547.0" y="514.0" type="line"/>
+      <point x="549.0" y="514.0" type="line"/>
       <point x="551.0" y="503.0" type="line"/>
       <point x="85.0" y="503.0" type="line"/>
       <point x="85.0" y="525.0" type="line"/>
       <point x="563.0" y="525.0" type="line"/>
       <point x="563.0" y="497.0" type="line"/>
-      <point x="105.0" y="13.0" type="line"/>
+      <point x="103.0" y="13.0" type="line"/>
     </contour>
   </outline>
   <lib>

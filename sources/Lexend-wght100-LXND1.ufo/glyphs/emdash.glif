@@ -7,8 +7,8 @@ emdash
 </note>
   <outline>
     <contour>
-      <point x="957.0" y="290.0" type="line"/>
-      <point x="125.0" y="290.0" type="line"/>
+      <point x="957.0" y="284.0" type="line"/>
+      <point x="125.0" y="284.0" type="line"/>
       <point x="125.0" y="306.0" type="line"/>
       <point x="957.0" y="306.0" type="line"/>
     </contour>

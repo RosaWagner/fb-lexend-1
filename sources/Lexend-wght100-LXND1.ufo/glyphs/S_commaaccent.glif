@@ -7,7 +7,7 @@ Scommaaccent
 </note>
   <outline>
     <component base="S"/>
-    <component base="commaaccentcomb.case" xOffset="360.9200000000037" yOffset="-40"/>
+    <component base="commaaccentcomb.case" xOffset="361" yOffset="-40"/>
   </outline>
   <lib>
     <dict>

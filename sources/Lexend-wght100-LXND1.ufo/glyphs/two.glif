@@ -27,9 +27,9 @@
       <point x="643.0" y="622.0"/>
       <point x="643.0" y="543.0" type="qcurve" smooth="yes"/>
       <point x="643" y="457"/>
-      <point x="480.3956033444954" y="301.76024879166533"/>
-      <point x="450.0" y="275.0" type="qcurve" smooth="yes"/>
-      <point x="149.0" y="10.0" type="line"/>
+      <point x="477" y="302"/>
+      <point x="447.0" y="275.0" type="qcurve" smooth="yes"/>
+      <point x="146.0" y="10.0" type="line"/>
     </contour>
   </outline>
   <lib>

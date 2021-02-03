@@ -16,7 +16,7 @@ exclam
       <point x="301" y="700" type="line"/>
       <point x="301" y="630" type="line" smooth="yes"/>
       <point x="301" y="533"/>
-      <point x="303" y="327"/>
+      <point x="300" y="327"/>
     </contour>
     <contour>
       <point x="325" y="28" type="qcurve" smooth="yes"/>
