@@ -52,7 +52,7 @@ registered
       <point x="134.0" y="396.58048780487803"/>
       <point x="260.0" y="277.0"/>
       <point x="345.0" y="277.0" type="qcurve" smooth="yes"/>
-      <point x="431.4142857142857" y="277.0"/>
+      <point x="431" y="277.0"/>
       <point x="556.0" y="397.0"/>
       <point x="556.0" y="483.0" type="qcurve" smooth="yes"/>
       <point x="556.0" y="570.0"/>
@@ -68,4 +68,10 @@ registered
       <point x="423.0" y="367.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -8,13 +8,19 @@ v
   <outline>
     <contour>
       <point x="78.0" y="525.0" type="line"/>
-      <point x="113.0" y="525.0" type="line"/>
-      <point x="393.0" y="-28.0" type="line"/>
-      <point x="370.0" y="-28.0" type="line"/>
-      <point x="650.0" y="525.0" type="line"/>
+      <point x="105.0" y="525.0" type="line"/>
+      <point x="388.0" y="14.0" type="line"/>
+      <point x="377.0" y="14.0" type="line"/>
+      <point x="658.0" y="525.0" type="line"/>
       <point x="685.0" y="525.0" type="line"/>
-      <point x="400.0" y="0.0" type="line"/>
-      <point x="365.0" y="0.0" type="line"/>
+      <point x="396.0" y="0.0" type="line"/>
+      <point x="369.0" y="0.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

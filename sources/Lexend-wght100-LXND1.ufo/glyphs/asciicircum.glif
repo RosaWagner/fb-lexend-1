@@ -7,14 +7,20 @@ asciicircum
 </note>
   <outline>
     <contour>
-      <point x="154.0" y="368.0" type="line"/>
+      <point x="141.0" y="368.0" type="line"/>
       <point x="111.0" y="368.0" type="line"/>
-      <point x="412.0" y="727.0" type="line"/>
-      <point x="450.0" y="727.0" type="line"/>
+      <point x="417.0" y="733.0" type="line"/>
+      <point x="445.0" y="733.0" type="line"/>
       <point x="751.0" y="368.0" type="line"/>
-      <point x="708.0" y="368.0" type="line"/>
-      <point x="419.0" y="728.0" type="line"/>
-      <point x="443.0" y="728.0" type="line"/>
+      <point x="721.0" y="368.0" type="line"/>
+      <point x="426.0" y="720.0" type="line"/>
+      <point x="436.0" y="720.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

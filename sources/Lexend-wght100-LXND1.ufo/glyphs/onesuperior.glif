@@ -8,4 +8,10 @@ onesuperior
   <outline>
     <component base="one.numr" yOffset="70"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5917,1,0.4781,1</string>
+    </dict>
+  </lib>
 </glyph>

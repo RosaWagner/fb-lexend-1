@@ -13,15 +13,15 @@ K
       <point x="216.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="191.0" y="196.0" type="line"/>
-      <point x="197.0" y="229.0" type="line"/>
+      <point x="206.0" y="208.0" type="line"/>
+      <point x="206.0" y="236.0" type="line"/>
       <point x="792.0" y="700.0" type="line"/>
-      <point x="842.0" y="700.0" type="line"/>
+      <point x="830.0" y="700.0" type="line"/>
     </contour>
     <contour>
-      <point x="802.0" y="0.0" type="line"/>
-      <point x="458.0" y="425.0" type="line"/>
-      <point x="462.0" y="458.0" type="line"/>
+      <point x="810.0" y="0.0" type="line"/>
+      <point x="461.0" y="421.0" type="line"/>
+      <point x="479.0" y="435.0" type="line"/>
       <point x="840.0" y="0.0" type="line"/>
     </contour>
   </outline>
@@ -29,6 +29,8 @@ K
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

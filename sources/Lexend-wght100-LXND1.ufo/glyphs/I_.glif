@@ -16,15 +16,21 @@ I
     </contour>
     <contour>
       <point x="594.0" y="700.0" type="line"/>
-      <point x="594.0" y="671.0" type="line"/>
-      <point x="168.0" y="671.0" type="line"/>
+      <point x="594.0" y="678.0" type="line"/>
+      <point x="168.0" y="678.0" type="line"/>
       <point x="168.0" y="700.0" type="line"/>
     </contour>
     <contour>
-      <point x="594.0" y="29.0" type="line"/>
+      <point x="594.0" y="22.0" type="line"/>
       <point x="594.0" y="0.0" type="line"/>
       <point x="168.0" y="0.0" type="line"/>
-      <point x="168.0" y="29.0" type="line"/>
+      <point x="168.0" y="22.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

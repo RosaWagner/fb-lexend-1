@@ -7,10 +7,10 @@ t
 </note>
   <outline>
     <contour>
-      <point x="342.0" y="689.0" type="line"/>
-      <point x="342.0" y="0.0" type="line"/>
-      <point x="320.0" y="0.0" type="line"/>
-      <point x="320.0" y="689.0" type="line"/>
+      <point x="352.0" y="689.0" type="line"/>
+      <point x="352.0" y="0.0" type="line"/>
+      <point x="330.0" y="0.0" type="line"/>
+      <point x="330.0" y="689.0" type="line"/>
     </contour>
     <contour>
       <point x="572.0" y="525.0" type="line"/>
@@ -19,4 +19,10 @@ t
       <point x="117.0" y="525.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

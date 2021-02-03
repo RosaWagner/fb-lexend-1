@@ -11,12 +11,18 @@ bracketleft
       <point x="145.0" y="-190.0" type="line"/>
       <point x="145.0" y="700.0" type="line"/>
       <point x="497.0" y="700.0" type="line"/>
-      <point x="497.0" y="663.0" type="line"/>
-      <point x="178.0" y="663.0" type="line"/>
-      <point x="188.0" y="671.0" type="line"/>
-      <point x="188.0" y="-165.0" type="line"/>
-      <point x="177.0" y="-153.0" type="line"/>
-      <point x="497.0" y="-153.0" type="line"/>
+      <point x="497.0" y="678.0" type="line"/>
+      <point x="157.0" y="678.0" type="line"/>
+      <point x="168.0" y="686.0" type="line"/>
+      <point x="168.0" y="-180.0" type="line"/>
+      <point x="157.0" y="-168.0" type="line"/>
+      <point x="497.0" y="-168.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

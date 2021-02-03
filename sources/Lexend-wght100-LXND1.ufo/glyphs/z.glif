@@ -7,18 +7,24 @@ z
 </note>
   <outline>
     <contour>
-      <point x="87.0" y="19.0" type="line"/>
-      <point x="584.0" y="19.0" type="line"/>
+      <point x="102.0" y="22.0" type="line"/>
+      <point x="584.0" y="22.0" type="line"/>
       <point x="584.0" y="0.0" type="line"/>
       <point x="85.0" y="0.0" type="line"/>
       <point x="85.0" y="26.0" type="line"/>
-      <point x="544.0" y="521.0" type="line"/>
-      <point x="559.0" y="506.0" type="line"/>
-      <point x="85.0" y="506.0" type="line"/>
+      <point x="547.0" y="514.0" type="line"/>
+      <point x="551.0" y="503.0" type="line"/>
+      <point x="85.0" y="503.0" type="line"/>
       <point x="85.0" y="525.0" type="line"/>
       <point x="563.0" y="525.0" type="line"/>
       <point x="563.0" y="497.0" type="line"/>
-      <point x="107.0" y="10.0" type="line"/>
+      <point x="105.0" y="13.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

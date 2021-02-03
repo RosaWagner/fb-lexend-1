@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gbreve.ss01" format="2">
-  <advance width="580"/>
+  <advance width="743"/>
   <outline>
     <component base="g.ss01"/>
-    <component base="brevecomb" xOffset="125.26000000000204" yOffset="-20"/>
+    <component base="brevecomb" xOffset="167" yOffset="-20"/>
   </outline>
   <lib>
     <dict>

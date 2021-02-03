@@ -7,14 +7,14 @@ guilsinglleft
 </note>
   <outline>
     <contour>
-      <point x="176.0" y="251.0" type="line"/>
-      <point x="176.0" y="291.0" type="line"/>
-      <point x="407.0" y="96.0" type="line"/>
-      <point x="378.0" y="73.0" type="line"/>
-      <point x="143.0" y="264.0" type="line"/>
-      <point x="143.0" y="278.0" type="line"/>
-      <point x="378.0" y="457.0" type="line"/>
-      <point x="407.0" y="434.0" type="line"/>
+      <point x="137.0" y="263.0" type="line"/>
+      <point x="137.0" y="279.0" type="line"/>
+      <point x="414.0" y="88.0" type="line"/>
+      <point x="398.0" y="73.0" type="line"/>
+      <point x="123.0" y="264.0" type="line"/>
+      <point x="123.0" y="278.0" type="line"/>
+      <point x="398.0" y="457.0" type="line"/>
+      <point x="414.0" y="442.0" type="line"/>
     </contour>
   </outline>
 </glyph>

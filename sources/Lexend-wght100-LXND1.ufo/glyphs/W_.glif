@@ -9,31 +9,31 @@ W
     <contour>
       <point x="319.0" y="0.0" type="line"/>
       <point x="88.0" y="700.0" type="line"/>
-      <point x="116.0" y="700.0" type="line"/>
+      <point x="112.0" y="700.0" type="line"/>
       <point x="271.0" y="220.0" type="line" smooth="yes"/>
-      <point x="297.37110209202547" y="130.8866937239235"/>
-      <point x="316.59240973522594" y="100.33415619148337"/>
-      <point x="347.0" y="5.0" type="qcurve"/>
-      <point x="320.0" y="5.0" type="line"/>
-      <point x="356.75837337861867" y="95.09423329604955"/>
-      <point x="402.1255655839741" y="179.71742391396447"/>
+      <point x="299.3570368087495" y="134.39385114339774"/>
+      <point x="311.915331903285" y="102.25964882992604"/>
+      <point x="342.0" y="10.0" type="qcurve"/>
+      <point x="333.0" y="10.0" type="line"/>
+      <point x="369.06164554918786" y="97.14897674387063"/>
+      <point x="403" y="181"/>
       <point x="423.0" y="228.0" type="qcurve"/>
-      <point x="546.0" y="520.0" type="line"/>
-      <point x="568.0" y="520.0" type="line"/>
-      <point x="690.0" y="230.0" type="line" smooth="yes"/>
-      <point x="713.0060389603394" y="174.24436647573165"/>
-      <point x="773.0" y="36.0"/>
-      <point x="791.0" y="5.0" type="qcurve"/>
-      <point x="764.0" y="5.0" type="line"/>
-      <point x="783.0" y="37.0"/>
-      <point x="811.0" y="127.0"/>
-      <point x="844.0" y="224.0" type="qcurve"/>
+      <point x="551.0" y="541.0" type="line"/>
+      <point x="566.0" y="541.0" type="line"/>
+      <point x="689.0" y="230.0" type="line" smooth="yes"/>
+      <point x="710.3424832663835" y="176.0364853996319"/>
+      <point x="761.9790093459062" y="39.05072741406012"/>
+      <point x="774.0" y="10.0" type="qcurve"/>
+      <point x="760.0" y="10.0" type="line"/>
+      <point x="771.0343059087818" y="40.093561569404784"/>
+      <point x="803" y="130"/>
+      <point x="838.0" y="224.0" type="qcurve"/>
       <point x="1017.0" y="700.0" type="line"/>
       <point x="1041.0" y="700.0" type="line"/>
       <point x="780.0" y="0.0" type="line"/>
       <point x="754.0" y="0.0" type="line"/>
-      <point x="544.0" y="532.0" type="line"/>
-      <point x="573.0" y="532.0" type="line"/>
+      <point x="550.0" y="517.0" type="line"/>
+      <point x="566.0" y="517.0" type="line"/>
       <point x="355.0" y="0.0" type="line"/>
     </contour>
   </outline>
@@ -43,6 +43,8 @@ W
       <string>V</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>V</string>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

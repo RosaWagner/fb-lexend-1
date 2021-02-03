@@ -14,8 +14,8 @@ F
     </contour>
     <contour>
       <point x="648.0" y="331.0" type="line"/>
-      <point x="194.0" y="331.0" type="line"/>
-      <point x="194.0" y="353.0" type="line"/>
+      <point x="204.0" y="331.0" type="line"/>
+      <point x="204.0" y="353.0" type="line"/>
       <point x="648.0" y="353.0" type="line"/>
     </contour>
     <contour>
@@ -29,6 +29,8 @@ F
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

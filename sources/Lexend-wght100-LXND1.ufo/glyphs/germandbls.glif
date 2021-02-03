@@ -7,54 +7,54 @@ germandbls
 </note>
   <outline>
     <contour>
-      <point x="283.0" y="416.0" type="line"/>
+      <point x="257.0" y="416.0" type="line"/>
       <point x="140.0" y="416.0" type="line"/>
       <point x="140.0" y="438.0" type="line"/>
-      <point x="283.0" y="438.0" type="line"/>
+      <point x="257.0" y="438.0" type="line"/>
     </contour>
     <contour>
-      <point x="273.0" y="0.0" type="line"/>
+      <point x="267.0" y="0.0" type="line"/>
       <point x="245.0" y="0.0" type="line"/>
-      <point x="245.0" y="494.0" type="line"/>
-      <point x="245.0" y="604.0"/>
-      <point x="390.65" y="728.0"/>
-      <point x="531.0" y="728.0" type="qcurve"/>
-      <point x="653.1912568306011" y="728.0"/>
-      <point x="774.0" y="623.0"/>
+      <point x="245.0" y="484.0" type="line"/>
+      <point x="245.0" y="589"/>
+      <point x="391.0" y="708.0"/>
+      <point x="531.0" y="708.0" type="qcurve"/>
+      <point x="653.0" y="708.0"/>
+      <point x="774.0" y="615"/>
       <point x="774.0" y="557.0" type="qcurve"/>
-      <point x="774.0" y="477.7639751552796"/>
-      <point x="627.0" y="381.0"/>
-      <point x="533.0" y="380.0" type="qcurve"/>
-      <point x="533.0" y="432.0" type="line"/>
-      <point x="686.0" y="391.0"/>
-      <point x="847.0" y="270.0"/>
-      <point x="847.0" y="191.0" type="qcurve" smooth="yes"/>
-      <point x="847.0" y="89.0"/>
-      <point x="715.4921503061744" y="-8.984617007152842"/>
-      <point x="597.0" y="-10.0" type="qcurve" smooth="yes"/>
-      <point x="512.0748624206167" y="-9.017336490655108"/>
-      <point x="399.0207281851062" y="44.96372567606419"/>
-      <point x="363.0" y="88.0" type="qcurve"/>
-      <point x="373.0" y="124.0" type="line"/>
-      <point x="415.9517762071098" y="74.08314447050044"/>
-      <point x="532.2467532467533" y="28.0"/>
-      <point x="599.0" y="28.0" type="qcurve"/>
-      <point x="690.3779069767442" y="28.0"/>
-      <point x="804.0" y="103.0"/>
-      <point x="804.0" y="195.0" type="qcurve" smooth="yes"/>
-      <point x="804.0" y="267.0"/>
-      <point x="653.4621682483141" y="364.6778760745736"/>
+      <point x="774.0" y="487.44585987261144"/>
+      <point x="626.9999324635558" y="401.9999992815272"/>
+      <point x="533.0" y="401.0" type="qcurve"/>
+      <point x="533.0" y="411.0" type="line"/>
+      <point x="678" y="380"/>
+      <point x="847.0" y="255.65546218487395"/>
+      <point x="847.0" y="174.0" type="qcurve"/>
+      <point x="847.0" y="80.19607843137256"/>
+      <point x="727.0" y="-9.0"/>
+      <point x="617.0" y="-10.0" type="qcurve"/>
+      <point x="519.0" y="-9.0"/>
+      <point x="396.0" y="52.00000000000001"/>
+      <point x="363.0" y="98.0" type="qcurve"/>
+      <point x="372.0" y="124.0" type="line"/>
+      <point x="422" y="57"/>
+      <point x="545" y="12"/>
+      <point x="619.0" y="12.0" type="qcurve"/>
+      <point x="710.0" y="12.0"/>
+      <point x="824.0" y="86.0752688172043"/>
+      <point x="824.0" y="178.0" type="qcurve"/>
+      <point x="823.0" y="249"/>
+      <point x="649" y="364"/>
       <point x="525.0" y="394.0" type="qcurve"/>
       <point x="525.0" y="417.0" type="line"/>
-      <point x="626.003933652711" y="422.00022161423726"/>
-      <point x="731.0" y="500.66666666666663"/>
-      <point x="731.0" y="557.0" type="qcurve"/>
-      <point x="731.0" y="617.0"/>
-      <point x="624.4193548387098" y="701.0"/>
-      <point x="536.0" y="701.0" type="qcurve"/>
-      <point x="405.8087431693989" y="701.0"/>
-      <point x="273.0" y="595.0"/>
-      <point x="273.0" y="493.0" type="qcurve"/>
+      <point x="627" y="422"/>
+      <point x="751.0" y="500"/>
+      <point x="751.0" y="557.0" type="qcurve"/>
+      <point x="751.0" y="613"/>
+      <point x="634.0" y="686.0"/>
+      <point x="532.0" y="686.0" type="qcurve"/>
+      <point x="403.0" y="686.0"/>
+      <point x="267.0" y="578"/>
+      <point x="267.0" y="473.0" type="qcurve"/>
     </contour>
   </outline>
   <lib>
@@ -63,6 +63,8 @@ germandbls
       <string>f</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>s</string>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
     </dict>
   </lib>
 </glyph>

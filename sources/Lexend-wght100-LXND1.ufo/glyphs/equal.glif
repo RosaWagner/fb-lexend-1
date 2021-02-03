@@ -7,16 +7,22 @@ equal
 </note>
   <outline>
     <contour>
-      <point x="711.0" y="347.0" type="line"/>
-      <point x="135.0" y="347.0" type="line"/>
-      <point x="135.0" y="387.0" type="line"/>
-      <point x="711.0" y="387.0" type="line"/>
+      <point x="711.0" y="355.0" type="line"/>
+      <point x="135.0" y="355.0" type="line"/>
+      <point x="135.0" y="377.0" type="line"/>
+      <point x="711.0" y="377.0" type="line"/>
     </contour>
     <contour>
-      <point x="711.0" y="175.0" type="line"/>
-      <point x="135.0" y="175.0" type="line"/>
-      <point x="135.0" y="214.0" type="line"/>
-      <point x="711.0" y="214.0" type="line"/>
+      <point x="711.0" y="185.0" type="line"/>
+      <point x="135.0" y="185.0" type="line"/>
+      <point x="135.0" y="207.0" type="line"/>
+      <point x="711.0" y="207.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.983,1,0.5753,1</string>
+    </dict>
+  </lib>
 </glyph>

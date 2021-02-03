@@ -9,20 +9,20 @@ pi
     <contour>
       <point x="286.0" y="0.0" type="line"/>
       <point x="264.0" y="0.0" type="line"/>
-      <point x="264.0" y="502.0" type="line"/>
-      <point x="273.0" y="495.0" type="line"/>
-      <point x="120.0" y="495.0" type="line"/>
-      <point x="120.0" y="517.0" type="line"/>
-      <point x="874.0" y="517.0" type="line"/>
-      <point x="874.0" y="495.0" type="line"/>
-      <point x="723.0" y="495.0" type="line"/>
-      <point x="730.0" y="502.0" type="line"/>
+      <point x="264.0" y="510.0" type="line"/>
+      <point x="273.0" y="503.0" type="line"/>
+      <point x="120.0" y="503.0" type="line"/>
+      <point x="120.0" y="525.0" type="line"/>
+      <point x="874.0" y="525.0" type="line"/>
+      <point x="874.0" y="503.0" type="line"/>
+      <point x="723.0" y="503.0" type="line"/>
+      <point x="730.0" y="510.0" type="line"/>
       <point x="730.0" y="0.0" type="line"/>
       <point x="708.0" y="0.0" type="line"/>
-      <point x="708.0" y="502.0" type="line"/>
-      <point x="714.0" y="495.0" type="line"/>
-      <point x="277.0" y="495.0" type="line"/>
-      <point x="286.0" y="502.0" type="line"/>
+      <point x="708.0" y="510.0" type="line"/>
+      <point x="714.0" y="503.0" type="line"/>
+      <point x="277.0" y="503.0" type="line"/>
+      <point x="286.0" y="510.0" type="line"/>
     </contour>
   </outline>
 </glyph>
