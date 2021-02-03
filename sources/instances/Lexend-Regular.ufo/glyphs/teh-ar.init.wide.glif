@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="teh-ar.init.wide" format="2">
-  <advance width="361.0"/>
-  <outline>
-    <component base="behDotless-ar.init.wide"/>
-    <component base="twodotshorizontalabove-ar" xOffset="-44.0"/>
-  </outline>
-</glyph>

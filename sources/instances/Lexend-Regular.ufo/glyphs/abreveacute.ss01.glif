@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="abreveacute.ss01" format="2">
-  <advance width="536.0"/>
-  <outline>
-    <component base="a.ss01"/>
-    <component base="brevecomb_acutecomb" xOffset="79.62000000000262" yOffset="-1.5"/>
-  </outline>
-</glyph>

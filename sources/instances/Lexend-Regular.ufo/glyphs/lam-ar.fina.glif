@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="lam-ar.fina" format="2">
-  <advance width="700.0"/>
-  <unicode hex="FEDE"/>
-  <outline>
-    <component base="_connection" xOffset="610.0"/>
-    <component base="lam-ar"/>
-  </outline>
-</glyph>
