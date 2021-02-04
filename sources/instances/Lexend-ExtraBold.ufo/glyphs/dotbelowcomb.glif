@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="220" y="-137" type="qcurve"/>
+      <point x="220" y="-181"/>
+      <point x="156" y="-237"/>
+      <point x="101" y="-237" type="qcurve"/>
+      <point x="45" y="-237"/>
+      <point x="-18" y="-185"/>
+      <point x="-18" y="-137" type="qcurve"/>
+      <point x="-18" y="-93"/>
+      <point x="46" y="-37"/>
+      <point x="101" y="-37" type="qcurve"/>
+      <point x="157" y="-37"/>
+      <point x="220" y="-89"/>
+    </contour>
+  </outline>
+</glyph>

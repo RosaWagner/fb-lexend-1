@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb_dotaccentcomb" format="2">
+  <outline>
+    <contour>
+      <point x="163" y="672" type="line"/>
+      <point x="133" y="672" type="line"/>
+      <point x="259" y="758" type="line"/>
+      <point x="292" y="728" type="line"/>
+      <point x="185" y="622" type="line"/>
+      <point x="111" y="622" type="line"/>
+      <point x="4" y="728" type="line"/>
+      <point x="37" y="758" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="830" type="qcurve"/>
+      <point x="206" y="806"/>
+      <point x="176" y="776"/>
+      <point x="148" y="776" type="qcurve"/>
+      <point x="121" y="776"/>
+      <point x="91" y="804"/>
+      <point x="91" y="830" type="qcurve"/>
+      <point x="91" y="855"/>
+      <point x="122" y="886"/>
+      <point x="148" y="886" type="qcurve"/>
+      <point x="176" y="886"/>
+      <point x="206" y="856"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iacute.ss01" format="2">
+  <advance width="331"/>
+  <outline>
+    <contour>
+      <point x="237" y="700" type="qcurve"/>
+      <point x="237" y="0" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="93" y="700" type="line"/>
+      <point x="129" y="700"/>
+      <point x="201" y="700"/>
+    </contour>
+    <contour>
+      <point x="328" y="860" type="line"/>
+      <point x="136" y="757" type="line"/>
+      <point x="93" y="822" type="line"/>
+      <point x="257" y="956" type="line"/>
+    </contour>
+  </outline>
+</glyph>

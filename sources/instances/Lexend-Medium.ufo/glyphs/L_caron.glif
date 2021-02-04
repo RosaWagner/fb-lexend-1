@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron" format="2">
+  <advance width="834"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="178" y="104" type="line"/>
+      <point x="534" y="104" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="98" y="700" type="line"/>
+      <point x="206" y="700" type="line"/>
+      <point x="206" y="78" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="716" type="qcurve"/>
+      <point x="516" y="716"/>
+      <point x="567" y="653"/>
+      <point x="567" y="603" type="qcurve"/>
+      <point x="567" y="544"/>
+      <point x="491" y="442"/>
+      <point x="434" y="420" type="qcurve"/>
+      <point x="396" y="466" type="line"/>
+      <point x="431" y="486"/>
+      <point x="475" y="538"/>
+      <point x="475" y="557" type="qcurve"/>
+      <point x="475" y="567"/>
+      <point x="465" y="586"/>
+      <point x="449" y="603" type="qcurve"/>
+      <point x="429" y="622"/>
+      <point x="417" y="648"/>
+      <point x="417" y="663" type="qcurve"/>
+      <point x="417" y="687"/>
+      <point x="451" y="716"/>
+    </contour>
+  </outline>
+</glyph>

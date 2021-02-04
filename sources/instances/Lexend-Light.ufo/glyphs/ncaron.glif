@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncaron" format="2">
+  <advance width="558"/>
+  <unicode hex="0148"/>
+  <outline>
+    <contour>
+      <point x="315" y="531" type="qcurve"/>
+      <point x="398" y="531"/>
+      <point x="486" y="426"/>
+      <point x="486" y="315" type="qcurve"/>
+      <point x="486" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="436" y="313" type="line"/>
+      <point x="436" y="400"/>
+      <point x="367" y="483"/>
+      <point x="300" y="483" type="qcurve"/>
+      <point x="223" y="483"/>
+      <point x="123" y="383"/>
+      <point x="123" y="318" type="qcurve"/>
+      <point x="123" y="0" type="line"/>
+      <point x="97" y="0"/>
+      <point x="99" y="0"/>
+      <point x="73" y="0" type="qcurve"/>
+      <point x="73" y="520" type="line"/>
+      <point x="121" y="520" type="line"/>
+      <point x="126" y="410" type="line"/>
+      <point x="120" y="410" type="line"/>
+      <point x="136" y="459"/>
+      <point x="248" y="531"/>
+    </contour>
+    <contour>
+      <point x="303" y="630" type="line"/>
+      <point x="273" y="630" type="line"/>
+      <point x="400" y="727" type="line"/>
+      <point x="428" y="702" type="line"/>
+      <point x="319" y="601" type="line"/>
+      <point x="257" y="601" type="line"/>
+      <point x="148" y="702" type="line"/>
+      <point x="176" y="727" type="line"/>
+    </contour>
+  </outline>
+</glyph>

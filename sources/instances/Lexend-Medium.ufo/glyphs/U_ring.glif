@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uring" format="2">
+  <advance width="740"/>
+  <unicode hex="016E"/>
+  <outline>
+    <contour>
+      <point x="549" y="701" type="line"/>
+      <point x="652" y="701" type="line"/>
+      <point x="652" y="269" type="line"/>
+      <point x="652" y="150"/>
+      <point x="492" y="-6"/>
+      <point x="370" y="-6" type="qcurve"/>
+      <point x="248" y="-6"/>
+      <point x="88" y="150"/>
+      <point x="88" y="269" type="qcurve"/>
+      <point x="88" y="701" type="line"/>
+      <point x="196" y="701" type="line"/>
+      <point x="196" y="278" type="line"/>
+      <point x="196" y="202"/>
+      <point x="299" y="98"/>
+      <point x="370" y="98" type="qcurve"/>
+      <point x="445" y="98"/>
+      <point x="549" y="202"/>
+      <point x="549" y="278" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="480" y="852" type="qcurve"/>
+      <point x="480" y="810"/>
+      <point x="414" y="747"/>
+      <point x="370" y="747" type="qcurve"/>
+      <point x="327" y="747"/>
+      <point x="261" y="810"/>
+      <point x="261" y="852" type="qcurve"/>
+      <point x="261" y="895"/>
+      <point x="326" y="958"/>
+      <point x="370" y="958" type="qcurve"/>
+      <point x="414" y="958"/>
+      <point x="480" y="895"/>
+    </contour>
+    <contour>
+      <point x="321" y="852" type="qcurve"/>
+      <point x="321" y="833"/>
+      <point x="350" y="806"/>
+      <point x="370" y="806" type="qcurve"/>
+      <point x="391" y="806"/>
+      <point x="420" y="833"/>
+      <point x="420" y="852" type="qcurve"/>
+      <point x="420" y="873"/>
+      <point x="391" y="899"/>
+      <point x="370" y="899" type="qcurve"/>
+      <point x="349" y="899"/>
+      <point x="321" y="872"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02CB" format="2">
+  <advance width="205"/>
+  <unicode hex="02CB"/>
+  <outline>
+    <contour>
+      <point x="162" y="442" type="line"/>
+      <point x="134" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+      <point x="114" y="442" type="line"/>
+    </contour>
+  </outline>
+</glyph>

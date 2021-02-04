@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J.ss01" format="2">
+  <advance width="582"/>
+  <outline>
+    <contour>
+      <point x="256" y="-10" type="qcurve"/>
+      <point x="188" y="-10"/>
+      <point x="79" y="60"/>
+      <point x="50" y="117" type="qcurve"/>
+      <point x="118" y="188" type="line"/>
+      <point x="161" y="129"/>
+      <point x="219" y="95"/>
+      <point x="256" y="95" type="qcurve"/>
+      <point x="310" y="95"/>
+      <point x="376" y="167"/>
+      <point x="376" y="223" type="qcurve"/>
+      <point x="376" y="700" type="line"/>
+      <point x="484" y="700" type="line"/>
+      <point x="484" y="213" type="line"/>
+      <point x="484" y="118"/>
+      <point x="357" y="-10"/>
+    </contour>
+  </outline>
+</glyph>

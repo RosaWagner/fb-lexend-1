@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="597"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="551" y="206" type="line"/>
+      <point x="46" y="206" type="line"/>
+      <point x="46" y="319" type="line"/>
+      <point x="551" y="319" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="69" type="qcurve"/>
+      <point x="375" y="37"/>
+      <point x="330" y="-7"/>
+      <point x="295" y="-7" type="qcurve"/>
+      <point x="260" y="-7"/>
+      <point x="215" y="35"/>
+      <point x="215" y="69" type="qcurve"/>
+      <point x="215" y="102"/>
+      <point x="260" y="146"/>
+      <point x="295" y="146" type="qcurve"/>
+      <point x="330" y="146"/>
+      <point x="375" y="103"/>
+    </contour>
+    <contour>
+      <point x="375" y="453" type="qcurve"/>
+      <point x="375" y="421"/>
+      <point x="329" y="377"/>
+      <point x="295" y="377" type="qcurve"/>
+      <point x="260" y="377"/>
+      <point x="215" y="420"/>
+      <point x="215" y="453" type="qcurve"/>
+      <point x="215" y="486"/>
+      <point x="260" y="531"/>
+      <point x="295" y="531" type="qcurve"/>
+      <point x="330" y="531"/>
+      <point x="375" y="487"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_acutecomb" format="2">
+  <outline>
+    <contour>
+      <point x="120" y="677" type="qcurve"/>
+      <point x="120" y="648"/>
+      <point x="83" y="612"/>
+      <point x="51" y="612" type="qcurve"/>
+      <point x="18" y="612"/>
+      <point x="-18" y="646"/>
+      <point x="-18" y="677" type="qcurve"/>
+      <point x="-18" y="706"/>
+      <point x="19" y="742"/>
+      <point x="51" y="742" type="qcurve"/>
+      <point x="84" y="742"/>
+      <point x="120" y="708"/>
+    </contour>
+    <contour>
+      <point x="320" y="677" type="qcurve"/>
+      <point x="320" y="648"/>
+      <point x="283" y="612"/>
+      <point x="251" y="612" type="qcurve"/>
+      <point x="218" y="612"/>
+      <point x="182" y="646"/>
+      <point x="182" y="677" type="qcurve"/>
+      <point x="182" y="706"/>
+      <point x="219" y="742"/>
+      <point x="251" y="742" type="qcurve"/>
+      <point x="284" y="742"/>
+      <point x="320" y="708"/>
+    </contour>
+    <contour>
+      <point x="306" y="881" type="line"/>
+      <point x="132" y="787" type="line"/>
+      <point x="98" y="838" type="line"/>
+      <point x="241" y="963" type="line"/>
+    </contour>
+  </outline>
+</glyph>

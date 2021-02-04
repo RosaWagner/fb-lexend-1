@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsupabovear" format="2">
+  <advance width="430"/>
+  <outline>
+    <contour>
+      <point x="294" y="764" type="line"/>
+      <point x="217" y="682" type="line"/>
+      <point x="136" y="764" type="line"/>
+      <point x="213" y="846" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="627" type="line"/>
+      <point x="131" y="545" type="line"/>
+      <point x="50" y="627" type="line"/>
+      <point x="127" y="709" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="627" type="line"/>
+      <point x="303" y="545" type="line"/>
+      <point x="222" y="627" type="line"/>
+      <point x="299" y="709" type="line"/>
+    </contour>
+  </outline>
+</glyph>

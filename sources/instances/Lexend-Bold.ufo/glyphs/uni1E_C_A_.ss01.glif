@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ECA.ss01" format="2">
+  <advance width="353"/>
+  <outline>
+    <contour>
+      <point x="267" y="700" type="qcurve"/>
+      <point x="267" y="0" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="87" y="700" type="line"/>
+      <point x="132" y="700"/>
+      <point x="222" y="700"/>
+    </contour>
+    <contour>
+      <point x="279" y="-149" type="qcurve"/>
+      <point x="279" y="-188"/>
+      <point x="224" y="-237"/>
+      <point x="177" y="-237" type="qcurve"/>
+      <point x="128" y="-237"/>
+      <point x="74" y="-191"/>
+      <point x="74" y="-149" type="qcurve"/>
+      <point x="74" y="-110"/>
+      <point x="129" y="-60"/>
+      <point x="177" y="-60" type="qcurve"/>
+      <point x="225" y="-60"/>
+      <point x="279" y="-106"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_acutecomb" format="2">
+  <outline>
+    <contour>
+      <point x="47" y="622" type="qcurve"/>
+      <point x="-10" y="630" type="line"/>
+      <point x="-6" y="676"/>
+      <point x="51" y="738"/>
+      <point x="94" y="738" type="qcurve"/>
+      <point x="113" y="738"/>
+      <point x="146" y="722"/>
+      <point x="168" y="699" type="qcurve"/>
+      <point x="184" y="684"/>
+      <point x="200" y="676"/>
+      <point x="208" y="676" type="qcurve"/>
+      <point x="222" y="676"/>
+      <point x="242" y="704"/>
+      <point x="242" y="724" type="qcurve"/>
+      <point x="300" y="714" type="line"/>
+      <point x="296" y="674"/>
+      <point x="246" y="618"/>
+      <point x="207" y="618" type="qcurve"/>
+      <point x="185" y="618"/>
+      <point x="148" y="636"/>
+      <point x="124" y="660" type="qcurve"/>
+      <point x="110" y="674"/>
+      <point x="96" y="680"/>
+      <point x="90" y="680" type="qcurve"/>
+      <point x="72" y="680"/>
+      <point x="49" y="651"/>
+    </contour>
+    <contour>
+      <point x="280" y="884" type="line"/>
+      <point x="116" y="786" type="line"/>
+      <point x="88" y="827" type="line"/>
+      <point x="231" y="947" type="line"/>
+    </contour>
+  </outline>
+</glyph>

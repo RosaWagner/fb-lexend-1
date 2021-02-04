@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jacute.loclNLD" format="2">
+  <advance width="263"/>
+  <outline>
+    <contour>
+      <point x="188" y="525" type="line"/>
+      <point x="188" y="-24" type="line"/>
+      <point x="188" y="-101"/>
+      <point x="88" y="-197"/>
+      <point x="8" y="-197" type="qcurve"/>
+      <point x="-31" y="-118" type="line"/>
+      <point x="27" y="-118"/>
+      <point x="85" y="-58"/>
+      <point x="85" y="1" type="qcurve"/>
+      <point x="85" y="525" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="727" type="line"/>
+      <point x="83" y="633" type="line"/>
+      <point x="49" y="684" type="line"/>
+      <point x="192" y="809" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uring" format="2">
+  <advance width="560"/>
+  <unicode hex="016F"/>
+  <outline>
+    <contour>
+      <point x="261" y="38" type="qcurve"/>
+      <point x="335" y="38"/>
+      <point x="437" y="137"/>
+      <point x="437" y="202" type="qcurve"/>
+      <point x="437" y="520" type="line"/>
+      <point x="487" y="520" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="439" y="0" type="line"/>
+      <point x="434" y="110" type="line"/>
+      <point x="440" y="110" type="line"/>
+      <point x="424" y="61"/>
+      <point x="317" y="-10"/>
+      <point x="260" y="-10" type="qcurve"/>
+      <point x="164" y="-10"/>
+      <point x="72" y="94"/>
+      <point x="72" y="205" type="qcurve"/>
+      <point x="72" y="520" type="line"/>
+      <point x="122" y="520" type="line"/>
+      <point x="122" y="207" type="line"/>
+      <point x="122" y="120"/>
+      <point x="190" y="38"/>
+    </contour>
+    <contour>
+      <point x="384" y="715" type="qcurve"/>
+      <point x="384" y="675"/>
+      <point x="321" y="615"/>
+      <point x="279" y="615" type="qcurve"/>
+      <point x="238" y="615"/>
+      <point x="175" y="675"/>
+      <point x="175" y="715" type="qcurve"/>
+      <point x="175" y="756"/>
+      <point x="237" y="816"/>
+      <point x="279" y="816" type="qcurve"/>
+      <point x="321" y="816"/>
+      <point x="384" y="756"/>
+    </contour>
+    <contour>
+      <point x="215" y="715" type="qcurve"/>
+      <point x="215" y="690"/>
+      <point x="253" y="654"/>
+      <point x="279" y="654" type="qcurve"/>
+      <point x="306" y="654"/>
+      <point x="344" y="690"/>
+      <point x="344" y="715" type="qcurve"/>
+      <point x="344" y="743"/>
+      <point x="306" y="777"/>
+      <point x="279" y="777" type="qcurve"/>
+      <point x="251" y="777"/>
+      <point x="215" y="742"/>
+    </contour>
+  </outline>
+</glyph>

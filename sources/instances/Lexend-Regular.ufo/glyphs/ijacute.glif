@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ijacute" format="2">
+  <advance width="531"/>
+  <outline>
+    <contour>
+      <point x="158" y="522" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="82" y="522" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="522" type="line"/>
+      <point x="397" y="-36" type="line"/>
+      <point x="397" y="-108"/>
+      <point x="308" y="-196"/>
+      <point x="235" y="-196" type="qcurve"/>
+      <point x="205" y="-135" type="line"/>
+      <point x="266" y="-135"/>
+      <point x="320" y="-74"/>
+      <point x="320" y="-14" type="qcurve"/>
+      <point x="320" y="522" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="703" type="line"/>
+      <point x="86" y="606" type="line"/>
+      <point x="59" y="646" type="line"/>
+      <point x="202" y="766" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="700" type="line"/>
+      <point x="334" y="603" type="line"/>
+      <point x="306" y="644" type="line"/>
+      <point x="449" y="764" type="line"/>
+    </contour>
+  </outline>
+</glyph>

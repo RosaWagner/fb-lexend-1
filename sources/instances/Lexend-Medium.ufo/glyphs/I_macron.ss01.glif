@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Imacron.ss01" format="2">
+  <advance width="308"/>
+  <outline>
+    <contour>
+      <point x="208" y="700" type="qcurve"/>
+      <point x="208" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="700" type="line"/>
+      <point x="127" y="700"/>
+      <point x="181" y="700"/>
+    </contour>
+    <contour>
+      <point x="320" y="776" type="line"/>
+      <point x="-11" y="776" type="line"/>
+      <point x="-11" y="851" type="line"/>
+      <point x="320" y="851" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb_acutecomb" format="2">
+  <outline>
+    <contour>
+      <point x="272" y="649" type="line"/>
+      <point x="2" y="649" type="line"/>
+      <point x="2" y="671" type="line"/>
+      <point x="272" y="671" type="line"/>
+    </contour>
+    <contour>
+      <point x="272" y="865" type="line"/>
+      <point x="128" y="761" type="line"/>
+      <point x="118" y="776" type="line"/>
+      <point x="258" y="886" type="line"/>
+    </contour>
+  </outline>
+</glyph>

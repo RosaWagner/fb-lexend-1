@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.loclTRK" format="2">
+  <advance width="323"/>
+  <outline>
+    <contour>
+      <point x="263" y="535" type="line"/>
+      <point x="263" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="60" y="535" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="711" type="qcurve"/>
+      <point x="277" y="669"/>
+      <point x="215" y="615"/>
+      <point x="162" y="615" type="qcurve"/>
+      <point x="108" y="615"/>
+      <point x="47" y="665"/>
+      <point x="47" y="711" type="qcurve"/>
+      <point x="47" y="753"/>
+      <point x="109" y="807"/>
+      <point x="162" y="807" type="qcurve"/>
+      <point x="216" y="807"/>
+      <point x="277" y="757"/>
+    </contour>
+  </outline>
+</glyph>
