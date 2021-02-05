@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Icaron.ss01" format="2">
-  <advance width="492"/>
-  <outline>
-    <component base="I.ss01" xOffset="77"/>
-    <component base="caroncomb.case" xOffset="45" yOffset="64"/>
-  </outline>
-</glyph>

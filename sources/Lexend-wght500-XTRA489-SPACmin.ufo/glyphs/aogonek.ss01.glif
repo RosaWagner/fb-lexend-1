@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aogonek.ss01" format="2">
+  <advance width="735"/>
+  <note>
+aogonek
+</note>
+  <guideline x="759" y="340" angle="90" identifier="cm3KdJ6VkB"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="ogonekcomb" xOffset="448"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>a</string>
+    </dict>
+  </lib>
+</glyph>

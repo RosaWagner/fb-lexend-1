@@ -1,44 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hamzabelow-ar" format="2">
-  <unicode hex="0655"/>
+  <advance width="500"/>
   <outline>
-    <contour>
-      <point x="297.0" y="-193.0" type="qcurve"/>
-      <point x="297.0" y="-250.0" type="line"/>
-      <point x="42.0" y="-250.0" type="line"/>
-      <point x="42.0" y="-193.0" type="line"/>
-      <point x="91.0" y="-193.0" type="line"/>
-      <point x="85.98774782802406" y="-185.76008019603475"/>
-      <point x="77.0" y="-157.91067052795722"/>
-      <point x="77.0" y="-149.0" type="qcurve"/>
-      <point x="77.0" y="-110.19402985074628"/>
-      <point x="136.53731343283582" y="-60.0"/>
-      <point x="194.0" y="-60.0" type="qcurve" smooth="yes"/>
-      <point x="215.6417910447761" y="-60.0"/>
-      <point x="262.05970149253733" y="-69.02985074626866"/>
-      <point x="274.0" y="-75.0" type="qcurve" smooth="yes"/>
-      <point x="274.0" y="-75.0"/>
-      <point x="258.0" y="-126.0"/>
-      <point x="258.0" y="-126.0" type="qcurve"/>
-      <point x="250.20316328803742" y="-123.7723323680107"/>
-      <point x="213.03675651592783" y="-117.0"/>
-      <point x="198.0" y="-117.0" type="qcurve"/>
-      <point x="161.43283582089552" y="-117.0"/>
-      <point x="135.0" y="-137.07462686567163"/>
-      <point x="135.0" y="-152.0" type="qcurve" smooth="yes"/>
-      <point x="135.0" y="-166.17910447761193"/>
-      <point x="168.26865671641792" y="-193.0"/>
-      <point x="222.0" y="-193.0" type="qcurve" smooth="yes"/>
-      <point x="222.0" y="-193.0"/>
-      <point x="297.0" y="-193.0"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>235</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb" format="2">
+  <advance width="1"/>
+  <outline>
+    <component base="brevecomb" xOffset="-11" yOffset="-12"/>
+    <component base="tildecomb" xOffset="2" yOffset="114"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>453</integer>
+    </dict>
+  </lib>
+</glyph>

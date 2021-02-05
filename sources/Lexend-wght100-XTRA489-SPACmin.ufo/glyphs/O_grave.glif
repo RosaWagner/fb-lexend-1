@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ograve" format="2">
+  <advance width="958"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <component base="O"/>
+    <component base="gravecomb.case" xOffset="313.88000000000466" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7211,0.9166,0.0451,1</string>
+    </dict>
+  </lib>
+</glyph>

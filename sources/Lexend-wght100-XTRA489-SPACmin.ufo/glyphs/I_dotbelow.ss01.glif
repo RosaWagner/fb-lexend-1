@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotbelow.ss01" format="2">
+  <advance width="324"/>
+  <outline>
+    <component base="I.ss01"/>
+    <component base="dotbelowcomb.case" xOffset="55.18118401206448" yOffset="-36"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7211,0.9166,0.0451,1</string>
+    </dict>
+  </lib>
+</glyph>

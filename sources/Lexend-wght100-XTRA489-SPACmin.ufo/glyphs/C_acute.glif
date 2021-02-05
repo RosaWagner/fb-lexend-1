@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cacute" format="2">
+  <advance width="821"/>
+  <unicode hex="0106"/>
+  <outline>
+    <component base="C"/>
+    <component base="acutecomb.case" xOffset="334.84999999999127" yOffset="145"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7211,0.9166,0.0451,1</string>
+    </dict>
+  </lib>
+</glyph>

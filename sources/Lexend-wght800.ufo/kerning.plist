@@ -316,15 +316,6 @@
       <key>increment</key>
       <integer>-30</integer>
     </dict>
-    <key>eight-ar</key>
-    <dict>
-      <key>nine-ar</key>
-      <integer>-20</integer>
-      <key>seven-ar</key>
-      <integer>-30</integer>
-      <key>six-ar</key>
-      <integer>-40</integer>
-    </dict>
     <key>endash</key>
     <dict>
       <key>Eth</key>
@@ -362,17 +353,6 @@
       <key>slash</key>
       <integer>-40</integer>
     </dict>
-    <key>five-ar</key>
-    <dict>
-      <key>nine-ar</key>
-      <integer>-20</integer>
-      <key>seven-ar</key>
-      <integer>-30</integer>
-      <key>six-ar</key>
-      <integer>-40</integer>
-      <key>zero-ar</key>
-      <integer>20</integer>
-    </dict>
     <key>four</key>
     <dict>
       <key>integral</key>
@@ -380,11 +360,6 @@
       <key>seven</key>
       <integer>-20</integer>
       <key>two</key>
-      <integer>-20</integer>
-    </dict>
-    <key>four-ar</key>
-    <dict>
-      <key>nine-ar</key>
       <integer>-20</integer>
     </dict>
     <key>g</key>
@@ -541,11 +516,6 @@
       <integer>-40</integer>
       <key>slash</key>
       <integer>-50</integer>
-    </dict>
-    <key>nine-ar</key>
-    <dict>
-      <key>seven-ar</key>
-      <integer>-10</integer>
     </dict>
     <key>one</key>
     <dict>
@@ -2079,16 +2049,6 @@
       <key>j</key>
       <integer>2</integer>
     </dict>
-    <key>reh-ar.fina.yeh</key>
-    <dict>
-      <key>yeh-ar.init</key>
-      <integer>80</integer>
-    </dict>
-    <key>reh-ar.yeh</key>
-    <dict>
-      <key>yeh-ar.init</key>
-      <integer>80</integer>
-    </dict>
     <key>seven</key>
     <dict>
       <key>eight</key>
@@ -2110,19 +2070,6 @@
       <key>slash</key>
       <integer>-120</integer>
       <key>two</key>
-      <integer>-20</integer>
-    </dict>
-    <key>seven-ar</key>
-    <dict>
-      <key>eight-ar</key>
-      <integer>-30</integer>
-      <key>five-ar</key>
-      <integer>-30</integer>
-      <key>nine-ar</key>
-      <integer>-10</integer>
-      <key>six-ar</key>
-      <integer>30</integer>
-      <key>zero-ar</key>
       <integer>-20</integer>
     </dict>
     <key>six</key>
@@ -2192,42 +2139,12 @@
       <key>slash</key>
       <integer>-25</integer>
     </dict>
-    <key>three-ar</key>
-    <dict>
-      <key>eight-ar</key>
-      <integer>-50</integer>
-      <key>five-ar</key>
-      <integer>-40</integer>
-      <key>four-ar</key>
-      <integer>-20</integer>
-      <key>seven-ar</key>
-      <integer>30</integer>
-      <key>six-ar</key>
-      <integer>40</integer>
-      <key>zero-ar</key>
-      <integer>-40</integer>
-    </dict>
     <key>two</key>
     <dict>
       <key>braceright</key>
       <integer>10</integer>
       <key>four</key>
       <integer>-20</integer>
-    </dict>
-    <key>two-ar</key>
-    <dict>
-      <key>eight-ar</key>
-      <integer>-40</integer>
-      <key>five-ar</key>
-      <integer>-50</integer>
-      <key>four-ar</key>
-      <integer>-30</integer>
-      <key>seven-ar</key>
-      <integer>30</integer>
-      <key>six-ar</key>
-      <integer>40</integer>
-      <key>zero-ar</key>
-      <integer>-50</integer>
     </dict>
     <key>underscore</key>
     <dict>
@@ -2282,17 +2199,6 @@
       <integer>-50</integer>
       <key>slash</key>
       <integer>-50</integer>
-    </dict>
-    <key>zero-ar</key>
-    <dict>
-      <key>five-ar</key>
-      <integer>20</integer>
-      <key>nine-ar</key>
-      <integer>-20</integer>
-      <key>seven-ar</key>
-      <integer>-20</integer>
-      <key>six-ar</key>
-      <integer>-40</integer>
     </dict>
   </dict>
 </plist>

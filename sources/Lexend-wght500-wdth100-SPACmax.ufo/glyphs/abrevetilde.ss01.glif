@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="abrevetilde.ss01" format="2">
-  <advance width="780"/>
-  <outline>
-    <component base="a.ss01" xOffset="12"/>
-    <component base="brevecomb_tildecomb" xOffset="57" yOffset="18"/>
-  </outline>
-</glyph>

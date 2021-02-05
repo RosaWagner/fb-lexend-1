@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="theh-ar.medi.wide" format="2">
-  <advance width="406"/>
-  <outline>
-    <component base="behDotless-ar.medi.wide"/>
-    <component base="threedotsupabove-ar" xOffset="31" yOffset="-88"/>
-  </outline>
-</glyph>

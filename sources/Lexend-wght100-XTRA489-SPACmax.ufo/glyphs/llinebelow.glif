@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="llinebelow" format="2">
+  <advance width="439"/>
+  <unicode hex="1E3B"/>
+  <outline>
+    <component base="l" xOffset="1"/>
+    <component base="macronbelowcomb" xOffset="16" yOffset="-64"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aacute.ss01" format="2">
+  <advance width="971"/>
+  <note>
+aacute
+</note>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="acutecomb" xOffset="300" yOffset="-7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>+10</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>+10</string>
+    </dict>
+  </lib>
+</glyph>

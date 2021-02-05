@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="adblgrave.ss01" format="2">
-  <advance width="729"/>
-  <outline>
-    <component base="a.ss01" xOffset="-5"/>
-    <component base="dblgravecomb" xOffset="190" yOffset="26"/>
-  </outline>
-</glyph>

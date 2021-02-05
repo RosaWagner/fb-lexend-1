@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="1277"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="350" y="0" type="line"/>
+      <point x="92" y="700" type="line"/>
+      <point x="211" y="700" type="line"/>
+      <point x="359" y="289" type="line" smooth="yes"/>
+      <point x="375" y="244"/>
+      <point x="407" y="139"/>
+      <point x="419" y="99" type="qcurve"/>
+      <point x="375" y="100" type="line"/>
+      <point x="389" y="140"/>
+      <point x="431" y="244"/>
+      <point x="451" y="289" type="qcurve" smooth="yes"/>
+      <point x="580" y="579" type="line"/>
+      <point x="684" y="579" type="line"/>
+      <point x="809" y="291" type="line" smooth="yes"/>
+      <point x="828" y="248"/>
+      <point x="870" y="147"/>
+      <point x="880" y="109" type="qcurve"/>
+      <point x="840" y="102" type="line"/>
+      <point x="852" y="143"/>
+      <point x="885" y="251"/>
+      <point x="904" y="296" type="qcurve" smooth="yes"/>
+      <point x="1068" y="700" type="line"/>
+      <point x="1184" y="700" type="line"/>
+      <point x="896" y="0" type="line"/>
+      <point x="821" y="0" type="line"/>
+      <point x="618" y="471" type="line"/>
+      <point x="637" y="467" type="line"/>
+      <point x="433" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="322" type="line"/>
+      <point x="111" y="322" type="line"/>
+      <point x="111" y="431" type="line"/>
+      <point x="230" y="431" type="line"/>
+      <point x="263" y="417" type="line"/>
+      <point x="406" y="417" type="line"/>
+      <point x="406" y="336" type="line"/>
+      <point x="292" y="336" type="line"/>
+    </contour>
+    <contour>
+      <point x="856" y="417" type="line"/>
+      <point x="1046" y="417" type="line"/>
+      <point x="1082" y="431" type="line"/>
+      <point x="1185" y="431" type="line"/>
+      <point x="1185" y="322" type="line"/>
+      <point x="1059" y="322" type="line"/>
+      <point x="1010" y="336" type="line"/>
+      <point x="856" y="336" type="line"/>
+    </contour>
+    <contour>
+      <point x="406" y="417" type="line"/>
+      <point x="856" y="417" type="line"/>
+      <point x="856" y="336" type="line"/>
+      <point x="406" y="336" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>W</string>
+    </dict>
+  </lib>
+</glyph>

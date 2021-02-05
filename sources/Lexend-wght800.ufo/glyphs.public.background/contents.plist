@@ -12,47 +12,23 @@
     <string>cent.glif</string>
     <key>colonsign</key>
     <string>colonsign.glif</string>
-    <key>eight-ar</key>
-    <string>eight-ar.glif</string>
     <key>four</key>
     <string>four.glif</string>
-    <key>four-ar</key>
-    <string>four-ar.glif</string>
     <key>guarani</key>
     <string>guarani.glif</string>
-    <key>kaf-ar.medi</key>
-    <string>kaf-ar.medi.glif</string>
-    <key>kaf-ar.medi.v2</key>
-    <string>kaf-ar.medi.v2.glif</string>
     <key>kip</key>
     <string>kip.glif</string>
     <key>naira</key>
     <string>naira.glif</string>
-    <key>nine-ar</key>
-    <string>nine-ar.glif</string>
     <key>numbersign</key>
     <string>numbersign.glif</string>
-    <key>one-ar</key>
-    <string>one-ar.glif</string>
     <key>peseta</key>
     <string>peseta.glif</string>
     <key>peso</key>
     <string>peso.glif</string>
     <key>ruble</key>
     <string>ruble.glif</string>
-    <key>seven-ar</key>
-    <string>seven-ar.glif</string>
-    <key>shadda-ar</key>
-    <string>shadda-ar.glif</string>
-    <key>six-ar</key>
-    <string>six-ar.glif</string>
-    <key>two-ar</key>
-    <string>two-ar.glif</string>
-    <key>wasla-ar</key>
-    <string>wasla-ar.glif</string>
     <key>won</key>
     <string>won.glif</string>
-    <key>zero-ar</key>
-    <string>zero-ar.glif</string>
   </dict>
 </plist>

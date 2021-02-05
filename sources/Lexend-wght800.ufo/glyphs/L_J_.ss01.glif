@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="LJ.ss01" format="2">
-  <advance width="1181"/>
+  <advance width="1190"/>
   <outline>
     <component base="L"/>
-    <component base="J.ss01" xOffset="599"/>
+    <component base="J.ss01" xOffset="616"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

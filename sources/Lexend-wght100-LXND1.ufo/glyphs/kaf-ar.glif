@@ -1,46 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kaf-ar" format="2">
-  <advance width="1425"/>
-  <unicode hex="0643"/>
+  <advance width="500"/>
   <outline>
-    <contour>
-      <point x="1109.0" y="740.0" type="line"/>
-      <point x="1213.0" y="740.0" type="line"/>
-      <point x="1213.0" y="0.0" type="line"/>
-      <point x="1109.0" y="0.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1142.0" y="102.0" type="qcurve"/>
-      <point x="381.0" y="102.0" type="line"/>
-      <point x="319.1822232122967" y="102.0"/>
-      <point x="191.0" y="171.42214301626197"/>
-      <point x="191.0" y="226.0" type="qcurve"/>
-      <point x="191.0" y="247.71975941189575"/>
-      <point x="213.17865894408556" y="338.0158164401871"/>
-      <point x="231.0" y="377.0" type="qcurve" smooth="yes"/>
-      <point x="231.0" y="377.0"/>
-      <point x="151.0" y="413.0"/>
-      <point x="151.0" y="413.0" type="qcurve" smooth="yes"/>
-      <point x="115.17910447761194" y="351.80597014925377"/>
-      <point x="87.0" y="245.28358208955223"/>
-      <point x="87.0" y="202.0" type="qcurve"/>
-      <point x="87.0" y="131.82846959233683"/>
-      <point x="257.66562708843844" y="0.0"/>
-      <point x="349.0" y="0.0" type="qcurve"/>
-      <point x="349.0" y="0.0"/>
-      <point x="1136.0" y="0.0"/>
-      <point x="1136.0" y="0.0" type="qcurve" smooth="yes"/>
-      <point x="1136.0" y="0.0"/>
-      <point x="1142.0" y="102.0"/>
-    </contour>
-    <component base="hamzaabove-ar" xScale="1.2" yScale="1.2" xOffset="467" yOffset="-461"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>alef-ar</string>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

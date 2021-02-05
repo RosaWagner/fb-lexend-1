@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <outline>
+    <contour>
+      <point x="116.0" y="683.0" type="qcurve" smooth="yes"/>
+      <point x="116.0" y="675.0"/>
+      <point x="106.07462686567163" y="656.0"/>
+      <point x="89.0" y="656.0" type="qcurve" smooth="yes"/>
+      <point x="74.92537313432837" y="656.0"/>
+      <point x="62.0" y="672.8955223880597"/>
+      <point x="62.0" y="683.0" type="qcurve" smooth="yes"/>
+      <point x="62.0" y="689.6268656716418"/>
+      <point x="72.92537313432837" y="710.0"/>
+      <point x="89.0" y="710.0" type="qcurve" smooth="yes"/>
+      <point x="105.07462686567163" y="710.0"/>
+      <point x="116.0" y="693.0"/>
+    </contour>
+    <contour>
+      <point x="266.0" y="683.0" type="qcurve" smooth="yes"/>
+      <point x="266.0" y="675.0"/>
+      <point x="256.07462686567163" y="656.0"/>
+      <point x="239.0" y="656.0" type="qcurve" smooth="yes"/>
+      <point x="224.92537313432837" y="656.0"/>
+      <point x="212.0" y="672.8955223880597"/>
+      <point x="212.0" y="683.0" type="qcurve" smooth="yes"/>
+      <point x="212.0" y="689.6268656716418"/>
+      <point x="222.92537313432837" y="710.0"/>
+      <point x="239.0" y="710.0" type="qcurve" smooth="yes"/>
+      <point x="255.07462686567163" y="710.0"/>
+      <point x="266.0" y="693.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>404</integer>
+    </dict>
+  </lib>
+</glyph>

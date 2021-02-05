@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance width="811"/>
+  <unicode hex="20B5"/>
+  <outline>
+    <contour>
+      <point x="718" y="194" type="qcurve"/>
+      <point x="770" y="104" type="line"/>
+      <point x="727" y="69"/>
+      <point x="556" y="-10"/>
+      <point x="452" y="-10" type="qcurve" smooth="yes"/>
+      <point x="283" y="-10"/>
+      <point x="48" y="187"/>
+      <point x="48" y="350" type="qcurve" smooth="yes"/>
+      <point x="48" y="504"/>
+      <point x="290" y="706"/>
+      <point x="452" y="706" type="qcurve" smooth="yes"/>
+      <point x="553" y="706"/>
+      <point x="729" y="632"/>
+      <point x="775" y="589" type="qcurve"/>
+      <point x="711" y="498" type="line"/>
+      <point x="657" y="542"/>
+      <point x="525" y="600"/>
+      <point x="442" y="600" type="qcurve" smooth="yes"/>
+      <point x="336" y="600"/>
+      <point x="158" y="465"/>
+      <point x="158" y="350" type="qcurve" smooth="yes"/>
+      <point x="158" y="225"/>
+      <point x="344" y="95"/>
+      <point x="460" y="95" type="qcurve" smooth="yes"/>
+      <point x="549" y="95"/>
+      <point x="673" y="161"/>
+    </contour>
+    <contour>
+      <point x="388" y="344" type="line"/>
+      <point x="388" y="637" type="line"/>
+      <point x="381" y="673" type="line"/>
+      <point x="381" y="776" type="line"/>
+      <point x="508" y="776" type="line"/>
+      <point x="508" y="680" type="line"/>
+      <point x="501" y="642" type="line"/>
+      <point x="501" y="344" type="line"/>
+    </contour>
+    <contour>
+      <point x="508" y="21" type="line"/>
+      <point x="508" y="-81" type="line"/>
+      <point x="381" y="-81" type="line"/>
+      <point x="381" y="18" type="line"/>
+      <point x="388" y="73" type="line"/>
+      <point x="388" y="344" type="line"/>
+      <point x="501" y="344" type="line"/>
+      <point x="501" y="66" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C</string>
+    </dict>
+  </lib>
+</glyph>

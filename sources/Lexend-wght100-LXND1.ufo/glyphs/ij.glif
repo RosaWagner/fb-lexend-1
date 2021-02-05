@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij" format="2">
-  <advance width="958"/>
+  <advance width="920"/>
   <unicode hex="0133"/>
-  <note>
-ij
-</note>
   <outline>
     <component base="i"/>
-    <component base="j" xOffset="441"/>
+    <component base="j" xOffset="422"/>
   </outline>
   <lib>
     <dict>
@@ -26,6 +23,8 @@ ij
       <string>i</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>j</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>
