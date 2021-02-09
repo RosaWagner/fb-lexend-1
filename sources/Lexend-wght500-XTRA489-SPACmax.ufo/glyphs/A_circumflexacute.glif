@@ -2,10 +2,9 @@
 <glyph name="Acircumflexacute" format="2">
   <advance width="992"/>
   <unicode hex="1EA4"/>
-  <guideline x="496.0" y="0" angle="90.0" identifier="Pvnb3ZDqWg"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb_acutecomb" xOffset="292" yOffset="129"/>
+    <component base="circumflexcomb_acutecomb" xOffset="289" yOffset="185"/>
   </outline>
   <lib>
     <dict>
@@ -24,6 +23,8 @@
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

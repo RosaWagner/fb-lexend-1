@@ -4,6 +4,7 @@
   <unicode hex="02DD"/>
   <guideline x="231" y="575" angle="0" identifier="hl8t4ZQHsL"/>
   <guideline x="139" y="780" angle="0" identifier="NnKKPW2l64"/>
+  <anchor x="188" y="515" name="_top"/>
   <outline>
     <component base="hungarumlautcomb" xOffset="3"/>
   </outline>

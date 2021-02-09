@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acaron" format="2">
   <advance width="903"/>
-  <unicode hex="01CD"/>
+  <unicode hex="0100"/>
   <outline>
     <component base="A"/>
-    <component base="caroncomb.case" xOffset="252.5" yOffset="193.00152061028143"/>
+    <component base="caroncomb.case" xOffset="245" yOffset="215"/>
   </outline>
   <lib>
     <dict>
@@ -12,6 +12,8 @@
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

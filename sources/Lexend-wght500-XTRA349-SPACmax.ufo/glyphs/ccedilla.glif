@@ -2,12 +2,9 @@
 <glyph name="ccedilla" format="2">
   <advance width="730"/>
   <unicode hex="00E7"/>
-  <note>
-ccedilla
-</note>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb" xOffset="264"/>
+    <component base="cedillacomb" xOffset="232" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ ccedilla
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

@@ -5,6 +5,12 @@
   <note>
 oe
 </note>
+  <anchor x="583" y="0" name="bottom"/>
+  <anchor x="583" y="510" name="top"/>
+  <anchor x="305" y="256" name="center"/>
+  <anchor x="547" y="10" name="ogonek_1"/>
+  <anchor x="954" y="10" name="ogonek_2"/>
+  <anchor x="319" y="531" name="topright"/>
   <outline>
     <component base="o"/>
     <component base="e" xOffset="482"/>

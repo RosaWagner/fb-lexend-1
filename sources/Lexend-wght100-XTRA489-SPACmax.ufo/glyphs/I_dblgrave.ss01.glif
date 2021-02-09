@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idblgrave.ss01" format="2">
-  <advance width="493"/>
+  <advance width="492"/>
   <outline>
     <component base="I.ss01"/>
-    <component base="dblgravecomb.case" xOffset="34" yOffset="156"/>
+    <component base="dblgravecomb.case" xOffset="-16" yOffset="221"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

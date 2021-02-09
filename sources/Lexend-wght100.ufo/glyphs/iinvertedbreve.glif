@@ -1,16 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iinvertedbreve" format="2">
-  <advance width="182"/>
+  <advance width="162"/>
   <unicode hex="020B"/>
-  <guideline x="91.0" y="0" angle="270.0" identifier="ybXH5prbLx"/>
   <outline>
     <component base="idotless"/>
-    <component base="breveinvertedcomb" xOffset="-136" yOffset="-10"/>
+    <component base="breveinvertedcomb" xOffset="-146" yOffset="1"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.749,0.4863,0.8784,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

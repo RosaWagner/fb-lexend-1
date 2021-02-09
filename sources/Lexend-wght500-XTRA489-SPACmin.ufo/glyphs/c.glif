@@ -5,6 +5,8 @@
   <note>
 c
 </note>
+  <anchor x="383" y="0" name="bottom"/>
+  <anchor x="388" y="525" name="top"/>
   <outline>
     <contour>
       <point x="365" y="443" type="qcurve" smooth="yes"/>

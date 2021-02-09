@@ -3,9 +3,8 @@
   <advance width="843"/>
   <unicode hex="01FB"/>
   <outline>
-    <component base="a"/>
-    <component base="ringcomb" xOffset="227"/>
-    <component base="acutecomb.case" xOffset="275" yOffset="226"/>
+    <component base="aring"/>
+    <component base="acutecomb" xOffset="238.5" yOffset="283"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +35,8 @@
           <string>acutecomb.case</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="013D"/>
   <outline>
     <component base="L"/>
-    <component base="comma" xOffset="370" yOffset="600"/>
+    <component base="caronalt" xOffset="618"/>
   </outline>
   <lib>
     <dict>
@@ -22,7 +22,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

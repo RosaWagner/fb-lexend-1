@@ -3,8 +3,8 @@
   <advance width="690"/>
   <unicode hex="1EAE"/>
   <outline>
-    <component base="A" xOffset="-6.900000000000034" yOffset="-12.06000000000006"/>
-    <component base="brevecomb_acutecomb" xOffset="131.30999999999997" yOffset="155.21999999999994"/>
+    <component base="A"/>
+    <component base="brevecomb_acutecomb" xOffset="143" yOffset="186"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

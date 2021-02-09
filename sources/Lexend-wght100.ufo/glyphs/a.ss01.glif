@@ -7,6 +7,9 @@ a
   <guideline x="488" y="297" angle="0" identifier="uPQlZTwG9a"/>
   <guideline x="474" y="275" angle="0" identifier="EFH6zrbmCa"/>
   <guideline x="268.5" y="0" angle="270.0" name="center" identifier="k4tOelaGuO"/>
+  <anchor x="260" y="-13" name="bottom"/>
+  <anchor x="494" y="10" name="ogonek"/>
+  <anchor x="262" y="530" name="top"/>
   <outline>
     <contour>
       <point x="272" y="530" type="qcurve"/>

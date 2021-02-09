@@ -3,12 +3,12 @@
   <advance width="775"/>
   <outline>
     <component base="o"/>
-    <component base="tildecomb_dieresiscomb" xOffset="251.47058823530097" yOffset="-46"/>
+    <component base="tildecomb_dieresiscomb" xOffset="259"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.7211,0.9166,0.0451,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

@@ -5,6 +5,10 @@
   <note>
 U
 </note>
+  <anchor x="437" y="0" name="bottom"/>
+  <anchor x="527" y="0" name="ogonek"/>
+  <anchor x="437" y="700" name="top"/>
+  <anchor x="897" y="700" name="topright"/>
   <outline>
     <contour>
       <point x="752" y="700" type="line"/>

@@ -3,8 +3,10 @@
   <unicode hex="0309"/>
   <guideline x="539" y="781" angle="0" identifier="jdXmgAeCMq"/>
   <guideline x="379" y="575" angle="0" identifier="xkfzPcTwG0"/>
+  <anchor x="155" y="492" name="_top"/>
+  <anchor x="145" y="790" name="top"/>
   <outline>
-    <component base="hookabovecomb.case" yOffset="10"/>
+    <component base="hookabovecomb.case" yOffset="-12"/>
   </outline>
   <lib>
     <dict>

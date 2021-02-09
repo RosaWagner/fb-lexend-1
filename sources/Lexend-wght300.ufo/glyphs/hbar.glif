@@ -3,6 +3,9 @@
   <advance width="560"/>
   <unicode hex="0127"/>
   <guideline x="367" y="607" angle="0" identifier="sgSRwM3rBx"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="122" y="593" name="center"/>
+  <anchor x="121" y="729" name="top"/>
   <outline>
     <component base="h"/>
     <component base="strokeshortcomb" xOffset="-50" yOffset="330"/>

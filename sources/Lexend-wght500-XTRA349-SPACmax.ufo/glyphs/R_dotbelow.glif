@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rdotbelow" format="2">
   <advance width="881"/>
-  <unicode hex="1E5A"/>
   <outline>
     <component base="R"/>
-    <component base="dotbelowcomb.case" xOffset="340"/>
+    <component base="dotbelowcomb.case" xOffset="319"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

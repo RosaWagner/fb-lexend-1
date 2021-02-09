@@ -2,9 +2,14 @@
 <glyph name="Ccedilla" format="2">
   <advance width="811"/>
   <unicode hex="00C7"/>
-  <guideline x="490.5" y="0" angle="90.0" identifier="Isj7otrPta"/>
   <outline>
     <component base="C"/>
-    <component base="cedillacomb.case" xOffset="323"/>
+    <component base="cedillacomb.case" xOffset="298"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

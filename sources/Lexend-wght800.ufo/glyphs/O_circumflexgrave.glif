@@ -4,7 +4,7 @@
   <unicode hex="1ED2"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb_gravecomb" xOffset="213.5000000000291" yOffset="211"/>
+    <component base="circumflexcomb_gravecomb" xOffset="197" yOffset="184"/>
   </outline>
   <lib>
     <dict>
@@ -36,7 +36,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

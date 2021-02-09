@@ -6,6 +6,9 @@
 Y
 </note>
   <guideline x="315.5" y="0" angle="270.0" identifier="Di3rfxVKjT"/>
+  <anchor x="330" y="-1" name="bottom"/>
+  <anchor x="326" y="700" name="top"/>
+  <anchor x="60" y="700" name="topleft"/>
   <outline>
     <contour>
       <point x="548" y="700" type="line"/>

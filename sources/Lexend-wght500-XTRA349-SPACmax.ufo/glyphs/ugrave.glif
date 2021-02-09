@@ -2,12 +2,9 @@
 <glyph name="ugrave" format="2">
   <advance width="861"/>
   <unicode hex="00F9"/>
-  <note>
-ugrave
-</note>
   <outline>
     <component base="u"/>
-    <component base="gravecomb" xOffset="273" yOffset="-9"/>
+    <component base="gravecomb" xOffset="272" yOffset="-9"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ ugrave
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

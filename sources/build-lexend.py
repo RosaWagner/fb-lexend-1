@@ -167,19 +167,7 @@ doc.addAxis(tag="wdth", name="wdth", minimum=100, maximum=125, default=100, warp
 
 
 # instances
-instances = [
-#	dict(fileName="instances/Amstelvar-Roman-opsz144-wght100-wdth125.ufo", location=dict(wght=100, wdth=125, opsz=04), styleName="opsz144-wght100-wdth125", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
-#	dict(fileName="instances/Amstelvar-Roman-opsz144-wght100-wdth075.ufo", location=dict(wght=100, wdth=87, opsz=04), styleName="opsz144-wght100-wdth075", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
-#	dict(fileName="instances/Amstelvar-Roman-opsz144-wght100-wdth50.ufo", location=dict(wght=100, wdth=75, opsz=04), styleName="opsz144-wght100-wdth50", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
-	
-#	dict(fileName="instances/Amstelvar-Roman-opsz144-wght900-wdth125.ufo", location=dict(wght=900, wdth=125, opsz=04), styleName="opsz144-wght900-wdth125", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
-#	dict(fileName="instances/Amstelvar-Roman-opsz144-wght900-wdth075.ufo", location=dict(wght=900, wdth=76, opsz=04), styleName="opsz144-wght900-wdth075", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
-#	dict(fileName="instances/Amstelvar-Roman-opsz144-wght900-wdth50.ufo", location=dict(wght=900, wdth=75, opsz=04), styleName="opsz144-wght900-wdth50", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
-	
-#	dict(fileName="instances/Amstelvar-Roman-opsz144-wdth125.ufo", location=dict(wght=400, wdth=125, opsz=04), styleName="opsz144-wdth125", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
-#	dict(fileName="instances/Amstelvar-Roman-opsz144-wdth075.ufo", location=dict(wght=400, wdth=80, opsz=04), styleName="opsz144-wdth075", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
-#	dict(fileName="instances/Amstelvar-Roman-opsz144-wdth50.ufo", location=dict(wght=400, wdth=75, opsz=04), styleName="opsz144-wdth50", familyName=familyName, postScriptFontName=None, styleMapFamilyName=None, styleMapStyleName=None),
-]
+instances = []
 for instance in instances:
 	doc.startInstance(**instance)
 	doc.writeInfo()
@@ -241,7 +229,15 @@ sources = [
 	dict(path="master_ufo/Lexend-wght100-XTRA489-SPACmax.ufo", name="Lexend-wght100-XTRA489-SPACmax.ufo", location=dict( wght=100, XTRA=489, SPAC=100, LXND=1 ), styleName="wght100-LXND1", familyName=familyName, copyInfo=False),
 
 ]
-#instances = []
+instances = [
+	dict(fileName="instances/Lexend-Thin.ufo", location=dict(wght=100, XTRA=349, SPAC=100, LXND=0), styleName="Thin", familyName=familyName, postScriptFontName="Lexend-Thin", styleMapFamilyName="Lexend", styleMapStyleName="Thin"),
+	dict(fileName="instances/Lexend-Light.ufo", location=dict(wght=300, XTRA=349, SPAC=100, LXND=0), styleName="Light", familyName=familyName, postScriptFontName="Lexend-Light", styleMapFamilyName="Lexend", styleMapStyleName="Lexend"),
+	dict(fileName="instances/Lexend-Regular.ufo", location=dict(wght=400, XTRA=349, SPAC=100, LXND=0), styleName="Regular", familyName=familyName, postScriptFontName="Lexend-Regular", styleMapFamilyName="Lexend", styleMapStyleName="Regular"),
+	dict(fileName="instances/Lexend-Medium.ufo", location=dict(wght=500, XTRA=349, SPAC=100, LXND=0), styleName="Medium", familyName=familyName, postScriptFontName="Lexend-Medium", styleMapFamilyName="Lexend", styleMapStyleName="Medium"),
+	dict(fileName="instances/Lexend-SemiBold.ufo", location=dict(wght=600, XTRA=349, SPAC=100, LXND=0), styleName="SemiBold", familyName=familyName, postScriptFontName="Lexend-SemiBold", styleMapFamilyName="Lexend", styleMapStyleName="SemiBold"),
+	dict(fileName="instances/Lexend-Bold.ufo", location=dict(wght=700, XTRA=349, SPAC=100, LXND=0), styleName="Bold", familyName=familyName, postScriptFontName="Lexend-Bold", styleMapFamilyName="Lexend", styleMapStyleName="Bold"),
+	dict(fileName="instances/Lexend-ExtraBold.ufo", location=dict(wght=800, XTRA=349, SPAC=100, LXND=0), styleName="ExtraBold", familyName=familyName, postScriptFontName="Lexend-ExtraBold", styleMapFamilyName="Lexend", styleMapStyleName="ExtraBold"),
+]
 axes = [
 	
 	dict(minimum=100, maximum=800, default=500, name="wght", tag="wght", labelNames={"en": "wght"}, map=[]),

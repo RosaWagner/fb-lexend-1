@@ -3,8 +3,7 @@
   <advance width="984"/>
   <unicode hex="01FB"/>
   <outline>
-    <component base="a"/>
-    <component base="ringcomb" xOffset="342" yOffset="10"/>
-    <component base="acutecomb.case" xOffset="418" yOffset="231"/>
+    <component base="aring"/>
+    <component base="acutecomb" xOffset="418" yOffset="231"/>
   </outline>
 </glyph>

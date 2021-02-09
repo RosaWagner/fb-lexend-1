@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eogonek" format="2">
-  <advance width="790"/>
+  <advance width="706"/>
   <unicode hex="0118"/>
-  <note>
-Eogonek
-</note>
   <outline>
     <component base="E"/>
-    <component base="ogonekcomb.case" xOffset="503"/>
+    <component base="ogonekcomb.case" xOffset="405"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ Eogonek
       <string>E</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>E</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

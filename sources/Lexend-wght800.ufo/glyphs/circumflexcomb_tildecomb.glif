@@ -4,9 +4,11 @@
   <guideline x="37" y="914" angle="90" identifier="HLzzeLDY9l"/>
   <guideline x="429" y="802" angle="90" identifier="5D2kcOj5Su"/>
   <guideline x="79" y="559" angle="0" identifier="MOMtZXMmPh"/>
+  <anchor x="233" y="515" name="_top"/>
+  <anchor x="235" y="725" name="top"/>
   <outline>
     <component base="circumflexcomb" xOffset="25"/>
-    <component base="tildecomb" xOffset="10" yOffset="208"/>
+    <component base="tildecomb" xOffset="10" yOffset="234"/>
   </outline>
   <lib>
     <dict>

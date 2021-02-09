@@ -5,6 +5,10 @@
   <note>
 Hbar
 </note>
+  <anchor x="593" y="0" name="bottom"/>
+  <anchor x="593" y="350" name="center"/>
+  <anchor x="593" y="700" name="top"/>
+  <anchor x="68" y="700" name="topleft"/>
   <outline>
     <contour>
       <point x="233" y="468" type="line"/>

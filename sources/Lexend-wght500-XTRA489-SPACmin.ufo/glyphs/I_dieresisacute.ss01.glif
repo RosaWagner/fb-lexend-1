@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idieresisacute.ss01" format="2">
   <advance width="308"/>
-  <guideline x="246.0" y="0" angle="90.0" identifier="vNQCSzkfSO"/>
   <outline>
     <component base="I.ss01"/>
-    <component base="dieresiscomb_acutecomb" xOffset="4" yOffset="139"/>
+    <component base="dieresiscomb_acutecomb" xOffset="15" yOffset="174"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

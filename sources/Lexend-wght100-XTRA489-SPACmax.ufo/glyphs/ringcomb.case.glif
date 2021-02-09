@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringcomb.case" format="2">
+  <anchor x="161" y="676" name="_top"/>
+  <anchor x="159" y="991" name="top"/>
   <outline>
     <contour>
       <point x="253.0" y="745.0" type="qcurve"/>

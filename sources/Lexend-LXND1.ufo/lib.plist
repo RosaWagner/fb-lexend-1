@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>GSOffsetAutoStroke</key>
+    <integer>1</integer>
+    <key>GSOffsetHorizontal</key>
+    <integer>52</integer>
+    <key>GSOffsetMakeStroke</key>
+    <integer>1</integer>
+    <key>GSOffsetPosition</key>
+    <real>0.4</real>
+    <key>GSOffsetVertical</key>
+    <integer>42</integer>
     <key>com.defcon.sortDescriptor</key>
     <array>
       <dict>
@@ -16,7 +26,7 @@
     <key>com.schriftgestaltung.appVersion</key>
     <string>1271</string>
     <key>com.schriftgestaltung.customName</key>
-    <string>26</string>
+    <string>0</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
     <array>
       <dict>
@@ -35,7 +45,7 @@
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
-    <integer>26</integer>
+    <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue1</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue2</key>
@@ -45,25 +55,21 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
     <string></string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
-    <integer>100</integer>
+    <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
-    <integer>100</integer>
-    <key>com.schriftgestaltung.customValue</key>
-    <integer>26</integer>
+    <integer>5</integer>
     <key>com.schriftgestaltung.fontMasterOrder</key>
-    <integer>1</integer>
+    <integer>0</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
     <string>Regular</string>
     <key>com.schriftgestaltung.weightValue</key>
-    <integer>100</integer>
+    <integer>0</integer>
     <key>com.schriftgestaltung.width</key>
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
-    <integer>100</integer>
-    <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>FBLexend-ligatures</string>
+    <integer>5</integer>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -76,6 +82,10 @@
     <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <false/>
+    <key>com.typemytype.robofont.guideline.magnetic.gmp9gTJVBv</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.gmp9gTJVBv</key>
+    <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
@@ -83,7 +93,7 @@
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
     <key>com.typemytype.robofont.smartSets.uniqueKey</key>
-    <string>4908339024</string>
+    <string>4728635856</string>
     <key>public.glyphOrder</key>
     <array>
       <string>NULL</string>
@@ -939,25 +949,6 @@
       <string>jacute.loclNLD</string>
       <string>iacute_j.loclNLD</string>
       <string>aabreve.ss01</string>
-      <string>madda-ar</string>
-      <string>hamzaabove-ar</string>
-      <string>hamzabelow-ar</string>
-      <string>hah-ar</string>
-      <string>noonghunna-ar</string>
-      <string>sad-ar</string>
-      <string>tah-ar</string>
-      <string>kaf-ar</string>
-      <string>lam-ar</string>
-      <string>damma-ar</string>
-      <string>dammatan-ar</string>
-      <string>fatha-ar</string>
-      <string>fathatan-ar</string>
-      <string>sukun-ar</string>
-      <string>kasra-ar</string>
-      <string>kasratan-ar</string>
-      <string>shadda-ar</string>
-      <string>alefabove-ar</string>
-      <string>50</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -2102,5 +2093,16 @@
     </dict>
     <key>public.skipExportGlyphs</key>
     <array/>
+    <key>tnCurvePalette</key>
+    <dict>
+      <key>sliderBottomMax</key>
+      <integer>80</integer>
+      <key>sliderBottomMin</key>
+      <integer>30</integer>
+      <key>sliderTopMax</key>
+      <integer>80</integer>
+      <key>sliderTopMin</key>
+      <integer>30</integer>
+    </dict>
   </dict>
 </plist>

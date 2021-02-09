@@ -2,6 +2,8 @@
 <glyph name="naira" format="2">
   <advance width="898"/>
   <unicode hex="20A6"/>
+  <anchor x="393" y="0" name="bottom"/>
+  <anchor x="393" y="700" name="top"/>
   <outline>
     <contour>
       <point x="578" y="570" type="qcurve" smooth="yes"/>

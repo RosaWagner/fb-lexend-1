@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="g.ss01" format="2">
   <advance width="743"/>
+  <anchor x="361" y="525" name="top"/>
   <outline>
     <contour>
       <point x="106" y="357" type="qcurve"/>

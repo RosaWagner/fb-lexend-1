@@ -7,7 +7,7 @@ Lcaron
 </note>
   <outline>
     <component base="L"/>
-    <component base="comma" xOffset="675" yOffset="578"/>
+    <component base="caronalt" xOffset="675" yOffset="14"/>
   </outline>
   <lib>
     <dict>

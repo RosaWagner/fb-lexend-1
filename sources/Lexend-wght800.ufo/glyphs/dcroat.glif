@@ -2,6 +2,10 @@
 <glyph name="dcroat" format="2">
   <advance width="669"/>
   <unicode hex="0111"/>
+  <anchor x="321" y="-20" name="bottom"/>
+  <anchor x="486" y="614" name="center"/>
+  <anchor x="321" y="530" name="top"/>
+  <anchor x="608" y="510" name="topright"/>
   <outline>
     <component base="d"/>
     <component base="strokeshortcomb" xOffset="282" yOffset="330"/>

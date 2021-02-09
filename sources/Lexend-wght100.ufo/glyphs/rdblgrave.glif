@@ -2,15 +2,14 @@
 <glyph name="rdblgrave" format="2">
   <advance width="311"/>
   <unicode hex="0211"/>
-  <guideline x="155.5" y="0" angle="270.0" identifier="xZJp7ENATO"/>
   <outline>
     <component base="r"/>
-    <component base="dblgravecomb" xOffset="-79" yOffset="23"/>
+    <component base="dblgravecomb" xOffset="-69" yOffset="12"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.749,0.4863,0.8784,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

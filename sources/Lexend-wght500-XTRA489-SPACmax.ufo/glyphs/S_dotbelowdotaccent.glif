@@ -1,10 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Sdotbelowdotaccent" format="2">
   <advance width="935"/>
-  <unicode hex="1E68"/>
   <outline>
     <component base="S"/>
     <component base="dotbelowcomb.case" xOffset="349"/>
     <component base="dotaccentcomb.case" xOffset="362" yOffset="183"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

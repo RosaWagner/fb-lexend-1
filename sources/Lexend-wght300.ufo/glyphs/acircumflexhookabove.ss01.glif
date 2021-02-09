@@ -3,12 +3,12 @@
   <advance width="538"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="82.4199999999837" yOffset="-21"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="75" yOffset="18"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

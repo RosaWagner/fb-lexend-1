@@ -5,6 +5,10 @@
   <note>
 lslash
 </note>
+  <anchor x="368" y="0" name="bottom"/>
+  <anchor x="368" y="370" name="center"/>
+  <anchor x="368" y="740" name="top"/>
+  <anchor x="609" y="740" name="topright"/>
   <outline>
     <contour>
       <point x="241" y="0" type="line"/>

@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Utildeacute" format="2">
   <advance width="744"/>
-  <unicode hex="1E78"/>
   <outline>
     <component base="U"/>
-    <component base="tildecomb_acutecomb" xOffset="246" yOffset="129"/>
+    <component base="tildecomb_acutecomb" xOffset="246" yOffset="176"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.749,0.4863,0.8784,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

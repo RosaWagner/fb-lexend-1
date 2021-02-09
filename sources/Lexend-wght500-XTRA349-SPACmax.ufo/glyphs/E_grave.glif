@@ -1,10 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Egrave" format="2">
-  <advance width="788"/>
+  <advance width="783"/>
   <unicode hex="00C8"/>
-  <guideline x="307.0" y="0" angle="90.0" identifier="AbBdggqdhG"/>
   <outline>
-    <component base="E" xOffset="5"/>
-    <component base="gravecomb.case" xOffset="237" yOffset="181"/>
+    <component base="E"/>
+    <component base="gravecomb.case" xOffset="196" yOffset="181"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

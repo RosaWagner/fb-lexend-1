@@ -3,61 +3,8 @@
   <advance width="690"/>
   <unicode hex="0104"/>
   <outline>
-    <contour>
-      <point x="574" y="0" type="line"/>
-      <point x="496" y="0" type="line"/>
-      <point x="384" y="306" type="line" smooth="yes"/>
-      <point x="377" y="323"/>
-      <point x="367" y="350"/>
-      <point x="363" y="363" type="qcurve" smooth="yes"/>
-      <point x="357" y="380"/>
-      <point x="344" y="420"/>
-      <point x="336" y="452" type="qcurve"/>
-      <point x="353" y="452" type="line"/>
-      <point x="343" y="420"/>
-      <point x="330" y="379"/>
-      <point x="323" y="362" type="qcurve" smooth="yes"/>
-      <point x="319" y="349"/>
-      <point x="308" y="323"/>
-      <point x="302" y="306" type="qcurve" smooth="yes"/>
-      <point x="190" y="0" type="line"/>
-      <point x="-20" y="0" type="line"/>
-      <point x="261" y="700" type="line"/>
-      <point x="431" y="700" type="line"/>
-      <point x="707" y="8" type="line"/>
-      <point x="704" y="0" type="line"/>
-      <point x="666" y="-9"/>
-      <point x="611" y="-50"/>
-      <point x="611" y="-75" type="qcurve" smooth="yes"/>
-      <point x="611" y="-85"/>
-      <point x="623" y="-97"/>
-      <point x="634" y="-97" type="qcurve" smooth="yes"/>
-      <point x="643" y="-97"/>
-      <point x="655" y="-86"/>
-      <point x="663" y="-74" type="qcurve"/>
-      <point x="734" y="-145" type="line"/>
-      <point x="718" y="-171"/>
-      <point x="654" y="-215"/>
-      <point x="614" y="-215" type="qcurve" smooth="yes"/>
-      <point x="558" y="-215"/>
-      <point x="485" y="-153"/>
-      <point x="485" y="-103" type="qcurve" smooth="yes"/>
-      <point x="485" y="-73"/>
-      <point x="518" y="-21"/>
-      <point x="571" y="18" type="qcurve"/>
-    </contour>
-    <contour>
-      <point x="346" y="104" type="line"/>
-      <point x="120" y="104" type="line"/>
-      <point x="183" y="251" type="line"/>
-      <point x="346" y="251" type="line"/>
-    </contour>
-    <contour>
-      <point x="565" y="104" type="line"/>
-      <point x="346" y="104" type="line"/>
-      <point x="346" y="251" type="line"/>
-      <point x="508" y="251" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="ogonekcomb.case" xOffset="363" yOffset="11"/>
   </outline>
   <lib>
     <dict>
@@ -66,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
       <key>public.markColor</key>
-      <string>0.3081,1,0.0008,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

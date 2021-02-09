@@ -2,6 +2,8 @@
 <glyph name="ringcomb" format="2">
   <advance width="264"/>
   <unicode hex="030A"/>
+  <anchor x="160" y="515" name="_top"/>
+  <anchor x="160" y="775" name="top"/>
   <outline>
     <contour>
       <point x="224.0" y="686.0" type="qcurve"/>

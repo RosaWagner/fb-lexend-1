@@ -2,9 +2,6 @@
 <glyph name="rcaron" format="2">
   <advance width="781"/>
   <unicode hex="0159"/>
-  <note>
-rcaron
-</note>
   <outline>
     <component base="r"/>
     <component base="caroncomb" xOffset="193"/>
@@ -15,6 +12,8 @@ rcaron
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

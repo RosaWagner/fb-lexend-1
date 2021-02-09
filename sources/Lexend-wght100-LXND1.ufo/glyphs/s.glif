@@ -5,6 +5,8 @@
   <note>
 s
 </note>
+  <anchor x="406" y="0" name="bottom"/>
+  <anchor x="411" y="525" name="top"/>
   <outline>
     <contour>
       <point x="125.0" y="91.0" type="qcurve"/>

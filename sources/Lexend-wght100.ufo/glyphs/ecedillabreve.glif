@@ -1,17 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ecedillabreve" format="2">
   <advance width="545"/>
-  <unicode hex="1E1D"/>
-  <guideline x="272.5" y="0" angle="270.0" identifier="w5hVYqbzn4"/>
   <outline>
     <component base="e"/>
-    <component base="cedillacomb" xOffset="190" yOffset="-3"/>
-    <component base="brevecomb" xOffset="100" yOffset="-20"/>
+    <component base="cedillacomb" xOffset="172"/>
+    <component base="brevecomb" xOffset="121" yOffset="29"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.749,0.4863,0.8784,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

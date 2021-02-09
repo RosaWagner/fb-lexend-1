@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="umacrondieresis" format="2">
   <advance width="861"/>
-  <unicode hex="1E7B"/>
   <outline>
     <component base="u"/>
-    <component base="macroncomb_dieresiscomb" xOffset="318" yOffset="-40"/>
+    <component base="macroncomb_dieresiscomb" xOffset="274" yOffset="-15"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

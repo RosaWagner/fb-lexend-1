@@ -2,9 +2,14 @@
 <glyph name="Ograve" format="2">
   <advance width="942"/>
   <unicode hex="00D2"/>
-  <guideline x="391.0" y="0" angle="90.0" identifier="F4IqBdveSt"/>
   <outline>
     <component base="O"/>
-    <component base="gravecomb.case" xOffset="299" yOffset="181"/>
+    <component base="gravecomb.case" xOffset="263" yOffset="181"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

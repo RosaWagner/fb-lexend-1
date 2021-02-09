@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedillacomb.case" format="2">
+  <anchor x="130" y="0" name="_bottom"/>
+  <anchor x="131" y="-148" name="bottom"/>
   <outline>
     <component base="cedilla" xOffset="17"/>
   </outline>

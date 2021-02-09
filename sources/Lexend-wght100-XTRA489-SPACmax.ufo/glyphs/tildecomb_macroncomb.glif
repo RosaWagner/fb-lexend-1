@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb_macroncomb" format="2">
   <guideline x="149.5" y="0" angle="270.0" identifier="JA2xqj5Sgd"/>
+  <anchor x="150" y="526" name="_top"/>
   <outline>
-    <component base="tildecomb" xOffset="-17"/>
-    <component base="macroncomb" xOffset="-63" yOffset="183"/>
+    <component base="tildecomb" xOffset="-26"/>
+    <component base="macroncomb" xOffset="-62" yOffset="183"/>
   </outline>
 </glyph>

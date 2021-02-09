@@ -6,6 +6,8 @@
 j
 </note>
   <guideline x="259.0" y="0" angle="90.0" identifier="bxzuZBbqNU"/>
+  <anchor x="272" y="2" name="bottom"/>
+  <anchor x="259" y="773" name="top"/>
   <outline>
     <component base="jdotless" xOffset="6"/>
     <component base="dotaccentcomb" xOffset="133" yOffset="20"/>

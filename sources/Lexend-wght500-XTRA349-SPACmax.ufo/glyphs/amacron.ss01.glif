@@ -1,12 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="amacron.ss01" format="2">
   <advance width="768"/>
-  <note>
-amacron
-</note>
   <outline>
     <component base="a.ss01"/>
-    <component base="macroncomb" xOffset="180" yOffset="1"/>
+    <component base="macroncomb" xOffset="66" yOffset="1"/>
   </outline>
   <lib>
     <dict>
@@ -14,6 +11,8 @@ amacron
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

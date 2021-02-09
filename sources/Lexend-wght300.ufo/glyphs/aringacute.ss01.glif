@@ -2,9 +2,8 @@
 <glyph name="aringacute.ss01" format="2">
   <advance width="538"/>
   <outline>
-    <component base="a.ss01"/>
-    <component base="ringcomb" xOffset="105" yOffset="21"/>
-    <component base="acutecomb.case" xOffset="151" yOffset="260"/>
+    <component base="aring.ss01"/>
+    <component base="acutecomb" xOffset="118.5" yOffset="283"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +27,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.8396,1,0.425,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

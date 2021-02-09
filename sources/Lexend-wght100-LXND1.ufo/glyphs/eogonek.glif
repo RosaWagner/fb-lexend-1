@@ -2,66 +2,9 @@
 <glyph name="eogonek" format="2">
   <advance width="890"/>
   <unicode hex="0119"/>
-  <note>
-eogonek
-</note>
   <outline>
-    <contour>
-      <point x="596.0" y="16.0" type="qcurve"/>
-      <point x="596.0" y="7.0" type="line"/>
-      <point x="577.0" y="1.0"/>
-      <point x="505.0" y="-10.0"/>
-      <point x="457.0" y="-10.0" type="qcurve"/>
-      <point x="308.0" y="-10.0"/>
-      <point x="120.0" y="145.0"/>
-      <point x="120.0" y="263.0" type="qcurve"/>
-      <point x="120.0" y="387.0"/>
-      <point x="314.0" y="530.0"/>
-      <point x="445.0" y="530.0" type="qcurve"/>
-      <point x="573.0" y="530.0"/>
-      <point x="750.0" y="404.0"/>
-      <point x="750.0" y="291.0" type="qcurve"/>
-      <point x="749.0" y="255.0" type="line"/>
-      <point x="132.0" y="255.0" type="line"/>
-      <point x="132.0" y="277.0" type="line"/>
-      <point x="738.0" y="277.0" type="line"/>
-      <point x="728.0" y="270.0" type="line"/>
-      <point x="728.0" y="296.0" type="line" smooth="yes"/>
-      <point x="728.0" y="394"/>
-      <point x="559.0" y="508.0"/>
-      <point x="448.0" y="508.0" type="qcurve"/>
-      <point x="322.0" y="508.0"/>
-      <point x="142.0" y="376.0"/>
-      <point x="142.0" y="274.0" type="qcurve"/>
-      <point x="142.0" y="158.0"/>
-      <point x="321.0" y="12.0"/>
-      <point x="467.0" y="12.0" type="qcurve"/>
-      <point x="561.0" y="12.0"/>
-      <point x="683.0" y="70.0"/>
-      <point x="712.0" y="88.0" type="qcurve"/>
-      <point x="724.0" y="65.0" type="line"/>
-      <point x="697.0" y="51.0"/>
-      <point x="660" y="31"/>
-      <point x="633.0" y="17.0" type="qcurve" smooth="yes"/>
-      <point x="596.0" y="-3"/>
-      <point x="503.0" y="-82"/>
-      <point x="503.0" y="-131.0" type="qcurve"/>
-      <point x="503.0" y="-167.0"/>
-      <point x="548" y="-208.0"/>
-      <point x="581.0" y="-208.0" type="qcurve" smooth="yes"/>
-      <point x="605" y="-208"/>
-      <point x="641.0" y="-182.0"/>
-      <point x="651.0" y="-163.0" type="qcurve"/>
-      <point x="666.0" y="-176.0" type="line"/>
-      <point x="659.0" y="-195.0"/>
-      <point x="612.0" y="-230.0"/>
-      <point x="581.0" y="-230.0" type="qcurve"/>
-      <point x="540" y="-230.0"/>
-      <point x="481" y="-178"/>
-      <point x="481.0" y="-131.0" type="qcurve" smooth="yes"/>
-      <point x="481.0" y="-74.0"/>
-      <point x="568.0" y="3"/>
-    </contour>
+    <component base="e"/>
+    <component base="ogonekcomb" xOffset="360"/>
   </outline>
   <lib>
     <dict>
@@ -69,6 +12,8 @@ eogonek
       <string>e</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>e</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

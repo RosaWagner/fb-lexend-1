@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wcircumflex" format="2">
-  <advance width="989"/>
+  <advance width="978"/>
   <unicode hex="0175"/>
-  <note>
-wcircumflex
-</note>
   <outline>
     <component base="w"/>
-    <component base="circumflexcomb" xOffset="277" yOffset="26"/>
+    <component base="circumflexcomb" xOffset="279" yOffset="-17"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ wcircumflex
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

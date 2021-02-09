@@ -2,12 +2,9 @@
 <glyph name="Ncommaaccent" format="2">
   <advance width="961"/>
   <unicode hex="0145"/>
-  <note>
-Ncommaaccent
-</note>
   <outline>
     <component base="N"/>
-    <component base="commaaccentcomb.case" xOffset="359"/>
+    <component base="commaaccentcomb.case" xOffset="339"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ Ncommaaccent
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

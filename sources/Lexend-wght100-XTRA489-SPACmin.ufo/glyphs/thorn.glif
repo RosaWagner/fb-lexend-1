@@ -5,6 +5,8 @@
   <note>
 thorn
 </note>
+  <anchor x="505" y="0" name="bottom"/>
+  <anchor x="505" y="525" name="top"/>
   <outline>
     <contour>
       <point x="394" y="530" type="qcurve"/>

@@ -7,7 +7,7 @@ fi
 </note>
   <outline>
     <component base="f"/>
-    <component base="i" xOffset="379" yOffset="-15"/>
+    <component base="i" xOffset="379"/>
   </outline>
   <lib>
     <dict>

@@ -8,6 +8,8 @@ z
   <guideline x="38" y="48" angle="0" identifier="BcRnwbfhd3"/>
   <guideline x="439" y="472" angle="0" identifier="5ydxyOYZoc"/>
   <guideline x="222.5" y="0" angle="270.0" identifier="jAvRfAl9K1"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="231" y="510" name="top"/>
   <outline>
     <contour>
       <point x="70" y="48" type="line"/>

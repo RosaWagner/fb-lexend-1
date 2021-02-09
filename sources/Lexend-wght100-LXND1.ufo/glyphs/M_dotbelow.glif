@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Mdotbelow" format="2">
   <advance width="1140"/>
-  <unicode hex="1E42"/>
   <outline>
     <component base="M"/>
-    <component base="dotbelowcomb.case" xOffset="461" yOffset="-36"/>
+    <component base="dotbelowcomb.case" xOffset="477"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

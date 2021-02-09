@@ -5,6 +5,11 @@
   <note>
 o
 </note>
+  <anchor x="397" y="0" name="bottom"/>
+  <anchor x="397" y="256" name="center"/>
+  <anchor x="498" y="10" name="ogonek"/>
+  <anchor x="397" y="513" name="top"/>
+  <anchor x="417" y="531" name="topright"/>
   <outline>
     <contour>
       <point x="398" y="536" type="qcurve"/>

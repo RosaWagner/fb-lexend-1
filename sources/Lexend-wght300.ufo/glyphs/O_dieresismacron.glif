@@ -2,15 +2,14 @@
 <glyph name="Odieresismacron" format="2">
   <advance width="787"/>
   <unicode hex="022A"/>
-  <guideline x="393.5" y="0" angle="270.0" identifier="aEAKihJNSk"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb_macroncomb" xOffset="252" yOffset="128"/>
+    <component base="dieresiscomb_macroncomb" xOffset="223" yOffset="174"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

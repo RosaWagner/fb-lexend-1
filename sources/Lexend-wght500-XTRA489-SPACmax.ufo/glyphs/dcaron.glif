@@ -1,14 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcaron" format="2">
-  <advance width="1144"/>
+  <advance width="1252"/>
   <unicode hex="010F"/>
-  <note>
-dcaron
-</note>
-  <guideline x="793" y="790" angle="0" identifier="pQaMqcaEO7"/>
   <outline>
-    <component base="d"/>
-    <component base="caronalt" xOffset="877" yOffset="103"/>
+    <component base="d" xOffset="90"/>
+    <component base="caronalt" xOffset="1054"/>
   </outline>
   <lib>
     <dict>
@@ -25,6 +21,8 @@ dcaron
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>d</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

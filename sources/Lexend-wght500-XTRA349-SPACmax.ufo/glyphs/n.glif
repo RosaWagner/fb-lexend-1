@@ -5,6 +5,8 @@
   <note>
 n
 </note>
+  <anchor x="444" y="0" name="bottom"/>
+  <anchor x="444" y="510" name="top"/>
   <outline>
     <contour>
       <point x="320" y="457"/>

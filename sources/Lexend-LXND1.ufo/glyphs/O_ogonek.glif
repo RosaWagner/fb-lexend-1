@@ -4,6 +4,6 @@
   <unicode hex="01EA"/>
   <outline>
     <component base="O"/>
-    <component base="ogonekcomb" xOffset="398"/>
+    <component base="ogonekcomb.case" xOffset="416"/>
   </outline>
 </glyph>

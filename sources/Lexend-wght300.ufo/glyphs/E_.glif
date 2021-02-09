@@ -6,6 +6,10 @@
 E
 </note>
   <guideline x="315" y="457" angle="270.0" name="center" identifier="boOiPIFTsa"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <anchor x="519" y="10" name="ogonek"/>
+  <anchor x="317" y="700" name="top"/>
+  <anchor x="46" y="700" name="topleft"/>
   <outline>
     <contour>
       <point x="158" y="0.0" type="line"/>

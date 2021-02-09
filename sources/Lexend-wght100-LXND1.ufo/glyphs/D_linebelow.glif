@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dlinebelow" format="2">
   <advance width="1046"/>
-  <unicode hex="1E0E"/>
   <outline>
     <component base="D"/>
-    <component base="macronbelowcomb.case" xOffset="314.985155406368" yOffset="-51.99920928265365"/>
+    <component base="macronbelowcomb.case" xOffset="259"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

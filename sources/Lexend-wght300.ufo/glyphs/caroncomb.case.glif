@@ -2,6 +2,8 @@
 <glyph name="caroncomb.case" format="2">
   <advance width="368"/>
   <guideline x="147" y="602" angle="270" identifier="YVrTtHAlU5"/>
+  <anchor x="181" y="525" name="_top"/>
+  <anchor x="181" y="782" name="top"/>
   <outline>
     <component base="circumflexcomb" yScale="-1" yOffset="1346"/>
   </outline>

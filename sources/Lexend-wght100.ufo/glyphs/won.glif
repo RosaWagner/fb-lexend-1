@@ -2,6 +2,8 @@
 <glyph name="won" format="2">
   <advance width="951"/>
   <unicode hex="20A9"/>
+  <anchor x="500" y="0" name="bottom"/>
+  <anchor x="500" y="700" name="top"/>
   <outline>
     <contour>
       <point x="262" y="0" type="line"/>

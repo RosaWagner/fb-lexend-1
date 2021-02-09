@@ -2,9 +2,6 @@
 <glyph name="uogonek" format="2">
   <advance width="981"/>
   <unicode hex="0173"/>
-  <note>
-uogonek
-</note>
   <outline>
     <component base="u"/>
     <component base="ogonekcomb" xOffset="552" yOffset="1"/>
@@ -15,6 +12,8 @@ uogonek
       <string>u</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>u</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

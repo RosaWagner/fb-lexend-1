@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcaron" format="2">
-  <advance width="666"/>
+  <advance width="743"/>
   <unicode hex="0165"/>
-  <unicode hex="165C"/>
   <outline>
-    <component base="t" xOffset="55"/>
-    <component base="caronalt" xOffset="381" yOffset="169.79999999999382"/>
+    <component base="t"/>
+    <component base="caronalt" xOffset="458"/>
   </outline>
   <lib>
     <dict>
@@ -23,7 +22,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>t</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

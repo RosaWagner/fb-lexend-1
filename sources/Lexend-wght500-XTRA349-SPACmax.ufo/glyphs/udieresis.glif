@@ -2,12 +2,9 @@
 <glyph name="udieresis" format="2">
   <advance width="861"/>
   <unicode hex="00FC"/>
-  <note>
-udieresis
-</note>
   <outline>
     <component base="u"/>
-    <component base="dieresiscomb" xOffset="232" yOffset="9"/>
+    <component base="dieresiscomb" xOffset="231" yOffset="9"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ udieresis
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

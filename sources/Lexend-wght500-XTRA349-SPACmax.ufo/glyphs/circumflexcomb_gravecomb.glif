@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_gravecomb" format="2">
+  <anchor x="365" y="515" name="_top"/>
+  <anchor x="365" y="751" name="top"/>
   <outline>
     <component base="circumflexcomb" xOffset="158"/>
     <component base="gravecomb" xOffset="407" yOffset="111"/>

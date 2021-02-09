@@ -4,7 +4,7 @@
   <unicode hex="01FA"/>
   <outline>
     <component base="Aring"/>
-    <component base="acutecomb.case" xOffset="210" yOffset="322"/>
+    <component base="acutecomb.case" xOffset="194" yOffset="377"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

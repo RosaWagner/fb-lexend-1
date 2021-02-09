@@ -4,6 +4,12 @@
   <unicode hex="1ED1"/>
   <outline>
     <component base="o"/>
-    <component base="circumflexcomb_acutecomb" xOffset="195" yOffset="10"/>
+    <component base="circumflexcomb_acutecomb" xOffset="181" yOffset="10"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

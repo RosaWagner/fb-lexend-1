@@ -6,6 +6,8 @@
 B
 </note>
   <guideline x="350.5" y="0" angle="90.0" identifier="w5syRo6VEv"/>
+  <anchor x="349" y="0" name="bottom"/>
+  <anchor x="349" y="700" name="top"/>
   <outline>
     <contour>
       <point x="80" y="700" type="line"/>

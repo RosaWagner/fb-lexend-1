@@ -5,6 +5,8 @@
   <note>
 dotlessj
 </note>
+  <anchor x="255" y="-230" name="bottom"/>
+  <anchor x="340" y="525" name="top"/>
   <outline>
     <contour>
       <point x="168" y="525" type="line"/>

@@ -4,8 +4,8 @@
   <unicode hex="1EAC"/>
   <outline>
     <component base="A"/>
-    <component base="dotbelowcomb.case" xOffset="301"/>
-    <component base="circumflexcomb.case" xOffset="238" yOffset="158"/>
+    <component base="dotbelowcomb.case" xOffset="310"/>
+    <component base="circumflexcomb.case" xOffset="234" yOffset="158"/>
   </outline>
   <lib>
     <dict>
@@ -13,6 +13,8 @@
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

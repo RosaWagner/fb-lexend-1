@@ -2,6 +2,8 @@
 <glyph name="circumflexcomb_gravecomb" format="2">
   <guideline x="26" y="770" angle="90" identifier="YgT1UW8A0Z"/>
   <guideline x="497" y="684" angle="90" identifier="XJTw1sb7mP"/>
+  <anchor x="191" y="515" name="_top"/>
+  <anchor x="191" y="751" name="top"/>
   <outline>
     <component base="circumflexcomb" xOffset="24"/>
     <component base="gravecomb" xOffset="248" yOffset="111"/>

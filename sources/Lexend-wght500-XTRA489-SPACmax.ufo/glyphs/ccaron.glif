@@ -2,9 +2,6 @@
 <glyph name="ccaron" format="2">
   <advance width="880"/>
   <unicode hex="010D"/>
-  <note>
-ccaron
-</note>
   <outline>
     <component base="c"/>
     <component base="caroncomb" xOffset="257"/>
@@ -15,6 +12,8 @@ ccaron
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

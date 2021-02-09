@@ -1,49 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iogonek" format="2">
-  <advance width="393"/>
+  <advance width="422"/>
   <unicode hex="012F"/>
-  <note>
-iogonek
-</note>
   <outline>
-    <contour>
-      <point x="193.0" y="19.0" type="qcurve"/>
-      <point x="185.0" y="-3.0" type="line"/>
-      <point x="185.0" y="525.0" type="line"/>
-      <point x="207.0" y="525.0" type="line"/>
-      <point x="207.0" y="0.0" type="line"/>
-      <point x="184.0" y="-25.0"/>
-      <point x="122.0" y="-91"/>
-      <point x="122.0" y="-131.0" type="qcurve"/>
-      <point x="122.0" y="-158"/>
-      <point x="154" y="-187"/>
-      <point x="181.0" y="-187.0" type="qcurve" smooth="yes"/>
-      <point x="209" y="-187.0"/>
-      <point x="237" y="-158"/>
-      <point x="244.0" y="-143.0" type="qcurve"/>
-      <point x="260.0" y="-154.0" type="line"/>
-      <point x="251.0" y="-176.0"/>
-      <point x="215" y="-209.0"/>
-      <point x="180.0" y="-209.0" type="qcurve"/>
-      <point x="147.0" y="-209.0"/>
-      <point x="99.0" y="-170"/>
-      <point x="99.0" y="-131.0" type="qcurve"/>
-      <point x="99.0" y="-90"/>
-      <point x="162.0" y="-13.0"/>
-    </contour>
-    <contour>
-      <point x="222.0" y="712.0" type="qcurve" smooth="yes"/>
-      <point x="222.0" y="703.0"/>
-      <point x="211.0" y="683.0"/>
-      <point x="194.0" y="683.0" type="qcurve" smooth="yes"/>
-      <point x="178.0" y="683.0"/>
-      <point x="166.0" y="701.0"/>
-      <point x="166.0" y="712.0" type="qcurve" smooth="yes"/>
-      <point x="166.0" y="720.0"/>
-      <point x="177.0" y="741.0"/>
-      <point x="194.0" y="741.0" type="qcurve" smooth="yes"/>
-      <point x="209.0" y="741.0"/>
-      <point x="222.0" y="723.0"/>
-    </contour>
+    <component base="i"/>
+    <component base="ogonekcomb" xOffset="6" yOffset="1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

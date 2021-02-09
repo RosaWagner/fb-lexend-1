@@ -3,6 +3,7 @@
   <guideline x="137.0" y="0" angle="270.0" identifier="7mpsjCCO7B"/>
   <guideline x="2" y="830" angle="270" identifier="IzXBAhkeU9"/>
   <guideline x="272" y="829" angle="270" identifier="AWw5KVF2ta"/>
+  <anchor x="137" y="525" name="_top"/>
   <outline>
     <component base="dotaccentcomb" xOffset="21"/>
     <component base="macroncomb" xOffset="-75" yOffset="187"/>

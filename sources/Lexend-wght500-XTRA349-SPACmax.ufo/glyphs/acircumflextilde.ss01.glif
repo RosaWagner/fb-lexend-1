@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflextilde.ss01" format="2">
   <advance width="768"/>
-  <guideline x="280" y="567" angle="90.0" identifier="Pe6LFRm6Cj"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="circumflexcomb_tildecomb" xOffset="141" yOffset="15"/>
+    <component base="circumflexcomb_tildecomb" xOffset="61" yOffset="15"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

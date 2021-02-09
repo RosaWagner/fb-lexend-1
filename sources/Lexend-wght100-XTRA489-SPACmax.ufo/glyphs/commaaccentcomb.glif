@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccentcomb" format="2">
   <unicode hex="0326"/>
+  <anchor x="79" y="100" name="_bottom"/>
+  <anchor x="78" y="-230" name="bottom"/>
+  <anchor x="76" y="-230" name="_top"/>
   <outline>
     <contour>
       <point x="62" y="-152" type="qcurve"/>

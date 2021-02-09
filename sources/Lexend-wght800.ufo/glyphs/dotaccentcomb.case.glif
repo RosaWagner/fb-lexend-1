@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb.case" format="2">
   <guideline x="129" y="753" angle="90" identifier="BOXF9stJd8"/>
+  <anchor x="129" y="530" name="_top"/>
+  <anchor x="129" y="737" name="top"/>
   <outline>
     <contour>
       <point x="244" y="678" type="qcurve" smooth="yes"/>

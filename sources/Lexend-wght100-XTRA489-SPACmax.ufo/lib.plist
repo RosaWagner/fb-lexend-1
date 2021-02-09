@@ -94,25 +94,6 @@
     <integer>1</integer>
     <key>com.typemytype.robofont.smartSets.uniqueKey</key>
     <string>4728635856</string>
-    <key>designspace.location</key>
-    <array>
-      <array>
-        <string>wght</string>
-        <real>100.0</real>
-      </array>
-      <array>
-        <string>wdth</string>
-        <real>100.0</real>
-      </array>
-      <array>
-        <string>SPAC</string>
-        <real>100.0</real>
-      </array>
-      <array>
-        <string>LXND</string>
-        <real>1.0</real>
-      </array>
-    </array>
     <key>public.glyphOrder</key>
     <array>
       <string>NULL</string>
@@ -968,24 +949,6 @@
       <string>jacute.loclNLD</string>
       <string>iacute_j.loclNLD</string>
       <string>aabreve.ss01</string>
-      <string>madda-ar</string>
-      <string>hamzaabove-ar</string>
-      <string>hamzabelow-ar</string>
-      <string>hah-ar</string>
-      <string>noonghunna-ar</string>
-      <string>sad-ar</string>
-      <string>tah-ar</string>
-      <string>kaf-ar</string>
-      <string>lam-ar</string>
-      <string>damma-ar</string>
-      <string>dammatan-ar</string>
-      <string>fatha-ar</string>
-      <string>fathatan-ar</string>
-      <string>sukun-ar</string>
-      <string>kasra-ar</string>
-      <string>kasratan-ar</string>
-      <string>shadda-ar</string>
-      <string>alefabove-ar</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

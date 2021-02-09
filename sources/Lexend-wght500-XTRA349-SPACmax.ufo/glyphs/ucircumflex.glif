@@ -2,12 +2,9 @@
 <glyph name="ucircumflex" format="2">
   <advance width="861"/>
   <unicode hex="00FB"/>
-  <note>
-ucircumflex
-</note>
   <outline>
     <component base="u"/>
-    <component base="circumflexcomb" xOffset="223" yOffset="-24"/>
+    <component base="circumflexcomb" xOffset="219" yOffset="-24"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ ucircumflex
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

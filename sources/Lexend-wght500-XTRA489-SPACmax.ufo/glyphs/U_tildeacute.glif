@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Utildeacute" format="2">
   <advance width="1044"/>
-  <unicode hex="1E78"/>
   <outline>
     <component base="U"/>
-    <component base="tildecomb_acutecomb" xOffset="390" yOffset="146"/>
+    <component base="tildecomb_acutecomb" xOffset="372" yOffset="175"/>
   </outline>
   <lib>
     <dict>
@@ -35,6 +34,8 @@
           <string>acutecomb.case</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

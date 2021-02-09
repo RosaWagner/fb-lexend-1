@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horncomb.case" format="2">
+  <anchor x="165" y="525" name="_topright"/>
+  <anchor x="165" y="525" name="topright"/>
   <outline>
     <contour>
       <point x="33.0" y="504.0" type="qcurve"/>

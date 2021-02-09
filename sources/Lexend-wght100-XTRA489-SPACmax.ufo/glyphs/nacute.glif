@@ -2,12 +2,9 @@
 <glyph name="nacute" format="2">
   <advance width="961"/>
   <unicode hex="0144"/>
-  <note>
-nacute
-</note>
   <outline>
     <component base="n"/>
-    <component base="acutecomb" xOffset="381" yOffset="43"/>
+    <component base="acutecomb" xOffset="388" yOffset="-7"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ nacute
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

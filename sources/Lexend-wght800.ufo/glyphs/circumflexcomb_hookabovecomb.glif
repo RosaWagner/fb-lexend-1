@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_hookabovecomb" format="2">
+  <anchor x="215" y="512" name="_top"/>
+  <anchor x="215" y="762" name="top"/>
   <outline>
     <component base="circumflexcomb" xOffset="7"/>
-    <component base="hookabovecomb" xOffset="312" yOffset="98"/>
+    <component base="hookabovecomb" xOffset="312" yOffset="122"/>
   </outline>
   <lib>
     <dict>

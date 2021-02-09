@@ -1,10 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idieresisacute" format="2">
-  <advance width="517"/>
-  <unicode hex="1E2F"/>
-  <guideline x="258.5" y="0" angle="90.0" identifier="Q7FmMo54wI"/>
+  <advance width="503"/>
   <outline>
-    <component base="idotless" xOffset="10"/>
-    <component base="dieresiscomb_acutecomb" xOffset="109" yOffset="24"/>
+    <component base="idotless"/>
+    <component base="dieresiscomb_acutecomb" xOffset="102" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

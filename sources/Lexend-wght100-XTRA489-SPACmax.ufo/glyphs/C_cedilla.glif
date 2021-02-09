@@ -4,6 +4,12 @@
   <unicode hex="00C7"/>
   <outline>
     <component base="C"/>
-    <component base="cedillacomb.case" xOffset="405" yOffset="5"/>
+    <component base="cedillacomb.case" xOffset="404"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

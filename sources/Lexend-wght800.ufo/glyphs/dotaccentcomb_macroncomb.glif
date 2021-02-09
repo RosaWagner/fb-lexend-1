@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb_macroncomb" format="2">
   <guideline x="119.0" y="0" angle="90.0" identifier="licpJ9dIyn"/>
+  <anchor x="168" y="525" name="_top"/>
   <outline>
     <component base="dotaccentcomb" xOffset="48"/>
-    <component base="macroncomb" xOffset="-45" yOffset="267"/>
+    <component base="macroncomb" xOffset="-45" yOffset="217"/>
   </outline>
 </glyph>

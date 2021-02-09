@@ -2,12 +2,9 @@
 <glyph name="uhungarumlaut" format="2">
   <advance width="861"/>
   <unicode hex="0171"/>
-  <note>
-uhungarumlaut
-</note>
   <outline>
     <component base="u"/>
-    <component base="hungarumlautcomb" xOffset="222" yOffset="-2"/>
+    <component base="hungarumlautcomb" xOffset="254" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ uhungarumlaut
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

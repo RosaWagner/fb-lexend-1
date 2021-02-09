@@ -2,9 +2,6 @@
 <glyph name="icircumflex" format="2">
   <advance width="503"/>
   <unicode hex="00EE"/>
-  <note>
-icircumflex
-</note>
   <outline>
     <component base="idotless"/>
     <component base="circumflexcomb" xOffset="46" yOffset="1"/>
@@ -15,6 +12,8 @@ icircumflex
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

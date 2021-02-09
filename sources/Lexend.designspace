@@ -15,7 +15,7 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-Regular.ufo" name="Lexend-Regular.ufo" stylename="Regular">
+        <source familyname="Lexend" filename="Lexend-Regular.ufo" name="Lexend-Regular.ufo" stylename="Regular">
             <info copy="1" />
             <location>
                 <dimension name="wght" xvalue="500" />
@@ -24,7 +24,7 @@
                 <dimension name="LXND" xvalue="0" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-wght100.ufo" name="Lexend-wght100.ufo" stylename="wght100">
+        <source familyname="Lexend" filename="Lexend-wght100.ufo" name="Lexend-wght100.ufo" stylename="wght100">
             <location>
                 <dimension name="wght" xvalue="100" />
                 <dimension name="XTRA" xvalue="349" />
@@ -32,7 +32,7 @@
                 <dimension name="LXND" xvalue="0" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-wght300.ufo" name="Lexend-wght300.ufo" stylename="wght300">
+        <source familyname="Lexend" filename="Lexend-wght300.ufo" name="Lexend-wght300.ufo" stylename="wght300">
             <location>
                 <dimension name="wght" xvalue="300" />
                 <dimension name="XTRA" xvalue="349" />
@@ -40,7 +40,7 @@
                 <dimension name="LXND" xvalue="0" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-wght800.ufo" name="Lexend-wght800.ufo" stylename="wght800">
+        <source familyname="Lexend" filename="Lexend-wght800.ufo" name="Lexend-wght800.ufo" stylename="wght800">
             <location>
                 <dimension name="wght" xvalue="800" />
                 <dimension name="XTRA" xvalue="349" />
@@ -48,7 +48,7 @@
                 <dimension name="LXND" xvalue="0" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-wght500-XTRA489-SPACmin.ufo" name="Lexend-wght500-XTRA489-SPACmin.ufo" stylename="wght500-XTRA489-SPACmin">
+        <source familyname="Lexend" filename="Lexend-wght500-XTRA489-SPACmin.ufo" name="Lexend-wght500-XTRA489-SPACmin.ufo" stylename="wght500-XTRA489-SPACmin">
             <location>
                 <dimension name="wght" xvalue="500" />
                 <dimension name="XTRA" xvalue="489" />
@@ -56,7 +56,7 @@
                 <dimension name="LXND" xvalue="0" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-wght100-LXND1.ufo" name="Lexend-wght100-LXND1.ufo" stylename="wght100-LXND1">
+        <source familyname="Lexend" filename="Lexend-wght100-LXND1.ufo" name="Lexend-wght100-LXND1.ufo" stylename="wght100-LXND1">
             <location>
                 <dimension name="wght" xvalue="100" />
                 <dimension name="XTRA" xvalue="489" />
@@ -64,7 +64,7 @@
                 <dimension name="LXND" xvalue="0" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-wght500-XTRA349-SPACmax.ufo" name="Lexend-wght500-XTRA349-SPACmax.ufo" stylename="wght500-XTRA349-SPACmax">
+        <source familyname="Lexend" filename="Lexend-wght500-XTRA349-SPACmax.ufo" name="Lexend-wght500-XTRA349-SPACmax.ufo" stylename="wght500-XTRA349-SPACmax">
             <location>
                 <dimension name="wght" xvalue="500" />
                 <dimension name="XTRA" xvalue="349" />
@@ -72,7 +72,7 @@
                 <dimension name="LXND" xvalue="0" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-wght500-XTRA489-SPACmax.ufo" name="Lexend-wght500-XTRA489-SPACmax.ufo" stylename="wght500-XTRA489-SPACmax">
+        <source familyname="Lexend" filename="Lexend-wght500-XTRA489-SPACmax.ufo" name="Lexend-wght500-XTRA489-SPACmax.ufo" stylename="wght500-XTRA489-SPACmax">
             <location>
                 <dimension name="wght" xvalue="500" />
                 <dimension name="XTRA" xvalue="489" />
@@ -80,7 +80,7 @@
                 <dimension name="LXND" xvalue="0" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-LXND1.ufo" name="Lexend-LXND1.ufo" stylename="LXND1">
+        <source familyname="Lexend" filename="Lexend-LXND1.ufo" name="Lexend-LXND1.ufo" stylename="LXND1">
             <location>
                 <dimension name="wght" xvalue="500" />
                 <dimension name="XTRA" xvalue="349" />
@@ -88,7 +88,7 @@
                 <dimension name="LXND" xvalue="1" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-wght100-LXND1.ufo" name="Lexend-wght100-LXND1.ufo" stylename="wght100-LXND1">
+        <source familyname="Lexend" filename="Lexend-wght100-LXND1.ufo" name="Lexend-wght100-LXND1.ufo" stylename="wght100-LXND1">
             <location>
                 <dimension name="wght" xvalue="100" />
                 <dimension name="XTRA" xvalue="489" />
@@ -96,7 +96,7 @@
                 <dimension name="LXND" xvalue="1" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-wght100-LXND1.ufo" name="Lexend-wght100-LXND1.ufo" stylename="wght100-LXND1">
+        <source familyname="Lexend" filename="Lexend-wght100-LXND1.ufo" name="Lexend-wght100-LXND1.ufo" stylename="wght100-LXND1">
             <location>
                 <dimension name="wght" xvalue="100" />
                 <dimension name="XTRA" xvalue="349" />
@@ -104,7 +104,7 @@
                 <dimension name="LXND" xvalue="1" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-wght100-LXND1.ufo" name="Lexend-wght100-LXND1.ufo" stylename="wght100-LXND1">
+        <source familyname="Lexend" filename="Lexend-wght100-LXND1.ufo" name="Lexend-wght100-LXND1.ufo" stylename="wght100-LXND1">
             <location>
                 <dimension name="wght" xvalue="100" />
                 <dimension name="XTRA" xvalue="349" />
@@ -112,7 +112,7 @@
                 <dimension name="LXND" xvalue="1" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-wght100-XTRA489-SPACmin.ufo" name="Lexend-wght100-XTRA489-SPACmin.ufo" stylename="wght100-LXND1">
+        <source familyname="Lexend" filename="Lexend-wght100-XTRA489-SPACmin.ufo" name="Lexend-wght100-XTRA489-SPACmin.ufo" stylename="wght100-LXND1">
             <location>
                 <dimension name="wght" xvalue="100" />
                 <dimension name="XTRA" xvalue="489" />
@@ -120,7 +120,7 @@
                 <dimension name="LXND" xvalue="0" />
             </location>
         </source>
-        <source familyname="Lexend" filename="../master_ufo/Lexend-wght100-XTRA489-SPACmax.ufo" name="Lexend-wght100-XTRA489-SPACmax.ufo" stylename="wght100-LXND1">
+        <source familyname="Lexend" filename="Lexend-wght100-XTRA489-SPACmax.ufo" name="Lexend-wght100-XTRA489-SPACmax.ufo" stylename="wght100-LXND1">
             <location>
                 <dimension name="wght" xvalue="100" />
                 <dimension name="XTRA" xvalue="489" />
@@ -129,4 +129,76 @@
             </location>
         </source>
     </sources>
+    <instances>
+        <instance familyname="Lexend" stylename="Thin">
+            <location>
+                <dimension name="wght" xvalue="100" />
+                <dimension name="XTRA" xvalue="349" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Lexend" stylename="Light">
+            <location>
+                <dimension name="wght" xvalue="300" />
+                <dimension name="XTRA" xvalue="349" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Lexend" stylename="Regular">
+            <location>
+                <dimension name="wght" xvalue="400" />
+                <dimension name="XTRA" xvalue="349" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Lexend" stylename="Medium">
+            <location>
+                <dimension name="wght" xvalue="500" />
+                <dimension name="XTRA" xvalue="349" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Lexend" stylename="SemiBold">
+            <location>
+                <dimension name="wght" xvalue="600" />
+                <dimension name="XTRA" xvalue="349" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Lexend" stylename="Bold">
+            <location>
+                <dimension name="wght" xvalue="700" />
+                <dimension name="XTRA" xvalue="349" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Lexend" stylename="ExtraBold">
+            <location>
+                <dimension name="wght" xvalue="800" />
+                <dimension name="XTRA" xvalue="349" />
+                <dimension name="SPAC" xvalue="100" />
+                <dimension name="LXND" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
 </designspace>

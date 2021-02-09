@@ -2,12 +2,9 @@
 <glyph name="tcommaaccent" format="2">
   <advance width="715"/>
   <unicode hex="021B"/>
-  <note>
-uni021B
-</note>
   <outline>
     <component base="t"/>
-    <component base="commaaccentcomb" xOffset="254.2200000000048" yOffset="-39"/>
+    <component base="commaaccentcomb" xOffset="266" yOffset="-100"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ uni021B
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

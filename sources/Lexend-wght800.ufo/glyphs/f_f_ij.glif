@@ -3,7 +3,8 @@
   <advance width="1513"/>
   <outline>
     <component base="f"/>
-    <component base="f_ij" xOffset="393"/>
+    <component base="f" xOffset="393"/>
+    <component base="ij" xOffset="786"/>
   </outline>
   <lib>
     <dict>

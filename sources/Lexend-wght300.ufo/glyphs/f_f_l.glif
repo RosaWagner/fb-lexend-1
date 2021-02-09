@@ -3,7 +3,8 @@
   <advance width="928"/>
   <unicode hex="FB04"/>
   <outline>
-    <component base="f_f"/>
+    <component base="f"/>
+    <component base="f" xOffset="364"/>
     <component base="l" xOffset="728"/>
   </outline>
   <lib>

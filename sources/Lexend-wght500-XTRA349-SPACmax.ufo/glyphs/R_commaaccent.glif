@@ -2,12 +2,9 @@
 <glyph name="Rcommaaccent" format="2">
   <advance width="881"/>
   <unicode hex="0156"/>
-  <note>
-Rcommaaccent
-</note>
   <outline>
     <component base="R"/>
-    <component base="commaaccentcomb.case" xOffset="339"/>
+    <component base="commaaccentcomb.case" xOffset="280"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ Rcommaaccent
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>R</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

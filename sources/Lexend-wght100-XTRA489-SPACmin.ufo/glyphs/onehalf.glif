@@ -7,7 +7,7 @@ onehalf
 </note>
   <outline>
     <component base="one.numr" xOffset="54" yOffset="-3"/>
-    <component base="fraction" xOffset="30"/>
+    <component base="fraction" xOffset="181"/>
     <component base="two.dnom" xOffset="683"/>
   </outline>
   <lib>

@@ -2,15 +2,14 @@
 <glyph name="obreve" format="2">
   <advance width="615"/>
   <unicode hex="014F"/>
-  <guideline x="307.5" y="0" angle="270.0" identifier="6xuSE99gHR"/>
   <outline>
     <component base="o"/>
-    <component base="brevecomb" xOffset="135" yOffset="-3"/>
+    <component base="brevecomb" xOffset="137" yOffset="12"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.749,0.4863,0.8784,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

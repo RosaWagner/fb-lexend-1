@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar" format="2">
-  <advance width="757"/>
+  <advance width="715"/>
   <unicode hex="0167"/>
-  <note>
-tbar
-</note>
   <outline>
-    <component base="t" xOffset="42"/>
-    <component base="strokeshortcomb" xOffset="67" yOffset="-33"/>
+    <component base="t"/>
+    <component base="strokeshortcomb" xOffset="17" yOffset="-63"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ tbar
       <string>t</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>t</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

@@ -5,6 +5,9 @@
   <note>
 yen
 </note>
+  <anchor x="480" y="0" name="bottom"/>
+  <anchor x="480" y="700" name="top"/>
+  <anchor x="8" y="700" name="topleft"/>
   <outline>
     <contour>
       <point x="748" y="73" type="line"/>

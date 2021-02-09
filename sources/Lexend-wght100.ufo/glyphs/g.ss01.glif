@@ -3,6 +3,7 @@
   <advance width="580"/>
   <guideline x="940" y="531" angle="0" identifier="kFtR80qHX2"/>
   <guideline x="274" y="350" angle="270" name="center" identifier="opgAZz5nif"/>
+  <anchor x="284" y="525" name="top"/>
   <outline>
     <contour>
       <point x="85" y="357" type="qcurve"/>

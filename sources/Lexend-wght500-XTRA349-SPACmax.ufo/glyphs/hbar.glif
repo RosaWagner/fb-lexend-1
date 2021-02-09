@@ -5,6 +5,9 @@
   <note>
 hbar
 </note>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="122" y="593" name="center"/>
+  <anchor x="121" y="729" name="top"/>
   <outline>
     <component base="h" xOffset="77"/>
     <component base="strokeshortcomb" xOffset="102" yOffset="309"/>

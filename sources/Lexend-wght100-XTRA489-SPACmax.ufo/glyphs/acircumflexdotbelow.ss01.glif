@@ -3,7 +3,13 @@
   <advance width="971"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="dotbelowcomb" xOffset="304" yOffset="-26"/>
-    <component base="circumflexcomb" xOffset="248" yOffset="24"/>
+    <component base="dotbelowcomb" xOffset="350"/>
+    <component base="circumflexcomb" xOffset="249" yOffset="1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -5,8 +5,10 @@
   <note>
 j
 </note>
+  <anchor x="131" y="-230" name="bottom"/>
+  <anchor x="216" y="765" name="top"/>
   <outline>
     <component base="jdotless"/>
-    <component base="dotaccentcomb" xOffset="107" yOffset="14"/>
+    <component base="dotaccentcomb" xOffset="87" yOffset="14"/>
   </outline>
 </glyph>

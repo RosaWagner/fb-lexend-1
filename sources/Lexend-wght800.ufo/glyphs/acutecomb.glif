@@ -2,8 +2,10 @@
 <glyph name="acutecomb" format="2">
   <advance width="336"/>
   <unicode hex="0301"/>
+  <anchor x="126" y="520" name="_top"/>
+  <anchor x="161" y="779" name="top"/>
   <outline>
-    <component base="acute"/>
+    <component base="acute" yOffset="20"/>
   </outline>
   <lib>
     <dict>

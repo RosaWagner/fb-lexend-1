@@ -6,6 +6,9 @@
 i
 </note>
   <guideline x="269.0" y="0" angle="90.0" identifier="sFJc4vrftO"/>
+  <anchor x="269" y="0" name="bottom"/>
+  <anchor x="327" y="10" name="ogonek"/>
+  <anchor x="270" y="765" name="top"/>
   <outline>
     <component base="idotless" xOffset="19"/>
     <component base="dotaccentcomb" xOffset="140" yOffset="14"/>

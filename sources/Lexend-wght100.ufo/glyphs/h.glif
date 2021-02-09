@@ -5,6 +5,9 @@
   <note>
 h
 </note>
+  <anchor x="269" y="0" name="bottom"/>
+  <anchor x="76" y="593" name="center"/>
+  <anchor x="75" y="729" name="top"/>
   <outline>
     <contour>
       <point x="283" y="530" type="qcurve"/>

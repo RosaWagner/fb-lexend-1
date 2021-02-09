@@ -4,7 +4,7 @@
   <unicode hex="1ED0"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb_acutecomb" xOffset="262" yOffset="115"/>
+    <component base="circumflexcomb_acutecomb" xOffset="264" yOffset="185"/>
   </outline>
   <lib>
     <dict>
@@ -35,6 +35,8 @@
           <string>acutecomb.case</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

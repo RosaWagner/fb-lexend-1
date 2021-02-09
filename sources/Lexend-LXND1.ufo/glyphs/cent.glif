@@ -5,6 +5,8 @@
   <note>
 cent
 </note>
+  <anchor x="435" y="88" name="bottom"/>
+  <anchor x="455" y="613" name="top"/>
   <outline>
     <contour>
       <point x="520" y="107" type="line"/>

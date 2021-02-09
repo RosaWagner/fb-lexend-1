@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb_dieresiscomb" format="2">
   <guideline x="212.0" y="0" angle="90.0" identifier="g1K1AP8tUk"/>
+  <anchor x="152" y="525" name="_top"/>
   <outline>
     <component base="macroncomb" xOffset="-61" yOffset="20"/>
     <component base="dieresiscomb" xOffset="-40" yOffset="167"/>

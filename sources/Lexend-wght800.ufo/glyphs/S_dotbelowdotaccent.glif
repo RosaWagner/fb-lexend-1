@@ -1,16 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Sdotbelowdotaccent" format="2">
   <advance width="641"/>
-  <guideline x="320.5" y="0" angle="90.0" identifier="16E2qoo7dE"/>
   <outline>
     <component base="S"/>
-    <component base="dotbelowcomb.case" xOffset="175.5" yOffset="-31"/>
-    <component base="dotaccentcomb.case" xOffset="191.5" yOffset="188"/>
+    <component base="dotbelowcomb.case" xOffset="175"/>
+    <component base="dotaccentcomb.case" xOffset="192" yOffset="170"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

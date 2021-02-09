@@ -1,16 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Icaron" format="2">
-  <advance width="602"/>
+  <advance width="612"/>
   <unicode hex="01E0"/>
-  <unicode hex="01CF"/>
   <outline>
     <component base="I"/>
-    <component base="caroncomb.case" xOffset="93" yOffset="58"/>
+    <component base="caroncomb.case" xOffset="93" yOffset="64"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

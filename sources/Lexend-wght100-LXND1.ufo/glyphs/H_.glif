@@ -5,6 +5,10 @@
   <note>
 H
 </note>
+  <anchor x="524" y="0" name="bottom"/>
+  <anchor x="524" y="350" name="center"/>
+  <anchor x="524" y="700" name="top"/>
+  <anchor x="20" y="700" name="topleft"/>
   <outline>
     <contour>
       <point x="194.0" y="700.0" type="line"/>

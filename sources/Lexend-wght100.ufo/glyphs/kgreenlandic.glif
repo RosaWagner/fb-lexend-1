@@ -2,6 +2,8 @@
 <glyph name="kgreenlandic" format="2">
   <advance width="483"/>
   <unicode hex="0138"/>
+  <anchor x="295" y="0" name="bottom"/>
+  <anchor x="295" y="510" name="top"/>
   <outline>
     <contour>
       <point x="99" y="0" type="line"/>

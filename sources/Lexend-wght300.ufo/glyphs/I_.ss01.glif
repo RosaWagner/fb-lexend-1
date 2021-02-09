@@ -5,6 +5,10 @@
 I
 </note>
   <guideline x="154.0" y="0" angle="270.0" name="center" identifier="l2LCbTuQaA"/>
+  <anchor x="153" y="0" name="bottom"/>
+  <anchor x="190" y="10" name="ogonek"/>
+  <anchor x="153" y="700" name="top"/>
+  <anchor x="100" y="700" name="topleft"/>
   <outline>
     <contour>
       <point x="179.0" y="700.0" type="qcurve"/>

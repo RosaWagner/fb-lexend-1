@@ -5,6 +5,8 @@
   <note>
 q
 </note>
+  <anchor x="315" y="0" name="bottom"/>
+  <anchor x="315" y="510" name="top"/>
   <outline>
     <contour>
       <point x="512" y="525" type="line"/>

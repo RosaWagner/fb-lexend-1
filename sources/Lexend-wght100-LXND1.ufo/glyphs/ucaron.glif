@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ucaron" format="2">
-  <advance width="914"/>
-  <unicode hex="01D4"/>
+  <advance width="906"/>
+  <unicode hex="01E5"/>
   <outline>
     <component base="u"/>
-    <component base="caroncomb" xOffset="267.5" yOffset="-31"/>
+    <component base="caroncomb" xOffset="264"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

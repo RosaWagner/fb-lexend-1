@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omacronacute" format="2">
   <advance width="615"/>
-  <unicode hex="1E53"/>
   <outline>
     <component base="o"/>
-    <component base="macroncomb_acutecomb" xOffset="170" yOffset="-31.001398961458904"/>
+    <component base="macroncomb_acutecomb" xOffset="172" yOffset="-12"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.749,0.4863,0.8784,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

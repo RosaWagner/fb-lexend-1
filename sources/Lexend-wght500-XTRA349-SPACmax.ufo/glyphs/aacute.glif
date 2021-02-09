@@ -2,12 +2,9 @@
 <glyph name="aacute" format="2">
   <advance width="843"/>
   <unicode hex="00E1"/>
-  <note>
-aacute
-</note>
   <outline>
     <component base="a"/>
-    <component base="acutecomb" xOffset="298" yOffset="-2"/>
+    <component base="acutecomb" xOffset="292" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ aacute
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

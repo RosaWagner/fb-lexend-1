@@ -2,12 +2,9 @@
 <glyph name="Tbar" format="2">
   <advance width="706"/>
   <unicode hex="0166"/>
-  <note>
-Tbar
-</note>
   <outline>
     <component base="T"/>
-    <component base="strokeshortcomb" xOffset="111" yOffset="56"/>
+    <component base="strokeshortcomb" xOffset="98" yOffset="56"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ Tbar
       <string>T</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>T</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

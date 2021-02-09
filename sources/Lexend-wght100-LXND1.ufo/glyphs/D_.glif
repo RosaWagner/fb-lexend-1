@@ -5,6 +5,9 @@
   <note>
 D
 </note>
+  <anchor x="466" y="0" name="bottom"/>
+  <anchor x="247" y="350" name="center"/>
+  <anchor x="466" y="700" name="top"/>
   <outline>
     <contour>
       <point x="194.0" y="700.0" type="line"/>

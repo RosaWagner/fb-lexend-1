@@ -2,12 +2,9 @@
 <glyph name="cdotaccent" format="2">
   <advance width="730"/>
   <unicode hex="010B"/>
-  <note>
-cdotaccent
-</note>
   <outline>
     <component base="c"/>
-    <component base="dotaccentcomb" xOffset="261" yOffset="19"/>
+    <component base="dotaccentcomb" xOffset="275" yOffset="17"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ cdotaccent
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

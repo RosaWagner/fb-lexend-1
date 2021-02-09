@@ -2,12 +2,9 @@
 <glyph name="wgrave" format="2">
   <advance width="920"/>
   <unicode hex="1E81"/>
-  <note>
-wgrave
-</note>
   <outline>
     <component base="w"/>
-    <component base="gravecomb" xOffset="306" yOffset="15"/>
+    <component base="gravecomb" xOffset="295" yOffset="17"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ wgrave
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

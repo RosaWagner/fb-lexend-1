@@ -3,56 +3,13 @@
   <advance width="955"/>
   <unicode hex="01EB"/>
   <outline>
-    <contour>
-      <point x="152" y="263" type="qcurve"/>
-      <point x="150" y="152"/>
-      <point x="339" y="12"/>
-      <point x="478" y="12" type="qcurve"/>
-      <point x="615" y="12"/>
-      <point x="802" y="151"/>
-      <point x="803" y="263" type="qcurve"/>
-      <point x="804" y="371"/>
-      <point x="617" y="508"/>
-      <point x="478" y="508" type="qcurve"/>
-      <point x="335" y="508"/>
-      <point x="153" y="372"/>
-    </contour>
-    <contour>
-      <point x="478" y="-10" type="qcurve"/>
-      <point x="321" y="-10"/>
-      <point x="130" y="143"/>
-      <point x="130" y="263" type="qcurve"/>
-      <point x="130" y="381"/>
-      <point x="321" y="530"/>
-      <point x="478" y="530" type="qcurve"/>
-      <point x="631" y="530"/>
-      <point x="825" y="381"/>
-      <point x="825" y="263" type="qcurve"/>
-      <point x="825.0" y="168.0"/>
-      <point x="685.3560709522507" y="23.716710266468006"/>
-      <point x="567" y="2" type="qcurve" smooth="yes"/>
-      <point x="544.0785232061907" y="-2.2447179247795006"/>
-      <point x="454" y="-71"/>
-      <point x="454" y="-130" type="qcurve" smooth="yes"/>
-      <point x="454" y="-163"/>
-      <point x="495" y="-208"/>
-      <point x="527" y="-208" type="qcurve" smooth="yes"/>
-      <point x="553" y="-208"/>
-      <point x="588" y="-181"/>
-      <point x="597" y="-163" type="qcurve"/>
-      <point x="612" y="-176" type="line"/>
-      <point x="602" y="-196"/>
-      <point x="559" y="-230"/>
-      <point x="527" y="-230" type="qcurve" smooth="yes"/>
-      <point x="487" y="-230"/>
-      <point x="432" y="-175"/>
-      <point x="432" y="-130" type="qcurve" smooth="yes"/>
-      <point x="432.0" y="-87.31386861313868"/>
-      <point x="472" y="-26"/>
-      <point x="522" y="6" type="qcurve"/>
-      <point x="537" y="-5" type="line"/>
-      <point x="500" y="-10"/>
-      <point x="485" y="-10"/>
-    </contour>
+    <component base="o"/>
+    <component base="ogonekcomb" xOffset="385"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

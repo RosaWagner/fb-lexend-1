@@ -2,8 +2,10 @@
 <glyph name="gravecomb" format="2">
   <advance width="336"/>
   <unicode hex="0300"/>
+  <anchor x="154" y="519" name="_top"/>
+  <anchor x="125" y="764" name="top"/>
   <outline>
-    <component base="grave"/>
+    <component base="grave" yOffset="20"/>
   </outline>
   <lib>
     <dict>

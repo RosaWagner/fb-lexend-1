@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb.case" format="2">
   <advance width="362"/>
+  <anchor x="181" y="542" name="_top"/>
+  <anchor x="181" y="757" name="top"/>
   <outline>
     <contour>
       <point x="290" y="635" type="line"/>

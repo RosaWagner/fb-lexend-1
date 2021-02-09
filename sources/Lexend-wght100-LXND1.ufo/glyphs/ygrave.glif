@@ -2,12 +2,9 @@
 <glyph name="ygrave" format="2">
   <advance width="863"/>
   <unicode hex="1EF3"/>
-  <note>
-ygrave
-</note>
   <outline>
     <component base="y"/>
-    <component base="gravecomb" xOffset="278.25" yOffset="42"/>
+    <component base="gravecomb" xOffset="298" yOffset="35"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ ygrave
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

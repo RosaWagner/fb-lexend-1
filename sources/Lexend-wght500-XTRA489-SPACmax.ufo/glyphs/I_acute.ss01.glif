@@ -5,4 +5,10 @@
     <component base="I.ss01"/>
     <component base="acutecomb.case" xOffset="162" yOffset="146"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

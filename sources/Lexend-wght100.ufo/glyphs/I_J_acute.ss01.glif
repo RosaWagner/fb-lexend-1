@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="IJacute.ss01" format="2">
   <advance width="890"/>
+  <anchor x="153" y="0" name="bottom_1"/>
+  <anchor x="618" y="0" name="bottom_2"/>
+  <anchor x="343" y="10" name="ogonek"/>
+  <anchor x="153" y="700" name="top_1"/>
+  <anchor x="734" y="700" name="top_2"/>
+  <anchor x="100" y="700" name="topleft"/>
   <outline>
     <component base="IJ.ss01"/>
     <component base="acutecomb.case" xOffset="50.001034014991376" yOffset="195.49911804603676"/>

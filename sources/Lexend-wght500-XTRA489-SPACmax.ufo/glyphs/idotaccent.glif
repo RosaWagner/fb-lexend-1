@@ -3,7 +3,7 @@
   <advance width="503"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="122.5" yOffset="20"/>
+    <component base="dotaccentcomb" xOffset="123" yOffset="14"/>
   </outline>
   <lib>
     <dict>

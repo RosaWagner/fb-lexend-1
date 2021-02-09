@@ -3,48 +3,7 @@
   <advance width="1044"/>
   <unicode hex="0172"/>
   <outline>
-    <contour>
-      <point x="522" y="-6" type="qcurve"/>
-      <point x="363" y="-6.0"/>
-      <point x="170.0" y="187.9850746268657"/>
-      <point x="170" y="335" type="qcurve"/>
-      <point x="170" y="701" type="line"/>
-      <point x="298" y="701" type="line"/>
-      <point x="298" y="339" type="line"/>
-      <point x="298.0" y="239.0"/>
-      <point x="427.97014925373134" y="109.0"/>
-      <point x="522" y="109" type="qcurve"/>
-      <point x="620.5074626865671" y="109.0"/>
-      <point x="751.0" y="239.0"/>
-      <point x="751" y="339" type="qcurve"/>
-      <point x="751" y="701" type="line"/>
-      <point x="874" y="701" type="line"/>
-      <point x="874" y="335" type="line"/>
-      <point x="874.0" y="220.07462686567163"/>
-      <point x="742" y="51"/>
-      <point x="650" y="14" type="qcurve" smooth="yes"/>
-      <point x="599" y="-6"/>
-      <point x="557.0" y="-64.11940298507463"/>
-      <point x="557" y="-88" type="qcurve" smooth="yes"/>
-      <point x="557.0" y="-103.67164179104478"/>
-      <point x="577.5671641791045" y="-124.0"/>
-      <point x="591" y="-124" type="qcurve" smooth="yes"/>
-      <point x="603.6865671641791" y="-124.0"/>
-      <point x="622.0298507462686" y="-108.70149253731343"/>
-      <point x="628" y="-99" type="qcurve"/>
-      <point x="684" y="-139" type="line"/>
-      <point x="675.7910447761194" y="-159.8955223880597"/>
-      <point x="615.2985074626865" y="-201.0"/>
-      <point x="575" y="-201" type="qcurve" smooth="yes"/>
-      <point x="533.955223880597" y="-201.0"/>
-      <point x="466.0" y="-142.02985074626866"/>
-      <point x="466" y="-98" type="qcurve" smooth="yes"/>
-      <point x="466.0" y="-30.83582089552239"/>
-      <point x="570.2537313432836" y="47.32835820895522"/>
-      <point x="621" y="63" type="qcurve"/>
-      <point x="651" y="38" type="line"/>
-      <point x="621.8955223880597" y="21.582089552238806"/>
-      <point x="557" y="-6.0"/>
-    </contour>
+    <component base="U"/>
+    <component base="ogonekcomb.case" xOffset="361"/>
   </outline>
 </glyph>

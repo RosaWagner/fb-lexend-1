@@ -2,8 +2,10 @@
 <glyph name="circumflexcomb" format="2">
   <advance width="416"/>
   <unicode hex="0302"/>
+  <anchor x="208" y="535" name="_top"/>
+  <anchor x="214" y="784" name="top"/>
   <outline>
-    <component base="circumflex"/>
+    <component base="circumflex" yOffset="30"/>
   </outline>
   <lib>
     <dict>

@@ -4,6 +4,12 @@
   <unicode hex="0112"/>
   <outline>
     <component base="E"/>
-    <component base="macroncomb.case" xOffset="187" yOffset="164"/>
+    <component base="macroncomb.case" xOffset="190" yOffset="164"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,15 +2,14 @@
 <glyph name="ainvertedbreve" format="2">
   <advance width="602"/>
   <unicode hex="0203"/>
-  <guideline x="301.0" y="0" angle="270.0" identifier="8pXmA80AMB"/>
   <outline>
     <component base="a"/>
-    <component base="breveinvertedcomb" xOffset="71" yOffset="-10"/>
+    <component base="breveinvertedcomb" xOffset="79" yOffset="6"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.749,0.4863,0.8784,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

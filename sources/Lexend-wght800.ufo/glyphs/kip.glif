@@ -2,6 +2,8 @@
 <glyph name="kip" format="2">
   <advance width="771"/>
   <unicode hex="20AD"/>
+  <anchor x="363" y="0" name="bottom"/>
+  <anchor x="375" y="700" name="top"/>
   <outline>
     <contour>
       <point x="387" y="354" type="line"/>

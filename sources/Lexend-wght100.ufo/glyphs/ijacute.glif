@@ -1,12 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ijacute" format="2">
-  <advance width="327"/>
-  <guideline x="46" y="625" angle="0" identifier="70MN8eG3LT"/>
+  <advance width="388"/>
   <outline>
-    <component base="idotless"/>
-    <component base="jdotless" xOffset="107"/>
-    <component base="acutecomb" xOffset="130" yOffset="28"/>
-    <component base="acutecomb" xOffset="1" yOffset="29"/>
+    <component base="i"/>
+    <component base="jdotless" xOffset="162"/>
+    <component base="acutecomb" xOffset="213.79999999999563" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -50,7 +48,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>J</string>
       <key>public.markColor</key>
-      <string>0.749,0.4863,0.8784,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

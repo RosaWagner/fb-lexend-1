@@ -4,13 +4,13 @@
   <unicode hex="1EAD"/>
   <outline>
     <component base="a"/>
-    <component base="dotbelowcomb" xOffset="230" yOffset="-24"/>
-    <component base="circumflexcomb" xOffset="131" yOffset="56"/>
+    <component base="dotbelowcomb" xOffset="206" yOffset="-17"/>
+    <component base="circumflexcomb" xOffset="99" yOffset="-5"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

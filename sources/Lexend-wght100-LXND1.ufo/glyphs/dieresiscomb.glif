@@ -2,6 +2,8 @@
 <glyph name="dieresiscomb" format="2">
   <advance width="288"/>
   <unicode hex="0308"/>
+  <anchor x="159" y="525" name="_top"/>
+  <anchor x="159" y="739" name="top"/>
   <outline>
     <component base="dieresis"/>
   </outline>

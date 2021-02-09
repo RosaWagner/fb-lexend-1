@@ -4,7 +4,7 @@
   <unicode hex="1EA8"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="140.5800000000163" yOffset="232"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="129" yOffset="189"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

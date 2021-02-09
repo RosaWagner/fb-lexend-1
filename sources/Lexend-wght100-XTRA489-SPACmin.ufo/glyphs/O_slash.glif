@@ -5,6 +5,12 @@
   <note>
 Oslash
 </note>
+  <anchor x="551" y="0" name="bottom"/>
+  <anchor x="551" y="700" name="top"/>
+  <anchor x="551" y="350" name="center"/>
+  <anchor x="646" y="10" name="ogonek"/>
+  <anchor x="20" y="700" name="topleft"/>
+  <anchor x="798" y="710" name="topright"/>
   <outline>
     <contour>
       <point x="84" y="-19" type="line"/>

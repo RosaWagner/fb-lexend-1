@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ogonekcomb.case" format="2">
+  <anchor x="238" y="0" name="_ogonek"/>
   <outline>
     <contour>
       <point x="139" y="-201" type="qcurve" smooth="yes"/>

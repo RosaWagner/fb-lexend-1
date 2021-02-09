@@ -2,12 +2,9 @@
 <glyph name="ydieresis" format="2">
   <advance width="733"/>
   <unicode hex="00FF"/>
-  <note>
-ydieresis
-</note>
   <outline>
     <component base="y"/>
-    <component base="dieresiscomb" xOffset="175" yOffset="24"/>
+    <component base="dieresiscomb" xOffset="213"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +12,8 @@ ydieresis
       <string>+10</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>+10</string>
+      <key>public.markColor</key>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

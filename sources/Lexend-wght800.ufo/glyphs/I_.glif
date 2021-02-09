@@ -6,6 +6,10 @@
 I
 </note>
   <guideline x="301.0" y="0" angle="90.0" name="center" identifier="SSB6VD0GaS"/>
+  <anchor x="301" y="0" name="bottom"/>
+  <anchor x="531" y="10" name="ogonek"/>
+  <anchor x="301" y="700" name="top"/>
+  <anchor x="123" y="700" name="topleft"/>
   <outline>
     <contour>
       <point x="414" y="700" type="qcurve"/>

@@ -3,6 +3,8 @@
   <unicode hex="030F"/>
   <guideline x="574" y="781" angle="0" identifier="yfRcPAL4mX"/>
   <guideline x="551" y="575" angle="0" identifier="2Gwq4by3rz"/>
+  <anchor x="259" y="499" name="_top"/>
+  <anchor x="228" y="810" name="top"/>
   <outline>
     <component base="gravecomb" xOffset="-49"/>
     <component base="gravecomb" xOffset="221"/>

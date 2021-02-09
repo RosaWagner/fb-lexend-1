@@ -3,12 +3,12 @@
   <advance width="726"/>
   <outline>
     <component base="g"/>
-    <component base="macroncomb" xOffset="134.00000000001455" yOffset="-39"/>
+    <component base="macroncomb" xOffset="108" yOffset="-4"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.7211,0.9166,0.0451,1</string>
+      <string>0.4498,0.8979,0.3212,1</string>
     </dict>
   </lib>
 </glyph>

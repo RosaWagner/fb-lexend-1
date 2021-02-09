@@ -6,6 +6,9 @@
 A
 </note>
   <guideline x="323.5" y="0" angle="270.0" name="center" identifier="e1TOYGeplb"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <anchor x="617" y="10" name="ogonek"/>
+  <anchor x="322" y="700" name="top"/>
   <outline>
     <contour>
       <point x="314" y="687" type="qcurve"/>

@@ -2,6 +2,8 @@
 <glyph name="tildecomb" format="2">
   <advance width="332"/>
   <unicode hex="0303"/>
+  <anchor x="167" y="525" name="_top"/>
+  <anchor x="167" y="748" name="top"/>
   <outline>
     <contour>
       <point x="60" y="647" type="qcurve"/>

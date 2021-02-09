@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevebelowcomb.case" format="2">
+  <anchor x="201" y="0" name="_bottom"/>
+  <anchor x="201" y="-179" name="bottom"/>
   <outline>
-    <component base="brevecomb" yOffset="-733"/>
+    <component base="brevecomb" yOffset="-799"/>
   </outline>
   <lib>
     <dict>
