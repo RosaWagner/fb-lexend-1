@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="2">
+	<advance width="532"/>
+	<unicode hex="00B0"/>
+	<note>
+		degree
+	</note>
+	<outline>
+		<contour>
+			<point x="421" y="554" type="qcurve" smooth="yes"/>
+			<point x="421" y="489"/>
+			<point x="331" y="399"/>
+			<point x="266" y="399" type="qcurve" smooth="yes"/>
+			<point x="201" y="399"/>
+			<point x="111" y="489"/>
+			<point x="111" y="554" type="qcurve" smooth="yes"/>
+			<point x="111" y="619"/>
+			<point x="201" y="709"/>
+			<point x="266" y="709" type="qcurve" smooth="yes"/>
+			<point x="331" y="709"/>
+			<point x="421" y="619"/>
+		</contour>
+		<contour>
+			<point x="133" y="554" type="qcurve" smooth="yes"/>
+			<point x="133" y="498"/>
+			<point x="210" y="421"/>
+			<point x="266" y="421" type="qcurve" smooth="yes"/>
+			<point x="322" y="421"/>
+			<point x="399" y="498"/>
+			<point x="399" y="554" type="qcurve" smooth="yes"/>
+			<point x="399" y="610"/>
+			<point x="322" y="687"/>
+			<point x="266" y="687" type="qcurve" smooth="yes"/>
+			<point x="210" y="687"/>
+			<point x="133" y="610"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.98,1,0.58,1</string>
+		</dict>
+	</lib>
+</glyph>

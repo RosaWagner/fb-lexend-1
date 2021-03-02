@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.dnom" format="2">
+  <advance width="405.4074074074074"/>
+  <outline>
+    <contour>
+      <point x="290.44444444444446" y="157.66666666666666" type="line"/>
+      <point x="290.44444444444446" y="70.88888888888889" type="line"/>
+      <point x="365.037037037037" y="70.88888888888889" type="line"/>
+      <point x="365.037037037037" y="157.66666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="109.03703703703704" y="123.66666666666667" type="line"/>
+      <point x="236.37037037037038" y="272.037037037037" type="line"/>
+      <point x="207.37037037037038" y="283.037037037037" type="line"/>
+      <point x="207.37037037037038" y="126.14814814814815" type="line"/>
+      <point x="238.37037037037038" y="157.66666666666666" type="line"/>
+      <point x="93.03703703703704" y="157.66666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="306.44444444444446" y="-1.0370370370370372" type="line"/>
+      <point x="306.44444444444446" y="367.0740740740741" type="line"/>
+      <point x="206.74074074074073" y="367.0740740740741" type="line"/>
+      <point x="28.14814814814815" y="149.5185185185185" type="line"/>
+      <point x="47.55555555555556" y="70.88888888888889" type="line"/>
+      <point x="221.33333333333334" y="70.88888888888889" type="line"/>
+      <point x="192.92592592592592" y="102.4074074074074" type="line"/>
+      <point x="192.92592592592592" y="-1.0370370370370372" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

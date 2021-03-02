@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LJ.ss01" format="2">
+	<advance width="1673"/>
+	<anchor x="429" y="350" name="center"/>
+	<anchor x="429" y="0" name="bottom_1"/>
+	<anchor x="236" y="700" name="top_1"/>
+	<anchor x="838" y="700" name="topright"/>
+	<anchor x="1530" y="700" name="top_2"/>
+	<anchor x="1339" y="0" name="bottom_2"/>
+	<outline>
+		<component base="L"/>
+		<component base="J.ss01" xOffset="792"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.45,0.9,0.32,1</string>
+		</dict>
+	</lib>
+</glyph>

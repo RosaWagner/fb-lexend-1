@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+	<advance width="726"/>
+	<unicode hex="00DE"/>
+	<anchor x="477" y="700" name="top"/>
+	<anchor x="477" y="0" name="bottom"/>
+	<note>
+		Thorn
+	</note>
+	<outline>
+		<contour>
+			<point x="110" y="700" type="line"/>
+			<point x="132" y="700" type="line"/>
+			<point x="132" y="0" type="line"/>
+			<point x="110" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="122" y="171" type="line"/>
+			<point x="122" y="193" type="line"/>
+			<point x="463" y="193" type="line" smooth="yes"/>
+			<point x="552" y="193"/>
+			<point x="648" y="278"/>
+			<point x="648" y="358" type="qcurve" smooth="yes"/>
+			<point x="648" y="437"/>
+			<point x="552" y="521"/>
+			<point x="463" y="521" type="qcurve"/>
+			<point x="122" y="521" type="line"/>
+			<point x="122" y="543" type="line"/>
+			<point x="450" y="543" type="line" smooth="yes"/>
+			<point x="556" y="543"/>
+			<point x="671" y="447"/>
+			<point x="671" y="358" type="qcurve" smooth="yes"/>
+			<point x="671" y="268"/>
+			<point x="556" y="171"/>
+			<point x="449" y="171" type="qcurve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>P</string>
+		</dict>
+	</lib>
+</glyph>

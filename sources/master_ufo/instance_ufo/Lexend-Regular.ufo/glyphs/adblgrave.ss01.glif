@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adblgrave.ss01" format="2">
+  <advance width="536.6206896551724"/>
+  <anchor x="268.3103448275862" y="0.0" name="bottom"/>
+  <anchor x="469.44827586206895" y="0.0" name="ogonek"/>
+  <anchor x="267.6551724137931" y="690.1724137931035" name="top"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="dblgravecomb" xOffset="17.310344827586206" yOffset="-3.275862068965518"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

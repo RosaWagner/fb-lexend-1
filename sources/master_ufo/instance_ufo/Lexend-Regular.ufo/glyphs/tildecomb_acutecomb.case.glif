@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_acutecomb.case" format="2">
+  <anchor x="250.3448275862069" y="700.0" name="_top"/>
+  <anchor x="266.8965517241379" y="980.3448275862069" name="top"/>
+  <outline>
+    <component base="tildecomb.case"/>
+    <component base="acutecomb.case" xOffset="20.0" yOffset="140.17241379310346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

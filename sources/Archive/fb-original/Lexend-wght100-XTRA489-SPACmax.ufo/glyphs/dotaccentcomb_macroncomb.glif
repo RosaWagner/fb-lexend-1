@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb_macroncomb" format="2">
+	<advance width="0"/>
+	<guideline x="137" y="0" angle="270"/>
+	<anchor x="137" y="525" name="_top"/>
+	<outline>
+		<component base="dotaccentcomb" xOffset="-2"/>
+		<component base="macroncomb" xOffset="-75" yOffset="187"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>dotaccentcomb</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>macroncomb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-02-10 11:03:29 +0000</string>
+		</dict>
+	</lib>
+</glyph>

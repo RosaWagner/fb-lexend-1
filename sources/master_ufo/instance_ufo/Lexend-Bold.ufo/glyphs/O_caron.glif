@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocaron" format="2">
+  <advance width="807.0370370370371"/>
+  <unicode hex="01D1"/>
+  <anchor x="403.51851851851853" y="0.0" name="bottom"/>
+  <anchor x="403.51851851851853" y="350.0" name="center"/>
+  <anchor x="653.5185185185185" y="4.814814814814815" name="ogonek"/>
+  <anchor x="403.51851851851853" y="874.074074074074" name="top"/>
+  <anchor x="20.0" y="700.0" name="topleft"/>
+  <anchor x="787.0370370370371" y="700.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="caroncomb.case" xOffset="153.5185185185185"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

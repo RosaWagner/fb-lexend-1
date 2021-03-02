@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="782.0"/>
+  <unicode hex="20B1"/>
+  <anchor x="387.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="387.6666666666667" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="60.44444444444445" y="499.3333333333333" type="line"/>
+      <point x="163.85185185185185" y="499.3333333333333" type="line"/>
+      <point x="191.77777777777777" y="521.2962962962963" type="line"/>
+      <point x="535.9629629629629" y="521.2962962962963" type="line"/>
+      <point x="574.3703703703703" y="499.3333333333333" type="line"/>
+      <point x="740.2222222222222" y="499.3333333333333" type="line"/>
+      <point x="740.2222222222222" y="572.2962962962963" type="line"/>
+      <point x="574.1851851851852" y="572.2962962962963" type="line"/>
+      <point x="534.7777777777778" y="561.6666666666666" type="line"/>
+      <point x="195.1851851851852" y="561.6666666666666" type="line"/>
+      <point x="167.40740740740742" y="572.2962962962963" type="line"/>
+      <point x="60.44444444444445" y="572.2962962962963" type="line"/>
+    </contour>
+    <contour>
+      <point x="60.44444444444445" y="365.55555555555554" type="line"/>
+      <point x="163.33333333333334" y="365.55555555555554" type="line"/>
+      <point x="190.22222222222223" y="376.18518518518516" type="line"/>
+      <point x="544.5555555555555" y="376.18518518518516" type="line"/>
+      <point x="580.8888888888889" y="365.55555555555554" type="line"/>
+      <point x="740.2222222222222" y="365.55555555555554" type="line"/>
+      <point x="740.2222222222222" y="439.55555555555554" type="line"/>
+      <point x="585.8888888888889" y="439.55555555555554" type="line"/>
+      <point x="547.5185185185185" y="416.55555555555554" type="line"/>
+      <point x="194.14814814814815" y="416.55555555555554" type="line"/>
+      <point x="165.85185185185185" y="439.55555555555554" type="line"/>
+      <point x="60.44444444444445" y="439.55555555555554" type="line"/>
+    </contour>
+    <component base="P" xOffset="58.62962962962963"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>peseta</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>peseta</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

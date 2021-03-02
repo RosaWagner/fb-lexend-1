@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotbelow" format="2">
+  <advance width="367.62068965517244"/>
+  <unicode hex="1E6D"/>
+  <anchor x="184.13793103448276" y="-179.79310344827587" name="bottom"/>
+  <anchor x="184.13793103448276" y="261.0344827586207" name="center"/>
+  <anchor x="184.13793103448276" y="521.7241379310345" name="top"/>
+  <anchor x="238.86206896551724" y="756.2068965517242" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="dotbelowcomb" xOffset="-65.86206896551724"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

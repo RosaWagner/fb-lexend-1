@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emacronacute" format="2">
+  <advance width="555.8620689655172"/>
+  <unicode hex="1E17"/>
+  <anchor x="277.9310344827586" y="0.0" name="bottom"/>
+  <anchor x="460.34482758620686" y="0.0" name="ogonek"/>
+  <anchor x="277.9310344827586" y="690.1724137931035" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="macroncomb_acutecomb" xOffset="27.93103448275862" yOffset="-3.275862068965518"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

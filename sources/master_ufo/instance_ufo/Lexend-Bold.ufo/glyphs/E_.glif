@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="640.0"/>
+  <unicode hex="0045"/>
+  <anchor x="320.0" y="0.0" name="bottom"/>
+  <anchor x="538.8518518518518" y="0.0" name="ogonek"/>
+  <anchor x="320.0" y="700.0" name="top"/>
+  <anchor x="20.0" y="700.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="89.33333333333333" y="0.0" type="line"/>
+      <point x="578.4814814814815" y="0.0" type="line"/>
+      <point x="578.4814814814815" y="138.1851851851852" type="line"/>
+      <point x="245.0" y="138.1851851851852" type="line"/>
+      <point x="245.0" y="561.8148148148148" type="line"/>
+      <point x="569.8148148148148" y="561.8148148148148" type="line"/>
+      <point x="569.8148148148148" y="700.0" type="line"/>
+      <point x="89.33333333333333" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="164.33333333333334" y="290.14814814814815" type="line"/>
+      <point x="523.4814814814815" y="290.14814814814815" type="line"/>
+      <point x="523.4814814814815" y="423.037037037037" type="line"/>
+      <point x="164.33333333333334" y="423.037037037037" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

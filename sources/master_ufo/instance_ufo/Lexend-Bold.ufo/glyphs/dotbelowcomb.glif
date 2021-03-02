@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <anchor x="250.0" y="0.0" name="_bottom"/>
+  <anchor x="250.0" y="-220.92592592592592" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="250.0" y="-220.92592592592592" type="curve" smooth="yes"/>
+      <point x="307.44444444444446" y="-220.92592592592592"/>
+      <point x="343.0740740740741" y="-187.7037037037037"/>
+      <point x="343.0740740740741" y="-139.07407407407408" type="curve" smooth="yes"/>
+      <point x="343.0740740740741" y="-87.0"/>
+      <point x="308.9259259259259" y="-57.22222222222223"/>
+      <point x="250.0" y="-57.22222222222223" type="curve" smooth="yes"/>
+      <point x="192.55555555555554" y="-57.22222222222223"/>
+      <point x="156.92592592592592" y="-90.44444444444444"/>
+      <point x="156.92592592592592" y="-139.07407407407408" type="curve" smooth="yes"/>
+      <point x="156.92592592592592" y="-191.14814814814815"/>
+      <point x="191.07407407407408" y="-220.92592592592592"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

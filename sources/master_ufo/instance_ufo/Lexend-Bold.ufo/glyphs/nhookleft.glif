@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nhookleft" format="2">
+  <advance width="620.5185185185185"/>
+  <unicode hex="0272"/>
+  <outline>
+    <contour>
+      <point x="0.7777777777777786" y="-207.59259259259258" type="line"/>
+      <point x="134.08659259259258" y="-207.59259259259258"/>
+      <point x="212.07407407407408" y="-133.56807407407408"/>
+      <point x="214.0" y="-1.8518518518518547" type="curve" smooth="yes"/>
+      <point x="214.0" y="318.0" type="line" smooth="yes"/>
+      <point x="214.0" y="371.2837777777778"/>
+      <point x="258.24674074074073" y="412.6296296296296"/>
+      <point x="318.2962962962963" y="412.6296296296296" type="curve" smooth="yes"/>
+      <point x="375.7902962962963" y="414.7037037037037"/>
+      <point x="405.22222222222223" y="381.19770370370367"/>
+      <point x="405.22222222222223" y="313.0" type="curve" smooth="yes"/>
+      <point x="405.22222222222223" y="0.0" type="line"/>
+      <point x="556.3703703703703" y="0.0" type="line"/>
+      <point x="556.3703703703703" y="324.81481481481484" type="line" smooth="yes"/>
+      <point x="556.3703703703703" y="467.0985925925926"/>
+      <point x="493.0" y="540.8148148148148"/>
+      <point x="373.0" y="540.8148148148148" type="curve" smooth="yes"/>
+      <point x="297.8888888888889" y="540.8148148148148"/>
+      <point x="224.62962962962962" y="496.48148148148147"/>
+      <point x="194.25925925925927" y="438.25925925925924" type="curve"/>
+      <point x="211.11111111111111" y="416.2962962962963" type="line"/>
+      <point x="206.77777777777777" y="529.8148148148148" type="line"/>
+      <point x="62.851851851851855" y="529.8148148148148" type="line"/>
+      <point x="62.851851851851855" y="22.185185185185183" type="line" smooth="yes"/>
+      <point x="62.851851851851855" y="-60.97548148148148"/>
+      <point x="32.2097037037037" y="-91.03703703703704"/>
+      <point x="-56.51851851851852" y="-91.03703703703704" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>j</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

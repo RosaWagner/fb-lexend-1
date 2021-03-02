@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe" format="2">
+  <advance width="570.7586206896551"/>
+  <unicode hex="0149"/>
+  <anchor x="285.55172413793105" y="0.0" name="bottom"/>
+  <anchor x="285.55172413793105" y="521.7241379310345" name="top"/>
+  <outline>
+    <component base="apostrophemod" xOffset="-84.48275862068965"/>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

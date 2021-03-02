@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncommaaccent" format="2">
+  <advance width="804.5555555555555"/>
+  <unicode hex="0145"/>
+  <anchor x="402.77777777777777" y="-285.3703703703704" name="bottom"/>
+  <anchor x="402.77777777777777" y="700.0" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="commaaccentcomb.case" xOffset="130.59259259259258"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

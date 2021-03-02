@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="615"/>
+  <unicode hex="00F8"/>
+  <anchor x="308" y="525" name="top"/>
+  <anchor x="308" y="0" name="bottom"/>
+  <anchor x="308" y="263" name="center"/>
+  <anchor x="458" y="0" name="ogonek"/>
+  <anchor x="595" y="525" name="topright"/>
+  <outline>
+    <contour>
+      <point x="81" y="-19" type="line"/>
+      <point x="543" y="523" type="line"/>
+      <point x="526" y="538" type="line"/>
+      <point x="65" y="-5" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

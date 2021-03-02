@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb_gravecomb.case" format="2">
+  <anchor x="251.0" y="700.0" name="_top"/>
+  <anchor x="250.62962962962962" y="1048.148148148148" name="top"/>
+  <outline>
+    <component base="macroncomb.case"/>
+    <component base="gravecomb.case" xOffset="2.0740740740740726" yOffset="174.07407407407408"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

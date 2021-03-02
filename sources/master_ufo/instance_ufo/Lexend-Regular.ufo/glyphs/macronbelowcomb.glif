@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelowcomb" format="2">
+  <unicode hex="0331"/>
+  <anchor x="250.3448275862069" y="0.0" name="_bottom"/>
+  <anchor x="250.3448275862069" y="-156.3793103448276" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="111.96551724137932" y="-156.3793103448276" type="line"/>
+      <point x="388.37931034482756" y="-156.3793103448276" type="line"/>
+      <point x="388.37931034482756" y="-99.41379310344827" type="line"/>
+      <point x="111.96551724137932" y="-99.41379310344827" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

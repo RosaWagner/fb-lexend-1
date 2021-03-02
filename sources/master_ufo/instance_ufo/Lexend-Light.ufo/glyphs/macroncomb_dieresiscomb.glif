@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb_dieresiscomb" format="2">
+  <anchor x="250" y="525" name="_top"/>
+  <anchor x="249" y="855" name="top"/>
+  <outline>
+    <component base="macroncomb"/>
+    <component base="dieresiscomb" xOffset="-1" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

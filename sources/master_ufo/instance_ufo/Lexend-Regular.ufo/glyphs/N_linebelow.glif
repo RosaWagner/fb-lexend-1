@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nlinebelow" format="2">
+  <advance width="785.1379310344828"/>
+  <unicode hex="1E48"/>
+  <anchor x="393.0689655172414" y="-156.3793103448276" name="bottom"/>
+  <anchor x="393.0689655172414" y="700.0" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="macronbelowcomb" xOffset="142.72413793103448"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

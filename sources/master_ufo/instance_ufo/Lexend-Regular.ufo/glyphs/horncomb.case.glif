@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb.case" format="2">
+  <anchor x="179.13793103448276" y="513.7931034482758" name="_topright"/>
+  <anchor x="373.58620689655174" y="624.5172413793103" name="topright"/>
+  <outline>
+    <contour>
+      <point x="179.13793103448276" y="461.2758620689655" type="line"/>
+      <point x="289.55172413793105" y="461.2758620689655"/>
+      <point x="353.58620689655174" y="524.4827586206897"/>
+      <point x="353.58620689655174" y="624.5172413793103" type="curve"/>
+      <point x="290.41379310344826" y="624.5172413793103" type="line"/>
+      <point x="290.41379310344826" y="551.1379310344828"/>
+      <point x="253.55172413793105" y="513.7931034482758"/>
+      <point x="179.13793103448276" y="513.7931034482758" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

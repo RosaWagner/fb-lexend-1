@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb_macroncomb" format="2">
+	<advance width="40"/>
+	<guideline x="-412.5" y="708.13" angle="0"/>
+	<guideline x="-412.34" y="803.2" angle="0"/>
+	<guideline x="160" y="739" angle="270"/>
+	<anchor x="160" y="526" name="_top"/>
+	<outline>
+		<component base="dieresiscomb" xOffset="16" yOffset="-30"/>
+		<component base="macroncomb" xOffset="-72" yOffset="153"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>dieresiscomb</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>macroncomb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-02-10 11:03:55 +0000</string>
+		</dict>
+	</lib>
+</glyph>

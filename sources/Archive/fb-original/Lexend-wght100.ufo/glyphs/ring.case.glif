@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring.case" format="2">
+	<advance width="336"/>
+	<anchor x="164" y="628" name="_top"/>
+	<outline>
+		<contour>
+			<point x="266" y="835" type="qcurve"/>
+			<point x="266" y="797"/>
+			<point x="207.2" y="740"/>
+			<point x="168" y="740" type="qcurve"/>
+			<point x="129.78788" y="740"/>
+			<point x="71" y="797"/>
+			<point x="71" y="835" type="qcurve"/>
+			<point x="71" y="874"/>
+			<point x="128.80808" y="931"/>
+			<point x="168" y="931" type="qcurve"/>
+			<point x="207.2" y="931"/>
+			<point x="266" y="874"/>
+		</contour>
+		<contour>
+			<point x="93" y="835" type="qcurve"/>
+			<point x="93" y="806"/>
+			<point x="137.80519" y="762"/>
+			<point x="168" y="762" type="qcurve"/>
+			<point x="199.17949" y="762"/>
+			<point x="244" y="806"/>
+			<point x="244" y="835" type="qcurve"/>
+			<point x="244" y="868"/>
+			<point x="199.17949" y="909"/>
+			<point x="168" y="909" type="qcurve"/>
+			<point x="135.85714" y="909"/>
+			<point x="93" y="867"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.98,1,0.58,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="615.4814814814815"/>
+  <unicode hex="20A3"/>
+  <anchor x="307.74074074074076" y="0.0" name="bottom"/>
+  <anchor x="307.74074074074076" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="32.148148148148145" y="92.37037037037038" type="line"/>
+      <point x="348.2962962962963" y="92.37037037037038" type="line"/>
+      <point x="348.2962962962963" y="206.44444444444446" type="line"/>
+      <point x="32.148148148148145" y="206.44444444444446" type="line"/>
+    </contour>
+    <component base="F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

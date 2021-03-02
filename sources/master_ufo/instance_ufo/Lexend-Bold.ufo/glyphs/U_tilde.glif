@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Utilde" format="2">
+  <advance width="761.1851851851852"/>
+  <unicode hex="0168"/>
+  <anchor x="380.5925925925926" y="0.0" name="bottom"/>
+  <anchor x="561.6666666666666" y="0.0" name="ogonek"/>
+  <anchor x="380.5925925925926" y="874.074074074074" name="top"/>
+  <anchor x="741.1851851851852" y="700.0" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="tildecomb.case" xOffset="129.59259259259258"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="717.7241379310344"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="181.58620689655172" y="215.27586206896552" type="line"/>
+      <point x="678.6896551724138" y="700.0" type="line"/>
+      <point x="583.8620689655172" y="700.0" type="line"/>
+      <point x="179.51724137931035" y="300.8965517241379" type="line"/>
+    </contour>
+    <contour>
+      <point x="36.55172413793103" y="346.86206896551727" type="line"/>
+      <point x="169.51724137931035" y="346.86206896551727" type="line"/>
+      <point x="170.89655172413794" y="411.0689655172414" type="line"/>
+      <point x="36.55172413793103" y="411.0689655172414" type="line"/>
+    </contour>
+    <contour>
+      <point x="131.55172413793105" y="0.0" type="line"/>
+      <point x="201.55172413793105" y="0.0" type="line"/>
+      <point x="201.55172413793105" y="700.0" type="line"/>
+      <point x="131.55172413793105" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="601.448275862069" y="0.0" type="line"/>
+      <point x="689.2758620689655" y="0.0" type="line"/>
+      <point x="368.2413793103448" y="423.7241379310345" type="line"/>
+      <point x="317.0689655172414" y="377.6551724137931" type="line"/>
+    </contour>
+    <contour>
+      <point x="365.86206896551727" y="346.86206896551727" type="line"/>
+      <point x="626.1034482758621" y="346.86206896551727" type="line"/>
+      <point x="626.1034482758621" y="411.0689655172414" type="line"/>
+      <point x="365.86206896551727" y="411.0689655172414" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>K</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

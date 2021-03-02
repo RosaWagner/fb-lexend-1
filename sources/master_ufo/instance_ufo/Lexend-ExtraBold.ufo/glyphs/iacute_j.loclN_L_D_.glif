@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute_j.loclNLD" format="2">
+  <advance width="586"/>
+  <anchor x="162" y="0" name="bottom_1"/>
+  <anchor x="455" y="-230" name="bottom_2"/>
+  <anchor x="244" y="0" name="ogonek"/>
+  <anchor x="162" y="535" name="top_1"/>
+  <anchor x="455" y="535" name="top_2"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="acutecomb" xOffset="-88" yOffset="10"/>
+    <component base="jdotless" xOffset="323"/>
+    <component base="acutecomb" xOffset="205" yOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

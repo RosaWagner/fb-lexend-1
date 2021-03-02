@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="807.0370370370371"/>
+  <unicode hex="0051"/>
+  <anchor x="403.51851851851853" y="0.0" name="bottom"/>
+  <anchor x="403.51851851851853" y="700.0" name="top"/>
+  <anchor x="403.51851851851853" y="350.0" name="center"/>
+  <anchor x="653.5185185185185" y="4.814814814814815" name="ogonek"/>
+  <anchor x="20.0" y="700.0" name="topleft"/>
+  <anchor x="787.0370370370371" y="700.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="614.925925925926" y="-110.0" type="line"/>
+      <point x="730.7777777777778" y="-24.40740740740741" type="line"/>
+      <point x="466.3703703703704" y="332.5925925925926" type="line"/>
+      <point x="347.51851851851853" y="250.0" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

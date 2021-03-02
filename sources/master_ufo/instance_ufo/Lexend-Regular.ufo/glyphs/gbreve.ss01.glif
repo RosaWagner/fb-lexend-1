@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gbreve.ss01" format="2">
+  <advance width="565.5172413793103"/>
+  <anchor x="282.7586206896552" y="-230.0" name="bottom"/>
+  <anchor x="282.7586206896552" y="690.1724137931035" name="top"/>
+  <outline>
+    <component base="g.ss01"/>
+    <component base="brevecomb" xOffset="32.758620689655174" yOffset="-3.275862068965518"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

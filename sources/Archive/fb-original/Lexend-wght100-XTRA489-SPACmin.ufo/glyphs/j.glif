@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="2">
+	<advance width="225"/>
+	<unicode hex="006A"/>
+	<anchor x="99" y="765" name="top"/>
+	<anchor x="14" y="-230" name="bottom"/>
+	<note>
+		j
+	</note>
+	<outline>
+		<component base="jdotless" xOffset="-58"/>
+		<component base="dotaccentcomb" xOffset="-19" yOffset="5"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>jdotless</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotaccentcomb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-02-10 11:03:55 +0000</string>
+			<key>public.markColor</key>
+			<string>0.59,1,0.48,1</string>
+		</dict>
+	</lib>
+</glyph>

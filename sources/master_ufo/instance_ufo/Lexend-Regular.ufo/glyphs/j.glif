@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="240.06896551724137"/>
+  <unicode hex="006A"/>
+  <anchor x="120.20689655172414" y="-230.0" name="bottom"/>
+  <anchor x="120.20689655172414" y="690.1724137931035" name="top"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="dotaccentcomb" xOffset="-129.79310344827587" yOffset="-3.275862068965518"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

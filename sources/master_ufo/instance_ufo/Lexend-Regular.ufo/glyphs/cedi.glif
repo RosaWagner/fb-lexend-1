@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance width="675.7241379310345"/>
+  <unicode hex="20B5"/>
+  <anchor x="338.0344827586207" y="0.0" name="bottom"/>
+  <anchor x="338.0344827586207" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="338.6896551724138" y="-82.96551724137932" type="line"/>
+      <point x="407.0344827586207" y="-82.96551724137932" type="line"/>
+      <point x="407.0344827586207" y="8.551724137931032" type="line"/>
+      <point x="403.58620689655174" y="40.44827586206896" type="line"/>
+      <point x="403.58620689655174" y="658.3793103448276" type="line"/>
+      <point x="407.0344827586207" y="688.5172413793103" type="line"/>
+      <point x="407.0344827586207" y="774.0344827586207" type="line"/>
+      <point x="338.6896551724138" y="774.0344827586207" type="line"/>
+      <point x="338.6896551724138" y="686.1034482758621" type="line"/>
+      <point x="340.0689655172414" y="654.6896551724138" type="line"/>
+      <point x="340.0689655172414" y="45.48275862068965" type="line"/>
+      <point x="338.6896551724138" y="8.82758620689655" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

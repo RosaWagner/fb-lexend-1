@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_acutecomb" format="2">
+  <anchor x="250.5185185185185" y="525.0" name="_top"/>
+  <anchor x="250.5185185185185" y="719.2592592592592" name="top"/>
+  <outline>
+    <contour>
+      <point x="255.2962962962963" y="777.1111111111111" type="line"/>
+      <point x="380.96296296296293" y="911.074074074074" type="line"/>
+      <point x="283.74074074074076" y="981.074074074074" type="line"/>
+      <point x="190.2962962962963" y="819.8518518518518" type="line"/>
+    </contour>
+    <component base="tildecomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

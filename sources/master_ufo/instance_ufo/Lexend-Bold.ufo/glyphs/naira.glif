@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="844.5925925925926"/>
+  <unicode hex="20A6"/>
+  <anchor x="425.8888888888889" y="0.0" name="bottom"/>
+  <anchor x="425.8888888888889" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="14.814814814814815" y="309.6666666666667" type="line"/>
+      <point x="126.07407407407408" y="309.6666666666667" type="line"/>
+      <point x="156.07407407407408" y="327.74074074074076" type="line"/>
+      <point x="676.3333333333334" y="327.74074074074076" type="line"/>
+      <point x="717.3333333333334" y="309.6666666666667" type="line"/>
+      <point x="829.7777777777778" y="309.6666666666667" type="line"/>
+      <point x="829.7777777777778" y="389.18518518518516" type="line"/>
+      <point x="722.3333333333334" y="389.18518518518516" type="line"/>
+      <point x="680.3333333333334" y="378.3333333333333" type="line"/>
+      <point x="162.07407407407408" y="378.3333333333333" type="line"/>
+      <point x="128.07407407407408" y="389.18518518518516" type="line"/>
+      <point x="14.814814814814815" y="389.18518518518516" type="line"/>
+    </contour>
+    <component base="N" xOffset="23.11111111111111"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

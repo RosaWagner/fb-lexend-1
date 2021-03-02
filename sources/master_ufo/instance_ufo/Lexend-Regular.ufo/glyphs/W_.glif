@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="944.2413793103448"/>
+  <unicode hex="0057"/>
+  <anchor x="472.44827586206895" y="0.0" name="bottom"/>
+  <anchor x="472.44827586206895" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="233.24137931034483" y="0.0" type="line"/>
+      <point x="294.44827586206895" y="0.0" type="line"/>
+      <point x="477.6896551724138" y="451.0344827586207" type="line"/>
+      <point x="457.55172413793105" y="453.0689655172414" type="line"/>
+      <point x="647.7931034482758" y="0.0" type="line"/>
+      <point x="709.6896551724138" y="0.0" type="line"/>
+      <point x="919.5862068965517" y="700.0" type="line"/>
+      <point x="844.2068965517242" y="700.0" type="line"/>
+      <point x="708.5862068965517" y="236.82758620689654" type="line" smooth="yes"/>
+      <point x="681.5862068965517" y="145.55172413793105"/>
+      <point x="683.3793103448276" y="145.563"/>
+      <point x="667.0344827586207" y="63.51724137931034" type="curve"/>
+      <point x="679.9310344827586" y="65.9310344827586" type="line"/>
+      <point x="662.6551724137931" y="133.65517241379308"/>
+      <point x="646.1034482758621" y="174.0344827586207"/>
+      <point x="622.1724137931035" y="232.20689655172413" type="curve" smooth="yes"/>
+      <point x="503.44827586206895" y="528.551724137931" type="line"/>
+      <point x="436.58620689655174" y="528.551724137931" type="line"/>
+      <point x="321.0689655172414" y="236.13793103448276" type="line" smooth="yes"/>
+      <point x="296.6237931034483" y="174.4962068965517"/>
+      <point x="287.56010344827587" y="149.71713793103447"/>
+      <point x="262.62068965517244" y="62.82758620689655" type="curve"/>
+      <point x="276.55172413793105" y="62.48275862068965" type="line"/>
+      <point x="264.5285172413793" y="123.83886206896551"/>
+      <point x="256.2413793103448" y="161.65517241379308"/>
+      <point x="236.0" y="231.86206896551724" type="curve" smooth="yes"/>
+      <point x="101.0" y="700.0" type="line"/>
+      <point x="24.655172413793103" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>V</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

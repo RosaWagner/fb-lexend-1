@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb_acutecomb.case" format="2">
+  <anchor x="250" y="700" name="_top"/>
+  <anchor x="270" y="940" name="top"/>
+  <outline>
+    <component base="macroncomb.case"/>
+    <component base="acutecomb.case" xOffset="19" yOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

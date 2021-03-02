@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_i" format="2">
+  <advance width="962.8275862068965"/>
+  <anchor x="320.9423103448276" y="0.0" name="caret_1"/>
+  <anchor x="641.885275862069" y="0.0" name="caret_2"/>
+  <anchor x="187.17241379310346" y="0.0" name="bottom_1"/>
+  <anchor x="561.1724137931035" y="0.0" name="bottom_2"/>
+  <anchor x="895.1724137931035" y="0.0" name="bottom_3"/>
+  <anchor x="890.2413793103448" y="0.0" name="ogonek"/>
+  <anchor x="187.17241379310346" y="740.0" name="top_1"/>
+  <anchor x="561.1724137931035" y="740.0" name="top_2"/>
+  <anchor x="855.5862068965517" y="690.1724137931035" name="top_3"/>
+  <outline>
+    <component base="f"/>
+    <component base="f" xOffset="374.0"/>
+    <component base="i" xOffset="748.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

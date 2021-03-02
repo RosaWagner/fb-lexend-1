@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="615.4814814814815"/>
+  <unicode hex="0046"/>
+  <anchor x="307.74074074074076" y="0.0" name="bottom"/>
+  <anchor x="307.74074074074076" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="89.33333333333333" y="0.0" type="line"/>
+      <point x="249.33333333333331" y="0.0" type="line"/>
+      <point x="249.33333333333331" y="700.0" type="line"/>
+      <point x="89.33333333333333" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="163.8148148148148" y="272.962962962963" type="line"/>
+      <point x="525.7777777777778" y="272.962962962963" type="line"/>
+      <point x="525.7777777777778" y="408.74074074074076" type="line"/>
+      <point x="163.8148148148148" y="408.74074074074076" type="line"/>
+    </contour>
+    <contour>
+      <point x="163.8148148148148" y="557.4814814814815" type="line"/>
+      <point x="566.925925925926" y="557.4814814814815" type="line"/>
+      <point x="566.925925925926" y="700.0" type="line"/>
+      <point x="163.8148148148148" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="784.7407407407408"/>
+  <unicode hex="20A7"/>
+  <anchor x="386.4074074074074" y="0.0" name="bottom"/>
+  <anchor x="386.4074074074074" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="60.44444444444445" y="428.74074074074076" type="line"/>
+      <point x="742.9629629629629" y="428.74074074074076" type="line"/>
+      <point x="742.9629629629629" y="505.85185185185185" type="line"/>
+      <point x="60.44444444444445" y="505.85185185185185" type="line"/>
+    </contour>
+    <component base="P" xOffset="57.37037037037037"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="826.1851851851852"/>
+  <unicode hex="0126"/>
+  <anchor x="414.55555555555554" y="0.0" name="bottom"/>
+  <anchor x="414.55555555555554" y="350.0" name="center"/>
+  <anchor x="414.55555555555554" y="700.0" name="top"/>
+  <anchor x="45.851851851851855" y="700.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="37.74074074074074" y="477.6296296296296" type="line"/>
+      <point x="127.85185185185185" y="477.6296296296296" type="line"/>
+      <point x="194.55555555555554" y="487.6296296296296" type="line"/>
+      <point x="610.5555555555555" y="487.6296296296296" type="line"/>
+      <point x="678.6296296296297" y="477.6296296296296" type="line"/>
+      <point x="790.3703703703703" y="477.6296296296296" type="line"/>
+      <point x="790.3703703703703" y="610.5185185185185" type="line"/>
+      <point x="675.0" y="610.5185185185185" type="line"/>
+      <point x="598.5555555555555" y="600.5185185185185" type="line"/>
+      <point x="204.55555555555554" y="600.5185185185185" type="line"/>
+      <point x="133.03703703703704" y="610.5185185185185" type="line"/>
+      <point x="37.74074074074074" y="610.5185185185185" type="line"/>
+    </contour>
+    <component base="H" xOffset="25.851851851851855"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

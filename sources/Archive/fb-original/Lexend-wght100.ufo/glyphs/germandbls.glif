@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="2">
+	<advance width="604"/>
+	<unicode hex="00DF"/>
+	<guideline x="244" y="432" angle="0"/>
+	<guideline x="133" y="412" angle="0"/>
+	<note>
+		germandbls
+	</note>
+	<outline>
+		<contour>
+			<point x="138" y="416" type="line"/>
+			<point x="40" y="416" type="line"/>
+			<point x="40" y="438" type="line"/>
+			<point x="138" y="438" type="line"/>
+		</contour>
+		<contour>
+			<point x="148" y="0" type="line"/>
+			<point x="126" y="0" type="line"/>
+			<point x="126" y="494" type="line" smooth="yes"/>
+			<point x="126" y="611"/>
+			<point x="227.65" y="728"/>
+			<point x="316" y="728" type="qcurve"/>
+			<point x="399.19126" y="728"/>
+			<point x="489" y="640"/>
+			<point x="489" y="577" type="qcurve"/>
+			<point x="489" y="507.76398"/>
+			<point x="388" y="420"/>
+			<point x="318" y="420" type="qcurve"/>
+			<point x="318" y="432" type="line"/>
+			<point x="457" y="388"/>
+			<point x="562" y="258"/>
+			<point x="562" y="186" type="qcurve"/>
+			<point x="562" y="89"/>
+			<point x="462.49215" y="-8.98462"/>
+			<point x="364" y="-10" type="qcurve"/>
+			<point x="303.07486" y="-9.01734"/>
+			<point x="222.02073" y="38.96373"/>
+			<point x="194" y="88" type="qcurve"/>
+			<point x="214" y="100" type="line"/>
+			<point x="242.95178" y="50.08314"/>
+			<point x="317.24675" y="12"/>
+			<point x="364" y="12" type="qcurve" smooth="yes"/>
+			<point x="444.37791" y="12"/>
+			<point x="539" y="91"/>
+			<point x="539" y="188" type="qcurve"/>
+			<point x="539" y="264"/>
+			<point x="422.46217" y="380.67788"/>
+			<point x="310" y="414" type="qcurve"/>
+			<point x="310" y="437" type="line"/>
+			<point x="381.00393" y="441.00022"/>
+			<point x="466" y="518.66667"/>
+			<point x="466" y="577" type="qcurve"/>
+			<point x="466" y="631"/>
+			<point x="387.41935" y="706"/>
+			<point x="321" y="706" type="qcurve"/>
+			<point x="237.80874" y="706"/>
+			<point x="148" y="601"/>
+			<point x="148" y="493" type="qcurve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>f</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>s</string>
+			<key>public.markColor</key>
+			<string>0.59,1,0.48,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="618.1111111111111"/>
+  <unicode hex="0138"/>
+  <anchor x="309.2962962962963" y="0.0" name="bottom"/>
+  <anchor x="309.2962962962963" y="529.8148148148148" name="top"/>
+  <outline>
+    <contour>
+      <point x="213.51851851851853" y="137.62962962962962" type="line"/>
+      <point x="601.7037037037037" y="529.8148148148148" type="line"/>
+      <point x="411.85185185185185" y="529.8148148148148" type="line"/>
+      <point x="162.77777777777777" y="251.1851851851852" type="line"/>
+    </contour>
+    <contour>
+      <point x="72.07407407407408" y="0.0" type="line"/>
+      <point x="220.11111111111111" y="0.0" type="line"/>
+      <point x="220.11111111111111" y="529.8148148148148" type="line"/>
+      <point x="72.07407407407408" y="529.8148148148148" type="line"/>
+    </contour>
+    <contour>
+      <point x="422.0740740740741" y="0.0" type="line"/>
+      <point x="597.5555555555555" y="-0.5185185185185186" type="line"/>
+      <point x="345.25925925925924" y="335.3703703703704" type="line"/>
+      <point x="241.11111111111111" y="261.8888888888889" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>v</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

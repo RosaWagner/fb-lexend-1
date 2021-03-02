@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0309"/>
+	<anchor x="145" y="790" name="top"/>
+	<anchor x="155" y="492" name="_top"/>
+	<outline>
+		<component base="hookabovecomb.case" yOffset="10"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>309</integer>
+			<key>public.markColor</key>
+			<string>1,0.69,0.64,1</string>
+		</dict>
+	</lib>
+</glyph>

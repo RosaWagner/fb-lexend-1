@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+	<advance width="269"/>
+	<unicode hex="0301"/>
+	<anchor x="125" y="791" name="top"/>
+	<anchor x="90" y="532" name="_top"/>
+	<outline>
+		<component base="acute"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>269</integer>
+			<key>public.markColor</key>
+			<string>0.75,0.49,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

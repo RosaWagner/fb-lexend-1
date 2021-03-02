@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinvertedcomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0311"/>
+	<anchor x="228" y="775" name="top"/>
+	<anchor x="228" y="524" name="_top"/>
+	<outline>
+		<component base="brevecomb" xScale="-1" yScale="-1" xOffset="399" yOffset="1324.501"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>402</integer>
+			<key>public.markColor</key>
+			<string>1,0.69,0.64,1</string>
+		</dict>
+	</lib>
+</glyph>

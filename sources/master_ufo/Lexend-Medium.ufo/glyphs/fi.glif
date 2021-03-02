@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
+  <advance width="622"/>
+  <unicode hex="FB01"/>
+  <anchor x="328.5" y="0" name="caret_1"/>
+  <anchor x="197" y="0" name="bottom_1"/>
+  <anchor x="536" y="0" name="bottom_2"/>
+  <anchor x="554" y="0" name="ogonek"/>
+  <anchor x="197" y="740" name="top_1"/>
+  <anchor x="501" y="700" name="top_2"/>
+  <outline>
+    <component base="f"/>
+    <component base="i" xOffset="379"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>i</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

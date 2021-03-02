@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="2">
+	<advance width="288"/>
+	<unicode hex="0308"/>
+	<anchor x="149" y="675" name="top"/>
+	<anchor x="149" y="501" name="_top"/>
+	<outline>
+		<component base="dieresis"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>413</integer>
+			<key>public.markColor</key>
+			<string>0.75,0.49,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

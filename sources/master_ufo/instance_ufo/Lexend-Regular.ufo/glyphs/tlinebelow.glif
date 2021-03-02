@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tlinebelow" format="2">
+  <advance width="367.62068965517244"/>
+  <unicode hex="1E6F"/>
+  <anchor x="184.13793103448276" y="-156.3793103448276" name="bottom"/>
+  <anchor x="184.13793103448276" y="261.0344827586207" name="center"/>
+  <anchor x="184.13793103448276" y="521.7241379310345" name="top"/>
+  <anchor x="238.86206896551724" y="756.2068965517242" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="macronbelowcomb" xOffset="-66.20689655172414"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>
