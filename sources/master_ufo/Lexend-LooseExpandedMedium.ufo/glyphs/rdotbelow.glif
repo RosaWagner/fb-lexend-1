@@ -2,11 +2,11 @@
 <glyph name="rdotbelow" format="2">
   <advance width="781"/>
   <unicode hex="1E5B"/>
-  <anchor x="410" y="-206" name="bottom"/>
-  <anchor x="410" y="525" name="top"/>
+  <anchor x="273" y="-206" name="bottom"/>
+  <anchor x="450" y="525" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="dotbelowcomb" xOffset="160"/>
+    <component base="dotbelowcomb" xOffset="23"/>
   </outline>
   <lib>
     <dict>

@@ -6,7 +6,7 @@
   <anchor x="479" y="525" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="commaaccentcomb" xOffset="126"/>
+    <component base="commaaccentcomb" xOffset="228"/>
   </outline>
   <lib>
     <dict>

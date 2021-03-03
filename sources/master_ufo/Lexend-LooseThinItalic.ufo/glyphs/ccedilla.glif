@@ -2,11 +2,11 @@
 <glyph name="ccedilla" format="2">
   <advance width="721"/>
   <unicode hex="00E7"/>
-  <anchor x="353" y="-227" name="bottom"/>
-  <anchor x="353" y="525" name="top"/>
+  <anchor x="388" y="-227" name="bottom"/>
+  <anchor x="395" y="525" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb" xOffset="103"/>
+    <component base="cedillacomb" xOffset="138"/>
   </outline>
   <lib>
     <dict>

@@ -2,11 +2,11 @@
 <glyph name="ygrave" format="2">
   <advance width="649"/>
   <unicode hex="1EF3"/>
-  <anchor x="325" y="0" name="bottom"/>
-  <anchor x="325" y="750" name="top"/>
+  <anchor x="535" y="0" name="bottom"/>
+  <anchor x="305" y="760" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="gravecomb" xOffset="75" yOffset="10"/>
+    <component base="gravecomb" xOffset="55" yOffset="10"/>
   </outline>
   <lib>
     <dict>

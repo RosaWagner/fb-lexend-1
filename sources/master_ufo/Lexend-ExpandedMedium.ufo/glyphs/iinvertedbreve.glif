@@ -4,7 +4,7 @@
   <unicode hex="020B"/>
   <anchor x="122" y="0" name="bottom"/>
   <anchor x="175" y="0" name="ogonek"/>
-  <anchor x="122" y="700" name="top"/>
+  <anchor x="122" y="710" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="breveinvertedcomb" xOffset="-128"/>

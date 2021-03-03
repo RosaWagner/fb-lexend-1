@@ -28,7 +28,31 @@
         <key>x</key>
         <integer>-15</integer>
         <key>y</key>
-        <integer>599</integer>
+        <integer>601</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>30</integer>
+        <key>y</key>
+        <integer>757</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>21</integer>
+        <key>y</key>
+        <integer>899</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>21</integer>
+        <key>y</key>
+        <integer>872</integer>
       </dict>
     </array>
     <key>italicAngle</key>

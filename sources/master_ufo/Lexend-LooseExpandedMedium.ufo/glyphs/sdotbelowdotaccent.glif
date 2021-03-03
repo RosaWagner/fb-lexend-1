@@ -2,11 +2,11 @@
 <glyph name="sdotbelowdotaccent" format="2">
   <advance width="797"/>
   <unicode hex="1E69"/>
-  <anchor x="400" y="-206" name="bottom"/>
-  <anchor x="400" y="700" name="top"/>
+  <anchor x="420" y="-206" name="bottom"/>
+  <anchor x="400" y="710" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="dotbelowcomb" xOffset="150"/>
+    <component base="dotbelowcomb" xOffset="170"/>
     <component base="dotaccentcomb" xOffset="150"/>
   </outline>
   <lib>

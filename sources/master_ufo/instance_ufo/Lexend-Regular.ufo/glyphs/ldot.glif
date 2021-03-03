@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ldot" format="2">
-  <advance width="258.2758620689655"/>
+  <advance width="275.5"/>
   <unicode hex="0140"/>
-  <anchor x="108.9655172413793" y="0.0" name="bottom"/>
-  <anchor x="108.9655172413793" y="370.0" name="center"/>
-  <anchor x="108.9655172413793" y="740.0" name="top"/>
-  <anchor x="169.24137931034483" y="740.0" name="topright"/>
+  <anchor x="113.0" y="0.0" name="bottom"/>
+  <anchor x="113.0" y="370.0" name="center"/>
+  <anchor x="113.0" y="740.0" name="top"/>
+  <anchor x="177.0" y="740.0" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="periodcentered.case" xOffset="124.9655172413793" yOffset="6.551724137931036"/>
+    <component base="periodcentered.case" xOffset="138.0" yOffset="5.0"/>
   </outline>
   <lib>
     <dict>
@@ -23,6 +23,8 @@
           <string>l</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

@@ -2,13 +2,13 @@
 <glyph name="ecedillabreve" format="2">
   <advance width="705"/>
   <unicode hex="1E1D"/>
-  <anchor x="354" y="-227" name="bottom"/>
+  <anchor x="379" y="-227" name="bottom"/>
   <anchor x="635" y="10" name="ogonek"/>
-  <anchor x="353" y="690" name="top"/>
+  <anchor x="366" y="690" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="cedillacomb" xOffset="116"/>
-    <component base="brevecomb" xOffset="103"/>
+    <component base="cedillacomb" xOffset="128"/>
+    <component base="brevecomb" xOffset="116"/>
   </outline>
   <lib>
     <dict>

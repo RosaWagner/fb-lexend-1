@@ -8,8 +8,7 @@
   <anchor x="720" y="700" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="tildecomb.case" xOffset="119"/>
-    <component base="acutecomb.case" xOffset="139" yOffset="150"/>
+    <component base="tildecomb_acutecomb.case" xOffset="120"/>
   </outline>
   <lib>
     <dict>

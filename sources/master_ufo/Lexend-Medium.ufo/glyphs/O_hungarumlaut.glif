@@ -10,7 +10,7 @@
   <anchor x="762" y="700" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="hungarumlautcomb.case" xOffset="193"/>
+    <component base="hungarumlautcomb.case" xOffset="195"/>
   </outline>
   <lib>
     <dict>

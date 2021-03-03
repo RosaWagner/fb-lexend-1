@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lcommaaccent" format="2">
-  <advance width="607.1851851851852"/>
+  <advance width="610.3333333333334"/>
   <unicode hex="013B"/>
-  <anchor x="303.85185185185185" y="-285.3703703703704" name="bottom"/>
-  <anchor x="171.2962962962963" y="350.0" name="center"/>
-  <anchor x="170.8148148148148" y="700.0" name="top"/>
-  <anchor x="329.5925925925926" y="700.0" name="topright"/>
+  <anchor x="305.3333333333333" y="-301.6666666666667" name="bottom"/>
+  <anchor x="178.33333333333334" y="350.0" name="center"/>
+  <anchor x="177.66666666666666" y="700.0" name="top"/>
+  <anchor x="343.6666666666667" y="700.0" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="commaaccentcomb.case" xOffset="31.666666666666664"/>
+    <component base="commaaccentcomb.case" xOffset="55.333333333333336"/>
   </outline>
   <lib>
     <dict>

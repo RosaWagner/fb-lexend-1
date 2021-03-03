@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iacute_J.loclNLD" format="2">
-  <advance width="1064.3103448275863"/>
-  <anchor x="217.3793103448276" y="0.0" name="bottom_1"/>
-  <anchor x="749.8620689655172" y="0.0" name="bottom_2"/>
-  <anchor x="296.48275862068965" y="0.0" name="ogonek"/>
-  <anchor x="217.3793103448276" y="700.0" name="top_1"/>
-  <anchor x="870.5862068965517" y="700.0" name="top_2"/>
+  <advance width="1077.5"/>
+  <anchor x="222.5" y="0.0" name="bottom_1"/>
+  <anchor x="761.5" y="0.0" name="bottom_2"/>
+  <anchor x="307.5" y="0.0" name="ogonek"/>
+  <anchor x="222.5" y="700.0" name="top_1"/>
+  <anchor x="878.5" y="700.0" name="top_2"/>
   <anchor x="20.0" y="700.0" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="acutecomb.case" xOffset="-12.965517241379313"/>
-    <component base="J" xOffset="434.7586206896552"/>
-    <component base="acutecomb.case" xOffset="640.2413793103449"/>
+    <component base="acutecomb.case" xOffset="-8.0"/>
+    <component base="J" xOffset="445.0"/>
+    <component base="acutecomb.case" xOffset="648.0"/>
   </outline>
   <lib>
     <dict>

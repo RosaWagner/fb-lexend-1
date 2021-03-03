@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hbrevebelow" format="2">
-  <advance width="776.4074074074074"/>
+  <advance width="782.3333333333334"/>
   <unicode hex="1E2A"/>
-  <anchor x="388.7037037037037" y="-234.96296296296296" name="bottom"/>
-  <anchor x="388.7037037037037" y="350.0" name="center"/>
-  <anchor x="388.7037037037037" y="700.0" name="top"/>
+  <anchor x="391.6666666666667" y="-235.33333333333334" name="bottom"/>
+  <anchor x="391.6666666666667" y="350.0" name="center"/>
+  <anchor x="391.6666666666667" y="700.0" name="top"/>
   <anchor x="20.0" y="700.0" name="topleft"/>
   <outline>
     <component base="H"/>
-    <component base="brevebelowcomb" xOffset="138.7037037037037"/>
+    <component base="brevebelowcomb" xOffset="141.66666666666666"/>
   </outline>
   <lib>
     <dict>

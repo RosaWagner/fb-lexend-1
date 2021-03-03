@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gmacron" format="2">
-  <advance width="623.448275862069"/>
+  <advance width="629.5"/>
   <unicode hex="1E21"/>
-  <anchor x="311.8965517241379" y="-230.0" name="bottom"/>
-  <anchor x="311.8965517241379" y="690.1724137931035" name="top"/>
+  <anchor x="315.0" y="-230.0" name="bottom"/>
+  <anchor x="315.0" y="702.5" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="macroncomb" xOffset="61.89655172413793" yOffset="-3.275862068965518"/>
+    <component base="macroncomb" xOffset="65.0" yOffset="-2.5"/>
   </outline>
   <lib>
     <dict>

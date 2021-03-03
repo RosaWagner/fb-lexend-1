@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onequarter" format="2">
-  <advance width="992"/>
+  <advance width="1071"/>
   <unicode hex="00BC"/>
   <outline>
-    <component base="one.numr" xOffset="26" yOffset="-3"/>
-    <component base="fraction" xOffset="156"/>
-    <component base="four.dnom" xOffset="592"/>
+    <component base="one.numr" xOffset="53"/>
+    <component base="fraction" xOffset="85"/>
+    <component base="four.dnom" xOffset="671"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,22 @@
           <integer>0</integer>
           <key>name</key>
           <string>one.numr</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>four.dnom</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

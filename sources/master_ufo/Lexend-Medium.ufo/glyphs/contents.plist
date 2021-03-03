@@ -610,6 +610,8 @@
     <string>acutecomb.case.glif</string>
     <key>acutecomb_dotaccentcomb</key>
     <string>acutecomb_dotaccentcomb.glif</string>
+    <key>acutecomb_dotaccentcomb.case</key>
+    <string>acutecomb_dotaccentcomb.case.glif</string>
     <key>adblgrave</key>
     <string>adblgrave.glif</string>
     <key>adblgrave.ss01</key>

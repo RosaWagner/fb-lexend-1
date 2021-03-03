@@ -2,10 +2,10 @@
 <glyph name="jacute.loclNLD" format="2">
   <advance width="599"/>
   <anchor x="338" y="-230" name="bottom"/>
-  <anchor x="338" y="700" name="top"/>
+  <anchor x="351" y="710" name="top"/>
   <outline>
     <component base="jdotless"/>
-    <component base="acutecomb" xOffset="88"/>
+    <component base="acutecomb" xOffset="101"/>
   </outline>
   <lib>
     <dict>

@@ -4,7 +4,7 @@
   <anchor x="230" y="970" name="top"/>
   <outline>
     <component base="macroncomb.case"/>
-    <component base="gravecomb.case" xOffset="-20" yOffset="135"/>
+    <component base="gravecomb.case" xOffset="-19" yOffset="135"/>
   </outline>
   <lib>
     <dict>

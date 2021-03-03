@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_i" format="2">
-  <advance width="1067.5185185185185"/>
-  <anchor x="355.83966666666663" y="0.0" name="caret_1"/>
-  <anchor x="711.6788518518518" y="0.0" name="caret_2"/>
+  <advance width="1117.3333333333333"/>
+  <anchor x="360.77799999999996" y="0.0" name="caret_1"/>
+  <anchor x="721.5553333333334" y="0.0" name="caret_2"/>
   <anchor x="197.0" y="0.0" name="bottom_1"/>
   <anchor x="590.0" y="0.0" name="bottom_2"/>
-  <anchor x="958.4074074074074" y="0.0" name="bottom_3"/>
-  <anchor x="994.2222222222222" y="0.0" name="ogonek"/>
+  <anchor x="952.3333333333334" y="0.0" name="bottom_3"/>
+  <anchor x="1024.6666666666667" y="0.0" name="ogonek"/>
   <anchor x="197.0" y="740.0" name="top_1"/>
   <anchor x="590.0" y="740.0" name="top_2"/>
-  <anchor x="927.2592592592592" y="724.074074074074" name="top_3"/>
+  <anchor x="952.3333333333334" y="743.3333333333334" name="top_3"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="393.0"/>
@@ -22,7 +22,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>i</string>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

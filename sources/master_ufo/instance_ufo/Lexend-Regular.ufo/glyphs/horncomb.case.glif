@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horncomb.case" format="2">
-  <anchor x="179.13793103448276" y="513.7931034482758" name="_topright"/>
-  <anchor x="373.58620689655174" y="624.5172413793103" name="topright"/>
+  <anchor x="162.5" y="511.0" name="_topright"/>
+  <anchor x="358.5" y="622.5" name="topright"/>
   <outline>
     <contour>
-      <point x="179.13793103448276" y="461.2758620689655" type="line"/>
-      <point x="289.55172413793105" y="461.2758620689655"/>
-      <point x="353.58620689655174" y="524.4827586206897"/>
-      <point x="353.58620689655174" y="624.5172413793103" type="curve"/>
-      <point x="290.41379310344826" y="624.5172413793103" type="line"/>
-      <point x="290.41379310344826" y="551.1379310344828"/>
-      <point x="253.55172413793105" y="513.7931034482758"/>
-      <point x="179.13793103448276" y="513.7931034482758" type="curve"/>
+      <point x="162.5" y="451.5" type="line"/>
+      <point x="274.0" y="451.5"/>
+      <point x="338.5" y="517.5"/>
+      <point x="338.5" y="622.5" type="curve"/>
+      <point x="268.5" y="622.5" type="line"/>
+      <point x="268.5" y="548.5"/>
+      <point x="233.5" y="511.0"/>
+      <point x="162.5" y="511.0" type="curve"/>
     </contour>
   </outline>
   <lib>

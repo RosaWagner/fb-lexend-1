@@ -7,7 +7,7 @@
   <anchor x="378" y="820" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb_gravecomb.case" xOffset="128"/>
+    <component base="circumflexcomb_gravecomb.case" xOffset="141"/>
   </outline>
   <lib>
     <dict>

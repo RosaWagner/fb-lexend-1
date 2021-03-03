@@ -2,8 +2,8 @@
 <glyph name="ymacron" format="2">
   <advance width="711"/>
   <unicode hex="0233"/>
-  <anchor x="356" y="0" name="bottom"/>
-  <anchor x="356" y="680" name="top"/>
+  <anchor x="486" y="0" name="bottom"/>
+  <anchor x="356" y="690" name="top"/>
   <outline>
     <component base="y"/>
     <component base="macroncomb" xOffset="106"/>

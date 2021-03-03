@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lslash" format="2">
-  <advance width="627.4074074074074"/>
+  <advance width="623.3333333333334"/>
   <unicode hex="0141"/>
-  <anchor x="324.0740740740741" y="0.0" name="bottom"/>
-  <anchor x="191.5185185185185" y="350.0" name="center"/>
-  <anchor x="191.03703703703704" y="700.0" name="top"/>
-  <anchor x="349.81481481481484" y="700.0" name="topright"/>
+  <anchor x="318.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="191.33333333333334" y="350.0" name="center"/>
+  <anchor x="190.66666666666666" y="700.0" name="top"/>
+  <anchor x="356.6666666666667" y="700.0" name="topright"/>
   <outline>
     <contour>
-      <point x="44.44444444444444" y="240.59259259259258" type="line"/>
-      <point x="392.85185185185185" y="391.14814814814815" type="line"/>
-      <point x="346.4074074074074" y="509.55555555555554" type="line"/>
-      <point x="-0.44444444444444287" y="356.4074074074074" type="line"/>
+      <point x="35.0" y="234.66666666666666" type="line"/>
+      <point x="404.3333333333333" y="394.6666666666667" type="line"/>
+      <point x="352.3333333333333" y="529.0" type="line"/>
+      <point x="-16.0" y="367.3333333333333" type="line"/>
     </contour>
-    <component base="L" xOffset="20.222222222222225"/>
+    <component base="L" xOffset="13.0"/>
   </outline>
   <lib>
     <dict>

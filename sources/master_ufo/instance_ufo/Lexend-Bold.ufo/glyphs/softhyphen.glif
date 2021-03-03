@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="softhyphen" format="2">
-  <advance width="444.0740740740741"/>
+  <advance width="463.3333333333333"/>
   <unicode hex="00AD"/>
   <outline>
-    <component base="hyphen" xOffset="4.814814814814815"/>
+    <component base="hyphen" xOffset="6.666666666666666"/>
   </outline>
   <lib>
     <dict>

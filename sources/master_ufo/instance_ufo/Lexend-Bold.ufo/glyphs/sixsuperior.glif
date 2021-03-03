@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sixsuperior" format="2">
-  <advance width="371.8888888888889"/>
+  <advance width="383.0"/>
   <unicode hex="2076"/>
   <outline>
     <component base="six.numr" yOffset="70.0"/>

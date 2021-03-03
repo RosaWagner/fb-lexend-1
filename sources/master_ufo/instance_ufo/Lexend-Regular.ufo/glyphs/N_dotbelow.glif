@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ndotbelow" format="2">
-  <advance width="785.1379310344828"/>
+  <advance width="787.0"/>
   <unicode hex="1E46"/>
-  <anchor x="393.0689655172414" y="-179.79310344827587" name="bottom"/>
-  <anchor x="393.0689655172414" y="700.0" name="top"/>
+  <anchor x="394.0" y="-186.0" name="bottom"/>
+  <anchor x="394.0" y="700.0" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="dotbelowcomb" xOffset="143.06896551724137"/>
+    <component base="dotbelowcomb" xOffset="144.0"/>
   </outline>
   <lib>
     <dict>

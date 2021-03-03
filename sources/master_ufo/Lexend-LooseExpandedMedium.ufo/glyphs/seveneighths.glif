@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seveneighths" format="2">
-  <advance width="1146"/>
+  <advance width="1186"/>
   <unicode hex="215E"/>
   <outline>
-    <component base="seven.numr" xOffset="7"/>
-    <component base="fraction" xOffset="63"/>
-    <component base="eight.dnom" xOffset="717"/>
+    <component base="seven.numr" xOffset="47"/>
+    <component base="fraction" xOffset="103"/>
+    <component base="eight.dnom" xOffset="757"/>
   </outline>
   <lib>
     <dict>

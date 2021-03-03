@@ -9,8 +9,7 @@
   <anchor x="458" y="700" name="top_1"/>
   <anchor x="1237" y="700" name="top_2"/>
   <outline>
-    <component base="D"/>
-    <component base="Z" xOffset="867"/>
+    <component base="DZ"/>
     <component base="caroncomb.case" xOffset="987"/>
   </outline>
   <lib>

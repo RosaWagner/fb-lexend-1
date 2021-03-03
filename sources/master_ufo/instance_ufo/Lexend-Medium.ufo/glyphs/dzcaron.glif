@@ -7,7 +7,7 @@
   <anchor x="500" y="634" name="center_1"/>
   <anchor x="876" y="263" name="center_2"/>
   <anchor x="317" y="740" name="top_1"/>
-  <anchor x="876" y="700" name="top_2"/>
+  <anchor x="876" y="710" name="top_2"/>
   <anchor x="594" y="740" name="topright"/>
   <outline>
     <component base="d"/>

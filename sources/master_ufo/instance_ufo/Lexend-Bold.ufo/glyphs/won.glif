@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="won" format="2">
-  <advance width="1006.5925925925926"/>
+  <advance width="1010.6666666666666"/>
   <unicode hex="20A9"/>
-  <anchor x="498.48148148148147" y="0.0" name="bottom"/>
-  <anchor x="498.48148148148147" y="700.0" name="top"/>
+  <anchor x="498.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="498.6666666666667" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="19.037037037037038" y="322.0" type="line"/>
-      <point x="190.07407407407408" y="322.0" type="line"/>
-      <point x="229.40740740740742" y="335.037037037037" type="line"/>
-      <point x="752.4814814814815" y="335.037037037037" type="line"/>
-      <point x="797.6296296296297" y="322.0" type="line"/>
-      <point x="987.5555555555555" y="322.0" type="line"/>
-      <point x="987.5555555555555" y="415.0" type="line"/>
-      <point x="826.4074074074074" y="415.0" type="line"/>
-      <point x="787.5185185185185" y="400.037037037037" type="line"/>
-      <point x="202.8148148148148" y="400.037037037037" type="line"/>
-      <point x="169.33333333333334" y="415.0" type="line"/>
-      <point x="19.037037037037038" y="415.0" type="line"/>
+      <point x="8.666666666666671" y="322.0" type="line"/>
+      <point x="194.33333333333334" y="322.0" type="line"/>
+      <point x="230.33333333333334" y="334.6666666666667" type="line"/>
+      <point x="747.6666666666666" y="334.6666666666667" type="line"/>
+      <point x="791.3333333333334" y="322.0" type="line"/>
+      <point x="1002.0" y="322.0" type="line"/>
+      <point x="1002.0" y="415.0" type="line"/>
+      <point x="822.3333333333334" y="415.0" type="line"/>
+      <point x="782.3333333333334" y="399.6666666666667" type="line"/>
+      <point x="204.66666666666666" y="399.6666666666667" type="line"/>
+      <point x="171.0" y="415.0" type="line"/>
+      <point x="8.666666666666671" y="415.0" type="line"/>
     </contour>
-    <component base="W" xOffset="1.9259259259259258"/>
+    <component base="W" xOffset="2.6666666666666665"/>
   </outline>
   <lib>
     <dict>

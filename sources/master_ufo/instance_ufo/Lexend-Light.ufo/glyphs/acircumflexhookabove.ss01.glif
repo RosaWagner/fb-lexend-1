@@ -3,10 +3,10 @@
   <advance width="538"/>
   <anchor x="269" y="0" name="bottom"/>
   <anchor x="466" y="0" name="ogonek"/>
-  <anchor x="268" y="775" name="top"/>
+  <anchor x="268" y="785" name="top"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="49" yOffset="-5"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="48" yOffset="-5"/>
   </outline>
   <lib>
     <dict>

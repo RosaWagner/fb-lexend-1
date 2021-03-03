@@ -2,14 +2,14 @@
 <glyph name="Ecedillabreve" format="2">
   <advance width="875"/>
   <unicode hex="1E1C"/>
-  <anchor x="438" y="-227" name="bottom"/>
+  <anchor x="430" y="-227" name="bottom"/>
   <anchor x="698" y="0" name="ogonek"/>
-  <anchor x="437" y="820" name="top"/>
+  <anchor x="467" y="820" name="top"/>
   <anchor x="104" y="700" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="cedillacomb.case" xOffset="316"/>
-    <component base="brevecomb.case" xOffset="187"/>
+    <component base="cedillacomb.case" xOffset="179"/>
+    <component base="brevecomb.case" xOffset="217"/>
   </outline>
   <lib>
     <dict>

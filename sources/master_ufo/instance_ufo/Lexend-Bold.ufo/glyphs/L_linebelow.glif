@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Llinebelow" format="2">
-  <advance width="607.1851851851852"/>
+  <advance width="610.3333333333334"/>
   <unicode hex="1E3A"/>
-  <anchor x="303.85185185185185" y="-194.85185185185185" name="bottom"/>
-  <anchor x="171.2962962962963" y="350.0" name="center"/>
-  <anchor x="170.8148148148148" y="700.0" name="top"/>
-  <anchor x="329.5925925925926" y="700.0" name="topright"/>
+  <anchor x="305.3333333333333" y="-201.33333333333334" name="bottom"/>
+  <anchor x="178.33333333333334" y="350.0" name="center"/>
+  <anchor x="177.66666666666666" y="700.0" name="top"/>
+  <anchor x="343.6666666666667" y="700.0" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="macronbelowcomb" xOffset="53.333333333333336"/>
+    <component base="macronbelowcomb" xOffset="55.0"/>
   </outline>
   <lib>
     <dict>

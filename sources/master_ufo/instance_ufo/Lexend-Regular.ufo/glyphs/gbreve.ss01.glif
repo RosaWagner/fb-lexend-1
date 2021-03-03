@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gbreve.ss01" format="2">
-  <advance width="565.5172413793103"/>
-  <anchor x="282.7586206896552" y="-230.0" name="bottom"/>
-  <anchor x="282.7586206896552" y="690.1724137931035" name="top"/>
+  <advance width="559.0"/>
+  <anchor x="279.5" y="-230.0" name="bottom"/>
+  <anchor x="279.5" y="702.5" name="top"/>
   <outline>
     <component base="g.ss01"/>
-    <component base="brevecomb" xOffset="32.758620689655174" yOffset="-3.275862068965518"/>
+    <component base="brevecomb" xOffset="29.5" yOffset="-2.5"/>
   </outline>
   <lib>
     <dict>

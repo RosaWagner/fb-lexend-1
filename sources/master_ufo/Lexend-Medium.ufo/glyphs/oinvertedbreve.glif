@@ -5,11 +5,11 @@
   <anchor x="308" y="0" name="bottom"/>
   <anchor x="308" y="263" name="center"/>
   <anchor x="461" y="0" name="ogonek"/>
-  <anchor x="308" y="485" name="top"/>
+  <anchor x="308" y="710" name="top"/>
   <anchor x="595" y="525" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="breveinvertedcomb" xOffset="58" yOffset="-215"/>
+    <component base="breveinvertedcomb" xOffset="58"/>
   </outline>
   <lib>
     <dict>

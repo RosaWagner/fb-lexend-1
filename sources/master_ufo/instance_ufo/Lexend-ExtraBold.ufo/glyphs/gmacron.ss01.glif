@@ -2,7 +2,7 @@
 <glyph name="gmacron.ss01" format="2">
   <advance width="638"/>
   <anchor x="319" y="-230" name="bottom"/>
-  <anchor x="319" y="750" name="top"/>
+  <anchor x="319" y="760" name="top"/>
   <outline>
     <component base="g.ss01"/>
     <component base="macroncomb" xOffset="69" yOffset="10"/>

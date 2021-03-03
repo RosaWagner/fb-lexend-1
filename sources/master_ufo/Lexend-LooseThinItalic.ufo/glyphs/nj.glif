@@ -4,8 +4,8 @@
   <unicode hex="01CC"/>
   <anchor x="419" y="0" name="bottom_1"/>
   <anchor x="1102" y="-230" name="bottom_2"/>
-  <anchor x="419" y="525" name="top_1"/>
-  <anchor x="1102" y="680" name="top_2"/>
+  <anchor x="429" y="525" name="top_1"/>
+  <anchor x="1102" y="690" name="top_2"/>
   <outline>
     <component base="n"/>
     <component base="j" xOffset="841"/>

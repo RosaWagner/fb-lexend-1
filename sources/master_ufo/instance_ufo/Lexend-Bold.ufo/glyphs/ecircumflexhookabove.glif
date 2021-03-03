@@ -2,12 +2,12 @@
 <glyph name="ecircumflexhookabove" format="2">
   <advance width="586.0"/>
   <unicode hex="1EC3"/>
-  <anchor x="293.0" y="0.0" name="bottom"/>
-  <anchor x="512.4814814814815" y="4.814814814814815" name="ogonek"/>
-  <anchor x="293.0" y="794.4444444444445" name="top"/>
+  <anchor x="325.0" y="0.0" name="bottom"/>
+  <anchor x="517.6666666666666" y="6.666666666666666" name="ogonek"/>
+  <anchor x="303.3333333333333" y="810.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="62.74074074074074" yOffset="4.814814814814815"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="112.33333333333333" yOffset="6.666666666666666"/>
   </outline>
   <lib>
     <dict>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Adblgrave" format="2">
-  <advance width="665.2758620689655"/>
+  <advance width="673.5"/>
   <unicode hex="0200"/>
-  <anchor x="332.9655172413793" y="0.0" name="bottom"/>
-  <anchor x="640.2758620689655" y="0.0" name="ogonek"/>
-  <anchor x="288.82758620689657" y="840.1724137931035" name="top"/>
+  <anchor x="337.0" y="0.0" name="bottom"/>
+  <anchor x="648.5" y="0.0" name="ogonek"/>
+  <anchor x="283.5" y="842.5" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="dblgravecomb.case" xOffset="38.82758620689655"/>
+    <component base="dblgravecomb.case" xOffset="33.5"/>
   </outline>
   <lib>
     <dict>

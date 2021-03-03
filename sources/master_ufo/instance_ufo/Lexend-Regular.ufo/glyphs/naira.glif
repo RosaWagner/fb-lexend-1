@@ -2,22 +2,22 @@
 <glyph name="naira" format="2">
   <advance width="795.0"/>
   <unicode hex="20A6"/>
-  <anchor x="393.0689655172414" y="0.0" name="bottom"/>
-  <anchor x="393.0689655172414" y="700.0" name="top"/>
+  <anchor x="394.0" y="0.0" name="bottom"/>
+  <anchor x="394.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="10.0" y="317.9310344827586" type="line"/>
-      <point x="115.10344827586206" y="317.9310344827586" type="line"/>
-      <point x="142.48275862068965" y="321.6551724137931" type="line"/>
-      <point x="637.4827586206897" y="321.6551724137931" type="line"/>
-      <point x="667.3448275862069" y="317.9310344827586" type="line"/>
-      <point x="785.0" y="317.9310344827586" type="line"/>
-      <point x="785.0" y="381.44827586206895" type="line"/>
-      <point x="672.3448275862069" y="381.44827586206895" type="line"/>
-      <point x="638.8620689655172" y="377.7241379310345" type="line"/>
-      <point x="144.55172413793105" y="377.7241379310345" type="line"/>
-      <point x="117.10344827586206" y="381.44827586206895" type="line"/>
-      <point x="10.0" y="381.44827586206895" type="line"/>
+      <point x="10.0" y="317.0" type="line"/>
+      <point x="112.0" y="317.0" type="line"/>
+      <point x="140.0" y="321.5" type="line"/>
+      <point x="639.5" y="321.5" type="line"/>
+      <point x="672.0" y="317.0" type="line"/>
+      <point x="785.0" y="317.0" type="line"/>
+      <point x="785.0" y="387.5" type="line"/>
+      <point x="677.0" y="387.5" type="line"/>
+      <point x="641.5" y="383.0" type="line"/>
+      <point x="143.0" y="383.0" type="line"/>
+      <point x="114.0" y="387.5" type="line"/>
+      <point x="10.0" y="387.5" type="line"/>
     </contour>
     <component base="N"/>
   </outline>

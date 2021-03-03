@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb_dieresiscomb.case" format="2">
-  <anchor x="250.3448275862069" y="700.0" name="_top"/>
-  <anchor x="250.3448275862069" y="980.3448275862069" name="top"/>
+  <anchor x="249.5" y="700.0" name="_top"/>
+  <anchor x="249.5" y="985.0" name="top"/>
   <outline>
-    <component base="tildecomb.case"/>
-    <component base="dieresiscomb.case" xOffset="0.34482758620689646" yOffset="140.17241379310346"/>
+    <component base="tildecomb.case" xOffset="-1.0"/>
+    <component base="dieresiscomb.case" xOffset="-0.5" yOffset="142.5"/>
   </outline>
   <lib>
     <dict>

@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Otildemacron" format="2">
-  <advance width="785.2758620689655"/>
+  <advance width="784.5"/>
   <unicode hex="022C"/>
-  <anchor x="392.9655172413793" y="0.0" name="bottom"/>
-  <anchor x="392.9655172413793" y="350.0" name="center"/>
-  <anchor x="555.1379310344828" y="0.0" name="ogonek"/>
-  <anchor x="392.9655172413793" y="980.3448275862069" name="top"/>
+  <anchor x="392.5" y="0.0" name="bottom"/>
+  <anchor x="392.5" y="350.0" name="center"/>
+  <anchor x="557.0" y="0.0" name="ogonek"/>
+  <anchor x="392.5" y="985.0" name="top"/>
   <anchor x="20.0" y="700.0" name="topleft"/>
-  <anchor x="765.2758620689655" y="700.0" name="topright"/>
+  <anchor x="764.5" y="700.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="tildecomb.case" xOffset="142.6206896551724"/>
-    <component base="macroncomb.case" xOffset="142.6206896551724" yOffset="140.17241379310346"/>
+    <component base="tildecomb_macroncomb.case" xOffset="143.0"/>
   </outline>
   <lib>
     <dict>

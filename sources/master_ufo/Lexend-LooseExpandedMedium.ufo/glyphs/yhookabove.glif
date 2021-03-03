@@ -2,11 +2,11 @@
 <glyph name="yhookabove" format="2">
   <advance width="943"/>
   <unicode hex="1EF7"/>
-  <anchor x="472" y="0" name="bottom"/>
-  <anchor x="472" y="700" name="top"/>
+  <anchor x="666" y="0" name="bottom"/>
+  <anchor x="472" y="710" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="hookabovecomb" xOffset="212"/>
+    <component base="hookabovecomb" xOffset="221"/>
   </outline>
   <lib>
     <dict>

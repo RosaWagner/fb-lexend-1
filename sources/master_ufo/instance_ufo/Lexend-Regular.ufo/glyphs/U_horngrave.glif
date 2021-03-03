@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uhorngrave" format="2">
-  <advance width="748.5172413793103"/>
+  <advance width="746.5"/>
   <unicode hex="1EEA"/>
-  <anchor x="374.58620689655174" y="0.0" name="bottom"/>
-  <anchor x="358.0344827586207" y="840.1724137931035" name="top"/>
+  <anchor x="373.5" y="0.0" name="bottom"/>
+  <anchor x="358.5" y="842.5" name="top"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="gravecomb.case" xOffset="108.03448275862068"/>
+    <component base="gravecomb.case" xOffset="109.0"/>
   </outline>
   <lib>
     <dict>

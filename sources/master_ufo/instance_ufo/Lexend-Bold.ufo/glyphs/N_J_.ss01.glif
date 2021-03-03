@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="NJ.ss01" format="2">
-  <advance width="1382.7037037037037"/>
-  <anchor x="402.77777777777777" y="0.0" name="bottom_1"/>
-  <anchor x="1093.6296296296296" y="0.0" name="bottom_2"/>
-  <anchor x="402.77777777777777" y="700.0" name="top_1"/>
-  <anchor x="1216.2962962962963" y="700.0" name="top_2"/>
+  <advance width="1385.6666666666667"/>
+  <anchor x="405.0" y="0.0" name="bottom_1"/>
+  <anchor x="1097.3333333333333" y="0.0" name="bottom_2"/>
+  <anchor x="405.0" y="700.0" name="top_1"/>
+  <anchor x="1213.3333333333333" y="700.0" name="top_2"/>
   <outline>
     <component base="N"/>
-    <component base="J.ss01" xOffset="804.5555555555555"/>
+    <component base="J.ss01" xOffset="809.0"/>
   </outline>
   <lib>
     <dict>

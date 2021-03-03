@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="three.numr" format="2">
-  <advance width="353.55555555555554"/>
+  <advance width="358.0"/>
   <outline>
     <component base="three.dnom" yOffset="352.0"/>
   </outline>

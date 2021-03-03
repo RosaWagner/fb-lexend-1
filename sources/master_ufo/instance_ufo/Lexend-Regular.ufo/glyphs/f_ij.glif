@@ -1,35 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_ij" format="2">
-  <advance width="818.2068965517242"/>
-  <anchor x="201.0" y="0.0" name="bottom_1"/>
-  <anchor x="603.3448275862069" y="0.0" name="bottom_2"/>
-  <anchor x="402.17241379310343" y="0.0" name="caret_1"/>
-  <anchor x="201.0" y="740.0" name="top_1"/>
-  <anchor x="603.3448275862069" y="740.0" name="top_2"/>
-  <anchor x="505.55172413793105" y="-5.172413793103447" name="ogonek"/>
+  <advance width="854.5"/>
+  <anchor x="205.5" y="0.0" name="bottom_1"/>
+  <anchor x="617.0" y="0.0" name="bottom_2"/>
+  <anchor x="411.25" y="0.0" name="caret_1"/>
+  <anchor x="205.5" y="740.0" name="top_1"/>
+  <anchor x="617.0" y="740.0" name="top_2"/>
+  <anchor x="538.0" y="0.0" name="ogonek"/>
   <outline>
     <component base="f"/>
-    <component base="ij" xOffset="363.3103448275862" yOffset="-5.172413793103447"/>
+    <component base="ij" xOffset="378.5"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>ij</string>
-        </dict>
-      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>f</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ij</string>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dzcaron" format="2">
-  <advance width="1076.0689655172414"/>
+  <advance width="1086.0"/>
   <unicode hex="01C6"/>
-  <anchor x="309.13793103448273" y="0.0" name="bottom_1"/>
-  <anchor x="847.1724137931035" y="0.0" name="bottom_2"/>
-  <anchor x="487.55172413793105" y="634.0" name="center_1"/>
-  <anchor x="847.1724137931035" y="261.0344827586207" name="center_2"/>
-  <anchor x="309.13793103448273" y="740.0" name="top_1"/>
-  <anchor x="847.1724137931035" y="690.1724137931035" name="top_2"/>
-  <anchor x="571.0689655172414" y="740.0" name="topright"/>
+  <anchor x="311.0" y="0.0" name="bottom_1"/>
+  <anchor x="854.0" y="0.0" name="bottom_2"/>
+  <anchor x="490.5" y="634.0" name="center_1"/>
+  <anchor x="854.0" y="261.5" name="center_2"/>
+  <anchor x="311.0" y="740.0" name="top_1"/>
+  <anchor x="854.0" y="702.5" name="top_2"/>
+  <anchor x="576.5" y="740.0" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="zcaron" xOffset="617.6206896551724"/>
+    <component base="zcaron" xOffset="621.5"/>
   </outline>
   <lib>
     <dict>

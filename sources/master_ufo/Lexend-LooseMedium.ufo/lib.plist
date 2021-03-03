@@ -24,7 +24,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3066</string>
+    <string>1355</string>
     <key>com.schriftgestaltung.customName</key>
     <string>Loose Medium</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
@@ -73,7 +73,7 @@
         <key>300</key>
         <integer>50</integer>
         <key>400</key>
-        <integer>70</integer>
+        <integer>79</integer>
         <key>500</key>
         <integer>108</integer>
         <key>600</key>
@@ -86,8 +86,7 @@
     </dict>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
-      <string>H</string>
-      <string>/uhorn</string>
+      <string>/rupeeIndian</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.EditView Line Height</key>
     <integer>1250</integer>
@@ -276,11 +275,11 @@
       <string>Ncommaaccent</string>
       <string>Ndotaccent</string>
       <string>Ndotbelow</string>
+      <string>Eng</string>
       <string>Nhookleft</string>
       <string>Nj</string>
       <string>Nlinebelow</string>
       <string>Ntilde</string>
-      <string>Eng</string>
       <string>O</string>
       <string>Oacute</string>
       <string>Obreve</string>
@@ -394,8 +393,6 @@
       <string>Zcaron</string>
       <string>Zdotaccent</string>
       <string>Zdotbelow</string>
-      <string>Iacute_J.loclNLD</string>
-      <string>Jacute.loclNLD</string>
       <string>I.ss01</string>
       <string>IJ.ss01</string>
       <string>Iacute.ss01</string>
@@ -417,6 +414,8 @@
       <string>Jcircumflex.ss01</string>
       <string>LJ.ss01</string>
       <string>NJ.ss01</string>
+      <string>Iacute_J.loclNLD</string>
+      <string>Jacute.loclNLD</string>
       <string>a</string>
       <string>aacute</string>
       <string>abreve</string>
@@ -540,11 +539,11 @@
       <string>ncommaaccent</string>
       <string>ndotaccent</string>
       <string>ndotbelow</string>
+      <string>eng</string>
       <string>nhookleft</string>
       <string>nj</string>
       <string>nlinebelow</string>
       <string>ntilde</string>
-      <string>eng</string>
       <string>o</string>
       <string>oacute</string>
       <string>obreve</string>
@@ -658,8 +657,6 @@
       <string>zcaron</string>
       <string>zdotaccent</string>
       <string>zdotbelow</string>
-      <string>iacute_j.loclNLD</string>
-      <string>jacute.loclNLD</string>
       <string>a.ss01</string>
       <string>aacute.ss01</string>
       <string>abreve.ss01</string>
@@ -693,6 +690,8 @@
       <string>gcommaaccent.ss01</string>
       <string>gdotaccent.ss01</string>
       <string>gmacron.ss01</string>
+      <string>iacute_j.loclNLD</string>
+      <string>jacute.loclNLD</string>
       <string>f_f</string>
       <string>f_f_i</string>
       <string>f_f_ij</string>
@@ -717,16 +716,6 @@
       <string>eight</string>
       <string>nine</string>
       <string>zero.zero</string>
-      <string>zero.dnom</string>
-      <string>one.dnom</string>
-      <string>two.dnom</string>
-      <string>three.dnom</string>
-      <string>four.dnom</string>
-      <string>five.dnom</string>
-      <string>six.dnom</string>
-      <string>seven.dnom</string>
-      <string>eight.dnom</string>
-      <string>nine.dnom</string>
       <string>zeroinferior</string>
       <string>oneinferior</string>
       <string>twoinferior</string>
@@ -737,6 +726,16 @@
       <string>seveninferior</string>
       <string>eightinferior</string>
       <string>nineinferior</string>
+      <string>zero.dnom</string>
+      <string>one.dnom</string>
+      <string>two.dnom</string>
+      <string>three.dnom</string>
+      <string>four.dnom</string>
+      <string>five.dnom</string>
+      <string>six.dnom</string>
+      <string>seven.dnom</string>
+      <string>eight.dnom</string>
+      <string>nine.dnom</string>
       <string>zero.numr</string>
       <string>one.numr</string>
       <string>two.numr</string>
@@ -765,16 +764,6 @@
       <string>threeeighths</string>
       <string>fiveeighths</string>
       <string>seveneighths</string>
-      <string>CR</string>
-      <string>.notdef</string>
-      <string>.null</string>
-      <string>figurespace</string>
-      <string>hairspace</string>
-      <string>punctuationspace</string>
-      <string>space</string>
-      <string>nbspace</string>
-      <string>thinspace</string>
-      <string>zerowidthspace</string>
       <string>period</string>
       <string>comma</string>
       <string>colon</string>
@@ -792,21 +781,10 @@
       <string>backslash</string>
       <string>periodcentered.case</string>
       <string>bullet.case</string>
+      <string>periodcentered.loclCAT.case</string>
       <string>slash.case</string>
       <string>backslash.case</string>
       <string>periodcentered.loclCAT</string>
-      <string>periodcentered.loclCAT.case</string>
-      <string>hyphen</string>
-      <string>softhyphen</string>
-      <string>endash</string>
-      <string>emdash</string>
-      <string>figuredash</string>
-      <string>horizontalbar</string>
-      <string>hyphentwo</string>
-      <string>underscore</string>
-      <string>hyphen.case</string>
-      <string>endash.case</string>
-      <string>emdash.case</string>
       <string>parenleft</string>
       <string>parenright</string>
       <string>braceleft</string>
@@ -819,6 +797,17 @@
       <string>braceright.case</string>
       <string>bracketleft.case</string>
       <string>bracketright.case</string>
+      <string>hyphen</string>
+      <string>softhyphen</string>
+      <string>endash</string>
+      <string>emdash</string>
+      <string>figuredash</string>
+      <string>horizontalbar</string>
+      <string>hyphentwo</string>
+      <string>underscore</string>
+      <string>hyphen.case</string>
+      <string>endash.case</string>
+      <string>emdash.case</string>
       <string>quotesinglbase</string>
       <string>quotedblbase</string>
       <string>quotedblleft</string>
@@ -835,24 +824,16 @@
       <string>guillemetright.case</string>
       <string>guilsinglleft.case</string>
       <string>guilsinglright.case</string>
-      <string>florin</string>
-      <string>at</string>
-      <string>ampersand</string>
-      <string>paragraph</string>
-      <string>section</string>
-      <string>copyright</string>
-      <string>registered</string>
-      <string>trademark</string>
-      <string>degree</string>
-      <string>second</string>
-      <string>bar</string>
-      <string>brokenbar</string>
-      <string>dagger</string>
-      <string>literSign</string>
-      <string>daggerdbl</string>
-      <string>estimated</string>
-      <string>numero</string>
-      <string>at.case</string>
+      <string>figurespace</string>
+      <string>hairspace</string>
+      <string>punctuationspace</string>
+      <string>space</string>
+      <string>nbspace</string>
+      <string>thinspace</string>
+      <string>zerowidthspace</string>
+      <string>CR</string>
+      <string>.notdef</string>
+      <string>.null</string>
       <string>cedi</string>
       <string>cent</string>
       <string>colonsign</string>
@@ -860,6 +841,7 @@
       <string>dollar</string>
       <string>dong</string>
       <string>euro</string>
+      <string>florin</string>
       <string>franc</string>
       <string>guarani</string>
       <string>kip</string>
@@ -904,14 +886,29 @@
       <string>percent</string>
       <string>perthousand</string>
       <string>lozenge</string>
-      <string>brevecomb_acutecomb</string>
-      <string>brevecomb_gravecomb</string>
-      <string>brevecomb_hookabovecomb</string>
-      <string>brevecomb_tildecomb</string>
-      <string>circumflexcomb_acutecomb</string>
-      <string>circumflexcomb_gravecomb</string>
-      <string>circumflexcomb_hookabovecomb</string>
-      <string>circumflexcomb_tildecomb</string>
+      <string>at</string>
+      <string>ampersand</string>
+      <string>paragraph</string>
+      <string>section</string>
+      <string>copyright</string>
+      <string>registered</string>
+      <string>trademark</string>
+      <string>degree</string>
+      <string>second</string>
+      <string>bar</string>
+      <string>brokenbar</string>
+      <string>dagger</string>
+      <string>literSign</string>
+      <string>daggerdbl</string>
+      <string>estimated</string>
+      <string>numero</string>
+      <string>at.case</string>
+      <string>apostrophemod</string>
+      <string>commaturnedmod</string>
+      <string>ringhalfleft</string>
+      <string>ringhalfright</string>
+      <string>verticallinelowmod</string>
+      <string>verticallinemod</string>
       <string>dieresiscomb</string>
       <string>dieresiscomb_acutecomb</string>
       <string>dieresiscomb_macroncomb</string>
@@ -968,18 +965,11 @@
       <string>dotaccentcomb_macroncomb.case</string>
       <string>gravecomb.case</string>
       <string>acutecomb.case</string>
+      <string>acutecomb_dotaccentcomb.case</string>
       <string>hungarumlautcomb.case</string>
       <string>circumflexcomb.case</string>
-      <string>circumflexcomb_gravecomb.case</string>
-      <string>circumflexcomb_acutecomb.case</string>
-      <string>circumflexcomb_tildecomb.case</string>
-      <string>circumflexcomb_hookabovecomb.case</string>
       <string>caroncomb.case</string>
       <string>brevecomb.case</string>
-      <string>brevecomb_gravecomb.case</string>
-      <string>brevecomb_acutecomb.case</string>
-      <string>brevecomb_tildecomb.case</string>
-      <string>brevecomb_hookabovecomb.case</string>
       <string>ringcomb.case</string>
       <string>tildecomb.case</string>
       <string>tildecomb_dieresiscomb.case</string>
@@ -996,12 +986,22 @@
       <string>commaaccentcomb.case</string>
       <string>cedillacomb.case</string>
       <string>ogonekcomb.case</string>
-      <string>apostrophemod</string>
-      <string>commaturnedmod</string>
-      <string>ringhalfleft</string>
-      <string>ringhalfright</string>
-      <string>verticallinelowmod</string>
-      <string>verticallinemod</string>
+      <string>brevecomb_acutecomb</string>
+      <string>brevecomb_gravecomb</string>
+      <string>brevecomb_hookabovecomb</string>
+      <string>brevecomb_tildecomb</string>
+      <string>circumflexcomb_acutecomb</string>
+      <string>circumflexcomb_gravecomb</string>
+      <string>circumflexcomb_hookabovecomb</string>
+      <string>circumflexcomb_tildecomb</string>
+      <string>brevecomb_acutecomb.case</string>
+      <string>brevecomb_gravecomb.case</string>
+      <string>brevecomb_hookabovecomb.case</string>
+      <string>brevecomb_tildecomb.case</string>
+      <string>circumflexcomb_acutecomb.case</string>
+      <string>circumflexcomb_gravecomb.case</string>
+      <string>circumflexcomb_hookabovecomb.case</string>
+      <string>circumflexcomb_tildecomb.case</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -1311,6 +1311,8 @@
       <string>uni1EAB.ss01</string>
       <key>acutecomb_dotaccentcomb</key>
       <string>uni03010307</string>
+      <key>acutecomb_dotaccentcomb.case</key>
+      <string>uni03010307.case</string>
       <key>adblgrave</key>
       <string>uni0201</string>
       <key>adblgrave.ss01</key>
@@ -1786,6 +1788,13 @@
       <key>zerowidthspace</key>
       <string>uni200B</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array>
+      <string>Iacute_J.loclNLD</string>
+      <string>Jacute.loclNLD</string>
+      <string>iacute_j.loclNLD</string>
+      <string>jacute.loclNLD</string>
+    </array>
     <key>tnCurvePalette</key>
     <dict>
       <key>sliderBottomMax</key>

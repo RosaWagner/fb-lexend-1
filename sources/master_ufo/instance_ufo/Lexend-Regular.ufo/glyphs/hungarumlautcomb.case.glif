@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb.case" format="2">
-  <anchor x="186.20689655172413" y="700.0" name="_top"/>
-  <anchor x="250.3448275862069" y="840.1724137931035" name="top"/>
+  <anchor x="188.0" y="700.0" name="_top"/>
+  <anchor x="249.5" y="842.5" name="top"/>
   <outline>
     <contour>
-      <point x="95.41379310344828" y="749.7586206896551" type="line"/>
-      <point x="261.55172413793105" y="839.1724137931035" type="line"/>
-      <point x="220.13793103448276" y="898.8965517241379" type="line"/>
-      <point x="71.89655172413794" y="788.9655172413793" type="line"/>
+      <point x="95.0" y="753.5" type="line"/>
+      <point x="258.5" y="851.5" type="line"/>
+      <point x="208.0" y="913.5" type="line"/>
+      <point x="67.0" y="794.0" type="line"/>
     </contour>
     <contour>
-      <point x="262.3103448275862" y="749.7586206896551" type="line"/>
-      <point x="428.44827586206895" y="839.1724137931035" type="line"/>
-      <point x="387.0344827586207" y="898.8965517241379" type="line"/>
-      <point x="238.79310344827587" y="788.9655172413793" type="line"/>
+      <point x="269.5" y="753.5" type="line"/>
+      <point x="433.0" y="851.5" type="line"/>
+      <point x="382.5" y="913.5" type="line"/>
+      <point x="241.5" y="794.0" type="line"/>
     </contour>
   </outline>
   <lib>

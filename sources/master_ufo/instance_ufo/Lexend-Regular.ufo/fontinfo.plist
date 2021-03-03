@@ -54,10 +54,10 @@
     <array>
       <integer>-11</integer>
       <integer>0</integer>
-      <real>521.7241379310345</real>
-      <real>533.7241379310345</real>
+      <real>522.5</real>
+      <real>534.5</real>
       <integer>700</integer>
-      <real>711.6896551724138</real>
+      <integer>712</integer>
       <integer>740</integer>
       <integer>756</integer>
     </array>
@@ -83,6 +83,6 @@
     <key>versionMinor</key>
     <integer>3</integer>
     <key>xHeight</key>
-    <real>521.7241379310345</real>
+    <real>522.5</real>
   </dict>
 </plist>

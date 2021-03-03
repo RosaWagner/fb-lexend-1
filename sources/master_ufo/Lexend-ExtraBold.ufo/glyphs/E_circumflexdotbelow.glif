@@ -4,12 +4,12 @@
   <unicode hex="1EC6"/>
   <anchor x="334" y="-237" name="bottom"/>
   <anchor x="571" y="0" name="ogonek"/>
-  <anchor x="334" y="900" name="top"/>
+  <anchor x="354" y="900" name="top"/>
   <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="E"/>
     <component base="dotbelowcomb" xOffset="84"/>
-    <component base="circumflexcomb.case" xOffset="84"/>
+    <component base="circumflexcomb.case" xOffset="104"/>
   </outline>
   <lib>
     <dict>

@@ -10,8 +10,7 @@
   <anchor x="662" y="700" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="tildecomb.case" xOffset="308"/>
-    <component base="dieresiscomb.case" xOffset="309" yOffset="120"/>
+    <component base="tildecomb_dieresiscomb.case" xOffset="309"/>
   </outline>
   <lib>
     <dict>

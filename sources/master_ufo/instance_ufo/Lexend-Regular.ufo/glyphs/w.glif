@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w" format="2">
-  <advance width="762.6551724137931"/>
+  <advance width="771.5"/>
   <unicode hex="0077"/>
-  <anchor x="381.6551724137931" y="0.0" name="bottom"/>
-  <anchor x="381.6551724137931" y="521.7241379310345" name="top"/>
+  <anchor x="386.0" y="0.0" name="bottom"/>
+  <anchor x="386.0" y="522.5" name="top"/>
   <outline>
     <contour>
-      <point x="195.10344827586206" y="0.0" type="line"/>
-      <point x="233.65517241379308" y="0.0" type="line"/>
-      <point x="396.51724137931035" y="380.7931034482759" type="line"/>
-      <point x="365.0" y="381.82758620689657" type="line"/>
-      <point x="531.3103448275862" y="0.0" type="line"/>
-      <point x="568.2413793103449" y="0.0" type="line"/>
-      <point x="749.8275862068965" y="521.7241379310345" type="line"/>
-      <point x="677.9310344827586" y="521.7241379310345" type="line"/>
-      <point x="529.9310344827586" y="88.75862068965517" type="line"/>
-      <point x="560.2068965517242" y="90.75862068965517" type="line"/>
-      <point x="403.17241379310343" y="442.0" type="line"/>
-      <point x="362.13793103448273" y="442.0" type="line"/>
-      <point x="205.44827586206895" y="91.10344827586206" type="line"/>
-      <point x="231.06896551724137" y="89.10344827586206" type="line"/>
-      <point x="86.68965517241378" y="522.0689655172414" type="line"/>
-      <point x="12.82758620689655" y="521.7241379310345" type="line"/>
+      <point x="196.5" y="0.0" type="line"/>
+      <point x="242.5" y="0.0" type="line"/>
+      <point x="399.0" y="369.0" type="line"/>
+      <point x="369.5" y="370.5" type="line"/>
+      <point x="531.0" y="0.0" type="line"/>
+      <point x="576.0" y="0.0" type="line"/>
+      <point x="756.5" y="522.5" type="line"/>
+      <point x="677.0" y="522.5" type="line"/>
+      <point x="533.5" y="99.0" type="line"/>
+      <point x="563.0" y="101.0" type="line"/>
+      <point x="410.0" y="442.0" type="line"/>
+      <point x="364.0" y="442.0" type="line"/>
+      <point x="211.5" y="101.5" type="line"/>
+      <point x="236.5" y="99.5" type="line"/>
+      <point x="96.0" y="523.0" type="line"/>
+      <point x="15.0" y="522.5" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_ij" format="2">
-  <advance width="1202.896551724138"/>
-  <anchor x="200.58620689655172" y="0.0" name="bottom_1"/>
-  <anchor x="601.448275862069" y="0.0" name="bottom_2"/>
-  <anchor x="1002.3103448275862" y="0.0" name="bottom_3"/>
-  <anchor x="400.96541379310344" y="0.0" name="caret_1"/>
-  <anchor x="801.9311379310345" y="0.0" name="caret_2"/>
-  <anchor x="200.58620689655172" y="740.0" name="top_1"/>
-  <anchor x="601.448275862069" y="740.0" name="top_2"/>
-  <anchor x="1002.3103448275862" y="740.0" name="top_3"/>
-  <anchor x="890.2413793103448" y="0.0" name="ogonek"/>
+  <advance width="1233.0"/>
+  <anchor x="204.0" y="0.0" name="bottom_1"/>
+  <anchor x="612.0" y="0.0" name="bottom_2"/>
+  <anchor x="1020.0" y="0.0" name="bottom_3"/>
+  <anchor x="408.0" y="0.0" name="caret_1"/>
+  <anchor x="816.0" y="0.0" name="caret_2"/>
+  <anchor x="204.0" y="740.0" name="top_1"/>
+  <anchor x="612.0" y="740.0" name="top_2"/>
+  <anchor x="1020.0" y="740.0" name="top_3"/>
+  <anchor x="916.5" y="0.0" name="ogonek"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="374.0"/>
-    <component base="ij" xOffset="748.0"/>
+    <component base="f" xOffset="378.5"/>
+    <component base="ij" xOffset="757.0"/>
   </outline>
   <lib>
     <dict>
@@ -22,7 +22,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ij</string>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

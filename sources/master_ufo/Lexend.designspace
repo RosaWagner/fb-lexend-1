@@ -5,7 +5,7 @@
       <map input="100" output="22"/>
       <map input="200" output="34"/>
       <map input="300" output="50"/>
-      <map input="400" output="70"/>
+      <map input="400" output="79"/>
       <map input="500" output="108"/>
       <map input="600" output="144"/>
       <map input="700" output="160"/>
@@ -28,7 +28,7 @@
         <dimension name="Spacing" xvalue="100"/>
       </location>
     </source>
-    <source filename="Lexend-Light.ufo" name="Lexend Light" familyname="Lexend" stylename="Light">
+    <source filename="Lexend-LightItalic.ufo" name="Lexend Light Italic" familyname="Lexend" stylename="Light Italic">
       <location>
         <dimension name="Weight" xvalue="50"/>
         <dimension name="Width" xvalue="350"/>
@@ -117,7 +117,7 @@
     </instance>
     <instance name="Lexend Regular" familyname="Lexend" stylename="Regular" filename="instance_ufo/Lexend-Regular.ufo" stylemapfamilyname="Lexend" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="70"/>
+        <dimension name="Weight" xvalue="79"/>
         <dimension name="Width" xvalue="350"/>
         <dimension name="Spacing" xvalue="100"/>
       </location>
@@ -135,7 +135,7 @@
     </instance>
     <instance name="Lexend Bold" familyname="Lexend" stylename="Bold" filename="instance_ufo/Lexend-Bold.ufo" stylemapfamilyname="Lexend" stylemapstylename="bold">
       <location>
-        <dimension name="Weight" xvalue="160"/>
+        <dimension name="Weight" xvalue="180"/>
         <dimension name="Width" xvalue="350"/>
         <dimension name="Spacing" xvalue="100"/>
       </location>
@@ -152,4 +152,15 @@
       <info/>
     </instance>
   </instances>
+  <lib>
+    <dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>Iacute_J.loclNLD</string>
+        <string>Jacute.loclNLD</string>
+        <string>iacute_j.loclNLD</string>
+        <string>jacute.loclNLD</string>
+      </array>
+    </dict>
+  </lib>
 </designspace>

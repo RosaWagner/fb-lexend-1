@@ -4,12 +4,11 @@
   <unicode hex="1E16"/>
   <anchor x="293" y="0" name="bottom"/>
   <anchor x="471" y="0" name="ogonek"/>
-  <anchor x="313" y="970" name="top"/>
+  <anchor x="343" y="970" name="top"/>
   <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="macroncomb.case" xOffset="43"/>
-    <component base="acutecomb.case" xOffset="63" yOffset="135"/>
+    <component base="macroncomb_acutecomb.case" xOffset="73"/>
   </outline>
   <lib>
     <dict>

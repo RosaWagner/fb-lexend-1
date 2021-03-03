@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ldot" format="2">
-  <advance width="331"/>
+  <advance width="523"/>
   <unicode hex="0140"/>
   <anchor x="262" y="0" name="bottom"/>
   <anchor x="262" y="370" name="center"/>
@@ -8,7 +8,7 @@
   <anchor x="338" y="740" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="periodcentered.case" xOffset="180"/>
+    <component base="periodcentered.case" xOffset="283"/>
   </outline>
   <lib>
     <dict>
@@ -23,6 +23,8 @@
           <string>l</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

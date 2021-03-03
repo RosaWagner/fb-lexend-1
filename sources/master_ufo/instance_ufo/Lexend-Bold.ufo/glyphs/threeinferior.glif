@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threeinferior" format="2">
-  <advance width="353.55555555555554"/>
+  <advance width="358.0"/>
   <unicode hex="2083"/>
   <outline>
     <component base="three.dnom" yOffset="-190.0"/>

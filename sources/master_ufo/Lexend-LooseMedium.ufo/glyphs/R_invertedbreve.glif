@@ -3,10 +3,10 @@
   <advance width="881"/>
   <unicode hex="0212"/>
   <anchor x="432" y="0" name="bottom"/>
-  <anchor x="432" y="850" name="top"/>
+  <anchor x="402" y="850" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="breveinvertedcomb.case" xOffset="182"/>
+    <component base="breveinvertedcomb.case" xOffset="152"/>
   </outline>
   <lib>
     <dict>

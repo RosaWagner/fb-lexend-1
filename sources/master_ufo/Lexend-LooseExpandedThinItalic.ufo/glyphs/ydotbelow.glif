@@ -2,11 +2,11 @@
 <glyph name="ydotbelow" format="2">
   <advance width="863"/>
   <unicode hex="1EF5"/>
-  <anchor x="432" y="-134" name="bottom"/>
+  <anchor x="567" y="-134" name="bottom"/>
   <anchor x="432" y="525" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="dotbelowcomb" xOffset="182"/>
+    <component base="dotbelowcomb" xOffset="317"/>
   </outline>
   <lib>
     <dict>

@@ -2,11 +2,11 @@
 <glyph name="rlinebelow" format="2">
   <advance width="781"/>
   <unicode hex="1E5F"/>
-  <anchor x="410" y="-178" name="bottom"/>
-  <anchor x="410" y="525" name="top"/>
+  <anchor x="273" y="-178" name="bottom"/>
+  <anchor x="450" y="525" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="macronbelowcomb" xOffset="159"/>
+    <component base="macronbelowcomb" xOffset="22"/>
   </outline>
   <lib>
     <dict>

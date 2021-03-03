@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhornacute" format="2">
-  <advance width="635.8148148148148"/>
+  <advance width="647.6666666666666"/>
   <unicode hex="1EE9"/>
-  <anchor x="318.4074074074074" y="0.0" name="bottom"/>
-  <anchor x="318.4074074074074" y="724.074074074074" name="top"/>
+  <anchor x="324.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="324.3333333333333" y="743.3333333333334" name="top"/>
   <outline>
     <component base="uhorn"/>
-    <component base="acutecomb" xOffset="68.4074074074074" yOffset="4.814814814814815"/>
+    <component base="acutecomb" xOffset="74.33333333333333" yOffset="6.666666666666666"/>
   </outline>
   <lib>
     <dict>

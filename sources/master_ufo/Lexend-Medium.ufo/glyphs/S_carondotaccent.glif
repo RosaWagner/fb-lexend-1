@@ -2,12 +2,12 @@
 <glyph name="Scarondotaccent" format="2">
   <advance width="624"/>
   <unicode hex="1E66"/>
-  <anchor x="312" y="0" name="bottom"/>
-  <anchor x="312" y="1000" name="top"/>
+  <anchor x="332" y="0" name="bottom"/>
+  <anchor x="332" y="1000" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="caroncomb.case" xOffset="62"/>
-    <component base="dotaccentcomb.case" xOffset="62" yOffset="150"/>
+    <component base="caroncomb.case" xOffset="82"/>
+    <component base="dotaccentcomb.case" xOffset="82" yOffset="150"/>
   </outline>
   <lib>
     <dict>

@@ -8,9 +8,9 @@
   <anchor x="251" y="525" name="top_2"/>
   <outline>
     <component base="idotless"/>
-    <component base="acutecomb" xOffset="-169"/>
+    <component base="acutecomb" xOffset="-149"/>
     <component base="jdotless" xOffset="162"/>
-    <component base="acutecomb" xOffset="1"/>
+    <component base="acutecomb" xOffset="21"/>
   </outline>
   <lib>
     <dict>

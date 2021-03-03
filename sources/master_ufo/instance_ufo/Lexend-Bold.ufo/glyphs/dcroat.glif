@@ -1,19 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcroat" format="2">
-  <advance width="650.8518518518518"/>
+  <advance width="657.3333333333334"/>
   <unicode hex="0111"/>
-  <anchor x="325.6666666666667" y="0.0" name="bottom"/>
-  <anchor x="483.14814814814815" y="634.0" name="center"/>
-  <anchor x="325.6666666666667" y="740.0" name="top"/>
-  <anchor x="615.6666666666666" y="740.0" name="topright"/>
+  <anchor x="476.6666666666667" y="634.0" name="_center"/>
+  <anchor x="329.0" y="0.0" name="bottom"/>
+  <anchor x="476.6666666666667" y="634.0" name="center"/>
+  <anchor x="329.0" y="740.0" name="top"/>
+  <anchor x="624.0" y="740.0" name="topright"/>
   <outline>
+    <contour>
+      <point x="309.3333333333333" y="572.3333333333334" type="line"/>
+      <point x="644.0" y="572.3333333333334" type="line"/>
+      <point x="644.0" y="695.6666666666666" type="line"/>
+      <point x="309.3333333333333" y="695.6666666666666" type="line"/>
+    </contour>
     <component base="d"/>
-    <component base="strokeshortcomb" xOffset="233.14814814814815" yOffset="340.4074074074074"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,17 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb_dieresiscomb" format="2">
-  <anchor x="250.0" y="525.0" name="_top"/>
-  <anchor x="250.0" y="913.5185185185185" name="top"/>
+  <anchor x="250.66666666666666" y="525.0" name="_top"/>
+  <anchor x="250.66666666666666" y="931.6666666666666" name="top"/>
   <outline>
-    <component base="macroncomb"/>
-    <component base="dieresiscomb" xOffset="-0.48148148148148145" yOffset="194.25925925925927"/>
+    <component base="macroncomb" xOffset="0.6666666666666666"/>
+    <component base="dieresiscomb" yOffset="188.33333333333331"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresiscomb</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>500</integer>
       <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

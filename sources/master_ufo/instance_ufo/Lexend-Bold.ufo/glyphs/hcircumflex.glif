@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hcircumflex" format="2">
-  <advance width="628.7037037037037"/>
+  <advance width="641.6666666666666"/>
   <unicode hex="0125"/>
-  <anchor x="314.85185185185185" y="0.0" name="bottom"/>
-  <anchor x="171.03703703703704" y="637.5185185185185" name="center"/>
-  <anchor x="314.85185185185185" y="914.074074074074" name="top"/>
+  <anchor x="321.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="180.66666666666666" y="637.3333333333334" name="center"/>
+  <anchor x="321.3333333333333" y="923.3333333333334" name="top"/>
   <outline>
     <component base="h"/>
-    <component base="circumflexcomb.case" xOffset="64.33333333333333" yOffset="40.0"/>
+    <component base="circumflexcomb.case" xOffset="71.0" yOffset="40.0"/>
   </outline>
   <lib>
     <dict>

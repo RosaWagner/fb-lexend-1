@@ -2,12 +2,12 @@
 <glyph name="idotbelow" format="2">
   <advance width="422"/>
   <unicode hex="1ECB"/>
-  <anchor x="115" y="-134" name="bottom"/>
+  <anchor x="209" y="-134" name="bottom"/>
   <anchor x="220" y="0" name="ogonek"/>
   <anchor x="209" y="690" name="top"/>
   <outline>
     <component base="i"/>
-    <component base="dotbelowcomb" xOffset="-135"/>
+    <component base="dotbelowcomb" xOffset="-41"/>
   </outline>
   <lib>
     <dict>

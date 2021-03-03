@@ -5,21 +5,21 @@
   <outline>
     <contour>
       <point x="114.0" y="0.0" type="line"/>
-      <point x="178.13793103448276" y="0.0" type="line"/>
-      <point x="178.13793103448276" y="470.1034482758621" type="line"/>
-      <point x="165.13793103448276" y="457.1034482758621" type="line"/>
-      <point x="448.48275862068965" y="457.1034482758621" type="line"/>
-      <point x="435.86206896551727" y="478.3448275862069" type="line"/>
-      <point x="435.86206896551727" y="0.0" type="line"/>
+      <point x="184.5" y="0.0" type="line"/>
+      <point x="184.5" y="462.5" type="line"/>
+      <point x="171.5" y="449.5" type="line"/>
+      <point x="441.5" y="449.5" type="line"/>
+      <point x="429.5" y="474.0" type="line"/>
+      <point x="429.5" y="0.0" type="line"/>
       <point x="500.0" y="0.0" type="line"/>
-      <point x="500.0" y="484.51724137931035" type="line"/>
-      <point x="485.7586206896552" y="457.1034482758621" type="line"/>
-      <point x="574.0" y="457.1034482758621" type="line"/>
-      <point x="574.0" y="522.0689655172414" type="line"/>
-      <point x="40.0" y="522.0689655172414" type="line"/>
-      <point x="40.0" y="457.1034482758621" type="line"/>
-      <point x="131.0" y="457.1034482758621" type="line"/>
-      <point x="114.0" y="497.62068965517244" type="line"/>
+      <point x="500.0" y="473.5" type="line"/>
+      <point x="487.0" y="449.5" type="line"/>
+      <point x="574.0" y="449.5" type="line"/>
+      <point x="574.0" y="523.0" type="line"/>
+      <point x="40.0" y="523.0" type="line"/>
+      <point x="40.0" y="449.5" type="line"/>
+      <point x="131.0" y="449.5" type="line"/>
+      <point x="114.0" y="492.5" type="line"/>
     </contour>
   </outline>
   <lib>

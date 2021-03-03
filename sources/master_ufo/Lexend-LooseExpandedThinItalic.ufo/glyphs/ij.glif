@@ -2,7 +2,7 @@
 <glyph name="ij" format="2">
   <advance width="982"/>
   <unicode hex="0133"/>
-  <anchor x="115" y="0" name="bottom_1"/>
+  <anchor x="209" y="0" name="bottom_1"/>
   <anchor x="759" y="-230" name="bottom_2"/>
   <anchor x="220" y="0" name="ogonek"/>
   <anchor x="209" y="690" name="top_1"/>

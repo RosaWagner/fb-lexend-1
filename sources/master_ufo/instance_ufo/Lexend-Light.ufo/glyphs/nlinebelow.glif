@@ -3,7 +3,7 @@
   <advance width="558"/>
   <unicode hex="1E49"/>
   <anchor x="279" y="-145" name="bottom"/>
-  <anchor x="279" y="520" name="top"/>
+  <anchor x="309" y="520" name="top"/>
   <outline>
     <component base="n"/>
     <component base="macronbelowcomb" xOffset="29"/>

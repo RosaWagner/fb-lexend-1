@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="peso" format="2">
-  <advance width="784.5172413793103"/>
+  <advance width="787.0"/>
   <unicode hex="20B1"/>
-  <anchor x="393.86206896551727" y="0.0" name="bottom"/>
-  <anchor x="393.86206896551727" y="700.0" name="top"/>
+  <anchor x="396.5" y="0.0" name="bottom"/>
+  <anchor x="396.5" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="94.06896551724138" y="521.1034482758621" type="line"/>
-      <point x="203.48275862068965" y="521.1034482758621" type="line"/>
-      <point x="228.82758620689654" y="523.8620689655172" type="line"/>
-      <point x="586.551724137931" y="523.8620689655172" type="line"/>
-      <point x="610.1034482758621" y="521.1034482758621" type="line"/>
-      <point x="715.9655172413793" y="521.1034482758621" type="line"/>
-      <point x="715.9655172413793" y="577.3793103448276" type="line"/>
-      <point x="608.3793103448276" y="577.3793103448276" type="line"/>
-      <point x="577.2758620689655" y="572.551724137931" type="line"/>
-      <point x="221.9655172413793" y="572.551724137931" type="line"/>
-      <point x="204.55172413793105" y="577.3793103448276" type="line"/>
-      <point x="94.06896551724138" y="577.3793103448276" type="line"/>
+      <point x="95.0" y="518.0" type="line"/>
+      <point x="205.5" y="518.0" type="line"/>
+      <point x="231.0" y="522.0" type="line"/>
+      <point x="580.5" y="522.0" type="line"/>
+      <point x="607.0" y="518.0" type="line"/>
+      <point x="720.0" y="518.0" type="line"/>
+      <point x="720.0" y="578.0" type="line"/>
+      <point x="604.5" y="578.0" type="line"/>
+      <point x="572.0" y="571.0" type="line"/>
+      <point x="226.0" y="571.0" type="line"/>
+      <point x="207.5" y="578.0" type="line"/>
+      <point x="95.0" y="578.0" type="line"/>
     </contour>
     <contour>
-      <point x="94.06896551724138" y="402.17241379310343" type="line"/>
-      <point x="207.06896551724137" y="402.17241379310343" type="line"/>
-      <point x="230.41379310344828" y="407.0" type="line"/>
-      <point x="578.0" y="407.0" type="line"/>
-      <point x="600.8275862068965" y="402.17241379310343" type="line"/>
-      <point x="715.9655172413793" y="402.17241379310343" type="line"/>
-      <point x="715.9655172413793" y="459.13793103448273" type="line"/>
-      <point x="615.0" y="459.13793103448273" type="line"/>
-      <point x="582.6206896551724" y="455.6896551724138" type="line"/>
-      <point x="235.68965517241378" y="455.6896551724138" type="line"/>
-      <point x="206.79310344827587" y="459.13793103448273" type="line"/>
-      <point x="94.06896551724138" y="459.13793103448273" type="line"/>
+      <point x="95.0" y="400.0" type="line"/>
+      <point x="208.0" y="400.0" type="line"/>
+      <point x="231.5" y="407.0" type="line"/>
+      <point x="573.5" y="407.0" type="line"/>
+      <point x="598.5" y="400.0" type="line"/>
+      <point x="720.0" y="400.0" type="line"/>
+      <point x="720.0" y="461.0" type="line"/>
+      <point x="610.5" y="461.0" type="line"/>
+      <point x="577.5" y="456.0" type="line"/>
+      <point x="236.0" y="456.0" type="line"/>
+      <point x="208.5" y="461.0" type="line"/>
+      <point x="95.0" y="461.0" type="line"/>
     </contour>
-    <component base="P" xOffset="84.06896551724138"/>
+    <component base="P" xOffset="85.0"/>
   </outline>
   <lib>
     <dict>

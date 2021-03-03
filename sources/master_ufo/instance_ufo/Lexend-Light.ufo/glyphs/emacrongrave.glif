@@ -2,12 +2,12 @@
 <glyph name="emacrongrave" format="2">
   <advance width="540"/>
   <unicode hex="1E15"/>
-  <anchor x="270" y="0" name="bottom"/>
+  <anchor x="290" y="0" name="bottom"/>
   <anchor x="440" y="0" name="ogonek"/>
-  <anchor x="270" y="685" name="top"/>
+  <anchor x="282" y="685" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="macroncomb_gravecomb" xOffset="20" yOffset="-5"/>
+    <component base="macroncomb_gravecomb" xOffset="32" yOffset="-5"/>
   </outline>
   <lib>
     <dict>

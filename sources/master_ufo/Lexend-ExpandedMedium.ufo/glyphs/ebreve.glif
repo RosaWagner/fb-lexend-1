@@ -2,12 +2,12 @@
 <glyph name="ebreve" format="2">
   <advance width="746"/>
   <unicode hex="0115"/>
-  <anchor x="373" y="0" name="bottom"/>
+  <anchor x="401" y="0" name="bottom"/>
   <anchor x="631" y="0" name="ogonek"/>
-  <anchor x="373" y="700" name="top"/>
+  <anchor x="388" y="710" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="brevecomb" xOffset="123"/>
+    <component base="brevecomb" xOffset="138"/>
   </outline>
   <lib>
     <dict>

@@ -4,11 +4,11 @@
   <unicode hex="0214"/>
   <anchor x="372" y="0" name="bottom"/>
   <anchor x="523" y="-6" name="ogonek"/>
-  <anchor x="332" y="820" name="top"/>
+  <anchor x="300" y="820" name="top"/>
   <anchor x="724" y="700" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="dblgravecomb.case" xOffset="83"/>
+    <component base="dblgravecomb.case" xOffset="51"/>
   </outline>
   <lib>
     <dict>

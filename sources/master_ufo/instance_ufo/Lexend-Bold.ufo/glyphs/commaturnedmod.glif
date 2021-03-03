@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaturnedmod" format="2">
-  <advance width="270.3703703703704"/>
+  <advance width="281.6666666666667"/>
   <unicode hex="02BB"/>
   <outline>
     <component base="quoteleft"/>
@@ -23,7 +23,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>quoteleft</string>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

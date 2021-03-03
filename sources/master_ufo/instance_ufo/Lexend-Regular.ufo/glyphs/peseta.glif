@@ -2,16 +2,16 @@
 <glyph name="peseta" format="2">
   <advance width="791.0"/>
   <unicode hex="20A7"/>
-  <anchor x="389.13793103448273" y="0.0" name="bottom"/>
-  <anchor x="389.13793103448273" y="700.0" name="top"/>
+  <anchor x="391.0" y="0.0" name="bottom"/>
+  <anchor x="391.0" y="700.0" name="top"/>
   <outline>
     <contour>
-      <point x="94.06896551724138" y="448.7586206896552" type="line"/>
-      <point x="722.448275862069" y="448.7586206896552" type="line"/>
-      <point x="722.448275862069" y="512.9310344827586" type="line"/>
-      <point x="94.06896551724138" y="512.9310344827586" type="line"/>
+      <point x="95.0" y="445.5" type="line"/>
+      <point x="724.0" y="445.5" type="line"/>
+      <point x="724.0" y="516.5" type="line"/>
+      <point x="95.0" y="516.5" type="line"/>
     </contour>
-    <component base="P" xOffset="79.34482758620689"/>
+    <component base="P" xOffset="79.5"/>
   </outline>
   <lib>
     <dict>

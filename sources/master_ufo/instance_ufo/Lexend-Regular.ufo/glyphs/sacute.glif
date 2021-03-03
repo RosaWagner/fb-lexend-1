@@ -2,11 +2,11 @@
 <glyph name="sacute" format="2">
   <advance width="479.0"/>
   <unicode hex="015B"/>
-  <anchor x="240.0" y="0.0" name="bottom"/>
-  <anchor x="239.3448275862069" y="690.1724137931035" name="top"/>
+  <anchor x="246.0" y="0.0" name="bottom"/>
+  <anchor x="244.5" y="702.5" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="acutecomb" xOffset="-10.655172413793103" yOffset="-3.275862068965518"/>
+    <component base="acutecomb" xOffset="-5.5" yOffset="-2.5"/>
   </outline>
   <lib>
     <dict>

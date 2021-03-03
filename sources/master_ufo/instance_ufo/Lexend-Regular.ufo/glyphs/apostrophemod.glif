@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="apostrophemod" format="2">
-  <advance width="197.13793103448276"/>
+  <advance width="199.0"/>
   <unicode hex="02BC"/>
   <outline>
     <component base="quotesingle"/>

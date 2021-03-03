@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblgravecomb" format="2">
   <unicode hex="030F"/>
-  <anchor x="275.55555555555554" y="525.0" name="_top"/>
-  <anchor x="247.14814814814815" y="719.2592592592592" name="top"/>
+  <anchor x="311.6666666666667" y="525.0" name="_top"/>
+  <anchor x="250.33333333333334" y="736.6666666666666" name="top"/>
   <outline>
     <contour>
-      <point x="407.0" y="575.2962962962963" type="line"/>
-      <point x="468.9259259259259" y="623.4074074074074" type="line"/>
-      <point x="326.8888888888889" y="791.2592592592592" type="line"/>
-      <point x="236.85185185185185" y="707.3333333333334" type="line"/>
+      <point x="406.6666666666667" y="577.3333333333334" type="line"/>
+      <point x="479.3333333333333" y="624.3333333333334" type="line"/>
+      <point x="337.6666666666667" y="808.6666666666666" type="line"/>
+      <point x="238.0" y="724.0" type="line"/>
     </contour>
     <contour>
-      <point x="202.7037037037037" y="577.7037037037037" type="line"/>
-      <point x="261.74074074074076" y="628.7037037037037" type="line"/>
-      <point x="111.03703703703704" y="790.7777777777778" type="line"/>
-      <point x="24.851851851851855" y="702.0370370370371" type="line"/>
+      <point x="200.33333333333334" y="580.6666666666666" type="line"/>
+      <point x="269.0" y="631.6666666666666" type="line"/>
+      <point x="115.33333333333333" y="808.0" type="line"/>
+      <point x="21.0" y="716.6666666666666" type="line"/>
     </contour>
   </outline>
   <lib>

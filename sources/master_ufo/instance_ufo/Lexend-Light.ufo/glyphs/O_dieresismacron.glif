@@ -10,8 +10,7 @@
   <anchor x="767" y="700" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb.case" xOffset="144"/>
-    <component base="macroncomb.case" xOffset="144" yOffset="135"/>
+    <component base="dieresiscomb_macroncomb.case" xOffset="144"/>
   </outline>
   <lib>
     <dict>

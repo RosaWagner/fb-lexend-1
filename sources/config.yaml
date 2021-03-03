@@ -2,3 +2,6 @@
       - Lexend.glyphs
     familyName: Lexend
     buildVariable: False
+    buildOTF: False
+    buildWebfont: False
+    cleanUp: False

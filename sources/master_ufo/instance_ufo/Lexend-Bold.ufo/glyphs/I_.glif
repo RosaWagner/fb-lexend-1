@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I" format="2">
-  <advance width="542.5185185185185"/>
+  <advance width="567.3333333333334"/>
   <unicode hex="0049"/>
-  <anchor x="271.25925925925924" y="0.0" name="bottom"/>
-  <anchor x="388.25925925925924" y="0.0" name="ogonek"/>
-  <anchor x="271.25925925925924" y="700.0" name="top"/>
+  <anchor x="283.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="405.6666666666667" y="0.0" name="ogonek"/>
+  <anchor x="283.6666666666667" y="700.0" name="top"/>
   <anchor x="20.0" y="700.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="73.44444444444444" y="0.0" type="line"/>
-      <point x="469.0740740740741" y="0.0" type="line"/>
-      <point x="469.0740740740741" y="136.11111111111111" type="line"/>
-      <point x="351.25925925925924" y="136.11111111111111" type="line"/>
-      <point x="351.25925925925924" y="563.8888888888889" type="line"/>
-      <point x="469.0740740740741" y="563.8888888888889" type="line"/>
-      <point x="469.0740740740741" y="700.0" type="line"/>
-      <point x="73.44444444444444" y="700.0" type="line"/>
-      <point x="73.44444444444444" y="563.8888888888889" type="line"/>
-      <point x="191.25925925925927" y="563.8888888888889" type="line"/>
-      <point x="191.25925925925927" y="136.11111111111111" type="line"/>
-      <point x="73.44444444444444" y="136.11111111111111" type="line"/>
+      <point x="74.0" y="0.0" type="line"/>
+      <point x="493.3333333333333" y="0.0" type="line"/>
+      <point x="493.3333333333333" y="150.0" type="line"/>
+      <point x="373.66666666666663" y="150.0" type="line"/>
+      <point x="373.66666666666663" y="550.0" type="line"/>
+      <point x="493.3333333333333" y="550.0" type="line"/>
+      <point x="493.3333333333333" y="700.0" type="line"/>
+      <point x="74.0" y="700.0" type="line"/>
+      <point x="74.0" y="550.0" type="line"/>
+      <point x="193.66666666666666" y="550.0" type="line"/>
+      <point x="193.66666666666666" y="150.0" type="line"/>
+      <point x="74.0" y="150.0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb_acutecomb.case" format="2">
-  <anchor x="251.0" y="700.0" name="_top"/>
-  <anchor x="256.18518518518516" y="1048.148148148148" name="top"/>
+  <anchor x="250.0" y="700.0" name="_top"/>
+  <anchor x="253.33333333333334" y="1066.6666666666667" name="top"/>
   <outline>
-    <component base="macroncomb.case"/>
-    <component base="acutecomb.case" xOffset="9.407407407407408" yOffset="174.07407407407408"/>
+    <component base="macroncomb.case" xOffset="-1.0"/>
+    <component base="acutecomb.case" xOffset="4.333333333333334" yOffset="183.33333333333331"/>
   </outline>
   <lib>
     <dict>

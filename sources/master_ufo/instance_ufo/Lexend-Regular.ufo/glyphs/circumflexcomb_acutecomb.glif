@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_acutecomb" format="2">
-  <anchor x="229.68965517241378" y="521.7241379310345" name="_top"/>
-  <anchor x="230.0344827586207" y="780.0" name="top"/>
+  <anchor x="193.0" y="525.0" name="_top"/>
+  <anchor x="193.5" y="790.0" name="top"/>
   <outline>
     <contour>
-      <point x="115.58620689655172" y="597.6551724137931" type="line"/>
-      <point x="245.3448275862069" y="686.3793103448276" type="line"/>
-      <point x="215.3448275862069" y="686.3793103448276" type="line"/>
-      <point x="345.1034482758621" y="597.6551724137931" type="line"/>
-      <point x="376.55172413793105" y="625.4137931034483" type="line"/>
-      <point x="265.48275862068965" y="730.551724137931" type="line"/>
-      <point x="195.20689655172413" y="730.551724137931" type="line"/>
-      <point x="84.13793103448276" y="625.4137931034483" type="line"/>
+      <point x="77.5" y="607.5" type="line"/>
+      <point x="208.5" y="692.5" type="line"/>
+      <point x="178.5" y="692.5" type="line"/>
+      <point x="309.5" y="607.5" type="line"/>
+      <point x="342.5" y="636.5" type="line"/>
+      <point x="230.5" y="743.5" type="line"/>
+      <point x="156.5" y="743.5" type="line"/>
+      <point x="44.5" y="636.5" type="line"/>
     </contour>
     <contour>
-      <point x="350.41379310344826" y="714.2758620689655" type="line"/>
-      <point x="451.0344827586207" y="831.0" type="line"/>
-      <point x="395.0" y="870.9655172413793" type="line"/>
-      <point x="312.17241379310343" y="739.7931034482758" type="line"/>
+      <point x="351.0" y="735.5" type="line"/>
+      <point x="455.5" y="853.0" type="line"/>
+      <point x="384.5" y="901.5" type="line"/>
+      <point x="309.5" y="763.5" type="line"/>
     </contour>
   </outline>
   <lib>

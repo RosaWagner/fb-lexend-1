@@ -10,7 +10,7 @@
   <anchor x="940" y="700" name="topright"/>
   <outline>
     <component base="Oslash"/>
-    <component base="acutecomb.case" xOffset="229"/>
+    <component base="acutecomb.case" xOffset="238"/>
   </outline>
   <lib>
     <dict>

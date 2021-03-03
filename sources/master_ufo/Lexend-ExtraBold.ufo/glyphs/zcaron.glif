@@ -4,7 +4,7 @@
   <unicode hex="017E"/>
   <anchor x="300" y="0" name="bottom"/>
   <anchor x="300" y="268" name="center"/>
-  <anchor x="300" y="750" name="top"/>
+  <anchor x="300" y="760" name="top"/>
   <outline>
     <component base="z"/>
     <component base="caroncomb" xOffset="50" yOffset="10"/>

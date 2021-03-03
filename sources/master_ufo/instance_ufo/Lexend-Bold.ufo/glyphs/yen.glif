@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yen" format="2">
-  <advance width="684.074074074074"/>
+  <advance width="693.3333333333334"/>
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="271.55555555555554" y="0.0" type="line"/>
-      <point x="432.51851851851853" y="0.0" type="line"/>
-      <point x="432.51851851851853" y="357.0" type="line"/>
-      <point x="417.51851851851853" y="289.0" type="line"/>
-      <point x="688.5185185185185" y="700.0" type="line"/>
-      <point x="511.55555555555554" y="700.0" type="line"/>
-      <point x="316.55555555555554" y="393.0" type="line"/>
-      <point x="394.51851851851853" y="390.0" type="line"/>
-      <point x="178.51851851851853" y="700.0" type="line"/>
-      <point x="-4.444444444444443" y="700.0" type="line"/>
-      <point x="278.55555555555554" y="300.0" type="line"/>
-      <point x="271.55555555555554" y="349.0" type="line"/>
+      <point x="266.0" y="0.0" type="line"/>
+      <point x="447.3333333333333" y="0.0" type="line"/>
+      <point x="447.3333333333333" y="357.0" type="line"/>
+      <point x="432.3333333333333" y="289.0" type="line"/>
+      <point x="703.3333333333334" y="700.0" type="line"/>
+      <point x="506.0" y="700.0" type="line"/>
+      <point x="311.0" y="393.0" type="line"/>
+      <point x="409.3333333333333" y="390.0" type="line"/>
+      <point x="193.33333333333331" y="700.0" type="line"/>
+      <point x="-10.0" y="700.0" type="line"/>
+      <point x="273.0" y="300.0" type="line"/>
+      <point x="266.0" y="349.0" type="line"/>
     </contour>
     <contour>
-      <point x="356.25925925925924" y="116.88888888888889" type="line"/>
-      <point x="573.8888888888889" y="161.4814814814815" type="line"/>
-      <point x="360.25925925925924" y="191.40740740740742" type="line"/>
-      <point x="142.62962962962962" y="146.8148148148148" type="line"/>
+      <point x="141.33333333333334" y="128.66666666666666" type="line"/>
+      <point x="580.0" y="128.0" type="line"/>
+      <point x="580.0" y="196.66666666666666" type="line"/>
+      <point x="141.33333333333334" y="197.33333333333334" type="line"/>
     </contour>
     <contour>
-      <point x="356.25925925925924" y="242.44444444444446" type="line"/>
-      <point x="573.8888888888889" y="287.03703703703707" type="line"/>
-      <point x="360.25925925925924" y="316.962962962963" type="line"/>
-      <point x="142.62962962962962" y="272.3703703703704" type="line"/>
+      <point x="141.33333333333334" y="248.66666666666666" type="line"/>
+      <point x="580.0" y="248.0" type="line"/>
+      <point x="580.0" y="316.6666666666667" type="line"/>
+      <point x="141.33333333333334" y="317.3333333333333" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nacute" format="2">
-  <advance width="804.5555555555555"/>
+  <advance width="809.0"/>
   <unicode hex="0143"/>
-  <anchor x="402.77777777777777" y="0.0" name="bottom"/>
-  <anchor x="407.962962962963" y="874.074074074074" name="top"/>
+  <anchor x="405.0" y="0.0" name="bottom"/>
+  <anchor x="408.3333333333333" y="883.3333333333334" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="acutecomb.case" xOffset="161.1851851851852"/>
+    <component base="acutecomb.case" xOffset="159.33333333333334"/>
   </outline>
   <lib>
     <dict>

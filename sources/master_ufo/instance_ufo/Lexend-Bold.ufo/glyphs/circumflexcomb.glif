@@ -2,17 +2,17 @@
 <glyph name="circumflexcomb" format="2">
   <unicode hex="0302"/>
   <anchor x="250.0" y="525.0" name="_top"/>
-  <anchor x="250.0" y="719.2592592592592" name="top"/>
+  <anchor x="250.0" y="736.6666666666666" name="top"/>
   <outline>
     <contour>
-      <point x="117.96296296296296" y="586.8888888888889" type="line"/>
-      <point x="265.0" y="670.9629629629629" type="line"/>
-      <point x="235.0" y="670.9629629629629" type="line"/>
-      <point x="382.037037037037" y="586.8888888888889" type="line"/>
-      <point x="436.4074074074074" y="633.8518518518518" type="line"/>
-      <point x="296.85185185185185" y="760.8148148148148" type="line"/>
-      <point x="203.14814814814815" y="760.8148148148148" type="line"/>
-      <point x="63.592592592592595" y="633.8518518518518" type="line"/>
+      <point x="113.33333333333334" y="593.0" type="line"/>
+      <point x="265.0" y="681.3333333333334" type="line"/>
+      <point x="235.0" y="681.3333333333334" type="line"/>
+      <point x="386.6666666666667" y="593.0" type="line"/>
+      <point x="447.3333333333333" y="645.3333333333334" type="line"/>
+      <point x="298.3333333333333" y="777.6666666666666" type="line"/>
+      <point x="201.66666666666666" y="777.6666666666666" type="line"/>
+      <point x="52.66666666666667" y="645.3333333333334" type="line"/>
     </contour>
   </outline>
   <lib>

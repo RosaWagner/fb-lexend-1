@@ -6,7 +6,7 @@
   <anchor x="357" y="835" name="top"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="gravecomb.case" xOffset="107"/>
+    <component base="gravecomb.case" xOffset="108"/>
   </outline>
   <lib>
     <dict>

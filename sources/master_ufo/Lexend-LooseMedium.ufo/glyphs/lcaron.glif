@@ -8,7 +8,7 @@
   <anchor x="338" y="740" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="caroncomb.alt" xOffset="290" yOffset="53"/>
+    <component base="caroncomb.alt" xOffset="182" yOffset="53"/>
   </outline>
   <lib>
     <dict>

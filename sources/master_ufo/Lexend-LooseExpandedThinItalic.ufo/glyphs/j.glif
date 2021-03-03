@@ -5,13 +5,37 @@
   <anchor x="337" y="-230" name="bottom"/>
   <anchor x="337" y="690" name="top"/>
   <outline>
-    <component base="jdotless"/>
-    <component base="dotaccentcomb" xOffset="87"/>
+    <contour>
+      <point x="144" y="-194" type="line"/>
+      <point x="261" y="-189"/>
+      <point x="350" y="-101"/>
+      <point x="350" y="70" type="curve" smooth="yes"/>
+      <point x="350" y="525" type="line"/>
+      <point x="328" y="525" type="line"/>
+      <point x="328" y="74" type="line" smooth="yes"/>
+      <point x="328" y="-69"/>
+      <point x="265" y="-157"/>
+      <point x="140" y="-172" type="curve"/>
+    </contour>
+    <contour>
+      <point x="338" y="663" type="curve" smooth="yes"/>
+      <point x="357" y="663"/>
+      <point x="366" y="675"/>
+      <point x="366" y="692" type="curve" smooth="yes"/>
+      <point x="366" y="709"/>
+      <point x="355" y="721"/>
+      <point x="338" y="721" type="curve" smooth="yes"/>
+      <point x="319" y="721"/>
+      <point x="310" y="708"/>
+      <point x="310" y="692" type="curve" smooth="yes"/>
+      <point x="310" y="675"/>
+      <point x="319" y="663"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

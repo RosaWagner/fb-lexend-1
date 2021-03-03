@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb_acutecomb" format="2">
   <anchor x="250.0" y="525.0" name="_top"/>
-  <anchor x="250.0" y="719.2592592592592" name="top"/>
+  <anchor x="250.0" y="726.6666666666666" name="top"/>
   <outline>
     <contour>
-      <point x="86.33333333333334" y="625.2592592592592" type="line"/>
-      <point x="413.6666666666667" y="625.2592592592592" type="line"/>
-      <point x="413.6666666666667" y="721.925925925926" type="line"/>
-      <point x="86.33333333333334" y="721.925925925926" type="line"/>
+      <point x="78.0" y="622.6666666666666" type="line"/>
+      <point x="422.0" y="622.6666666666666" type="line"/>
+      <point x="422.0" y="727.6666666666666" type="line"/>
+      <point x="78.0" y="727.6666666666666" type="line"/>
     </contour>
     <contour>
-      <point x="255.2962962962963" y="757.1111111111111" type="line"/>
-      <point x="380.96296296296293" y="891.074074074074" type="line"/>
-      <point x="283.74074074074076" y="961.074074074074" type="line"/>
-      <point x="190.2962962962963" y="799.8518518518518" type="line"/>
+      <point x="257.3333333333333" y="774.3333333333334" type="line"/>
+      <point x="386.3333333333333" y="913.6666666666666" type="line"/>
+      <point x="281.3333333333333" y="988.6666666666666" type="line"/>
+      <point x="187.33333333333334" y="819.6666666666666" type="line"/>
     </contour>
   </outline>
   <lib>

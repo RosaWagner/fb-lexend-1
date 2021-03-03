@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ohookabove" format="2">
-  <advance width="807.0370370370371"/>
+  <advance width="816.6666666666666"/>
   <unicode hex="1ECE"/>
-  <anchor x="403.51851851851853" y="0.0" name="bottom"/>
-  <anchor x="403.51851851851853" y="350.0" name="center"/>
-  <anchor x="653.5185185185185" y="4.814814814814815" name="ogonek"/>
-  <anchor x="403.51851851851853" y="874.074074074074" name="top"/>
+  <anchor x="408.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="408.3333333333333" y="350.0" name="center"/>
+  <anchor x="688.3333333333334" y="6.666666666666666" name="ogonek"/>
+  <anchor x="408.3333333333333" y="883.3333333333334" name="top"/>
   <anchor x="20.0" y="700.0" name="topleft"/>
-  <anchor x="787.0370370370371" y="700.0" name="topright"/>
+  <anchor x="796.6666666666666" y="700.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="hookabovecomb.case" xOffset="148.33333333333334"/>
+    <component base="hookabovecomb.case" xOffset="158.0"/>
   </outline>
   <lib>
     <dict>

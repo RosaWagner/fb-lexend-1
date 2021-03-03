@@ -5,12 +5,12 @@
   <anchor x="455" y="-230" name="bottom_2"/>
   <anchor x="244" y="0" name="ogonek"/>
   <anchor x="162" y="535" name="top_1"/>
-  <anchor x="455" y="535" name="top_2"/>
+  <anchor x="466" y="535" name="top_2"/>
   <outline>
     <component base="idotless"/>
     <component base="acutecomb" xOffset="-88" yOffset="10"/>
     <component base="jdotless" xOffset="323"/>
-    <component base="acutecomb" xOffset="205" yOffset="10"/>
+    <component base="acutecomb" xOffset="216" yOffset="10"/>
   </outline>
   <lib>
     <dict>

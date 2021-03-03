@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breve" format="2">
-  <advance width="377.1034482758621"/>
+  <advance width="383.0"/>
   <unicode hex="02D8"/>
   <outline>
     <component base="brevecomb"/>

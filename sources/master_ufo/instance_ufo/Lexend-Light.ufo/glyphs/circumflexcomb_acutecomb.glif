@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_acutecomb" format="2">
-  <anchor x="219" y="520" name="_top"/>
-  <anchor x="219" y="780" name="top"/>
+  <anchor x="199" y="525" name="_top"/>
+  <anchor x="199" y="790" name="top"/>
   <outline>
     <contour>
-      <point x="108" y="598" type="line"/>
-      <point x="235" y="695" type="line"/>
-      <point x="205" y="695" type="line"/>
-      <point x="332" y="598" type="line"/>
-      <point x="360" y="623" type="line"/>
-      <point x="251" y="724" type="line"/>
-      <point x="189" y="724" type="line"/>
-      <point x="80" y="623" type="line"/>
+      <point x="88" y="608" type="line"/>
+      <point x="215" y="705" type="line"/>
+      <point x="185" y="705" type="line"/>
+      <point x="312" y="608" type="line"/>
+      <point x="340" y="633" type="line"/>
+      <point x="231" y="734" type="line"/>
+      <point x="169" y="734" type="line"/>
+      <point x="60" y="633" type="line"/>
     </contour>
     <contour>
-      <point x="328" y="716" type="line"/>
-      <point x="420" y="831" type="line"/>
-      <point x="375" y="862" type="line"/>
-      <point x="297" y="736" type="line"/>
+      <point x="348" y="726" type="line"/>
+      <point x="440" y="841" type="line"/>
+      <point x="385" y="876" type="line"/>
+      <point x="317" y="746" type="line"/>
     </contour>
   </outline>
   <lib>

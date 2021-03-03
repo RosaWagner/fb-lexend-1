@@ -5,12 +5,12 @@
   <anchor x="479" y="0" name="bottom"/>
   <anchor x="479" y="350" name="center"/>
   <anchor x="566" y="0" name="ogonek"/>
-  <anchor x="439" y="820" name="top"/>
+  <anchor x="409" y="820" name="top"/>
   <anchor x="100" y="700" name="topleft"/>
   <anchor x="858" y="700" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dblgravecomb.case" xOffset="190"/>
+    <component base="dblgravecomb.case" xOffset="160"/>
   </outline>
   <lib>
     <dict>

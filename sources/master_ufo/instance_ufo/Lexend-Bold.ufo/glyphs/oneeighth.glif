@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oneeighth" format="2">
-  <advance width="841.1111111111111"/>
+  <advance width="860.0"/>
   <unicode hex="215B"/>
   <outline>
-    <component base="one.numr" xOffset="30.814814814814813"/>
-    <component base="fraction" xOffset="96.25925925925927"/>
-    <component base="eight.dnom" xOffset="462.25925925925924"/>
+    <component base="one.numr" xOffset="37.666666666666664"/>
+    <component base="fraction" xOffset="108.66666666666666"/>
+    <component base="eight.dnom" xOffset="474.6666666666667"/>
   </outline>
   <lib>
     <dict>

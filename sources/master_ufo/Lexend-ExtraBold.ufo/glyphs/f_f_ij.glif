@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_ij" format="2">
-  <advance width="1372"/>
+  <advance width="1515"/>
   <anchor x="229" y="0" name="bottom_1"/>
   <anchor x="686" y="0" name="bottom_2"/>
   <anchor x="1143" y="0" name="bottom_3"/>
@@ -9,7 +9,7 @@
   <anchor x="229" y="740" name="top_1"/>
   <anchor x="686" y="740" name="top_2"/>
   <anchor x="1143" y="740" name="top_3"/>
-  <anchor x="1030" y="0" name="ogonek"/>
+  <anchor x="1047" y="0" name="ogonek"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="393"/>
@@ -22,7 +22,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ij</string>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,11 +2,11 @@
 <glyph name="Sdotaccent" format="2">
   <advance width="727"/>
   <unicode hex="1E60"/>
-  <anchor x="364" y="0" name="bottom"/>
-  <anchor x="364" y="820" name="top"/>
+  <anchor x="394" y="0" name="bottom"/>
+  <anchor x="374" y="820" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="dotaccentcomb.case" xOffset="114"/>
+    <component base="dotaccentcomb.case" xOffset="124"/>
   </outline>
   <lib>
     <dict>

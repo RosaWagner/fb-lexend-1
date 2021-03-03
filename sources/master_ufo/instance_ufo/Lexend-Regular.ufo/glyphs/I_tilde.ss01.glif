@@ -2,12 +2,12 @@
 <glyph name="Itilde.ss01" format="2">
   <advance width="308.0"/>
   <anchor x="154.0" y="0.0" name="bottom"/>
-  <anchor x="188.3448275862069" y="0.0" name="ogonek"/>
-  <anchor x="154.0" y="840.1724137931035" name="top"/>
+  <anchor x="193.0" y="0.0" name="ogonek"/>
+  <anchor x="154.0" y="842.5" name="top"/>
   <anchor x="20.0" y="700.0" name="topleft"/>
   <outline>
     <component base="I.ss01"/>
-    <component base="tildecomb.case" xOffset="-96.34482758620689"/>
+    <component base="tildecomb.case" xOffset="-96.5"/>
   </outline>
   <lib>
     <dict>

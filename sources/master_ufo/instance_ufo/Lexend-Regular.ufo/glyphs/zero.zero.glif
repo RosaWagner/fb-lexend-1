@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.zero" format="2">
-  <advance width="612.8965517241379"/>
+  <advance width="611.5"/>
   <outline>
     <component base="zero"/>
-    <component base="periodcentered" xOffset="195.89655172413794" yOffset="37.51724137931035"/>
+    <component base="periodcentered" xOffset="194.5" yOffset="35.5"/>
   </outline>
   <lib>
     <dict>

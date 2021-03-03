@@ -5,11 +5,11 @@
   <anchor x="561.333" y="0" name="caret_2"/>
   <anchor x="170" y="0" name="bottom_1"/>
   <anchor x="510" y="0" name="bottom_2"/>
-  <anchor x="829" y="0" name="bottom_3"/>
+  <anchor x="761" y="0" name="bottom_3"/>
   <anchor x="772" y="0" name="ogonek"/>
   <anchor x="170" y="740" name="top_1"/>
   <anchor x="510" y="740" name="top_2"/>
-  <anchor x="761" y="680" name="top_3"/>
+  <anchor x="761" y="690" name="top_3"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="340"/>
@@ -22,7 +22,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>i</string>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

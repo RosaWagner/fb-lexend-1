@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb_macroncomb" format="2">
   <anchor x="250" y="525" name="_top"/>
-  <anchor x="250" y="875" name="top"/>
+  <anchor x="250" y="895" name="top"/>
   <outline>
     <component base="dotaccentcomb"/>
-    <component base="macroncomb" yOffset="175"/>
+    <component base="macroncomb" yOffset="185"/>
   </outline>
   <lib>
     <dict>

@@ -3,10 +3,10 @@
   <advance width="599"/>
   <unicode hex="0135"/>
   <anchor x="338" y="-230" name="bottom"/>
-  <anchor x="338" y="700" name="top"/>
+  <anchor x="341" y="710" name="top"/>
   <outline>
     <component base="jdotless"/>
-    <component base="circumflexcomb" xOffset="88"/>
+    <component base="circumflexcomb" xOffset="91"/>
   </outline>
   <lib>
     <dict>

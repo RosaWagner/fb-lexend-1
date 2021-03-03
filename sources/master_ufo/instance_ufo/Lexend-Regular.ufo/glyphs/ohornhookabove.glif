@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohornhookabove" format="2">
-  <advance width="604.5172413793103"/>
+  <advance width="607.0"/>
   <unicode hex="1EDF"/>
-  <anchor x="302.7586206896552" y="0.0" name="bottom"/>
-  <anchor x="302.7586206896552" y="690.1724137931035" name="top"/>
+  <anchor x="304.0" y="0.0" name="bottom"/>
+  <anchor x="304.0" y="702.5" name="top"/>
   <outline>
     <component base="ohorn"/>
-    <component base="hookabovecomb" xOffset="49.96551724137931" yOffset="-3.275862068965518"/>
+    <component base="hookabovecomb" xOffset="53.5" yOffset="-2.5"/>
   </outline>
   <lib>
     <dict>

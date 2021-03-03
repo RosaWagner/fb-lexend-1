@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uacute" format="2">
-  <advance width="761.1851851851852"/>
+  <advance width="769.3333333333334"/>
   <unicode hex="00DA"/>
-  <anchor x="380.5925925925926" y="0.0" name="bottom"/>
-  <anchor x="561.6666666666666" y="0.0" name="ogonek"/>
-  <anchor x="385.77777777777777" y="874.074074074074" name="top"/>
-  <anchor x="741.1851851851852" y="700.0" name="topright"/>
+  <anchor x="384.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="570.0" y="0.0" name="ogonek"/>
+  <anchor x="388.0" y="883.3333333333334" name="top"/>
+  <anchor x="749.3333333333334" y="700.0" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="acutecomb.case" xOffset="139.0"/>

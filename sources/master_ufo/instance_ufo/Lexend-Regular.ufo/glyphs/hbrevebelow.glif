@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbrevebelow" format="2">
-  <advance width="570.7586206896551"/>
+  <advance width="576.5"/>
   <unicode hex="1E2B"/>
-  <anchor x="285.55172413793105" y="-211.72413793103448" name="bottom"/>
-  <anchor x="132.89655172413794" y="638.0" name="center"/>
-  <anchor x="285.55172413793105" y="740.0" name="top"/>
+  <anchor x="288.5" y="-217.0" name="bottom"/>
+  <anchor x="136.0" y="638.0" name="center"/>
+  <anchor x="288.5" y="740.0" name="top"/>
   <outline>
     <component base="h"/>
-    <component base="brevebelowcomb" xOffset="80.10344827586206"/>
+    <component base="brevebelowcomb" xOffset="38.5"/>
   </outline>
   <lib>
     <dict>

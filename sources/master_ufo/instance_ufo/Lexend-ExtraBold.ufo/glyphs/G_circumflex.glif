@@ -3,10 +3,10 @@
   <advance width="793"/>
   <unicode hex="011C"/>
   <anchor x="397" y="0" name="bottom"/>
-  <anchor x="397" y="900" name="top"/>
+  <anchor x="418" y="900" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="circumflexcomb.case" xOffset="147"/>
+    <component base="circumflexcomb.case" xOffset="168"/>
   </outline>
   <lib>
     <dict>

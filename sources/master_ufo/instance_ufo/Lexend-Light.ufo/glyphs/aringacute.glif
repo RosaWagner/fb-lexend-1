@@ -4,11 +4,11 @@
   <unicode hex="01FB"/>
   <anchor x="304" y="0" name="bottom"/>
   <anchor x="534" y="0" name="ogonek"/>
-  <anchor x="302" y="850" name="top"/>
+  <anchor x="312" y="907" name="top"/>
   <outline>
     <component base="a"/>
     <component base="ringcomb" xOffset="53" yOffset="-5"/>
-    <component base="acutecomb" xOffset="52" yOffset="160"/>
+    <component base="acutecomb" xOffset="62" yOffset="207"/>
   </outline>
   <lib>
     <dict>

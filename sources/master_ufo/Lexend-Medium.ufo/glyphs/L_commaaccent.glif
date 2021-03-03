@@ -8,7 +8,7 @@
   <anchor x="293" y="700" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="commaaccentcomb.case" xOffset="23"/>
+    <component base="commaaccentcomb.case" xOffset="50"/>
   </outline>
   <lib>
     <dict>

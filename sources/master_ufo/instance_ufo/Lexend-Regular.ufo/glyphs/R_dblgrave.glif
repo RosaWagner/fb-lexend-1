@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rdblgrave" format="2">
-  <advance width="650.448275862069"/>
+  <advance width="661.0"/>
   <unicode hex="0210"/>
-  <anchor x="325.7241379310345" y="0.0" name="bottom"/>
-  <anchor x="281.58620689655174" y="840.1724137931035" name="top"/>
+  <anchor x="331.0" y="0.0" name="bottom"/>
+  <anchor x="257.5" y="842.5" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="dblgravecomb.case" xOffset="31.586206896551722"/>
+    <component base="dblgravecomb.case" xOffset="7.5"/>
   </outline>
   <lib>
     <dict>

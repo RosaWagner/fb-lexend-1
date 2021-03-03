@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash" format="2">
-  <advance width="262.82758620689657"/>
+  <advance width="260.5"/>
   <unicode hex="0142"/>
-  <anchor x="129.89655172413794" y="0.0" name="bottom"/>
-  <anchor x="129.89655172413794" y="370.0" name="center"/>
-  <anchor x="129.89655172413794" y="740.0" name="top"/>
-  <anchor x="190.17241379310346" y="740.0" name="topright"/>
+  <anchor x="128.5" y="0.0" name="bottom"/>
+  <anchor x="128.5" y="370.0" name="center"/>
+  <anchor x="128.5" y="740.0" name="top"/>
+  <anchor x="192.5" y="740.0" name="topright"/>
   <outline>
     <contour>
-      <point x="22.482758620689655" y="288.7241379310345" type="line"/>
-      <point x="263.2068965517241" y="394.0" type="line"/>
-      <point x="239.0" y="447.6896551724138" type="line"/>
-      <point x="-1.0344827586206895" y="343.44827586206895" type="line"/>
+      <point x="24.5" y="289.5" type="line"/>
+      <point x="261.5" y="394.0" type="line"/>
+      <point x="234.5" y="452.5" type="line"/>
+      <point x="-1.5" y="349.5" type="line"/>
     </contour>
-    <component base="l" xOffset="20.931034482758623"/>
+    <component base="l" xOffset="15.5"/>
   </outline>
   <lib>
     <dict>

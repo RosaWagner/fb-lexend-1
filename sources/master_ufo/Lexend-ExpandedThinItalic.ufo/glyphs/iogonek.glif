@@ -8,7 +8,7 @@
   <outline>
     <component base="idotless"/>
     <component base="dotaccentcomb" xOffset="-169"/>
-    <component base="ogonekcomb" xOffset="-222"/>
+    <component base="ogonekcomb" xOffset="-223"/>
   </outline>
   <lib>
     <dict>

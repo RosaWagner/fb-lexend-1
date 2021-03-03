@@ -2,11 +2,11 @@
 <glyph name="ccaron" format="2">
   <advance width="871"/>
   <unicode hex="010D"/>
-  <anchor x="428" y="0" name="bottom"/>
-  <anchor x="428" y="690" name="top"/>
+  <anchor x="466" y="0" name="bottom"/>
+  <anchor x="465" y="690" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="caroncomb" xOffset="178"/>
+    <component base="caroncomb" xOffset="215"/>
   </outline>
   <lib>
     <dict>

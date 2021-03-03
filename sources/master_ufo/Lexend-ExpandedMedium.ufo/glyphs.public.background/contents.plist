@@ -4,6 +4,8 @@
   <dict>
     <key>acutecomb_dotaccentcomb</key>
     <string>acutecomb_dotaccentcomb.glif</string>
+    <key>acutecomb_dotaccentcomb.case</key>
+    <string>acutecomb_dotaccentcomb.case.glif</string>
     <key>question</key>
     <string>question.glif</string>
     <key>section</key>

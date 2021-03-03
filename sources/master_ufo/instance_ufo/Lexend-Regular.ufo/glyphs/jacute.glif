@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jacute" format="2">
-  <advance width="240.06896551724137"/>
-  <anchor x="120.20689655172414" y="-230.0" name="bottom"/>
-  <anchor x="119.55172413793103" y="690.1724137931035" name="top"/>
+  <advance width="245.5"/>
+  <anchor x="123.0" y="-230.0" name="bottom"/>
+  <anchor x="137.5" y="702.5" name="top"/>
   <outline>
     <component base="jdotless"/>
-    <component base="acutecomb" xOffset="-130.44827586206895" yOffset="-3.275862068965518"/>
+    <component base="acutecomb" xOffset="-112.5" yOffset="-2.5"/>
   </outline>
   <lib>
     <dict>

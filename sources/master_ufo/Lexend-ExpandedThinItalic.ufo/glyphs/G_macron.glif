@@ -3,10 +3,10 @@
   <advance width="926"/>
   <unicode hex="1E20"/>
   <anchor x="463" y="0" name="bottom"/>
-  <anchor x="463" y="820" name="top"/>
+  <anchor x="483" y="820" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="macroncomb.case" xOffset="213"/>
+    <component base="macroncomb.case" xOffset="233"/>
   </outline>
   <lib>
     <dict>

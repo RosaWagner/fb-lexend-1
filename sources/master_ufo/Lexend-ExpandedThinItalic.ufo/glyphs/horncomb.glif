@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horncomb" format="2">
   <unicode hex="031B"/>
-  <anchor x="213" y="525" name="_topright"/>
-  <anchor x="341" y="624" name="topright"/>
+  <anchor x="196" y="525" name="_topright"/>
+  <anchor x="324" y="624" name="topright"/>
   <outline>
     <contour>
-      <point x="213" y="504" type="line"/>
-      <point x="294" y="506"/>
-      <point x="321" y="544"/>
-      <point x="321" y="624" type="curve"/>
-      <point x="300" y="624" type="line"/>
-      <point x="300" y="546"/>
-      <point x="269" y="525"/>
-      <point x="213" y="525" type="curve"/>
+      <point x="196" y="504" type="line"/>
+      <point x="277" y="506"/>
+      <point x="304" y="544"/>
+      <point x="304" y="624" type="curve"/>
+      <point x="283" y="624" type="line"/>
+      <point x="283" y="546"/>
+      <point x="252" y="525"/>
+      <point x="196" y="525" type="curve"/>
     </contour>
   </outline>
   <lib>

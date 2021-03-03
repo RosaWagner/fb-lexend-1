@@ -1,14 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bracketright" format="2">
-  <advance width="403"/>
+  <advance width="507"/>
   <unicode hex="005D"/>
   <outline>
-    <component base="bracketleft" xScale="-1" yScale="-1" xOffset="403" yOffset="510"/>
+    <contour>
+      <point x="100" y="-190" type="line"/>
+      <point x="357" y="-190" type="line"/>
+      <point x="357" y="700" type="line"/>
+      <point x="100" y="700" type="line"/>
+      <point x="100" y="621" type="line"/>
+      <point x="274" y="621" type="line"/>
+      <point x="264" y="633" type="line"/>
+      <point x="264" y="-119" type="line"/>
+      <point x="270" y="-111" type="line"/>
+      <point x="100" y="-111" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

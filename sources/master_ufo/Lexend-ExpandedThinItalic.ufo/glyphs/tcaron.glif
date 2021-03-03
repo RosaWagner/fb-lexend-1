@@ -4,11 +4,11 @@
   <unicode hex="0165"/>
   <anchor x="245" y="0" name="bottom"/>
   <anchor x="245" y="263" name="center"/>
-  <anchor x="245" y="525" name="top"/>
+  <anchor x="246" y="612" name="top"/>
   <anchor x="332" y="740" name="topright"/>
   <outline>
     <component base="t"/>
-    <component base="caroncomb.alt" xOffset="246" yOffset="24"/>
+    <component base="caroncomb.alt" xOffset="133" yOffset="24"/>
   </outline>
   <lib>
     <dict>

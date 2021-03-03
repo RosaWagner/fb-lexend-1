@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ndotaccent" format="2">
-  <advance width="785.1379310344828"/>
+  <advance width="787.0"/>
   <unicode hex="1E44"/>
-  <anchor x="393.0689655172414" y="0.0" name="bottom"/>
-  <anchor x="393.0689655172414" y="840.1724137931035" name="top"/>
+  <anchor x="394.0" y="0.0" name="bottom"/>
+  <anchor x="394.0" y="842.5" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="dotaccentcomb.case" xOffset="143.06896551724137"/>
+    <component base="dotaccentcomb.case" xOffset="144.0"/>
   </outline>
   <lib>
     <dict>

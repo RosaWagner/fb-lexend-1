@@ -157,8 +157,6 @@
     </dict>
     <key>comma</key>
     <dict>
-      <key>j</key>
-      <integer>2</integer>
       <key>public.kern2.T</key>
       <integer>-100</integer>
       <key>public.kern2.V</key>
@@ -444,7 +442,7 @@
       <key>public.kern2.A</key>
       <integer>-60</integer>
       <key>public.kern2.AE</key>
-      <real>-110.37037037037037</real>
+      <real>-106.66666666666667</real>
       <key>public.kern2.C</key>
       <integer>-9</integer>
       <key>public.kern2.J</key>
@@ -733,7 +731,7 @@
       <key>public.kern2.A</key>
       <integer>-50</integer>
       <key>public.kern2.AE</key>
-      <real>-114.81481481481481</real>
+      <real>-116.66666666666667</real>
       <key>public.kern2.C</key>
       <integer>-30</integer>
       <key>public.kern2.J</key>
@@ -810,7 +808,7 @@
       <key>public.kern2.A</key>
       <integer>-75</integer>
       <key>public.kern2.AE</key>
-      <real>-129.62962962962962</real>
+      <real>-133.33333333333334</real>
       <key>public.kern2.C</key>
       <integer>-30</integer>
       <key>public.kern2.J</key>
@@ -1105,9 +1103,9 @@
     <key>public.kern1.caron</key>
     <dict>
       <key>public.kern2.H</key>
-      <real>127.4074074074074</real>
+      <real>153.33333333333331</real>
       <key>public.kern2.b</key>
-      <real>142.96296296296296</real>
+      <real>163.33333333333331</real>
     </dict>
     <key>public.kern1.comma</key>
     <dict>
@@ -1683,11 +1681,6 @@
       <key>v</key>
       <integer>-9</integer>
     </dict>
-    <key>quotedblbase</key>
-    <dict>
-      <key>j</key>
-      <integer>2</integer>
-    </dict>
     <key>quotedblright</key>
     <dict>
       <key>public.kern2.A</key>
@@ -1714,11 +1707,6 @@
       <integer>-60</integer>
       <key>public.kern2.J</key>
       <integer>-120</integer>
-    </dict>
-    <key>quotesinglbase</key>
-    <dict>
-      <key>j</key>
-      <integer>2</integer>
     </dict>
     <key>seven</key>
     <dict>

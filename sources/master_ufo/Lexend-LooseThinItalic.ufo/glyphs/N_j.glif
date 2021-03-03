@@ -5,7 +5,7 @@
   <anchor x="450" y="0" name="bottom_1"/>
   <anchor x="1160" y="-230" name="bottom_2"/>
   <anchor x="450" y="700" name="top_1"/>
-  <anchor x="1160" y="680" name="top_2"/>
+  <anchor x="1160" y="690" name="top_2"/>
   <outline>
     <component base="N"/>
     <component base="j" xOffset="899"/>

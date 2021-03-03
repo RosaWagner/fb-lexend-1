@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb_macroncomb" format="2">
   <anchor x="250" y="525" name="_top"/>
-  <anchor x="250" y="835" name="top"/>
+  <anchor x="250" y="855" name="top"/>
   <outline>
     <component base="tildecomb"/>
-    <component base="macroncomb" yOffset="155"/>
+    <component base="macroncomb" yOffset="165"/>
   </outline>
   <lib>
     <dict>

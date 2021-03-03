@@ -2,11 +2,11 @@
 <glyph name="Cacute" format="2">
   <advance width="992"/>
   <unicode hex="0106"/>
-  <anchor x="491" y="0" name="bottom"/>
-  <anchor x="491" y="820" name="top"/>
+  <anchor x="551" y="0" name="bottom"/>
+  <anchor x="559" y="820" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="acutecomb.case" xOffset="240"/>
+    <component base="acutecomb.case" xOffset="308"/>
   </outline>
   <lib>
     <dict>

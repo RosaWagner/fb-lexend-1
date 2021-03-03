@@ -4,11 +4,11 @@
   <unicode hex="1E97"/>
   <anchor x="342" y="0" name="bottom"/>
   <anchor x="342" y="263" name="center"/>
-  <anchor x="342" y="690" name="top"/>
+  <anchor x="341" y="777" name="top"/>
   <anchor x="429" y="740" name="topright"/>
   <outline>
     <component base="t"/>
-    <component base="dieresiscomb" xOffset="92"/>
+    <component base="dieresiscomb" xOffset="91" yOffset="87"/>
   </outline>
   <lib>
     <dict>

@@ -8,7 +8,7 @@
   <anchor x="733" y="700" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="hookabovecomb.case" xOffset="128"/>
+    <component base="hookabovecomb.case" xOffset="127"/>
   </outline>
   <lib>
     <dict>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb.case" format="2">
-  <anchor x="250.5185185185185" y="700.0" name="_top"/>
-  <anchor x="250.5185185185185" y="874.074074074074" name="top"/>
+  <anchor x="250.33333333333334" y="700.0" name="_top"/>
+  <anchor x="250.33333333333334" y="883.3333333333334" name="top"/>
   <outline>
     <contour>
-      <point x="119.77777777777777" y="754.0370370370371" type="line"/>
-      <point x="265.0" y="824.3333333333334" type="line"/>
-      <point x="235.5185185185185" y="824.3333333333334" type="line"/>
-      <point x="380.74074074074076" y="754.0370370370371" type="line"/>
-      <point x="427.85185185185185" y="807.3333333333334" type="line"/>
-      <point x="293.74074074074076" y="913.1481481481482" type="line"/>
-      <point x="206.77777777777777" y="913.1481481481482" type="line"/>
-      <point x="72.66666666666667" y="807.3333333333334" type="line"/>
+      <point x="117.0" y="753.6666666666666" type="line"/>
+      <point x="265.0" y="826.0" type="line"/>
+      <point x="235.33333333333334" y="826.0" type="line"/>
+      <point x="383.3333333333333" y="753.6666666666666" type="line"/>
+      <point x="434.3333333333333" y="814.0" type="line"/>
+      <point x="296.3333333333333" y="921.6666666666666" type="line"/>
+      <point x="204.0" y="921.6666666666666" type="line"/>
+      <point x="66.0" y="814.0" type="line"/>
     </contour>
   </outline>
   <lib>

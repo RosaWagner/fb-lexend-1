@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb_macroncomb" format="2">
-  <anchor x="251" y="525" name="_top"/>
-  <anchor x="250" y="855" name="top"/>
+  <anchor x="250" y="525" name="_top"/>
+  <anchor x="249" y="875" name="top"/>
   <outline>
-    <component base="dieresiscomb"/>
-    <component base="macroncomb" yOffset="165"/>
+    <component base="dieresiscomb" xOffset="-1"/>
+    <component base="macroncomb" xOffset="-1" yOffset="175"/>
   </outline>
   <lib>
     <dict>

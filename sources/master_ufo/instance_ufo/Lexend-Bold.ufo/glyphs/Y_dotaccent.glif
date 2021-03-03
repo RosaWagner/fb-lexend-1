@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ydotaccent" format="2">
-  <advance width="684.074074074074"/>
+  <advance width="693.3333333333334"/>
   <unicode hex="1E8E"/>
-  <anchor x="342.037037037037" y="0.0" name="bottom"/>
-  <anchor x="342.037037037037" y="874.074074074074" name="top"/>
+  <anchor x="346.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="346.6666666666667" y="883.3333333333334" name="top"/>
   <anchor x="20.0" y="700.0" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="dotaccentcomb.case" xOffset="92.03703703703704"/>
+    <component base="dotaccentcomb.case" xOffset="96.66666666666666"/>
   </outline>
   <lib>
     <dict>

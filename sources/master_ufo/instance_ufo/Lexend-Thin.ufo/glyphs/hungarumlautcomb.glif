@@ -2,19 +2,19 @@
 <glyph name="hungarumlautcomb" format="2">
   <unicode hex="030B"/>
   <anchor x="250" y="525" name="_top"/>
-  <anchor x="250" y="680" name="top"/>
+  <anchor x="250" y="690" name="top"/>
   <outline>
     <contour>
-      <point x="243" y="601" type="line"/>
-      <point x="387" y="705" type="line"/>
-      <point x="373" y="726" type="line"/>
-      <point x="233" y="616" type="line"/>
+      <point x="243" y="611" type="line"/>
+      <point x="387" y="715" type="line"/>
+      <point x="373" y="736" type="line"/>
+      <point x="233" y="626" type="line"/>
     </contour>
     <contour>
-      <point x="123" y="601" type="line"/>
-      <point x="267" y="705" type="line"/>
-      <point x="253" y="726" type="line"/>
-      <point x="113" y="616" type="line"/>
+      <point x="123" y="611" type="line"/>
+      <point x="267" y="715" type="line"/>
+      <point x="253" y="736" type="line"/>
+      <point x="113" y="626" type="line"/>
     </contour>
   </outline>
   <lib>

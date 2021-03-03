@@ -2,12 +2,12 @@
 <glyph name="ccedillaacute" format="2">
   <advance width="535"/>
   <unicode hex="1E09"/>
-  <anchor x="268" y="-244" name="bottom"/>
-  <anchor x="268" y="700" name="top"/>
+  <anchor x="296" y="-244" name="bottom"/>
+  <anchor x="295" y="710" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb" xOffset="17"/>
-    <component base="acutecomb" xOffset="18"/>
+    <component base="cedillacomb" xOffset="45"/>
+    <component base="acutecomb" xOffset="45"/>
   </outline>
   <lib>
     <dict>

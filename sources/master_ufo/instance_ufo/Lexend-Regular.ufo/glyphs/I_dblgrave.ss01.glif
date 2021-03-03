@@ -2,12 +2,12 @@
 <glyph name="Idblgrave.ss01" format="2">
   <advance width="308.0"/>
   <anchor x="154.0" y="0.0" name="bottom"/>
-  <anchor x="188.3448275862069" y="0.0" name="ogonek"/>
-  <anchor x="109.86206896551724" y="840.1724137931035" name="top"/>
+  <anchor x="193.0" y="0.0" name="ogonek"/>
+  <anchor x="100.5" y="842.5" name="top"/>
   <anchor x="20.0" y="700.0" name="topleft"/>
   <outline>
     <component base="I.ss01"/>
-    <component base="dblgravecomb.case" xOffset="-140.13793103448276"/>
+    <component base="dblgravecomb.case" xOffset="-149.5"/>
   </outline>
   <lib>
     <dict>
