@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="2">
+  <advance width="870"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="336.0" y="0.0" type="line"/>
+      <point x="554.0" y="0.0" type="line"/>
+      <point x="554.0" y="321.0" type="line"/>
+      <point x="549.0" y="263.0" type="line"/>
+      <point x="890.0" y="700.0" type="line"/>
+      <point x="646.0" y="700.0" type="line"/>
+      <point x="380.0" y="347.0" type="line"/>
+      <point x="513.0" y="347.0" type="line"/>
+      <point x="240.0" y="700.0" type="line"/>
+      <point x="-20.0" y="700.0" type="line"/>
+      <point x="356.0" y="236.0" type="line"/>
+      <point x="336.0" y="313.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="179.0" y="133.0" type="line"/>
+      <point x="711.0" y="133.0" type="line"/>
+      <point x="711.0" y="208.0" type="line"/>
+      <point x="179.0" y="208.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="179.0" y="258.0" type="line"/>
+      <point x="711.0" y="258.0" type="line"/>
+      <point x="711.0" y="333.0" type="line"/>
+      <point x="179.0" y="333.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Y</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

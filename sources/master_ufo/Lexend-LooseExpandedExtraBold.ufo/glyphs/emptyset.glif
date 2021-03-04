@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emptyset" format="2">
+  <advance width="1000"/>
+  <unicode hex="2205"/>
+  <anchor x="499.0" y="0" name="bottom"/>
+  <anchor x="499.0" y="268.0" name="center"/>
+  <anchor x="840.0" y="10.0" name="ogonek"/>
+  <anchor x="499.0" y="535.0" name="top"/>
+  <anchor x="889.0" y="535.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="179.0" y="-8.0" type="line"/>
+      <point x="875.0" y="459.0" type="line"/>
+      <point x="816.0" y="543.0" type="line"/>
+      <point x="117.0" y="76.0" type="line"/>
+    </contour>
+    <component base="o" xOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2431,0.9922,0.5255,1</string>
+    </dict>
+  </lib>
+</glyph>

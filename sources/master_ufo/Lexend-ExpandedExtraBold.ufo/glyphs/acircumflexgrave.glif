@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexgrave" format="2">
+  <advance width="820"/>
+  <unicode hex="1EA7"/>
+  <anchor x="410.0" y="0" name="bottom"/>
+  <anchor x="695.0" y="0" name="ogonek"/>
+  <anchor x="410.0" y="820.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflexcomb_gravecomb" xOffset="184" yOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>
