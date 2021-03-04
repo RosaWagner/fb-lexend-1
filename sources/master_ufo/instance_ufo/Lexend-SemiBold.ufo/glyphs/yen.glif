@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="2">
+  <advance width="676.6666666666666"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="276.0" y="0.0" type="line"/>
+      <point x="420.6666666666667" y="0.0" type="line"/>
+      <point x="420.6666666666667" y="357.0" type="line"/>
+      <point x="405.6666666666667" y="289.0" type="line"/>
+      <point x="676.6666666666666" y="700.0" type="line"/>
+      <point x="516.0" y="700.0" type="line"/>
+      <point x="321.0" y="393.0" type="line"/>
+      <point x="382.6666666666667" y="390.0" type="line"/>
+      <point x="166.66666666666666" y="700.0" type="line"/>
+      <point x="0.0" y="700.0" type="line"/>
+      <point x="283.0" y="300.0" type="line"/>
+      <point x="276.0" y="349.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="143.66666666666666" y="109.33333333333333" type="line"/>
+      <point x="569.0" y="108.0" type="line"/>
+      <point x="569.0" y="185.33333333333334" type="line"/>
+      <point x="143.66666666666666" y="186.66666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="143.66666666666666" y="239.33333333333334" type="line"/>
+      <point x="569.0" y="238.0" type="line"/>
+      <point x="569.0" y="315.3333333333333" type="line"/>
+      <point x="143.66666666666666" y="316.6666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Y</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
