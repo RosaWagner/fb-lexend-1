@@ -3,7 +3,7 @@
   <advance width="784"/>
   <unicode hex="1EEA"/>
   <anchor x="392" y="0" name="bottom"/>
-  <anchor x="402" y="900" name="top"/>
+  <anchor x="402" y="920" name="top"/>
   <outline>
     <component base="Uhorn"/>
     <component base="gravecomb.case" xOffset="155"/>

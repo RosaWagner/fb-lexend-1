@@ -5,7 +5,7 @@
   <anchor x="156.66666666666666" y="-301.3333333333333" name="bottom"/>
   <anchor x="156.66666666666666" y="370.0" name="center"/>
   <anchor x="156.66666666666666" y="740.0" name="top"/>
-  <anchor x="276.0" y="740.0" name="topright"/>
+  <anchor x="286.0" y="740.0" name="topright"/>
   <outline>
     <component base="l"/>
     <component base="commaaccentcomb" xOffset="-93.33333333333334"/>

@@ -632,6 +632,8 @@
       <integer>-75</integer>
       <key>public.kern2.Y</key>
       <integer>-120</integer>
+      <key>public.kern2.c</key>
+      <integer>0</integer>
       <key>public.kern2.quoteleft</key>
       <integer>-120</integer>
       <key>public.kern2.quoteright</key>

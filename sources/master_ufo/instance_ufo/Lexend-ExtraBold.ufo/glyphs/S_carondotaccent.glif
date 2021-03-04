@@ -3,11 +3,11 @@
   <advance width="641"/>
   <unicode hex="1E66"/>
   <anchor x="341" y="0" name="bottom"/>
-  <anchor x="331" y="1100" name="top"/>
+  <anchor x="331" y="1140" name="top"/>
   <outline>
     <component base="S"/>
     <component base="caroncomb.case" xOffset="81"/>
-    <component base="dotaccentcomb.case" xOffset="81" yOffset="200"/>
+    <component base="dotaccentcomb.case" xOffset="81" yOffset="220"/>
   </outline>
   <lib>
     <dict>

@@ -4,7 +4,7 @@
   <unicode hex="0125"/>
   <anchor x="321.3333333333333" y="0.0" name="bottom"/>
   <anchor x="180.66666666666666" y="637.3333333333334" name="center"/>
-  <anchor x="321.3333333333333" y="923.3333333333334" name="top"/>
+  <anchor x="321.3333333333333" y="936.6666666666666" name="top"/>
   <outline>
     <component base="h"/>
     <component base="circumflexcomb.case" xOffset="71.0" yOffset="40.0"/>

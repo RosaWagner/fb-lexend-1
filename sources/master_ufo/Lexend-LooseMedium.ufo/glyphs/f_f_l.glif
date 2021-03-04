@@ -10,7 +10,7 @@
   <anchor x="297" y="740" name="top_1"/>
   <anchor x="887" y="740" name="top_2"/>
   <anchor x="1442" y="740" name="top_3"/>
-  <anchor x="1518" y="740" name="topright"/>
+  <anchor x="1539" y="740" name="topright"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="590"/>

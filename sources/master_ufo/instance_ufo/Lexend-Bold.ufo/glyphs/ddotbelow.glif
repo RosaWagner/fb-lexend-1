@@ -5,7 +5,7 @@
   <anchor x="329.0" y="-226.66666666666666" name="bottom"/>
   <anchor x="476.6666666666667" y="634.0" name="center"/>
   <anchor x="329.0" y="740.0" name="top"/>
-  <anchor x="624.0" y="740.0" name="topright"/>
+  <anchor x="630.6666666666666" y="740.0" name="topright"/>
   <outline>
     <component base="d"/>
     <component base="dotbelowcomb" xOffset="79.0"/>

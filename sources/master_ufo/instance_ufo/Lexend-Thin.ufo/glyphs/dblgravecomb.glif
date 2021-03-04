@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblgravecomb" format="2">
   <unicode hex="030F"/>
-  <anchor x="310" y="525" name="_top"/>
+  <anchor x="304" y="525" name="_top"/>
   <anchor x="250" y="690" name="top"/>
   <outline>
     <contour>

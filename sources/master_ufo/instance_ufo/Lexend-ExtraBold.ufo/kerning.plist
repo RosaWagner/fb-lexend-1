@@ -1109,9 +1109,9 @@
     <key>public.kern1.caron</key>
     <dict>
       <key>public.kern2.H</key>
-      <integer>200</integer>
+      <integer>70</integer>
       <key>public.kern2.b</key>
-      <integer>200</integer>
+      <integer>70</integer>
     </dict>
     <key>public.kern1.comma</key>
     <dict>

@@ -5,12 +5,12 @@
   <anchor x="417" y="0" name="bottom"/>
   <anchor x="417" y="350" name="center"/>
   <anchor x="751" y="10" name="ogonek"/>
-  <anchor x="417" y="1100" name="top"/>
+  <anchor x="417" y="1140" name="top"/>
   <anchor x="20" y="700" name="topleft"/>
   <anchor x="814" y="700" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb_macroncomb.case" xOffset="167"/>
+    <component base="dieresiscomb_macroncomb.case" xOffset="166"/>
   </outline>
   <lib>
     <dict>

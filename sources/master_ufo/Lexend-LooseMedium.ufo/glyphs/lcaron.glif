@@ -5,13 +5,15 @@
   <anchor x="262" y="0" name="bottom"/>
   <anchor x="262" y="370" name="center"/>
   <anchor x="262" y="740" name="top"/>
-  <anchor x="338" y="740" name="topright"/>
+  <anchor x="359" y="740" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="caroncomb.alt" xOffset="182" yOffset="53"/>
+    <component base="caroncomb.alt" xOffset="203" yOffset="53"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

@@ -32,12 +32,14 @@
         <key>100</key>
         <integer>100</integer>
         <key>150</key>
-        <integer>125</integer>
+        <integer>150</integer>
       </dict>
       <key>wdth</key>
       <dict>
         <key>100</key>
         <integer>350</integer>
+        <key>112.5</key>
+        <integer>420</integer>
         <key>125</key>
         <integer>490</integer>
       </dict>
@@ -56,7 +58,7 @@
         <key>600</key>
         <integer>144</integer>
         <key>700</key>
-        <integer>160</integer>
+        <integer>180</integer>
         <key>800</key>
         <integer>216</integer>
       </dict>
@@ -342,8 +344,6 @@
       <string>Zcaron</string>
       <string>Zdotaccent</string>
       <string>Zdotbelow</string>
-      <string>Iacute_J.loclNLD</string>
-      <string>Jacute.loclNLD</string>
       <string>I.ss01</string>
       <string>IJ.ss01</string>
       <string>Iacute.ss01</string>
@@ -365,6 +365,8 @@
       <string>Jcircumflex.ss01</string>
       <string>LJ.ss01</string>
       <string>NJ.ss01</string>
+      <string>Iacute_J.loclNLD</string>
+      <string>Jacute.loclNLD</string>
       <string>a</string>
       <string>aacute</string>
       <string>abreve</string>
@@ -606,8 +608,6 @@
       <string>zcaron</string>
       <string>zdotaccent</string>
       <string>zdotbelow</string>
-      <string>iacute_j.loclNLD</string>
-      <string>jacute.loclNLD</string>
       <string>a.ss01</string>
       <string>aacute.ss01</string>
       <string>abreve.ss01</string>
@@ -641,6 +641,8 @@
       <string>gcommaaccent.ss01</string>
       <string>gdotaccent.ss01</string>
       <string>gmacron.ss01</string>
+      <string>iacute_j.loclNLD</string>
+      <string>jacute.loclNLD</string>
       <string>f_f</string>
       <string>f_f_i</string>
       <string>f_f_ij</string>
@@ -1737,5 +1739,12 @@
       <key>zerowidthspace</key>
       <string>uni200B</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array>
+      <string>Iacute_J.loclNLD</string>
+      <string>Jacute.loclNLD</string>
+      <string>iacute_j.loclNLD</string>
+      <string>jacute.loclNLD</string>
+    </array>
   </dict>
 </plist>

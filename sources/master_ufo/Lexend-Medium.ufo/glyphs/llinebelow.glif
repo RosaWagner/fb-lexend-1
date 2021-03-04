@@ -5,7 +5,7 @@
   <anchor x="126" y="-178" name="bottom"/>
   <anchor x="126" y="370" name="center"/>
   <anchor x="126" y="740" name="top"/>
-  <anchor x="202" y="740" name="topright"/>
+  <anchor x="212" y="740" name="topright"/>
   <outline>
     <component base="l"/>
     <component base="macronbelowcomb" xOffset="-125"/>

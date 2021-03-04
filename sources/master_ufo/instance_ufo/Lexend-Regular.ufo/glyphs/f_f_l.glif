@@ -10,7 +10,7 @@
   <anchor x="189.5" y="740.0" name="top_1"/>
   <anchor x="568.0" y="740.0" name="top_2"/>
   <anchor x="870.0" y="740.0" name="top_3"/>
-  <anchor x="934.0" y="740.0" name="topright"/>
+  <anchor x="944.0" y="740.0" name="topright"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="378.5"/>

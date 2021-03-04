@@ -8,27 +8,25 @@
       <map input="400" output="79"/>
       <map input="500" output="108"/>
       <map input="600" output="144"/>
-      <map input="700" output="160"/>
+      <map input="700" output="180"/>
       <map input="800" output="216"/>
     </axis>
     <axis tag="wdth" name="Width" minimum="100" maximum="125" default="100">
       <map input="100" output="350"/>
+      <map input="112.500000" output="420"/>
       <map input="125" output="490"/>
     </axis>
-    <axis tag="SPAC" name="Spacing" minimum="100" maximum="150" default="100">
-      <map input="100" output="100"/>
-      <map input="150" output="125"/>
-    </axis>
+    <axis tag="SPAC" name="Spacing" minimum="100" maximum="150" default="100"/>
   </axes>
   <sources>
-    <source filename="Lexend-ThinItalic.ufo" name="Lexend Thin Italic" familyname="Lexend" stylename="Thin Italic">
+    <source filename="Lexend-Thin.ufo" name="Lexend Thin" familyname="Lexend" stylename="Thin">
       <location>
         <dimension name="Weight" xvalue="22"/>
         <dimension name="Width" xvalue="350"/>
         <dimension name="Spacing" xvalue="100"/>
       </location>
     </source>
-    <source filename="Lexend-LightItalic.ufo" name="Lexend Light Italic" familyname="Lexend" stylename="Light Italic">
+    <source filename="Lexend-Light.ufo" name="Lexend Light" familyname="Lexend" stylename="Light">
       <location>
         <dimension name="Weight" xvalue="50"/>
         <dimension name="Width" xvalue="350"/>
@@ -53,7 +51,7 @@
         <dimension name="Spacing" xvalue="100"/>
       </location>
     </source>
-    <source filename="Lexend-ExpandedThinItalic.ufo" name="Lexend Expanded Thin Italic" familyname="Lexend" stylename="Expanded Thin Italic">
+    <source filename="Lexend-ExpandedThin.ufo" name="Lexend Expanded Thin" familyname="Lexend" stylename="Expanded Thin">
       <location>
         <dimension name="Weight" xvalue="22"/>
         <dimension name="Width" xvalue="490"/>
@@ -67,32 +65,32 @@
         <dimension name="Spacing" xvalue="100"/>
       </location>
     </source>
-    <source filename="Lexend-LooseThinItalic.ufo" name="Lexend Loose Thin Italic" familyname="Lexend" stylename="Loose Thin Italic">
+    <source filename="Lexend-LooseThin.ufo" name="Lexend Loose Thin" familyname="Lexend" stylename="Loose Thin">
       <location>
         <dimension name="Weight" xvalue="22"/>
         <dimension name="Width" xvalue="350"/>
-        <dimension name="Spacing" xvalue="125"/>
+        <dimension name="Spacing" xvalue="150"/>
       </location>
     </source>
     <source filename="Lexend-LooseMedium.ufo" name="Lexend Loose Medium" familyname="Lexend" stylename="Loose Medium">
       <location>
         <dimension name="Weight" xvalue="108"/>
         <dimension name="Width" xvalue="350"/>
-        <dimension name="Spacing" xvalue="125"/>
+        <dimension name="Spacing" xvalue="150"/>
       </location>
     </source>
-    <source filename="Lexend-LooseExpandedThinItalic.ufo" name="Lexend Loose Expanded Thin Italic" familyname="Lexend" stylename="Loose Expanded Thin Italic">
+    <source filename="Lexend-LooseExpandedThin.ufo" name="Lexend Loose Expanded Thin" familyname="Lexend" stylename="Loose Expanded Thin">
       <location>
         <dimension name="Weight" xvalue="22"/>
         <dimension name="Width" xvalue="490"/>
-        <dimension name="Spacing" xvalue="125"/>
+        <dimension name="Spacing" xvalue="150"/>
       </location>
     </source>
     <source filename="Lexend-LooseExpandedMedium.ufo" name="Lexend Loose Expanded Medium" familyname="Lexend" stylename="Loose Expanded Medium">
       <location>
         <dimension name="Weight" xvalue="108"/>
         <dimension name="Width" xvalue="490"/>
-        <dimension name="Spacing" xvalue="125"/>
+        <dimension name="Spacing" xvalue="150"/>
       </location>
     </source>
   </sources>
@@ -127,6 +125,15 @@
     <instance name="Lexend Medium" familyname="Lexend" stylename="Medium" filename="instance_ufo/Lexend-Medium.ufo" stylemapfamilyname="Lexend Medium" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="108"/>
+        <dimension name="Width" xvalue="350"/>
+        <dimension name="Spacing" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Lexend SemiBold" familyname="Lexend" stylename="SemiBold" filename="instance_ufo/Lexend-SemiBold.ufo" stylemapfamilyname="Lexend SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="144"/>
         <dimension name="Width" xvalue="350"/>
         <dimension name="Spacing" xvalue="100"/>
       </location>

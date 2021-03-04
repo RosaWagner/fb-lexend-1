@@ -42,13 +42,17 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
-    <string>Thomas Jockin</string>
+    <string>Bonnie Shaver-Troup, Thomas Jockin</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://www.lexend.com</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
     <string>https://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
     <string>Lexend</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://www.lexend.com</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>0</integer>
@@ -75,7 +79,7 @@
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>1194</integer>
+    <integer>1200</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>390</integer>
     <key>postscriptBlueValues</key>

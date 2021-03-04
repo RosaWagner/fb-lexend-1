@@ -1040,6 +1040,8 @@
       <integer>-25</integer>
       <key>parenright</key>
       <integer>-25</integer>
+      <key>public.kern2.H</key>
+      <integer>0</integer>
       <key>public.kern2.T</key>
       <integer>-48</integer>
       <key>public.kern2.V</key>
@@ -1103,9 +1105,9 @@
     <key>public.kern1.caron</key>
     <dict>
       <key>public.kern2.H</key>
-      <integer>-20</integer>
+      <integer>0</integer>
       <key>public.kern2.b</key>
-      <integer>10</integer>
+      <integer>50</integer>
     </dict>
     <key>public.kern1.comma</key>
     <dict>

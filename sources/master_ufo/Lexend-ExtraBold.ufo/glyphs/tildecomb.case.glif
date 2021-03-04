@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb.case" format="2">
   <anchor x="251" y="700" name="_top"/>
-  <anchor x="251" y="900" name="top"/>
+  <anchor x="251" y="920" name="top"/>
   <outline>
     <contour>
       <point x="330" y="768" type="curve" smooth="yes"/>

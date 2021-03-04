@@ -5,7 +5,7 @@
   <anchor x="124" y="0" name="bottom"/>
   <anchor x="124" y="370" name="center"/>
   <anchor x="124" y="740" name="top"/>
-  <anchor x="200" y="740" name="topright"/>
+  <anchor x="210" y="740" name="topright"/>
   <outline>
     <contour>
       <point x="31" y="292" type="line"/>

@@ -8,7 +8,7 @@
   <anchor x="491.5" y="370.0" name="center"/>
   <anchor x="189.5" y="740.0" name="top_1"/>
   <anchor x="491.5" y="740.0" name="top_2"/>
-  <anchor x="555.5" y="740.0" name="topright"/>
+  <anchor x="565.5" y="740.0" name="topright"/>
   <outline>
     <component base="f"/>
     <component base="l" xOffset="378.5"/>

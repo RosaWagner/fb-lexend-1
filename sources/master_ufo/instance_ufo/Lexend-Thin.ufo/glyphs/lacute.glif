@@ -5,7 +5,7 @@
   <anchor x="83" y="0" name="bottom"/>
   <anchor x="83" y="370" name="center"/>
   <anchor x="103" y="860" name="top"/>
-  <anchor x="106" y="740" name="topright"/>
+  <anchor x="116" y="740" name="topright"/>
   <outline>
     <component base="l"/>
     <component base="acutecomb.case" xOffset="-148" yOffset="40"/>
