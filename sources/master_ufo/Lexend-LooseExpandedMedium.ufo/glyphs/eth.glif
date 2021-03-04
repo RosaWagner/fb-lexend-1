@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth" format="2">
+  <advance width="904"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="447" y="-7" type="curve" smooth="yes"/>
+      <point x="628" y="-7"/>
+      <point x="774" y="103"/>
+      <point x="774" y="283" type="curve" smooth="yes"/>
+      <point x="774" y="480"/>
+      <point x="584" y="680"/>
+      <point x="471" y="740" type="curve"/>
+      <point x="419" y="672" type="line"/>
+      <point x="550" y="583"/>
+      <point x="664" y="456"/>
+      <point x="664" y="335" type="curve"/>
+      <point x="698" y="348" type="line"/>
+      <point x="673" y="447"/>
+      <point x="583" y="528"/>
+      <point x="435" y="528" type="curve" smooth="yes"/>
+      <point x="264" y="528"/>
+      <point x="130" y="410"/>
+      <point x="130" y="262" type="curve" smooth="yes"/>
+      <point x="130" y="113"/>
+      <point x="251" y="-7"/>
+    </contour>
+    <contour>
+      <point x="447" y="79" type="curve" smooth="yes"/>
+      <point x="330" y="79"/>
+      <point x="235" y="159"/>
+      <point x="235" y="262" type="curve" smooth="yes"/>
+      <point x="235" y="363"/>
+      <point x="325" y="442"/>
+      <point x="437" y="442" type="curve" smooth="yes"/>
+      <point x="568" y="442"/>
+      <point x="667" y="359"/>
+      <point x="667" y="262" type="curve" smooth="yes"/>
+      <point x="667" y="159"/>
+      <point x="570" y="79"/>
+    </contour>
+    <contour>
+      <point x="386" y="548" type="line"/>
+      <point x="583" y="574" type="line"/>
+      <point x="624" y="591" type="line"/>
+      <point x="737" y="597" type="line"/>
+      <point x="719" y="663" type="line"/>
+      <point x="573" y="650" type="line"/>
+      <point x="518" y="630" type="line"/>
+      <point x="373" y="613" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

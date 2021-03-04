@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJacute.ss01" format="2">
+	<advance width="890"/>
+	<anchor x="153" y="700" name="top_1"/>
+	<anchor x="153" y="0" name="bottom_1"/>
+	<anchor x="343" y="10" name="ogonek"/>
+	<anchor x="100" y="700" name="topleft"/>
+	<anchor x="734" y="700" name="top_2"/>
+	<anchor x="618" y="0" name="bottom_2"/>
+	<outline>
+		<component base="IJ.ss01"/>
+		<component base="acutecomb.case" xOffset="50.001" yOffset="195.499"/>
+		<component base="acutecomb.case" xOffset="628.001" yOffset="195.499"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>IJ.ss01</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>acutecomb.case</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>acutecomb.case</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>I</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>J</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-02-10 11:03:43 +0000</string>
+		</dict>
+	</lib>
+</glyph>

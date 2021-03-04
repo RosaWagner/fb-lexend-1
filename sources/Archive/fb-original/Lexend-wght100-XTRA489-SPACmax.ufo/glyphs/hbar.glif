@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+	<advance width="1033"/>
+	<unicode hex="0127"/>
+	<anchor x="276" y="608" name="center"/>
+	<anchor x="508" y="0" name="bottom"/>
+	<anchor x="265" y="740" name="top"/>
+	<note>
+		hbar
+	</note>
+	<outline>
+		<component base="h" xOffset="70"/>
+		<component base="strokeshortcomb" xOffset="79" yOffset="338"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>h</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>strokeshortcomb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>+10</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>+10</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-02-10 11:03:29 +0000</string>
+		</dict>
+	</lib>
+</glyph>

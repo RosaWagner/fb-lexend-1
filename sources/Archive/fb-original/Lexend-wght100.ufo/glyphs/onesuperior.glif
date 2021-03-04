@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="2">
+	<advance width="277"/>
+	<unicode hex="00B9"/>
+	<note>
+		onesuperior
+	</note>
+	<outline>
+		<component base="one.numr" yOffset="70"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-02-10 11:03:23 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.69,0.64,1</string>
+		</dict>
+	</lib>
+</glyph>

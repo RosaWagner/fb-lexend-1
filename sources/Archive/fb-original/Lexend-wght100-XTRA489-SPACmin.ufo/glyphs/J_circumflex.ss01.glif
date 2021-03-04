@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jcircumflex.ss01" format="2">
+	<advance width="788"/>
+	<anchor x="632" y="911" name="top"/>
+	<anchor x="441" y="0" name="bottom"/>
+	<outline>
+		<component base="J.ss01"/>
+		<component base="circumflexcomb.case" xOffset="451" yOffset="176"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>J.ss01</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>circumflexcomb.case</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-02-10 11:03:55 +0000</string>
+		</dict>
+	</lib>
+</glyph>

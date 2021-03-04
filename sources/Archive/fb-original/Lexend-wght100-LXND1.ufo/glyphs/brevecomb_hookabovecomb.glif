@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_hookabovecomb" format="2">
+	<advance width="0"/>
+	<anchor x="194" y="771" name="top"/>
+	<anchor x="188" y="512" name="_top"/>
+	<outline>
+		<component base="brevecomb" xOffset="-6.500" yOffset="-32.999"/>
+		<component base="hookabovecomb" xOffset="21" yOffset="83"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>brevecomb</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>hookabovecomb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-02-10 11:03:48 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>399</integer>
+		</dict>
+	</lib>
+</glyph>

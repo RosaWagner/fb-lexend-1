@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eogonek" format="2">
+  <advance width="890"/>
+  <unicode hex="0119"/>
+  <anchor x="445" y="525" name="top"/>
+  <anchor x="468" y="0" name="bottom"/>
+  <anchor x="715" y="10" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="624" y="-232" type="curve" smooth="yes"/>
+      <point x="660" y="-232"/>
+      <point x="694" y="-210"/>
+      <point x="711" y="-178" type="curve"/>
+      <point x="696" y="-165" type="line"/>
+      <point x="680" y="-192"/>
+      <point x="655" y="-210"/>
+      <point x="626" y="-210" type="curve" smooth="yes"/>
+      <point x="582" y="-210"/>
+      <point x="553" y="-181"/>
+      <point x="553" y="-134" type="curve" smooth="yes"/>
+      <point x="553" y="-68"/>
+      <point x="606" y="-10"/>
+      <point x="702" y="51" type="curve"/>
+      <point x="697" y="67" type="line"/>
+      <point x="599" y="9"/>
+      <point x="531" y="-51"/>
+      <point x="531" y="-137" type="curve" smooth="yes"/>
+      <point x="531" y="-199"/>
+      <point x="573" y="-232"/>
+    </contour>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>e</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

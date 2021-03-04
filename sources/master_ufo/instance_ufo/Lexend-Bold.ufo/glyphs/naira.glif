@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="863.6666666666666"/>
+  <unicode hex="20A6"/>
+  <anchor x="437.0" y="0.0" name="bottom"/>
+  <anchor x="437.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="16.666666666666664" y="308.0" type="line"/>
+      <point x="135.33333333333331" y="308.0" type="line"/>
+      <point x="165.33333333333331" y="330.3333333333333" type="line"/>
+      <point x="688.0" y="330.3333333333333" type="line"/>
+      <point x="729.0" y="308.0" type="line"/>
+      <point x="847.0" y="308.0" type="line"/>
+      <point x="847.0" y="382.3333333333333" type="line"/>
+      <point x="734.0" y="382.3333333333333" type="line"/>
+      <point x="692.0" y="370.0" type="line"/>
+      <point x="171.33333333333331" y="370.0" type="line"/>
+      <point x="137.33333333333331" y="382.3333333333333" type="line"/>
+      <point x="16.666666666666664" y="382.3333333333333" type="line"/>
+    </contour>
+    <component base="N" xOffset="32.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

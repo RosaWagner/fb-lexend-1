@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="801"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="170" y="234" type="line"/>
+      <point x="648" y="700" type="line"/>
+      <point x="616" y="700" type="line"/>
+      <point x="170" y="265" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="700" type="line"/>
+      <point x="160" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="400" type="line"/>
+      <point x="170" y="400" type="line"/>
+      <point x="170" y="422" type="line"/>
+      <point x="70" y="422" type="line"/>
+    </contour>
+    <contour>
+      <point x="637" y="0" type="line"/>
+      <point x="666" y="0" type="line"/>
+      <point x="349" y="420" type="line"/>
+      <point x="332" y="404" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="400" type="line"/>
+      <point x="619" y="400" type="line"/>
+      <point x="619" y="422" type="line"/>
+      <point x="352" y="422" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>K</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ograve" format="2">
+  <advance width="958"/>
+  <unicode hex="00D2"/>
+  <anchor x="479" y="0" name="bottom"/>
+  <anchor x="479" y="350" name="center"/>
+  <anchor x="616" y="0" name="ogonek"/>
+  <anchor x="479" y="820" name="top"/>
+  <anchor x="20" y="700" name="topleft"/>
+  <anchor x="582" y="700" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="gravecomb.case" xOffset="228"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

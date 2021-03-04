@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divisionslash" format="2">
+	<advance width="551"/>
+	<unicode hex="2215"/>
+	<note>
+		divisionslash
+	</note>
+	<outline>
+		<contour>
+			<point x="84" y="-107" type="line"/>
+			<point x="58" y="-107" type="line"/>
+			<point x="482" y="756" type="line"/>
+			<point x="508" y="756" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.98,1,0.58,1</string>
+		</dict>
+	</lib>
+</glyph>

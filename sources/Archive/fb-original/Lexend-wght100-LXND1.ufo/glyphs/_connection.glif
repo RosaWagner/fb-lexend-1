@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_connection" format="2">
+	<advance width="261"/>
+	<anchor x="0" y="0" name="#exit"/>
+	<outline>
+		<contour>
+			<point x="-30" y="0" type="line"/>
+			<point x="-30" y="102" type="line"/>
+			<point x="261" y="102" type="line"/>
+			<point x="261" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

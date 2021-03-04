@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_dieresiscomb" format="2">
+  <anchor x="251" y="525" name="_top"/>
+  <anchor x="250" y="815" name="top"/>
+  <outline>
+    <contour>
+      <point x="325" y="788" type="curve" smooth="yes"/>
+      <point x="344" y="788"/>
+      <point x="353" y="800"/>
+      <point x="353" y="817" type="curve" smooth="yes"/>
+      <point x="353" y="834"/>
+      <point x="342" y="846"/>
+      <point x="325" y="846" type="curve" smooth="yes"/>
+      <point x="306" y="846"/>
+      <point x="297" y="833"/>
+      <point x="297" y="817" type="curve" smooth="yes"/>
+      <point x="297" y="800"/>
+      <point x="306" y="788"/>
+    </contour>
+    <contour>
+      <point x="175" y="788" type="curve" smooth="yes"/>
+      <point x="194" y="788"/>
+      <point x="203" y="800"/>
+      <point x="203" y="817" type="curve" smooth="yes"/>
+      <point x="203" y="834"/>
+      <point x="192" y="846"/>
+      <point x="175" y="846" type="curve" smooth="yes"/>
+      <point x="156" y="846"/>
+      <point x="147" y="833"/>
+      <point x="147" y="817" type="curve" smooth="yes"/>
+      <point x="147" y="800"/>
+      <point x="156" y="788"/>
+    </contour>
+    <component base="tildecomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

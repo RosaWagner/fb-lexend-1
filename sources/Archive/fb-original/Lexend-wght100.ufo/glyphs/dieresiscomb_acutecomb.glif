@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb_acutecomb" format="2">
+	<advance width="0"/>
+	<guideline x="141" y="0" angle="270"/>
+	<guideline x="79" y="772" angle="0"/>
+	<guideline x="33.75" y="924.24" angle="0"/>
+	<anchor x="137" y="525" name="_top"/>
+	<outline>
+		<component base="dieresiscomb" xOffset="-10"/>
+		<component base="acutecomb" xOffset="59" yOffset="184"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>dieresiscomb</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>acutecomb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-02-10 11:03:43 +0000</string>
+		</dict>
+	</lib>
+</glyph>
