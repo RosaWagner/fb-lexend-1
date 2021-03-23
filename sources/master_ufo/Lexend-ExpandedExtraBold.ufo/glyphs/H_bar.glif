@@ -2,31 +2,31 @@
 <glyph name="Hbar" format="2">
   <advance width="1049"/>
   <unicode hex="0126"/>
-  <anchor x="527.0" y="0" name="bottom"/>
-  <anchor x="527.0" y="350.0" name="center"/>
-  <anchor x="527.0" y="700.0" name="top"/>
-  <anchor x="80.0" y="700.0" name="topleft"/>
+  <anchor x="527" y="0" name="bottom"/>
+  <anchor x="527" y="350" name="center"/>
+  <anchor x="527" y="700" name="top"/>
+  <anchor x="80" y="700" name="topleft"/>
   <outline>
     <contour>
-      <point x="17.0" y="488.0" type="line"/>
-      <point x="208.0" y="488.0" type="line"/>
-      <point x="287.0" y="498.0" type="line"/>
-      <point x="766.0" y="498.0" type="line"/>
-      <point x="861.0" y="488.0" type="line"/>
-      <point x="1033.0" y="488.0" type="line"/>
-      <point x="1033.0" y="652.0" type="line"/>
-      <point x="871.0" y="652.0" type="line"/>
-      <point x="754.0" y="642.0" type="line"/>
-      <point x="297.0" y="642.0" type="line"/>
-      <point x="198.0" y="652.0" type="line"/>
-      <point x="17.0" y="652.0" type="line"/>
+      <point x="17" y="488" type="line"/>
+      <point x="208" y="488" type="line"/>
+      <point x="287" y="498" type="line"/>
+      <point x="766" y="498" type="line"/>
+      <point x="861" y="488" type="line"/>
+      <point x="1033" y="488" type="line"/>
+      <point x="1033" y="652" type="line"/>
+      <point x="871" y="652" type="line"/>
+      <point x="754" y="642" type="line"/>
+      <point x="297" y="642" type="line"/>
+      <point x="198" y="652" type="line"/>
+      <point x="17" y="652" type="line"/>
     </contour>
     <component base="H" xOffset="60"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.2431,0.9922,0.5255,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

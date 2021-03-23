@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+	<advance width="809"/>
+	<unicode hex="0111"/>
+	<anchor x="546" y="634" name="_center"/>
+	<anchor x="405" y="0" name="bottom"/>
+	<anchor x="546" y="634" name="center"/>
+	<anchor x="405" y="740" name="top"/>
+	<anchor x="809" y="740" name="topright"/>
+	<outline>
+		<contour>
+			<point x="292" y="566" type="line"/>
+			<point x="800" y="566" type="line"/>
+			<point x="800" y="702" type="line"/>
+			<point x="292" y="702" type="line"/>
+		</contour>
+		<component base="d"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.97,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

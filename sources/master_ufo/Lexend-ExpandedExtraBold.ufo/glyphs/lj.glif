@@ -2,12 +2,10 @@
 <glyph name="lj" format="2">
   <advance width="708"/>
   <unicode hex="01C9"/>
-  <anchor x="172.0" y="0" name="bottom_1"/>
-  <anchor x="506.0" y="-230.0" name="bottom_2"/>
-  <anchor x="172.0" y="370.0" name="center"/>
-  <anchor x="172.0" y="740.0" name="top_1"/>
-  <anchor x="514.0" y="760.0" name="top_2"/>
-  <anchor x="342.0" y="740.0" name="topright"/>
+  <anchor x="172" y="0" name="bottom"/>
+  <anchor x="172" y="370" name="center"/>
+  <anchor x="172" y="740" name="top"/>
+  <anchor x="342" y="740" name="topright"/>
   <outline>
     <component base="l"/>
     <component base="j" xOffset="329"/>

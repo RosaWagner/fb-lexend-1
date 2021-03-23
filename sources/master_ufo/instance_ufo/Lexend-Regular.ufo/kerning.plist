@@ -679,8 +679,6 @@
       <integer>-40</integer>
       <key>emdash</key>
       <integer>-60</integer>
-      <key>endash</key>
-      <integer>0</integer>
       <key>hyphen</key>
       <integer>-60</integer>
       <key>public.kern2.C</key>
@@ -1252,8 +1250,6 @@
       <integer>-80</integer>
       <key>Y</key>
       <integer>-120</integer>
-      <key>emdash</key>
-      <integer>0</integer>
       <key>one</key>
       <integer>-40</integer>
       <key>public.kern2.J</key>

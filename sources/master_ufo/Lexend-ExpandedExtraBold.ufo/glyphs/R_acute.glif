@@ -2,11 +2,11 @@
 <glyph name="Racute" format="2">
   <advance width="837"/>
   <unicode hex="0154"/>
-  <anchor x="419.0" y="0" name="bottom"/>
-  <anchor x="399.0" y="920.0" name="top"/>
+  <anchor x="419" y="0" name="bottom"/>
+  <anchor x="409" y="920" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="acutecomb.case" xOffset="146"/>
+    <component base="acutecomb.case" xOffset="156"/>
   </outline>
   <lib>
     <dict>

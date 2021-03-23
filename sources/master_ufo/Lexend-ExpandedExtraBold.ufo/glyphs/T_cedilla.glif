@@ -2,12 +2,12 @@
 <glyph name="Tcedilla" format="2">
   <advance width="854"/>
   <unicode hex="0162"/>
-  <anchor x="427.0" y="-247.0" name="bottom"/>
-  <anchor x="427.0" y="350.0" name="center"/>
-  <anchor x="427.0" y="700.0" name="top"/>
+  <anchor x="427" y="-247" name="bottom"/>
+  <anchor x="427" y="350" name="center"/>
+  <anchor x="427" y="700" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="cedillacomb.case" xOffset="175"/>
+    <component base="cedillacomb.case" xOffset="176"/>
   </outline>
   <lib>
     <dict>

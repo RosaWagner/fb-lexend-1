@@ -2,9 +2,9 @@
 <glyph name="aringacute" format="2">
   <advance width="820"/>
   <unicode hex="01FB"/>
-  <anchor x="410.0" y="0" name="bottom"/>
-  <anchor x="695.0" y="0" name="ogonek"/>
-  <anchor x="410.0" y="1067.0" name="top"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="695" y="0" name="ogonek"/>
+  <anchor x="410" y="1067" name="top"/>
   <outline>
     <component base="a"/>
     <component base="ringcomb" xOffset="160" yOffset="10"/>

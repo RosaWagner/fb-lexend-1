@@ -13,7 +13,32 @@
     <key>familyName</key>
     <string>Lexend</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>414</integer>
+        <key>y</key>
+        <integer>1117</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>220</integer>
+        <key>y</key>
+        <integer>756</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>372</integer>
+        <key>y</key>
+        <integer>-138</integer>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -67,7 +92,7 @@
     <integer>390</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <integer>-17</integer>
+      <integer>-11</integer>
       <integer>0</integer>
       <integer>535</integer>
       <integer>547</integer>
@@ -76,31 +101,27 @@
       <integer>740</integer>
       <integer>756</integer>
     </array>
-    <key>postscriptFamilyBlues</key>
-    <array/>
-    <key>postscriptFamilyOtherBlues</key>
-    <array/>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-246</integer>
       <integer>-230</integer>
     </array>
-    <key>postscriptStemSnapH</key>
-    <array/>
-    <key>postscriptStemSnapV</key>
-    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Lexend Expanded ExtraBold</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
     <key>styleName</key>
-    <string>ExpandedExtraBold</string>
+    <string>Expanded ExtraBold</string>
     <key>unitsPerEm</key>
-    <real>1000.0</real>
+    <integer>1000</integer>
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>3</integer>
+    <integer>4</integer>
     <key>xHeight</key>
     <integer>535</integer>
   </dict>

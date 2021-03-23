@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_ij" format="2">
-  <advance width="1122"/>
+  <advance width="1104"/>
   <anchor x="280" y="0" name="bottom_1"/>
   <anchor x="840" y="0" name="bottom_2"/>
   <anchor x="560" y="0" name="caret_1"/>

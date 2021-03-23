@@ -2,12 +2,12 @@
 <glyph name="Odotaccentmacron" format="2">
   <advance width="994"/>
   <unicode hex="0230"/>
-  <anchor x="497.0" y="0" name="bottom"/>
-  <anchor x="497.0" y="350.0" name="center"/>
-  <anchor x="876.0" y="10.0" name="ogonek"/>
-  <anchor x="497.0" y="1140.0" name="top"/>
-  <anchor x="20.0" y="700.0" name="topleft"/>
-  <anchor x="974.0" y="700.0" name="topright"/>
+  <anchor x="497" y="0" name="bottom"/>
+  <anchor x="497" y="350" name="center"/>
+  <anchor x="876" y="10" name="ogonek"/>
+  <anchor x="497" y="1140" name="top"/>
+  <anchor x="20" y="700" name="topleft"/>
+  <anchor x="974" y="700" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="dotaccentcomb_macroncomb.case" xOffset="246"/>

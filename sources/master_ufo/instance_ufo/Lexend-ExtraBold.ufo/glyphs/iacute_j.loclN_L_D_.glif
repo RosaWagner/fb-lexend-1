@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iacute_j.loclNLD" format="2">
-  <advance width="586"/>
+  <advance width="676"/>
   <anchor x="162" y="0" name="bottom_1"/>
-  <anchor x="455" y="-230" name="bottom_2"/>
+  <anchor x="495" y="-230" name="bottom_2"/>
   <anchor x="244" y="0" name="ogonek"/>
   <anchor x="162" y="535" name="top_1"/>
-  <anchor x="466" y="535" name="top_2"/>
+  <anchor x="506" y="535" name="top_2"/>
   <outline>
     <component base="idotless"/>
     <component base="acutecomb" xOffset="-88" yOffset="10"/>
     <component base="jdotless" xOffset="323"/>
-    <component base="acutecomb" xOffset="216" yOffset="10"/>
+    <component base="acutecomb" xOffset="256" yOffset="10"/>
   </outline>
   <lib>
     <dict>

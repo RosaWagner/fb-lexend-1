@@ -2,12 +2,12 @@
 <glyph name="ecedillabreve" format="2">
   <advance width="746"/>
   <unicode hex="1E1D"/>
-  <anchor x="404.0" y="-247.0" name="bottom"/>
-  <anchor x="659.0" y="10.0" name="ogonek"/>
-  <anchor x="381.0" y="760.0" name="top"/>
+  <anchor x="413" y="-247" name="bottom"/>
+  <anchor x="659" y="10" name="ogonek"/>
+  <anchor x="381" y="760" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="cedillacomb" xOffset="153"/>
+    <component base="cedillacomb" xOffset="162"/>
     <component base="brevecomb" xOffset="131" yOffset="10"/>
   </outline>
   <lib>

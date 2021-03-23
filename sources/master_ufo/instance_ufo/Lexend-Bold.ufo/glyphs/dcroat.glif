@@ -2,7 +2,6 @@
 <glyph name="dcroat" format="2">
   <advance width="657.3333333333334"/>
   <unicode hex="0111"/>
-  <anchor x="476.6666666666667" y="634.0" name="_center"/>
   <anchor x="329.0" y="0.0" name="bottom"/>
   <anchor x="476.6666666666667" y="634.0" name="center"/>
   <anchor x="329.0" y="740.0" name="top"/>

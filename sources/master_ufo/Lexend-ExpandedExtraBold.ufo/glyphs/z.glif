@@ -2,23 +2,23 @@
 <glyph name="z" format="2">
   <advance width="739"/>
   <unicode hex="007A"/>
-  <anchor x="370.0" y="0" name="bottom"/>
-  <anchor x="370.0" y="268.0" name="center"/>
-  <anchor x="370.0" y="535.0" name="top"/>
+  <anchor x="370" y="0" name="bottom"/>
+  <anchor x="370" y="268" name="center"/>
+  <anchor x="370" y="535" name="top"/>
   <outline>
     <contour>
-      <point x="50.0" y="0.0" type="line"/>
-      <point x="683.0" y="0.0" type="line"/>
-      <point x="683.0" y="157.0" type="line"/>
-      <point x="252.0" y="157.0" type="line"/>
-      <point x="272.0" y="84.0" type="line"/>
-      <point x="673.0" y="431.0" type="line"/>
-      <point x="673.0" y="535.0" type="line"/>
-      <point x="50.0" y="535.0" type="line"/>
-      <point x="50.0" y="378.0" type="line"/>
-      <point x="491.0" y="378.0" type="line"/>
-      <point x="474.0" y="458.0" type="line"/>
-      <point x="50.0" y="96.0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="683" y="0" type="line"/>
+      <point x="683" y="157" type="line"/>
+      <point x="252" y="157" type="line"/>
+      <point x="272" y="84" type="line"/>
+      <point x="673" y="431" type="line"/>
+      <point x="673" y="535" type="line"/>
+      <point x="50" y="535" type="line"/>
+      <point x="50" y="378" type="line"/>
+      <point x="491" y="378" type="line"/>
+      <point x="474" y="458" type="line"/>
+      <point x="50" y="96" type="line"/>
     </contour>
   </outline>
   <lib>

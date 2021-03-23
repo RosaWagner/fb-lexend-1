@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="k" format="2">
-  <advance width="512"/>
+  <advance width="510"/>
   <unicode hex="006B"/>
-  <anchor x="256" y="0" name="bottom"/>
-  <anchor x="256" y="740" name="top"/>
+  <anchor x="254" y="0" name="bottom"/>
+  <anchor x="254" y="740" name="top"/>
   <outline>
     <contour>
-      <point x="117" y="172" type="line"/>
-      <point x="476" y="520" type="line"/>
-      <point x="410" y="520" type="line"/>
-      <point x="117" y="235" type="line"/>
+      <point x="115" y="172" type="line"/>
+      <point x="474" y="520" type="line"/>
+      <point x="408" y="520" type="line"/>
+      <point x="115" y="235" type="line"/>
     </contour>
     <contour>
-      <point x="75" y="0" type="line"/>
-      <point x="125" y="0" type="line"/>
-      <point x="125" y="740" type="line"/>
-      <point x="75" y="740" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="740" type="line"/>
+      <point x="73" y="740" type="line"/>
     </contour>
     <contour>
-      <point x="438" y="0" type="line"/>
-      <point x="504" y="0" type="line"/>
-      <point x="232" y="315" type="line"/>
-      <point x="198" y="278" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="230" y="315" type="line"/>
+      <point x="196" y="278" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>l</string>
+      <string>h</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

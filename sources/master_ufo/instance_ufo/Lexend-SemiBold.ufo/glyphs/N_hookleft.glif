@@ -2,8 +2,6 @@
 <glyph name="Nhookleft" format="2">
   <advance width="788.6666666666666"/>
   <unicode hex="019D"/>
-  <anchor x="394.6666666666667" y="0.0" name="bottom"/>
-  <anchor x="394.6666666666667" y="700.0" name="top"/>
   <outline>
     <contour>
       <point x="12.666666666666666" y="-200.33333333333334" type="line"/>

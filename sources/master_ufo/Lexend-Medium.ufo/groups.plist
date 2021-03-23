@@ -519,9 +519,9 @@
     </array>
     <key>public.kern1.hyphen</key>
     <array>
-      <string>hyphen</string>
-      <string>endash</string>
-      <string>emdash</string>
+      <string>braceleft</string>
+      <string>braceright</string>
+      <string>bracketleft</string>
     </array>
     <key>public.kern1.i</key>
     <array>
@@ -1200,9 +1200,9 @@
     </array>
     <key>public.kern2.hyphen</key>
     <array>
-      <string>hyphen</string>
-      <string>endash</string>
-      <string>emdash</string>
+      <string>braceleft</string>
+      <string>braceright</string>
+      <string>bracketleft</string>
     </array>
     <key>public.kern2.i</key>
     <array>
