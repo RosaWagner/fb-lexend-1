@@ -65,6 +65,13 @@
         <dimension name="Spacing" xvalue="100"/>
       </location>
     </source>
+    <source filename="Lexend-ExpandedExtraBold.ufo" name="Lexend Expanded ExtraBold" familyname="Lexend" stylename="Expanded ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="216"/>
+        <dimension name="Width" xvalue="490"/>
+        <dimension name="Spacing" xvalue="100"/>
+      </location>
+    </source>
     <source filename="Lexend-LooseThin.ufo" name="Lexend Loose Thin" familyname="Lexend" stylename="Loose Thin">
       <location>
         <dimension name="Weight" xvalue="22"/>
@@ -89,20 +96,6 @@
     <source filename="Lexend-LooseExpandedMedium.ufo" name="Lexend Loose Expanded Medium" familyname="Lexend" stylename="Loose Expanded Medium">
       <location>
         <dimension name="Weight" xvalue="108"/>
-        <dimension name="Width" xvalue="490"/>
-        <dimension name="Spacing" xvalue="150"/>
-      </location>
-    </source>
-    <source filename="Lexend-ExpandedExtraBold.ufo" name="Lexend Expanded ExtraBold" familyname="Lexend" stylename="Expanded ExtraBold">
-      <location>
-        <dimension name="Weight" xvalue="216"/>
-        <dimension name="Width" xvalue="490"/>
-        <dimension name="Spacing" xvalue="100"/>
-      </location>
-    </source>
-    <source filename="Lexend-LooseExpandedExtraBold.ufo" name="Lexend Loose Expanded ExtraBold" familyname="Lexend" stylename="Loose Expanded ExtraBold">
-      <location>
-        <dimension name="Weight" xvalue="216"/>
         <dimension name="Width" xvalue="490"/>
         <dimension name="Spacing" xvalue="150"/>
       </location>

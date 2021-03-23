@@ -2,10 +2,10 @@
 <glyph name="Hbrevebelow" format="2">
   <advance width="933"/>
   <unicode hex="1E2A"/>
-  <anchor x="467.0" y="-236.0" name="bottom"/>
-  <anchor x="467.0" y="350.0" name="center"/>
-  <anchor x="467.0" y="700.0" name="top"/>
-  <anchor x="20.0" y="700.0" name="topleft"/>
+  <anchor x="467" y="-236" name="bottom"/>
+  <anchor x="467" y="350" name="center"/>
+  <anchor x="467" y="700" name="top"/>
+  <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="H"/>
     <component base="brevebelowcomb" xOffset="217"/>

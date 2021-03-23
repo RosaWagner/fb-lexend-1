@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="napostrophe" format="2">
-  <advance width="814"/>
+  <advance width="815"/>
   <unicode hex="0149"/>
-  <anchor x="422.0" y="0" name="bottom"/>
-  <anchor x="452.0" y="535.0" name="top"/>
+  <anchor x="423" y="0" name="bottom"/>
+  <anchor x="453" y="535" name="top"/>
   <outline>
-    <component base="apostrophemod" xOffset="-172"/>
-    <component base="n" xOffset="29"/>
+    <component base="apostrophemod" xOffset="-170"/>
+    <component base="n" xOffset="30"/>
   </outline>
   <lib>
     <dict>

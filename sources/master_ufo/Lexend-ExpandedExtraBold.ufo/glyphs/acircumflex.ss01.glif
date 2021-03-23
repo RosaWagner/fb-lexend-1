@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflex.ss01" format="2">
   <advance width="791"/>
-  <anchor x="396.0" y="0" name="bottom"/>
-  <anchor x="696.0" y="0" name="ogonek"/>
-  <anchor x="396.0" y="760.0" name="top"/>
+  <anchor x="396" y="0" name="bottom"/>
+  <anchor x="696" y="0" name="ogonek"/>
+  <anchor x="396" y="760" name="top"/>
   <outline>
     <component base="a.ss01"/>
     <component base="circumflexcomb" xOffset="146" yOffset="10"/>

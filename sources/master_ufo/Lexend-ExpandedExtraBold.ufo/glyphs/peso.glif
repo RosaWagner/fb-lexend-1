@@ -2,36 +2,36 @@
 <glyph name="peso" format="2">
   <advance width="978"/>
   <unicode hex="20B1"/>
-  <anchor x="448.0" y="0" name="bottom"/>
-  <anchor x="448.0" y="700.0" name="top"/>
+  <anchor x="448" y="0" name="bottom"/>
+  <anchor x="448" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="12.0" y="485.0" type="line"/>
-      <point x="104.0" y="485.0" type="line"/>
-      <point x="134.0" y="522.0" type="line"/>
-      <point x="711.0" y="522.0" type="line"/>
-      <point x="752.0" y="485.0" type="line"/>
-      <point x="950.0" y="485.0" type="line"/>
-      <point x="950.0" y="574.0" type="line"/>
-      <point x="757.0" y="574.0" type="line"/>
-      <point x="715.0" y="557.0" type="line"/>
-      <point x="140.0" y="557.0" type="line"/>
-      <point x="106.0" y="574.0" type="line"/>
-      <point x="12.0" y="574.0" type="line"/>
+      <point x="12" y="485" type="line"/>
+      <point x="144" y="485" type="line"/>
+      <point x="174" y="522" type="line"/>
+      <point x="711" y="522" type="line"/>
+      <point x="752" y="485" type="line"/>
+      <point x="950" y="485" type="line"/>
+      <point x="950" y="574" type="line"/>
+      <point x="757" y="574" type="line"/>
+      <point x="715" y="557" type="line"/>
+      <point x="180" y="557" type="line"/>
+      <point x="146" y="574" type="line"/>
+      <point x="12" y="574" type="line"/>
     </contour>
     <contour>
-      <point x="12.0" y="316.0" type="line"/>
-      <point x="104.0" y="316.0" type="line"/>
-      <point x="134.0" y="333.0" type="line"/>
-      <point x="731.0" y="333.0" type="line"/>
-      <point x="772.0" y="316.0" type="line"/>
-      <point x="950.0" y="316.0" type="line"/>
-      <point x="950.0" y="405.0" type="line"/>
-      <point x="777.0" y="405.0" type="line"/>
-      <point x="735.0" y="368.0" type="line"/>
-      <point x="140.0" y="368.0" type="line"/>
-      <point x="106.0" y="405.0" type="line"/>
-      <point x="12.0" y="405.0" type="line"/>
+      <point x="12" y="316" type="line"/>
+      <point x="144" y="316" type="line"/>
+      <point x="174" y="333" type="line"/>
+      <point x="731" y="333" type="line"/>
+      <point x="772" y="316" type="line"/>
+      <point x="950" y="316" type="line"/>
+      <point x="950" y="405" type="line"/>
+      <point x="777" y="405" type="line"/>
+      <point x="735" y="368" type="line"/>
+      <point x="180" y="368" type="line"/>
+      <point x="146" y="405" type="line"/>
+      <point x="12" y="405" type="line"/>
     </contour>
     <component base="P" xOffset="33"/>
   </outline>

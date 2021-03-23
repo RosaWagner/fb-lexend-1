@@ -2,17 +2,17 @@
 <glyph name="oslash" format="2">
   <advance width="820"/>
   <unicode hex="00F8"/>
-  <anchor x="410.0" y="535.0" name="top"/>
-  <anchor x="410.0" y="0" name="bottom"/>
-  <anchor x="410.0" y="268.0" name="center"/>
-  <anchor x="751.0" y="10.0" name="ogonek"/>
-  <anchor x="800.0" y="535.0" name="topright"/>
+  <anchor x="410" y="525" name="top"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="410" y="268" name="center"/>
+  <anchor x="751" y="10" name="ogonek"/>
+  <anchor x="800" y="535" name="topright"/>
   <outline>
     <contour>
-      <point x="131.0" y="-15.0" type="line"/>
-      <point x="749.0" y="502.0" type="line"/>
-      <point x="692.0" y="562.0" type="line"/>
-      <point x="74.0" y="43.0" type="line"/>
+      <point x="131" y="-15" type="line"/>
+      <point x="749" y="502" type="line"/>
+      <point x="692" y="562" type="line"/>
+      <point x="74" y="43" type="line"/>
     </contour>
     <component base="o"/>
   </outline>

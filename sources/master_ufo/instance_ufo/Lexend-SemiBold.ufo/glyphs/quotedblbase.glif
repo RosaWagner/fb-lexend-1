@@ -1,13 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblbase" format="2">
-  <advance width="497.6666666666667"/>
+  <advance width="479.6666666666667"/>
   <unicode hex="201E"/>
   <outline>
-    <component base="comma" xOffset="-10.666666666666668"/>
-    <component base="comma" xOffset="214.33333333333334"/>
+    <component base="comma" xOffset="-20.0"/>
+    <component base="comma" xOffset="205.0"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|quoteleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|quoteleft</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

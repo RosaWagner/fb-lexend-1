@@ -2,13 +2,13 @@
 <glyph name="fl" format="2">
   <advance width="876"/>
   <unicode hex="FB02"/>
-  <anchor x="438.0" y="0" name="caret_1"/>
-  <anchor x="267.0" y="0" name="bottom_1"/>
-  <anchor x="705.0" y="0" name="bottom_2"/>
-  <anchor x="705.0" y="370.0" name="center"/>
-  <anchor x="267.0" y="740.0" name="top_1"/>
-  <anchor x="705.0" y="740.0" name="top_2"/>
-  <anchor x="875.0" y="740.0" name="topright"/>
+  <anchor x="368" y="0" name="caret_1"/>
+  <anchor x="267" y="0" name="bottom_1"/>
+  <anchor x="705" y="0" name="bottom_2"/>
+  <anchor x="705" y="370" name="center"/>
+  <anchor x="267" y="740" name="top_1"/>
+  <anchor x="705" y="740" name="top_2"/>
+  <anchor x="875" y="740" name="topright"/>
   <outline>
     <component base="f"/>
     <component base="l" xOffset="533"/>

@@ -2,10 +2,10 @@
 <glyph name="Idotbelow" format="2">
   <advance width="752"/>
   <unicode hex="1ECA"/>
-  <anchor x="376.0" y="-237.0" name="bottom"/>
-  <anchor x="496.0" y="0" name="ogonek"/>
-  <anchor x="376.0" y="700.0" name="top"/>
-  <anchor x="20.0" y="700.0" name="topleft"/>
+  <anchor x="376" y="-237" name="bottom"/>
+  <anchor x="496" y="0" name="ogonek"/>
+  <anchor x="376" y="700" name="top"/>
+  <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="I"/>
     <component base="dotbelowcomb" xOffset="126"/>

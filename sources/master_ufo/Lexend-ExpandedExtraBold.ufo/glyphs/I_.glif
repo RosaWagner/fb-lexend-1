@@ -2,24 +2,24 @@
 <glyph name="I" format="2">
   <advance width="752"/>
   <unicode hex="0049"/>
-  <anchor x="376.0" y="0" name="bottom"/>
-  <anchor x="496.0" y="0" name="ogonek"/>
-  <anchor x="376.0" y="700.0" name="top"/>
-  <anchor x="20.0" y="700.0" name="topleft"/>
+  <anchor x="376" y="0" name="bottom"/>
+  <anchor x="496" y="0" name="ogonek"/>
+  <anchor x="376" y="700" name="top"/>
+  <anchor x="20" y="700" name="topleft"/>
   <outline>
     <contour>
-      <point x="75.0" y="0.0" type="line"/>
-      <point x="677.0" y="0.0" type="line"/>
-      <point x="677.0" y="182.0" type="line"/>
-      <point x="484.0" y="182.0" type="line"/>
-      <point x="484.0" y="518.0" type="line"/>
-      <point x="677.0" y="518.0" type="line"/>
-      <point x="677.0" y="700.0" type="line"/>
-      <point x="75.0" y="700.0" type="line"/>
-      <point x="75.0" y="518.0" type="line"/>
-      <point x="268.0" y="518.0" type="line"/>
-      <point x="268.0" y="182.0" type="line"/>
-      <point x="75.0" y="182.0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="677" y="0" type="line"/>
+      <point x="677" y="182" type="line"/>
+      <point x="484" y="182" type="line"/>
+      <point x="484" y="518" type="line"/>
+      <point x="677" y="518" type="line"/>
+      <point x="677" y="700" type="line"/>
+      <point x="75" y="700" type="line"/>
+      <point x="75" y="518" type="line"/>
+      <point x="268" y="518" type="line"/>
+      <point x="268" y="182" type="line"/>
+      <point x="75" y="182" type="line"/>
     </contour>
   </outline>
   <lib>

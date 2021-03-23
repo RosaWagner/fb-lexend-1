@@ -2,11 +2,11 @@
 <glyph name="odotbelow" format="2">
   <advance width="820"/>
   <unicode hex="1ECD"/>
-  <anchor x="410.0" y="-237.0" name="bottom"/>
-  <anchor x="410.0" y="268.0" name="center"/>
-  <anchor x="751.0" y="10.0" name="ogonek"/>
-  <anchor x="410.0" y="535.0" name="top"/>
-  <anchor x="800.0" y="535.0" name="topright"/>
+  <anchor x="410" y="-237" name="bottom"/>
+  <anchor x="410" y="268" name="center"/>
+  <anchor x="751" y="10" name="ogonek"/>
+  <anchor x="410" y="535" name="top"/>
+  <anchor x="800" y="535" name="topright"/>
   <outline>
     <component base="o"/>
     <component base="dotbelowcomb" xOffset="160"/>

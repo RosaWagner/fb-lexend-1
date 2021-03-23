@@ -2,16 +2,16 @@
 <glyph name="tbar" format="2">
   <advance width="549"/>
   <unicode hex="0167"/>
-  <anchor x="275.0" y="0" name="bottom"/>
-  <anchor x="275.0" y="268.0" name="center"/>
-  <anchor x="259.0" y="612.0" name="top"/>
-  <anchor x="375.0" y="860.0" name="topright"/>
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="275" y="268" name="center"/>
+  <anchor x="259" y="612" name="top"/>
+  <anchor x="375" y="860" name="topright"/>
   <outline>
     <contour>
-      <point x="26.0" y="180.0" type="line"/>
-      <point x="534.0" y="180.0" type="line"/>
-      <point x="534.0" y="316.0" type="line"/>
-      <point x="26.0" y="316.0" type="line"/>
+      <point x="26" y="180" type="line"/>
+      <point x="534" y="180" type="line"/>
+      <point x="534" y="316" type="line"/>
+      <point x="26" y="316" type="line"/>
     </contour>
     <component base="t"/>
   </outline>

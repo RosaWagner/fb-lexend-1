@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="figuredash" format="2">
-  <advance width="715"/>
+  <advance width="655"/>
   <unicode hex="2012"/>
   <outline>
-    <component base="endash" xOffset="1"/>
+    <component base="endash"/>
   </outline>
   <lib>
     <dict>

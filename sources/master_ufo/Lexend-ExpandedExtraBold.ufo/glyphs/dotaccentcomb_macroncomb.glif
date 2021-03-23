@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb_macroncomb" format="2">
-  <anchor x="250.0" y="525.0" name="_top"/>
-  <anchor x="250.0" y="985.0" name="top"/>
+  <anchor x="250" y="525" name="_top"/>
+  <anchor x="250" y="985" name="top"/>
   <outline>
     <component base="dotaccentcomb"/>
     <component base="macroncomb" yOffset="235"/>

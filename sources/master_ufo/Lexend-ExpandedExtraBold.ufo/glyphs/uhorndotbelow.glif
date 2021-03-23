@@ -2,8 +2,8 @@
 <glyph name="uhorndotbelow" format="2">
   <advance width="789"/>
   <unicode hex="1EF1"/>
-  <anchor x="395.0" y="-237.0" name="bottom"/>
-  <anchor x="395.0" y="535.0" name="top"/>
+  <anchor x="395" y="-237" name="bottom"/>
+  <anchor x="395" y="535" name="top"/>
   <outline>
     <component base="uhorn"/>
     <component base="dotbelowcomb" xOffset="145"/>

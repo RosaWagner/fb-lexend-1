@@ -2,8 +2,8 @@
 <glyph name="ohorndotbelow" format="2">
   <advance width="820"/>
   <unicode hex="1EE3"/>
-  <anchor x="410.0" y="-237.0" name="bottom"/>
-  <anchor x="410.0" y="535.0" name="top"/>
+  <anchor x="410" y="-237" name="bottom"/>
+  <anchor x="410" y="535" name="top"/>
   <outline>
     <component base="ohorn"/>
     <component base="dotbelowcomb" xOffset="160"/>

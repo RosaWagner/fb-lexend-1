@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblright" format="2">
-  <advance width="537"/>
+  <advance width="437"/>
   <unicode hex="201D"/>
   <outline>
     <component base="quoteright"/>
@@ -9,9 +9,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>quoteright</string>
+      <string>=|quoteleft</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>quoteright</string>
+      <string>=|quoteleft</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

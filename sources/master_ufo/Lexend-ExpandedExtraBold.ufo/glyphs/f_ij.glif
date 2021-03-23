@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_ij" format="2">
   <advance width="1238"/>
-  <anchor x="347.0" y="0" name="bottom_1"/>
-  <anchor x="1040.0" y="0" name="bottom_2"/>
-  <anchor x="693.5" y="0" name="caret_1"/>
-  <anchor x="347.0" y="740.0" name="top_1"/>
-  <anchor x="1040.0" y="740.0" name="top_2"/>
-  <anchor x="776.0" y="0" name="ogonek"/>
+  <anchor x="105" y="0" name="bottom_1"/>
+  <anchor x="665" y="0" name="bottom_2"/>
+  <anchor x="385" y="0" name="caret_1"/>
+  <anchor x="105" y="740" name="top_1"/>
+  <anchor x="665" y="740" name="top_2"/>
+  <anchor x="776" y="0" name="ogonek"/>
   <outline>
     <component base="f"/>
     <component base="ij" xOffset="533"/>

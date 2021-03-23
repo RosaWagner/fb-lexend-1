@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered.loclCAT.case" format="2">
-  <advance width="228"/>
   <outline>
-    <component base="periodcentered.case" yOffset="20"/>
+    <component base="periodcentered.case" xOffset="-254"/>
   </outline>
   <lib>
     <dict>

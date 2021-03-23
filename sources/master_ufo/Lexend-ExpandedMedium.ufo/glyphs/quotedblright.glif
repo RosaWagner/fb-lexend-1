@@ -9,9 +9,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>quoteright</string>
+      <string>=|quoteleft</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>quoteright</string>
+      <string>=|quoteleft</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

@@ -2,10 +2,10 @@
 <glyph name="Oogonek" format="2">
   <advance width="1118"/>
   <unicode hex="01EA"/>
-  <anchor x="559" y="700" name="top"/>
   <anchor x="559" y="0" name="bottom"/>
   <anchor x="559" y="350" name="center"/>
   <anchor x="696" y="0" name="ogonek"/>
+  <anchor x="559" y="700" name="top"/>
   <anchor x="100" y="700" name="topleft"/>
   <anchor x="662" y="700" name="topright"/>
   <outline>

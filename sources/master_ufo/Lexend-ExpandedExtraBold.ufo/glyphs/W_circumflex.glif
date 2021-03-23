@@ -2,8 +2,8 @@
 <glyph name="Wcircumflex" format="2">
   <advance width="1134"/>
   <unicode hex="0174"/>
-  <anchor x="567.0" y="0" name="bottom"/>
-  <anchor x="567.0" y="920.0" name="top"/>
+  <anchor x="567" y="0" name="bottom"/>
+  <anchor x="567" y="920" name="top"/>
   <outline>
     <component base="W"/>
     <component base="circumflexcomb.case" xOffset="317"/>

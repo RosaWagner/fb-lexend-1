@@ -2,12 +2,12 @@
 <glyph name="Ygrave" format="2">
   <advance width="870"/>
   <unicode hex="1EF2"/>
-  <anchor x="435.0" y="0" name="bottom"/>
-  <anchor x="455.0" y="920.0" name="top"/>
-  <anchor x="20.0" y="700.0" name="topleft"/>
+  <anchor x="435" y="0" name="bottom"/>
+  <anchor x="445" y="920" name="top"/>
+  <anchor x="20" y="700" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="gravecomb.case" xOffset="208"/>
+    <component base="gravecomb.case" xOffset="198"/>
   </outline>
   <lib>
     <dict>

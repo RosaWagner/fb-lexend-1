@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb_acutecomb.case" format="2">
-  <anchor x="250.0" y="700.0" name="_top"/>
-  <anchor x="240.0" y="1140.0" name="top"/>
+  <anchor x="250" y="700" name="_top"/>
+  <anchor x="250" y="1140" name="top"/>
   <outline>
     <component base="tildecomb.case" xOffset="-1"/>
-    <component base="acutecomb.case" xOffset="-13" yOffset="220"/>
+    <component base="acutecomb.case" xOffset="-3" yOffset="220"/>
   </outline>
   <lib>
     <dict>

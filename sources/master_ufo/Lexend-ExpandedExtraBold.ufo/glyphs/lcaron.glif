@@ -2,13 +2,13 @@
 <glyph name="lcaron" format="2">
   <advance width="503"/>
   <unicode hex="013E"/>
-  <anchor x="172.0" y="0" name="bottom"/>
-  <anchor x="172.0" y="370.0" name="center"/>
-  <anchor x="172.0" y="740.0" name="top"/>
-  <anchor x="342.0" y="740.0" name="topright"/>
+  <anchor x="172" y="0" name="bottom"/>
+  <anchor x="172" y="370" name="center"/>
+  <anchor x="172" y="740" name="top"/>
+  <anchor x="342" y="740" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="caroncomb.alt" xOffset="223" yOffset="20"/>
+    <component base="caroncomb.alt" xOffset="223" yOffset="44"/>
   </outline>
   <lib>
     <dict>
