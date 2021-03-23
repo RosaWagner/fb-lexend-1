@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.ss01" format="2">
+	<advance width="714"/>
+	<anchor x="357" y="0" name="bottom"/>
+	<anchor x="531" y="700" name="top"/>
+	<outline>
+		<contour>
+			<point x="321" y="-10" type="curve" smooth="yes"/>
+			<point x="522.333" y="-10"/>
+			<point x="634" y="113"/>
+			<point x="634" y="273" type="curve" smooth="yes"/>
+			<point x="634" y="700" type="line"/>
+			<point x="426" y="700" type="line"/>
+			<point x="426" y="296" type="line" smooth="yes"/>
+			<point x="426" y="224"/>
+			<point x="374.333" y="169"/>
+			<point x="297" y="169" type="curve" smooth="yes"/>
+			<point x="206.333" y="169"/>
+			<point x="162.333" y="242"/>
+			<point x="149" y="262" type="curve"/>
+			<point x="20" y="131" type="line"/>
+			<point x="37.333" y="105.667"/>
+			<point x="121" y="-10"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0,0.67,0.91,1</string>
+		</dict>
+	</lib>
+</glyph>
