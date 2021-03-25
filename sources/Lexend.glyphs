@@ -1,5 +1,8 @@
 {
-.appVersion = "3074";
+.appVersion = "3075";
+DisplayStrings = (
+"/florin"
+);
 classes = (
 {
 automatic = 1;
@@ -150911,10 +150914,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"440 361 LINE",
 "440 444 LINE",
 "71 445 LINE",
-"71 362 LINE",
-"440 361 LINE"
+"71 362 LINE"
 );
 }
 );
@@ -150959,10 +150962,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"496 271 LINE",
 "496 434 LINE",
 "97 435 LINE",
-"97 272 LINE",
-"496 271 LINE"
+"97 272 LINE"
 );
 }
 );
@@ -151007,10 +151010,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"590 346 LINE",
 "590 444 LINE",
 "101 445 LINE",
-"101 347 LINE",
-"590 346 LINE"
+"101 347 LINE"
 );
 }
 );
@@ -151199,10 +151202,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"666 346 LINE",
 "666 444 LINE",
 "177 445 LINE",
-"177 347 LINE",
-"666 346 LINE"
+"177 347 LINE"
 );
 }
 );
@@ -151343,10 +151346,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"516 361 LINE",
 "516 444 LINE",
 "147 445 LINE",
-"147 362 LINE",
-"516 361 LINE"
+"147 362 LINE"
 );
 }
 );
@@ -151391,10 +151394,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"646 256 LINE",
 "646 434 LINE",
 "127 435 LINE",
-"127 257 LINE",
-"646 256 LINE"
+"127 257 LINE"
 );
 }
 );
@@ -233360,5 +233363,5 @@ zero.zero
 };
 };
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
