@@ -1,0 +1,96 @@
+    sources:
+      - Lexend.glyphs
+    familyName: Lexend
+    ttfDir: ../fonts/7families
+    buildOTF: False
+    buildWebfont: False
+    cleanUp: False
+    axisOrder:
+      - SPAC
+      - wdth
+      - wght
+    stat:
+      - name: Spacing
+        tag: SPAC
+        values:
+        - name: Normal
+          value: 100
+          flags: 2
+        - name: Loose
+          value: 150
+      - name: Width
+        tag: wdth
+        values:
+        - name: Normal
+          value: 100
+        - name: SemiExpanded
+          value: 112.5
+        - name: Expanded
+          value: 125
+      - name: Weight
+        tag: wght
+        values:
+        - name: Thin
+          value: 100
+        - name: ExtraLight
+          value: 200
+        - name: Light
+          value: 300
+        - name: Regular
+          value: 400
+          linkedValue: 700
+          flags: 2
+        - name: Medium
+          value: 500
+        - name: SemiBold
+          value: 600
+        - name: Bold
+          value: 700
+        - name: ExtraBold
+          value: 800
+    instances:
+      Lexend[SPAC,wdth,wght].ttf:
+      - familyName: "Lexend Deca"
+        styleName: "Regular"
+        coordinates:
+          wght: 500
+          wdth: 100
+          SPAC: 100
+      - familyName: "Lexend Exa"
+        styleName: "Regular"
+        coordinates:
+          wght: 500
+          wdth: 110
+          SPAC: 120
+      - familyName: "Lexend Giga"
+        styleName: "Regular"
+        coordinates:
+          wght: 500
+          wdth: 113
+          SPAC: 129.5
+      - familyName: "Lexend Mega"
+        styleName: "Regular"
+        coordinates:
+          wght: 500
+          wdth: 116
+          SPAC: 132
+      - familyName: "Lexend Peta"
+        styleName: "Regular"
+        coordinates:
+          wght: 500
+          wdth: 118.4
+          SPAC: 135.8
+      - familyName: "Lexend Tera"
+        styleName: "Regular"
+        coordinates:
+          wght: 500
+          wdth: 120.4
+          SPAC: 139.8
+      - familyName: "Lexend Zetta"
+        styleName: "Regular"
+        coordinates:
+          wght: 500
+          wdth: 125
+          SPAC: 150
+      
+          
