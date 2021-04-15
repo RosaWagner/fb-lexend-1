@@ -1,7 +1,7 @@
     sources:
       - Lexend.glyphs
     familyName: Lexend
-    ttfDir: ../fonts/7families
+    ttDir: ../fonts/7families
     buildOTF: False
     buildWebfont: False
     cleanUp: False
@@ -66,8 +66,8 @@
         styleName: "Regular"
         coordinates:
           wght: 500
-          wdth: 113
-          SPAC: 129.5
+          wdth: 114.5
+          SPAC: 127
       - familyName: "Lexend Mega"
         styleName: "Regular"
         coordinates:
@@ -78,14 +78,14 @@
         styleName: "Regular"
         coordinates:
           wght: 500
-          wdth: 118.4
-          SPAC: 135.8
+          wdth: 118.7
+          SPAC: 134.8
       - familyName: "Lexend Tera"
         styleName: "Regular"
         coordinates:
           wght: 500
-          wdth: 120.4
-          SPAC: 139.8
+          wdth: 120.3
+          SPAC: 139.5
       - familyName: "Lexend Zetta"
         styleName: "Regular"
         coordinates:
