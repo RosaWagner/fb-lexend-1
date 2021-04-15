@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance width="696.3333333333334"/>
+  <unicode hex="20B5"/>
+  <anchor x="400.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="414.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="339.6666666666667" y="-93.66666666666667" type="line"/>
+      <point x="466.6666666666667" y="-93.66666666666667" type="line"/>
+      <point x="466.6666666666667" y="11.666666666666668" type="line"/>
+      <point x="443.3333333333333" y="52.0" type="line"/>
+      <point x="443.3333333333333" y="645.3333333333334" type="line"/>
+      <point x="466.6666666666667" y="694.6666666666666" type="line"/>
+      <point x="466.6666666666667" y="796.6666666666666" type="line"/>
+      <point x="339.6666666666667" y="796.6666666666666" type="line"/>
+      <point x="339.6666666666667" y="693.0" type="line"/>
+      <point x="365.6666666666667" y="643.6666666666666" type="line"/>
+      <point x="365.6666666666667" y="55.0" type="line"/>
+      <point x="339.6666666666667" y="11.333333333333334" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

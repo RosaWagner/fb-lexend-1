@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <anchor x="251" y="700" name="_top"/>
+  <anchor x="251" y="850" name="top"/>
+  <outline>
+    <contour>
+      <point x="325" y="768" type="curve" smooth="yes"/>
+      <point x="387" y="768"/>
+      <point x="425" y="822"/>
+      <point x="425" y="881" type="curve"/>
+      <point x="349" y="881" type="line"/>
+      <point x="350" y="859"/>
+      <point x="339" y="845"/>
+      <point x="320" y="845" type="curve" smooth="yes"/>
+      <point x="308" y="845"/>
+      <point x="289" y="851"/>
+      <point x="270" y="859" type="curve" smooth="yes"/>
+      <point x="245" y="869"/>
+      <point x="218" y="881"/>
+      <point x="190" y="881" type="curve" smooth="yes"/>
+      <point x="131" y="881"/>
+      <point x="76" y="840"/>
+      <point x="76" y="768" type="curve"/>
+      <point x="153" y="768" type="line"/>
+      <point x="153" y="793"/>
+      <point x="165" y="806"/>
+      <point x="183" y="806" type="curve" smooth="yes"/>
+      <point x="196" y="806"/>
+      <point x="211" y="800"/>
+      <point x="234" y="791" type="curve" smooth="yes"/>
+      <point x="262" y="780"/>
+      <point x="294" y="768"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.dnom" format="2">
+  <advance width="333"/>
+  <outline>
+    <contour>
+      <point x="151" y="-10" type="curve" smooth="yes"/>
+      <point x="250.543" y="-10"/>
+      <point x="285" y="87.333"/>
+      <point x="285" y="218" type="curve" smooth="yes"/>
+      <point x="285" y="299.333"/>
+      <point x="243.249" y="358"/>
+      <point x="165" y="358" type="curve" smooth="yes"/>
+      <point x="102.353" y="358"/>
+      <point x="48" y="307.621"/>
+      <point x="48" y="240" type="curve" smooth="yes"/>
+      <point x="48" y="177.951"/>
+      <point x="97.339" y="123"/>
+      <point x="165" y="123" type="curve" smooth="yes"/>
+      <point x="215.747" y="123"/>
+      <point x="256.104" y="152"/>
+      <point x="273" y="208" type="curve"/>
+      <point x="264" y="197" type="line"/>
+      <point x="258.348" y="82.353"/>
+      <point x="226.437" y="12"/>
+      <point x="154" y="12" type="curve" smooth="yes"/>
+      <point x="121.084" y="12"/>
+      <point x="93.931" y="24.383"/>
+      <point x="76" y="37" type="curve"/>
+      <point x="66" y="18" type="line"/>
+      <point x="92.268" y="-0.249"/>
+      <point x="117.169" y="-10"/>
+    </contour>
+    <contour>
+      <point x="166" y="144" type="curve" smooth="yes"/>
+      <point x="111.811" y="144"/>
+      <point x="69" y="187.667"/>
+      <point x="69" y="241" type="curve" smooth="yes"/>
+      <point x="69" y="295.667"/>
+      <point x="114.139" y="337"/>
+      <point x="166" y="337" type="curve" smooth="yes"/>
+      <point x="219.512" y="337"/>
+      <point x="261" y="294.175"/>
+      <point x="261" y="241" type="curve" smooth="yes"/>
+      <point x="261" y="189.139"/>
+      <point x="220.169" y="144"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

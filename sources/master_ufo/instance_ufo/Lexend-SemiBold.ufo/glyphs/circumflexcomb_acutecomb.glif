@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_acutecomb" format="2">
+  <anchor x="183.33333333333334" y="525.0" name="_top"/>
+  <anchor x="184.0" y="796.6666666666666" name="top"/>
+  <outline>
+    <contour>
+      <point x="56.0" y="600.3333333333334" type="line"/>
+      <point x="198.33333333333334" y="670.6666666666666" type="line"/>
+      <point x="168.33333333333334" y="670.6666666666666" type="line"/>
+      <point x="310.6666666666667" y="600.3333333333334" type="line"/>
+      <point x="354.0" y="645.3333333333334" type="line"/>
+      <point x="229.0" y="755.3333333333334" type="line"/>
+      <point x="137.66666666666666" y="755.3333333333334" type="line"/>
+      <point x="12.666666666666668" y="645.3333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="365.3333333333333" y="747.0" type="line"/>
+      <point x="490.6666666666667" y="877.0" type="line"/>
+      <point x="396.0" y="944.6666666666666" type="line"/>
+      <point x="306.6666666666667" y="788.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

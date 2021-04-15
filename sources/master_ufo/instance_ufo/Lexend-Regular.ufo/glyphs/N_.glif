@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="787.0"/>
+  <unicode hex="004E"/>
+  <anchor x="394.0" y="0.0" name="bottom"/>
+  <anchor x="394.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="103.0" y="0.0" type="line"/>
+      <point x="182.0" y="0.0" type="line"/>
+      <point x="182.0" y="317.5" type="line" smooth="yes"/>
+      <point x="182.0" y="346.5845"/>
+      <point x="178.131" y="483.769"/>
+      <point x="168.0" y="617.5" type="curve"/>
+      <point x="155.5" y="596.5" type="line"/>
+      <point x="610.5" y="0.0" type="line"/>
+      <point x="684.0" y="0.0" type="line"/>
+      <point x="684.0" y="700.0" type="line"/>
+      <point x="605.0" y="700.0" type="line"/>
+      <point x="605.0" y="443.5" type="line" smooth="yes"/>
+      <point x="605.3335" y="331.5"/>
+      <point x="609.5" y="132.83350000000002"/>
+      <point x="617.5" y="77.5" type="curve"/>
+      <point x="631.5" y="95.0" type="line"/>
+      <point x="174.5" y="700.0" type="line"/>
+      <point x="103.0" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

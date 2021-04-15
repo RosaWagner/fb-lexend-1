@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero" format="2">
+  <advance width="835"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="422" y="-10" type="curve" smooth="yes"/>
+      <point x="672.667" y="-10"/>
+      <point x="800" y="132.666"/>
+      <point x="800" y="350" type="curve" smooth="yes"/>
+      <point x="800" y="567.334"/>
+      <point x="672.667" y="710"/>
+      <point x="422" y="710" type="curve" smooth="yes"/>
+      <point x="166" y="710"/>
+      <point x="35" y="567.334"/>
+      <point x="35" y="350" type="curve" smooth="yes"/>
+      <point x="35" y="132.666"/>
+      <point x="166" y="-10"/>
+    </contour>
+    <contour>
+      <point x="422" y="168" type="curve" smooth="yes"/>
+      <point x="307.333" y="168"/>
+      <point x="239" y="232.667"/>
+      <point x="239" y="350" type="curve" smooth="yes"/>
+      <point x="239" y="474"/>
+      <point x="307.333" y="542"/>
+      <point x="422" y="542" type="curve" smooth="yes"/>
+      <point x="531.334" y="542"/>
+      <point x="595" y="474"/>
+      <point x="595" y="350" type="curve" smooth="yes"/>
+      <point x="595" y="232.667"/>
+      <point x="531.334" y="168"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

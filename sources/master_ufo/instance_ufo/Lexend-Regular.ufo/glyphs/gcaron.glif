@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcaron" format="2">
+  <advance width="629.5"/>
+  <unicode hex="01E7"/>
+  <anchor x="315.0" y="-230.0" name="bottom"/>
+  <anchor x="315.0" y="702.5" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="caroncomb" xOffset="65.0" yOffset="-2.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

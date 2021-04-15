@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w" format="2">
+  <advance width="859"/>
+  <unicode hex="0077"/>
+  <anchor x="430" y="0" name="bottom"/>
+  <anchor x="430" y="535" name="top"/>
+  <outline>
+    <contour>
+      <point x="177" y="0" type="line"/>
+      <point x="331" y="0" type="line"/>
+      <point x="429" y="248" type="line"/>
+      <point x="425" y="248" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="671" y="0" type="line"/>
+      <point x="854" y="535" type="line"/>
+      <point x="638" y="535" type="line"/>
+      <point x="562" y="227" type="line"/>
+      <point x="582" y="230" type="line"/>
+      <point x="484" y="470" type="line"/>
+      <point x="366" y="470" type="line"/>
+      <point x="278" y="230" type="line"/>
+      <point x="298" y="226" type="line"/>
+      <point x="221" y="535" type="line"/>
+      <point x="5" y="535" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>v</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

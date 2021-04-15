@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dz" format="2">
+  <advance width="1335.6666666666667"/>
+  <unicode hex="01F2"/>
+  <anchor x="388.0" y="0.0" name="bottom_1"/>
+  <anchor x="1055.6666666666667" y="0.0" name="bottom_2"/>
+  <anchor x="202.0" y="350.0" name="center_1"/>
+  <anchor x="1055.6666666666667" y="266.3333333333333" name="center_2"/>
+  <anchor x="388.0" y="700.0" name="top_1"/>
+  <anchor x="1055.6666666666667" y="531.6666666666666" name="top_2"/>
+  <outline>
+    <component base="D"/>
+    <component base="z" xOffset="775.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

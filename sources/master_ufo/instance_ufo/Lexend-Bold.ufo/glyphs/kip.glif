@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="767.0"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="243.0" y="210.0" type="line"/>
+      <point x="747.3333333333334" y="700.0" type="line"/>
+      <point x="539.3333333333334" y="700.0" type="line"/>
+      <point x="195.0" y="357.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="30.0" y="342.6666666666667" type="line"/>
+      <point x="205.66666666666666" y="342.6666666666667" type="line"/>
+      <point x="209.66666666666666" y="414.3333333333333" type="line"/>
+      <point x="30.0" y="414.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="113.0" y="0.0" type="line"/>
+      <point x="293.0" y="0.0" type="line"/>
+      <point x="293.0" y="700.0" type="line"/>
+      <point x="113.0" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="560.3333333333334" y="0.0" type="line"/>
+      <point x="768.6666666666666" y="0.0" type="line"/>
+      <point x="421.6666666666667" y="450.3333333333333" type="line"/>
+      <point x="301.6666666666667" y="346.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="383.6666666666667" y="342.6666666666667" type="line"/>
+      <point x="672.0" y="342.6666666666667" type="line"/>
+      <point x="672.0" y="414.3333333333333" type="line"/>
+      <point x="383.6666666666667" y="414.3333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>K</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

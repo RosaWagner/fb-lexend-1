@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="2">
+  <advance width="530"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="129" y="-186" type="line"/>
+      <point x="292" y="-85"/>
+      <point x="380" y="73"/>
+      <point x="380" y="258" type="curve" smooth="yes"/>
+      <point x="380" y="445"/>
+      <point x="293" y="601"/>
+      <point x="130" y="702" type="curve"/>
+      <point x="115" y="685" type="line"/>
+      <point x="283" y="574"/>
+      <point x="357" y="431"/>
+      <point x="357" y="258" type="curve" smooth="yes"/>
+      <point x="357" y="82"/>
+      <point x="276" y="-64"/>
+      <point x="115" y="-169" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|parenleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|parenleft</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="710.6666666666666"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="367.6666666666667" y="0.0" type="line"/>
+      <point x="487.3333333333333" y="0.0" type="line"/>
+      <point x="607.3333333333334" y="700.0" type="line"/>
+      <point x="487.6666666666667" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="40.666666666666664" y="159.66666666666666" type="line"/>
+      <point x="633.0" y="159.66666666666666" type="line"/>
+      <point x="633.0" y="269.3333333333333" type="line"/>
+      <point x="40.666666666666664" y="269.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="104.0" y="0.0" type="line"/>
+      <point x="223.66666666666666" y="0.0" type="line"/>
+      <point x="343.6666666666667" y="700.0" type="line"/>
+      <point x="224.0" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="78.66666666666667" y="439.6666666666667" type="line"/>
+      <point x="670.0" y="439.6666666666667" type="line"/>
+      <point x="670.0" y="549.3333333333334" type="line"/>
+      <point x="78.66666666666667" y="549.3333333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
