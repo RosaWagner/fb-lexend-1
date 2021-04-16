@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat" format="2">
+  <advance width="756.5"/>
+  <unicode hex="20BC"/>
+  <outline>
+    <contour>
+      <point x="103.0" y="0.0" type="line"/>
+      <point x="179.0" y="0.0" type="line"/>
+      <point x="179.0" y="423.0" type="line" smooth="yes"/>
+      <point x="179.0" y="541.6665"/>
+      <point x="264.8335" y="630.0"/>
+      <point x="379.5" y="630.0" type="curve" smooth="yes"/>
+      <point x="489.5" y="630.0"/>
+      <point x="574.5" y="541.6665"/>
+      <point x="574.5" y="423.0" type="curve" smooth="yes"/>
+      <point x="574.5" y="0.0" type="line"/>
+      <point x="653.5" y="0.0" type="line"/>
+      <point x="653.5" y="432.0" type="line" smooth="yes"/>
+      <point x="653.5" y="591.3335"/>
+      <point x="538.167" y="707.0"/>
+      <point x="379.5" y="707.0" type="curve" smooth="yes"/>
+      <point x="219.5" y="707.0"/>
+      <point x="103.0" y="591.3335"/>
+      <point x="103.0" y="432.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="341.0" y="254.0" type="line"/>
+      <point x="414.5" y="254.0" type="line"/>
+      <point x="414.5" y="801.0" type="line"/>
+      <point x="341.0" y="801.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

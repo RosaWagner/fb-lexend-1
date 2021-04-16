@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance width="705"/>
+  <unicode hex="20B5"/>
+  <anchor x="413" y="0" name="bottom"/>
+  <anchor x="426" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="349" y="-100" type="line"/>
+      <point x="486" y="-100" type="line"/>
+      <point x="486" y="7" type="line"/>
+      <point x="456" y="45" type="line"/>
+      <point x="456" y="647" type="line"/>
+      <point x="486" y="702" type="line"/>
+      <point x="486" y="807" type="line"/>
+      <point x="349" y="807" type="line"/>
+      <point x="349" y="703" type="line"/>
+      <point x="386" y="647" type="line"/>
+      <point x="386" y="46" type="line"/>
+      <point x="349" y="8" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,13 +2,13 @@
 <glyph name="iogonek" format="2">
   <advance width="243"/>
   <unicode hex="012F"/>
-  <anchor x="122" y="0" name="bottom"/>
-  <anchor x="175" y="0" name="ogonek"/>
-  <anchor x="122" y="710" name="top"/>
+  <anchor x="120" y="0" name="bottom"/>
+  <anchor x="173" y="0" name="ogonek"/>
+  <anchor x="120" y="710" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="-128"/>
-    <component base="ogonekcomb" xOffset="-165"/>
+    <component base="dotaccentcomb" xOffset="-130"/>
+    <component base="ogonekcomb" xOffset="-167"/>
   </outline>
   <lib>
     <dict>

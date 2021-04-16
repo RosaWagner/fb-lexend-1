@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi" format="2">
-  <advance width="859"/>
+  <advance width="883"/>
   <unicode hex="FB01"/>
   <anchor x="252" y="0" name="caret_1"/>
   <anchor x="267" y="0" name="bottom_1"/>
-  <anchor x="694" y="0" name="bottom_2"/>
-  <anchor x="776" y="0" name="ogonek"/>
+  <anchor x="708" y="0" name="bottom_2"/>
+  <anchor x="790" y="0" name="ogonek"/>
   <anchor x="267" y="740" name="top_1"/>
-  <anchor x="694" y="760" name="top_2"/>
+  <anchor x="708" y="760" name="top_2"/>
   <outline>
     <component base="f"/>
     <component base="i" xOffset="533"/>

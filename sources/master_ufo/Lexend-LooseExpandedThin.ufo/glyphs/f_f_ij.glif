@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_ij" format="2">
-  <advance width="2336"/>
+  <advance width="2370"/>
   <anchor x="217" y="0" name="bottom_1"/>
   <anchor x="662" y="0" name="bottom_2"/>
   <anchor x="1107" y="0" name="bottom_3"/>
@@ -9,7 +9,7 @@
   <anchor x="217" y="740" name="top_1"/>
   <anchor x="662" y="740" name="top_2"/>
   <anchor x="1107" y="740" name="top_3"/>
-  <anchor x="1574" y="0" name="ogonek"/>
+  <anchor x="1591" y="0" name="ogonek"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="677"/>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb_dotaccentcomb" format="2">
+  <anchor x="250.0" y="525.0" name="_top"/>
+  <anchor x="250.0" y="790.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="213.0" y="606.5" type="line"/>
+      <point x="287.0" y="606.5" type="line"/>
+      <point x="394.0" y="713.5" type="line"/>
+      <point x="361.0" y="742.5" type="line"/>
+      <point x="235.0" y="657.5" type="line"/>
+      <point x="265.0" y="657.5" type="line"/>
+      <point x="139.0" y="742.5" type="line"/>
+      <point x="106.0" y="713.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="250.0" y="755.0" type="curve" smooth="yes"/>
+      <point x="286.0" y="755.0"/>
+      <point x="307.5" y="777.0"/>
+      <point x="307.5" y="810.0" type="curve" smooth="yes"/>
+      <point x="307.5" y="844.5"/>
+      <point x="286.5" y="865.0"/>
+      <point x="250.0" y="865.0" type="curve" smooth="yes"/>
+      <point x="213.5" y="865.0"/>
+      <point x="192.5" y="843.0"/>
+      <point x="192.5" y="810.0" type="curve" smooth="yes"/>
+      <point x="192.5" y="775.5"/>
+      <point x="213.0" y="755.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

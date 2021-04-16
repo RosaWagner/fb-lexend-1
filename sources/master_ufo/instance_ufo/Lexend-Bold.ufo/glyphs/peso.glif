@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="777.0"/>
+  <unicode hex="20B1"/>
+  <anchor x="381.0" y="0.0" name="bottom"/>
+  <anchor x="381.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="46.0" y="496.0" type="line"/>
+      <point x="145.33333333333334" y="496.0" type="line"/>
+      <point x="174.0" y="523.3333333333334" type="line"/>
+      <point x="526.3333333333334" y="523.3333333333334" type="line"/>
+      <point x="565.6666666666666" y="496.0" type="line"/>
+      <point x="743.0" y="496.0" type="line"/>
+      <point x="743.0" y="569.3333333333334" type="line"/>
+      <point x="567.3333333333334" y="569.3333333333334" type="line"/>
+      <point x="527.0" y="560.0" type="line"/>
+      <point x="178.33333333333334" y="560.0" type="line"/>
+      <point x="148.33333333333334" y="569.3333333333334" type="line"/>
+      <point x="46.0" y="569.3333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="46.0" y="355.0" type="line"/>
+      <point x="145.0" y="355.0" type="line"/>
+      <point x="173.0" y="364.3333333333333" type="line"/>
+      <point x="539.0" y="364.3333333333333" type="line"/>
+      <point x="577.0" y="355.0" type="line"/>
+      <point x="743.0" y="355.0" type="line"/>
+      <point x="743.0" y="429.0" type="line"/>
+      <point x="582.0" y="429.0" type="line"/>
+      <point x="542.3333333333334" y="401.0" type="line"/>
+      <point x="177.66666666666669" y="401.0" type="line"/>
+      <point x="147.33333333333334" y="429.0" type="line"/>
+      <point x="46.0" y="429.0" type="line"/>
+    </contour>
+    <component base="P" xOffset="47.333333333333336"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>peseta</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>peseta</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

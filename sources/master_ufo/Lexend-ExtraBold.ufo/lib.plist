@@ -24,7 +24,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3075</string>
+    <string>3078</string>
     <key>com.schriftgestaltung.customName</key>
     <string>Extra</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
@@ -86,10 +86,6 @@
         <integer>216</integer>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <array>
-      <string>/florin</string>
-    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.EditView Line Height</key>
     <integer>1250</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Variable Font Origin</key>
@@ -1114,9 +1110,9 @@
       <key>Iinvertedbreve.ss01</key>
       <string>uni020A.ss01</string>
       <key>Jacute</key>
-      <string>uni00A40301</string>
+      <string>uni004A0301</string>
       <key>Jacute.loclNLD</key>
-      <string>uni00A40301.loclNLD</string>
+      <string>uni004A0301.loclNLD</string>
       <key>Kcommaaccent</key>
       <string>uni0136</string>
       <key>LJ</key>

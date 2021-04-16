@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="608.5"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="307.5" y="-10.0" type="curve" smooth="yes"/>
+      <point x="455.5" y="-10.0"/>
+      <point x="554.5" y="74.3335"/>
+      <point x="554.5" y="197.0" type="curve" smooth="yes"/>
+      <point x="554.5" y="301.0"/>
+      <point x="469.667" y="360.16650000000004"/>
+      <point x="329.0" y="393.5" type="curve" smooth="yes"/>
+      <point x="209.0" y="422.16650000000004"/>
+      <point x="165.5" y="453.5"/>
+      <point x="165.5" y="517.5" type="curve" smooth="yes"/>
+      <point x="165.5" y="586.1665"/>
+      <point x="227.33350000000002" y="634.0"/>
+      <point x="314.0" y="634.0" type="curve" smooth="yes"/>
+      <point x="390.0" y="634.0"/>
+      <point x="449.16650000000004" y="596.6665"/>
+      <point x="488.5" y="538.0" type="curve"/>
+      <point x="545.0" y="593.5" type="line"/>
+      <point x="499.6665" y="663.5"/>
+      <point x="423.5" y="707.5"/>
+      <point x="315.5" y="707.5" type="curve" smooth="yes"/>
+      <point x="186.16649999999998" y="707.5"/>
+      <point x="86.0" y="627.1665"/>
+      <point x="86.0" y="516.5" type="curve" smooth="yes"/>
+      <point x="86.0" y="406.5"/>
+      <point x="157.16649999999998" y="346.0"/>
+      <point x="294.5" y="316.0" type="curve" smooth="yes"/>
+      <point x="415.16650000000004" y="289.33349999999996"/>
+      <point x="475.0" y="256.1665"/>
+      <point x="475.0" y="181.5" type="curve" smooth="yes"/>
+      <point x="475.0" y="112.833"/>
+      <point x="405.33349999999996" y="63.5"/>
+      <point x="314.0" y="63.5" type="curve" smooth="yes"/>
+      <point x="226.66649999999998" y="63.5"/>
+      <point x="166.333" y="99.0"/>
+      <point x="107.0" y="175.0" type="curve"/>
+      <point x="51.5" y="114.5" type="line"/>
+      <point x="109.28399999999999" y="37.29"/>
+      <point x="200.15" y="-10.0"/>
+    </contour>
+    <contour>
+      <point x="265.0" y="-91.0" type="line"/>
+      <point x="338.0" y="-91.0" type="line"/>
+      <point x="338.0" y="330.0" type="line"/>
+      <point x="265.0" y="363.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="360.0" y="330.0" type="line"/>
+      <point x="360.0" y="782.0" type="line"/>
+      <point x="287.0" y="782.0" type="line"/>
+      <point x="287.0" y="363.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>S</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
